@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Private Brain
         uses: actions/checkout@v4
         with:
-          repository: jenadoe/kalshi-core # [수정] 본인 저장소명
+          repository: bohmec/kalshi-core # [수정] 본인 저장소명
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
@@ -41,4 +41,5 @@ jobs:
         with:
           name: nexus-data
           path: private-brain/data_output/
+
           retention-days: 1
