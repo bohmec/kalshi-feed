@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Private Brain
         uses: actions/checkout@v4
         with:
-          repository: bohmec/kalshi-feed # [본인 ID 확인]
+          repository: bohmec/kalshi-core # [본인 ID 확인]
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
@@ -40,3 +40,4 @@ jobs:
           path: private-brain/data_output/
 
           retention-days: 1
+
