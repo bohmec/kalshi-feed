@@ -1,9 +1,9 @@
-name: 1. Calculate & Analyze
+name: 1. Calculate & Analyze (Kalshi)
 
 on:
   schedule:
-    # [변경] 15분마다 실행 (데이터 부하 관리 및 안정성 확보)
-   # - cron: '*/15 * * * *'
+    # Polymarket과 5분 시차 (05, 20, 35, 50분)
+    - cron: '5-59/15 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Private Brain
         uses: actions/checkout@v4
         with:
-          repository: bohmec/kalshi-core # [본인 ID 확인]
+          repository: jenadoe/kalshi-core # [수정] 본인 저장소명
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
@@ -30,19 +30,15 @@ jobs:
 
       - name: Run Engine
         env:
-          # [필수] 여기서 Secrets를 환경변수로 주입
           KALSHI_KEY_ID: ${{ secrets.KALSHI_KEY_ID }}
           KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
         run: |
           cd private-brain
           python main.py
-          
+
       - name: Upload Results
         uses: actions/upload-artifact@v4
         with:
           name: nexus-data
           path: private-brain/data_output/
-
           retention-days: 1
-
-
