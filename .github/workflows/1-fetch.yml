@@ -29,10 +29,14 @@ jobs:
         run: pip install -r private-brain/requirements.txt
 
       - name: Run Engine
+        env:
+          # [필수] 여기서 Secrets를 환경변수로 주입
+          KALSHI_KEY_ID: ${{ secrets.KALSHI_KEY_ID }}
+          KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
         run: |
           cd private-brain
           python main.py
-
+          
       - name: Upload Results
         uses: actions/upload-artifact@v4
         with:
