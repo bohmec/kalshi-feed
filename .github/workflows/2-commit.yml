@@ -23,13 +23,13 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       # ---------------------------------------------------
-      # [Mission 1] Private Repo 업데이트 (poly-core)
+      # [Mission 1] Private Repo 업데이트 (kalshi-core)
       # 목표: 모든 데이터 자산(Full Data) 저장
       # ---------------------------------------------------
       - name: Checkout Private Brain
         uses: actions/checkout@v4
         with:
-          repository: jenadoe/poly-core
+          repository: bohmec/kalshi-core
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
@@ -136,4 +136,5 @@ jobs:
           else
             git commit -m "📢 Update Dashboard Summary [$(date)]"
             git push
+
           fi
