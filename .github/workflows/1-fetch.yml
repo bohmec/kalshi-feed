@@ -3,7 +3,7 @@ name: 1. Calculate & Analyze
 on:
   schedule:
     # [변경] 15분마다 실행 (데이터 부하 관리 및 안정성 확보)
-    - cron: '*/15 * * * *'
+   # - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -44,4 +44,5 @@ jobs:
           path: private-brain/data_output/
 
           retention-days: 1
+
 
