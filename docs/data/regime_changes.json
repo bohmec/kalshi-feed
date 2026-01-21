@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-01-21T16:02:50.497551Z",
+    "market_id": "KXPERFORMBONDSONG-35",
+    "question": "Who will perform the next James Bond theme?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Overheated | Forming | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 43.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-21T16:02:50.497551Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Forming",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 51.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-21T14:00:16.505788Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
