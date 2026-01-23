@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-23T17:49:26.542562Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 57.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-23T15:54:10.906283Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 54.0,
       "macro_sensitivity": 0.91
-    }
-  },
-  {
-    "timestamp": "2026-01-20T21:39:18.961348Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Dormant",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 45.4,
-      "macro_sensitivity": 0.37
     }
   }
 ]
