@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-23T13:55:38.242832Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 54.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-23T11:41:49.664040Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 61.6,
       "macro_sensitivity": 0.03
-    }
-  },
-  {
-    "timestamp": "2026-01-20T11:45:30.989773Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 61.9,
-      "macro_sensitivity": -0.02
     }
   }
 ]
