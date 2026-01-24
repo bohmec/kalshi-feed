@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-24T03:53:13.647292Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Dormant",
+    "to_regime": "Overheated | Scatter | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 32.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-23T19:55:14.256691Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 53.8,
       "macro_sensitivity": -5.0
-    }
-  },
-  {
-    "timestamp": "2026-01-21T08:00:09.730176Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated | Scatter | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 39.9,
-      "macro_sensitivity": 0.76
     }
   }
 ]
