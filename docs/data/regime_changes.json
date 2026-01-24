@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-24T06:57:33.076066Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Overheated | Scatter | High-Conflict",
+    "to_regime": "Overheated | Forming | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 33.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-24T03:53:13.647292Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -535,17 +546,6 @@
     "to_regime": "Scatter",
     "metrics_snapshot": {
       "nexus_score": 46.3,
-      "macro_sensitivity": -5.0
-    }
-  },
-  {
-    "timestamp": "2026-01-21T09:03:00.546521Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 53.8,
       "macro_sensitivity": -5.0
     }
   }
