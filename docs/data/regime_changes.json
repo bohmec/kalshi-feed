@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-24T18:56:02.107357Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 44.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-24T07:54:42.937540Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 48.4,
       "macro_sensitivity": -5.0
-    }
-  },
-  {
-    "timestamp": "2026-01-21T11:58:58.267671Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | Scatter | High-Conflict",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 45.0,
-      "macro_sensitivity": 0.09
     }
   }
 ]
