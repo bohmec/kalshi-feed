@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-26T21:49:08.456366Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos | Scatter",
+    "to_regime": "Chaos | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 49.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-26T20:54:37.989932Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 52.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-22T19:47:07.119568Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Forming",
-    "to_regime": "Overheated | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 41.0,
       "macro_sensitivity": 0.0
     }
   }
