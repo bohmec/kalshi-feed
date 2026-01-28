@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-01-28T19:55:56.237763Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Dormant",
+    "to_regime": "Undervalued | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 55.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-28T19:55:56.237763Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 44.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-27T22:48:52.807314Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -524,28 +546,6 @@
     "to_regime": "Forming",
     "metrics_snapshot": {
       "nexus_score": 50.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-22T23:41:23.967562Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 55.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-22T22:51:49.792794Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 52.2,
       "macro_sensitivity": 0.0
     }
   }
