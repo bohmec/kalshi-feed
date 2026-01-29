@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-29T14:10:12.848165Z",
+    "market_id": "USCLIMATE",
+    "question": "US meets its climate goals?",
+    "from_regime": "Undervalued | Chaos | Scatter",
+    "to_regime": "Undervalued | Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 26.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-29T10:01:24.609673Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated",
     "metrics_snapshot": {
       "nexus_score": 46.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-23T06:00:01.266187Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 53.4,
       "macro_sensitivity": 0.0
     }
   }
