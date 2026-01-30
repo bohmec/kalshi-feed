@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-30T23:53:41.322917Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-30T22:59:07.005087Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Scatter",
     "metrics_snapshot": {
       "nexus_score": 42.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-24T21:33:29.331941Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 42.9,
       "macro_sensitivity": 0.0
     }
   }
