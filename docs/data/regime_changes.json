@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-01-31T16:59:57.003265Z",
+    "market_id": "KXJOHNNYDEPP-35",
+    "question": "Will Johnny Depp be cast in the next Pirates of the Caribbean?",
+    "from_regime": "Dormant",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 44.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-31T16:59:57.003265Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Overheated | Scatter | High-Conflict",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 44.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-31T14:54:52.860824Z",
     "market_id": "USCLIMATE",
     "question": "US meets its climate goals?",
@@ -524,28 +546,6 @@
     "to_regime": "Scatter",
     "metrics_snapshot": {
       "nexus_score": 50.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-25T18:55:52.343720Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 52.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-25T07:39:07.972127Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 61.4,
       "macro_sensitivity": 0.0
     }
   }
