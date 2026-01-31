@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-01-31T13:54:10.628938Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Overheated",
+    "to_regime": "Overheated | Scatter | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 43.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-31T08:59:59.772054Z",
     "market_id": "KXTRAVISKELCEWEDDING-30JAN01",
     "question": "Who will be Groomsman for the wedding of Travis Kelce and Taylor Swift?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 56.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-25T04:22:13.984132Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Overheated",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 61.3,
       "macro_sensitivity": 0.0
     }
   }
