@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-01-31T04:50:01.282940Z",
+    "market_id": "KXTRAVISKELCEWEDDING-30JAN01",
+    "question": "Who will be Groomsman for the wedding of Travis Kelce and Taylor Swift?",
+    "from_regime": "Dormant",
+    "to_regime": "Overheated | Scatter | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 30.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-31T04:50:01.282940Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 55.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-31T04:50:01.282940Z",
+    "market_id": "KXBRUVSEAT-35",
+    "question": "Will Andrew Tate's party win a seat in the next UK election?",
+    "from_regime": "Consensus",
+    "to_regime": "Consensus | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 70.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-01-30T23:53:41.322917Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran?",
@@ -513,39 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 53.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-24T23:36:55.590476Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 52.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-24T22:54:57.096082Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Overheated | Scatter",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 42.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-24T21:46:07.754007Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Overheated",
-    "to_regime": "Overheated | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 42.8,
       "macro_sensitivity": 0.0
     }
   }
