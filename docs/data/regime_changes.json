@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-01T09:56:29.534554Z",
+    "market_id": "KXBRUVSEAT-35",
+    "question": "Will Andrew Tate's party win a seat in the next UK election?",
+    "from_regime": "Consensus | Scatter",
+    "to_regime": "Consensus",
+    "metrics_snapshot": {
+      "nexus_score": 67.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-01T09:56:29.534554Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 53.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-01T07:27:20.739874Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -524,28 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 52.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-26T21:59:52.631628Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos | Forming",
-    "to_regime": "Chaos | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 49.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-26T21:59:52.631628Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 52.2,
       "macro_sensitivity": 0.0
     }
   }
