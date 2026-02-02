@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-02T09:06:04.079509Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 44.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-02T05:18:26.862175Z",
     "market_id": "KXTVSEASONRELEASETHELASTOFUS",
     "question": "When will \"The Last of Us\" Season 3 be released?",
@@ -535,17 +546,6 @@
     "to_regime": "Forming",
     "metrics_snapshot": {
       "nexus_score": 51.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-29T17:59:23.029600Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 49.3,
       "macro_sensitivity": 0.0
     }
   }
