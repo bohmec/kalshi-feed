@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-02-02T05:18:26.862175Z",
+    "market_id": "KXTVSEASONRELEASETHELASTOFUS",
+    "question": "When will \"The Last of Us\" Season 3 be released?",
+    "from_regime": "Dormant",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 37.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-02T05:18:26.862175Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 62.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-02T05:18:26.862175Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 44.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-01T22:56:24.578399Z",
     "market_id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?",
@@ -513,39 +546,6 @@
     "to_regime": "Chaos | Forming",
     "metrics_snapshot": {
       "nexus_score": 49.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-29T16:05:04.089459Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Stable",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 66.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-29T16:05:04.089459Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos | Scatter",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 49.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-29T14:10:12.848165Z",
-    "market_id": "USCLIMATE",
-    "question": "US meets its climate goals?",
-    "from_regime": "Undervalued | Chaos | Scatter",
-    "to_regime": "Undervalued | Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 26.0,
       "macro_sensitivity": 0.0
     }
   }
