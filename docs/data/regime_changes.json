@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-04T21:57:22.157187Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 52.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-04T19:31:01.161936Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Scatter | High-Conflict",
     "metrics_snapshot": {
       "nexus_score": 30.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T04:50:01.282940Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 55.0,
       "macro_sensitivity": 0.0
     }
   }
