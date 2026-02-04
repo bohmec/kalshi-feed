@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-04T23:56:35.296081Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-04T22:57:36.784093Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | High-Conflict",
     "metrics_snapshot": {
       "nexus_score": 30.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T08:59:59.772054Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Consensus | Forming",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 70.9,
       "macro_sensitivity": 0.0
     }
   }
