@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-04T22:57:36.784093Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 52.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-04T21:57:22.157187Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Consensus",
     "metrics_snapshot": {
       "nexus_score": 70.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T04:50:01.282940Z",
-    "market_id": "KXTRAVISKELCEWEDDING-30JAN01",
-    "question": "Who will be Groomsman for the wedding of Travis Kelce and Taylor Swift?",
-    "from_regime": "Dormant",
-    "to_regime": "Overheated | Scatter | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 30.6,
       "macro_sensitivity": 0.0
     }
   }
