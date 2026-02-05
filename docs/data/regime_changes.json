@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-05T07:57:09.551128Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 56.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-04T23:56:35.296081Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Scatter | High-Conflict",
     "metrics_snapshot": {
       "nexus_score": 43.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T08:59:59.772054Z",
-    "market_id": "KXTRAVISKELCEWEDDING-30JAN01",
-    "question": "Who will be Groomsman for the wedding of Travis Kelce and Taylor Swift?",
-    "from_regime": "Overheated | Scatter | High-Conflict",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 30.6,
       "macro_sensitivity": 0.0
     }
   }
