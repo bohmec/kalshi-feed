@@ -1,5 +1,49 @@
 [
   {
+    "timestamp": "2026-02-05T23:01:37.769065Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 54.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-05T23:01:37.769065Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-05T23:01:37.769065Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Stable",
+    "to_regime": "Chaos | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 45.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-05T23:01:37.769065Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-05T21:58:16.835964Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -502,50 +546,6 @@
     "to_regime": "Overheated",
     "metrics_snapshot": {
       "nexus_score": 43.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T21:44:24.044932Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 43.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T20:52:43.174803Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 43.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T17:52:27.320165Z",
-    "market_id": "USCLIMATE",
-    "question": "US meets its climate goals?",
-    "from_regime": "Undervalued | Chaos | Forming",
-    "to_regime": "Undervalued | Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 28.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-01-31T17:52:27.320165Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 43.9,
       "macro_sensitivity": 0.0
     }
   }
