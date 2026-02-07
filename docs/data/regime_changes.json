@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-07T20:57:47.537700Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos",
+    "to_regime": "Chaos | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 45.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-07T20:57:47.537700Z",
+    "market_id": "KXPRIMEENGCONSUMPTION-30",
+    "question": "What will be the largest source of global primary energy consumption in 2030?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-07T19:46:37.309691Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 49.2,
       "macro_sensitivity": 0.03
-    }
-  },
-  {
-    "timestamp": "2026-02-03T05:09:07.990850Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 60.3,
-      "macro_sensitivity": 0.01
-    }
-  },
-  {
-    "timestamp": "2026-02-02T23:15:13.114656Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 61.1,
-      "macro_sensitivity": 0.01
     }
   }
 ]
