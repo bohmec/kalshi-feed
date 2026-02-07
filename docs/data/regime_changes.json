@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-07T13:56:31.042920Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued | Consensus",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 59.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-07T11:46:32.086455Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 62.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-02T05:18:26.862175Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 44.2,
       "macro_sensitivity": 0.0
     }
   }
