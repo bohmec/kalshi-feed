@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-02-08T07:47:50.371593Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 54.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-08T07:47:50.371593Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 63.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-08T07:47:50.371593Z",
+    "market_id": "KXPERFORMBONDSONG-35",
+    "question": "Who will perform the next James Bond theme?",
+    "from_regime": "Overheated | Forming | High-Conflict",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 43.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-08T05:20:36.118184Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -514,39 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 47.2,
       "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-03T23:02:56.019425Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Consensus | Forming",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 71.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-03T19:54:19.125067Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 60.5,
-      "macro_sensitivity": -0.05
-    }
-  },
-  {
-    "timestamp": "2026-02-03T19:54:19.125067Z",
-    "market_id": "KXTRILLIONAIRE-30",
-    "question": "Who will be the world's first trillionaire?",
-    "from_regime": "Overheated | Consensus",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 71.4,
-      "macro_sensitivity": 0.14
     }
   }
 ]
