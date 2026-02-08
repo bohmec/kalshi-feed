@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-08T20:57:54.382287Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Forming",
+    "to_regime": "Chaos | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 46.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-08T19:51:12.104753Z",
     "market_id": "KXPERFORMBONDSONG-35",
     "question": "Who will perform the next James Bond theme?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Consensus",
     "metrics_snapshot": {
       "nexus_score": 55.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-05T23:53:23.639161Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 54.4,
       "macro_sensitivity": 0.0
     }
   }
