@@ -1,5 +1,49 @@
 [
   {
+    "timestamp": "2026-02-09T05:46:33.392703Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Dormant",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 52.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-09T05:46:33.392703Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Scatter",
+    "to_regime": "Undervalued | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 44.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-09T05:46:33.392703Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos | Scatter",
+    "to_regime": "Chaos | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 48.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-09T05:46:33.392703Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Undervalued | Chaos | Forming",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 42.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-08T23:57:47.009258Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -502,50 +546,6 @@
     "to_regime": "Chaos | Forming",
     "metrics_snapshot": {
       "nexus_score": 48.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-07T04:55:51.050706Z",
-    "market_id": "KXNEWPOPE-70",
-    "question": "Who will the next Pope be?",
-    "from_regime": "Undervalued | Chaos | Forming",
-    "to_regime": "Undervalued | Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 28.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-06T23:55:37.499459Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 54.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-06T23:55:37.499459Z",
-    "market_id": "KXNEWPOPE-70",
-    "question": "Who will the next Pope be?",
-    "from_regime": "Undervalued | Chaos",
-    "to_regime": "Undervalued | Chaos | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 29.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-06T23:55:37.499459Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.1,
       "macro_sensitivity": 0.0
     }
   }
