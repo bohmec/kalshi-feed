@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-10T15:45:49.614119Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Scatter",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 59.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-10T11:33:38.346548Z",
     "market_id": "KXBRUVSEAT-35",
     "question": "Will Andrew Tate's party win a seat in the next UK election?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Forming | High-Conflict",
     "metrics_snapshot": {
       "nexus_score": 43.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-08T00:01:29.255955Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.4,
       "macro_sensitivity": 0.0
     }
   }
