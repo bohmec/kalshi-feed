@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-12T10:29:58.032005Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued | Consensus",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 60.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-11T23:57:21.039964Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Scatter | High-Conflict",
     "metrics_snapshot": {
       "nexus_score": 43.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-08T10:59:29.642053Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 45.5,
       "macro_sensitivity": 0.0
     }
   }
