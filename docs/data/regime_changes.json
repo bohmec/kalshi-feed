@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-13T10:09:06.945898Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 51.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-13T10:09:06.945898Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Chaos",
+    "to_regime": "Overheated | Chaos | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 36.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-13T07:56:16.223827Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -524,28 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 60.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-08T19:15:50.264295Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 45.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-08T17:55:52.292557Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos | Forming",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 44.9,
       "macro_sensitivity": 0.0
     }
   }
