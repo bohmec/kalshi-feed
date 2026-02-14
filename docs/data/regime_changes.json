@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-14T21:53:35.581383Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 62.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-14T21:35:04.582299Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Forming",
     "metrics_snapshot": {
       "nexus_score": 51.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-09T08:05:52.393434Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Scatter",
-    "to_regime": "Undervalued | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 44.9,
       "macro_sensitivity": 0.0
     }
   }
