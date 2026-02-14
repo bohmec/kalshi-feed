@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-14T16:42:07.550549Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 52.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-14T11:49:20.539662Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Chaos | Forming",
     "metrics_snapshot": {
       "nexus_score": 29.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-08T23:02:05.689485Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | Scatter | High-Conflict",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 41.9,
       "macro_sensitivity": 0.0
     }
   }

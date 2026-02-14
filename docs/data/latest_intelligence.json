@@ -3,15 +3,15 @@
     "id": "KXTRILLIONAIRE-30",
     "question": "Who will be the world's first trillionaire?: Will Elon Musk be the world's first trillionaire?",
     "current_price": 0.86,
-    "volume": 140464,
-    "nexus_score": 76.7,
+    "volume": 140467,
+    "nexus_score": 73.3,
     "market_state": "Consensus",
-    "macro_sensitivity": 0.17,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 1.18,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -0.58,
     "sparkline": [
       {
-        "p": 0.85
+        "p": 0.855
       },
       {
         "p": 0.86
@@ -30,19 +30,19 @@
   {
     "id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.665,
-    "volume": 82255,
-    "nexus_score": 56.6,
+    "current_price": 0.66,
+    "volume": 82265,
+    "nexus_score": 53.9,
     "market_state": "Overheated",
-    "macro_sensitivity": 0.14,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -5.0,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -5.71,
     "sparkline": [
       {
-        "p": 0.635
+        "p": 0.645
       },
       {
-        "p": 0.64
+        "p": 0.67
       },
       {
         "p": 0.665
@@ -51,7 +51,7 @@
         "p": 0.67
       },
       {
-        "p": 0.665
+        "p": 0.66
       }
     ]
   },
@@ -59,18 +59,18 @@
     "id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?: What will be the largest source of global primary energy consumption in 2030?",
     "current_price": 0.41,
-    "volume": 60023,
-    "nexus_score": 59.8,
+    "volume": 60031,
+    "nexus_score": 55.7,
     "market_state": "Overheated",
-    "macro_sensitivity": 0.09,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 2.5,
     "sparkline": [
       {
         "p": 0.41
       },
       {
-        "p": 0.405
+        "p": 0.41
       },
       {
         "p": 0.41
@@ -84,18 +84,46 @@
     ]
   },
   {
-    "id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
-    "current_price": 0.665,
-    "volume": 44635,
-    "nexus_score": 42.8,
-    "market_state": "Chaos",
-    "macro_sensitivity": 0.08,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 17.7,
+    "id": "USCLIMATE",
+    "question": "US meets its climate goals?: By 2025",
+    "current_price": 0.05,
+    "volume": 45515,
+    "nexus_score": 28.9,
+    "market_state": "Undervalued | Chaos",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": 66.67,
     "sparkline": [
       {
-        "p": 0.68
+        "p": 0.05
+      },
+      {
+        "p": 0.055
+      },
+      {
+        "p": 0.055
+      },
+      {
+        "p": 0.055
+      },
+      {
+        "p": 0.05
+      }
+    ]
+  },
+  {
+    "id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
+    "current_price": 0.67,
+    "volume": 44638,
+    "nexus_score": 38.1,
+    "market_state": "Chaos",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": 16.52,
+    "sparkline": [
+      {
+        "p": 0.665
       },
       {
         "p": 0.635
@@ -104,10 +132,10 @@
         "p": 0.665
       },
       {
-        "p": 0.665
+        "p": 0.66
       },
       {
-        "p": 0.665
+        "p": 0.67
       }
     ]
   },
@@ -116,17 +144,17 @@
     "question": "Will Elon Musk visit Mars in his lifetime?: Will Elon Musk visit Mars before Aug 1, 2099?",
     "current_price": 0.085,
     "volume": 44606,
-    "nexus_score": 67.9,
+    "nexus_score": 63.1,
     "market_state": "Stable",
-    "macro_sensitivity": -0.02,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -10.53,
     "sparkline": [
       {
         "p": 0.075
       },
       {
-        "p": 0.08
+        "p": 0.075
       },
       {
         "p": 0.085
@@ -136,34 +164,6 @@
       },
       {
         "p": 0.085
-      }
-    ]
-  },
-  {
-    "id": "USCLIMATE",
-    "question": "US meets its climate goals?: By 2025",
-    "current_price": 0.055,
-    "volume": 44140,
-    "nexus_score": 24.3,
-    "market_state": "Undervalued | Chaos",
-    "macro_sensitivity": 2.55,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 57.14,
-    "sparkline": [
-      {
-        "p": 0.05
-      },
-      {
-        "p": 0.05
-      },
-      {
-        "p": 0.055
-      },
-      {
-        "p": 0.055
-      },
-      {
-        "p": 0.055
       }
     ]
   },
@@ -200,17 +200,17 @@
     "question": "Will a humanoid robot walk on Mars before a human does?: Will a humanoid robot walk on Mars before a human does?",
     "current_price": 0.46,
     "volume": 32921,
-    "nexus_score": 48.7,
+    "nexus_score": 45.2,
     "market_state": "Chaos",
-    "macro_sensitivity": -0.15,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 5.75,
     "sparkline": [
       {
         "p": 0.485
       },
       {
-        "p": 0.465
+        "p": 0.46
       },
       {
         "p": 0.46
@@ -228,10 +228,10 @@
     "question": "Will Nick Fuentes become President of the United States before 2045?: Will  become President of the United States before 2045?",
     "current_price": 0.17,
     "volume": 32234,
-    "nexus_score": 55.4,
+    "nexus_score": 55.3,
     "market_state": "Stable",
-    "macro_sensitivity": 0.49,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -10.53,
     "sparkline": [
       {
@@ -256,10 +256,10 @@
     "question": "Who will the next Pope be?: Who will the next Pope be?",
     "current_price": 0.085,
     "volume": 32187,
-    "nexus_score": 29.4,
+    "nexus_score": 28.3,
     "market_state": "Undervalued | Chaos",
-    "macro_sensitivity": -0.4,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 13.33,
     "sparkline": [
       {
@@ -284,11 +284,11 @@
     "question": "Who will be the next Supreme Leader of Iran?: Will Position abolished be the next Supreme Leader of Iran?",
     "current_price": 0.415,
     "volume": 28575,
-    "nexus_score": 55.6,
+    "nexus_score": 54.4,
     "market_state": "Overheated",
-    "macro_sensitivity": -0.38,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -7.78,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -5.68,
     "sparkline": [
       {
         "p": 0.425
@@ -311,11 +311,11 @@
     "id": "KXTIMEDECADE20S-30",
     "question": "Who will Time name as Person of the Decade?: Who will Time name as Person of the Decade?",
     "current_price": 0.335,
-    "volume": 24106,
-    "nexus_score": 49.1,
+    "volume": 24111,
+    "nexus_score": 45.9,
     "market_state": "Undervalued",
-    "macro_sensitivity": -0.14,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 1.52,
     "sparkline": [
       {
@@ -339,18 +339,18 @@
     "id": "KXFUSION",
     "question": "When will nuclear fusion be achieved?: When will nuclear fusion be achieved?",
     "current_price": 0.485,
-    "volume": 21906,
-    "nexus_score": 32.4,
+    "volume": 21912,
+    "nexus_score": 28.8,
     "market_state": "Overheated | Chaos | High-Conflict",
-    "macro_sensitivity": 0.14,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 8.99,
     "sparkline": [
       {
         "p": 0.43
       },
       {
-        "p": 0.475
+        "p": 0.49
       },
       {
         "p": 0.485
@@ -366,19 +366,19 @@
   {
     "id": "EVSHARE-30JAN",
     "question": "EV market share in 2030?: Above 30%:: Expectation",
-    "current_price": 0.48,
-    "volume": 20955,
-    "nexus_score": 29.2,
+    "current_price": 0.47,
+    "volume": 20960,
+    "nexus_score": 27.1,
     "market_state": "Overheated | Chaos | High-Conflict",
-    "macro_sensitivity": 0.3,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -5.88,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -6.93,
     "sparkline": [
       {
         "p": 0.475
       },
       {
-        "p": 0.5
+        "p": 0.47
       },
       {
         "p": 0.49
@@ -387,7 +387,7 @@
         "p": 0.49
       },
       {
-        "p": 0.48
+        "p": 0.47
       }
     ]
   },
@@ -396,11 +396,11 @@
     "question": "Which G7 leader will leave next?: :: Prime Minister of the United Kingdom",
     "current_price": 0.685,
     "volume": 20848,
-    "nexus_score": 60.1,
+    "nexus_score": 57.7,
     "market_state": "Stable",
-    "macro_sensitivity": -0.27,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 10.48,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": 11.38,
     "sparkline": [
       {
         "p": 0.675
@@ -424,17 +424,17 @@
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?: Will there be an at least 8.0 magnitude earthquake in California before 2035?",
     "current_price": 0.225,
     "volume": 17636,
-    "nexus_score": 45.8,
+    "nexus_score": 50.8,
     "market_state": "Stable",
-    "macro_sensitivity": 1.48,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -35.71,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -23.73,
     "sparkline": [
       {
         "p": 0.22
       },
       {
-        "p": 0.22
+        "p": 0.225
       },
       {
         "p": 0.225
@@ -450,28 +450,28 @@
   {
     "id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will be the next new Prime Minister of Israel?: Will Naftali Bennett be the next Prime Minister of Israel?",
-    "current_price": 0.415,
-    "volume": 15740,
-    "nexus_score": 69.9,
+    "current_price": 0.395,
+    "volume": 15745,
+    "nexus_score": 64.4,
     "market_state": "Stable",
-    "macro_sensitivity": 0.13,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -12.63,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -15.96,
     "sparkline": [
       {
         "p": 0.425
       },
       {
-        "p": 0.415
+        "p": 0.395
       },
       {
         "p": 0.415
       },
       {
-        "p": 0.41
+        "p": 0.395
       },
       {
-        "p": 0.415
+        "p": 0.395
       }
     ]
   },
@@ -480,10 +480,10 @@
     "question": "Will Andrew Tate's party win a seat in the next UK election?: Will Britain Restoring Underlying Values (\"BRUV\") win a seat in the next U.K. general election?",
     "current_price": 0.04,
     "volume": 15369,
-    "nexus_score": 61.3,
+    "nexus_score": 66.3,
     "market_state": "Stable",
-    "macro_sensitivity": -1.39,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 300.0,
     "sparkline": [
       {
@@ -536,10 +536,10 @@
     "question": "Will Zohran Mamdani become President of the United States before 2045?: Will  become President of the United States before 2045?",
     "current_price": 0.06,
     "volume": 14503,
-    "nexus_score": 68.1,
+    "nexus_score": 63.7,
     "market_state": "Stable",
-    "macro_sensitivity": -0.06,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -562,13 +562,13 @@
   {
     "id": "KXPERFORMBONDSONG-35",
     "question": "Who will perform the next James Bond theme?: Who will perform the next James Bond Song?",
-    "current_price": 0.3,
-    "volume": 14302,
-    "nexus_score": 39.3,
+    "current_price": 0.28,
+    "volume": 14312,
+    "nexus_score": 41.3,
     "market_state": "Overheated | High-Conflict",
-    "macro_sensitivity": -0.72,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -3.23,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -9.68,
     "sparkline": [
       {
         "p": 0.3
@@ -583,7 +583,7 @@
         "p": 0.3
       },
       {
-        "p": 0.3
+        "p": 0.28
       }
     ]
   },
@@ -592,17 +592,17 @@
     "question": "Will Johnny Depp be cast in the next Pirates of the Caribbean?: Will Johnny Depp be casted in the next Pirates of the Caribbean?",
     "current_price": 0.485,
     "volume": 13099,
-    "nexus_score": 44.7,
+    "nexus_score": 43.3,
     "market_state": "Chaos",
-    "macro_sensitivity": -0.36,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 12.79,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": 5.43,
     "sparkline": [
       {
         "p": 0.5
       },
       {
-        "p": 0.485
+        "p": 0.495
       },
       {
         "p": 0.485
@@ -620,17 +620,17 @@
     "question": "Will a supervolcano erupt before 2050?: When will a supervolcano next erupt?",
     "current_price": 0.16,
     "volume": 12507,
-    "nexus_score": 56.2,
+    "nexus_score": 54.2,
     "market_state": "Stable",
-    "macro_sensitivity": 0.3,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 0.0,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -5.88,
     "sparkline": [
       {
         "p": 0.16
       },
       {
-        "p": 0.16
+        "p": 0.15
       },
       {
         "p": 0.16
@@ -647,12 +647,12 @@
     "id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?: Will Ramp or Brex IPO first?",
     "current_price": 0.04,
-    "volume": 11073,
-    "nexus_score": 57.1,
+    "volume": 11083,
+    "nexus_score": 61.6,
     "market_state": "Stable",
-    "macro_sensitivity": 5.0,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": -50.0,
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -42.86,
     "sparkline": [
       {
         "p": 0.03
@@ -674,13 +674,13 @@
   {
     "id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?: Will humans colonize Mars before 2050?",
-    "current_price": 0.205,
-    "volume": 10800,
-    "nexus_score": 51.0,
-    "market_state": "Stable",
+    "current_price": 0.18,
+    "volume": 10801,
+    "nexus_score": 52.5,
+    "market_state": "Forming",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 10.81,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": -2.7,
     "sparkline": [
       {
         "p": 0.205
@@ -695,7 +695,7 @@
         "p": 0.205
       },
       {
-        "p": 0.205
+        "p": 0.18
       }
     ]
   },
@@ -703,18 +703,18 @@
     "id": "KXTVSEASONRELEASETHELASTOFUS",
     "question": "When will \"The Last of Us\" Season 3 be released?: When will \"The Last of Us\" Season 3 be released?",
     "current_price": 0.525,
-    "volume": 10704,
-    "nexus_score": 42.1,
+    "volume": 10705,
+    "nexus_score": 37.6,
     "market_state": "Overheated | High-Conflict",
-    "macro_sensitivity": -0.05,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 6.06,
     "sparkline": [
       {
         "p": 0.505
       },
       {
-        "p": 0.505
+        "p": 0.525
       },
       {
         "p": 0.525
@@ -735,7 +735,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -763,7 +763,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -791,14 +791,14 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -0.68,
     "sparkline": [
       {
-        "p": 0.74
+        "p": 0.775
       },
       {
-        "p": 0.705
+        "p": 0.735
       },
       {
         "p": 0.725
@@ -815,18 +815,18 @@
     "id": "KXWARMING-50",
     "question": "Will the world pass 2 degrees Celsius over pre-industrial levels before 2050?: Will the world pass 2 degrees Celsius over pre-industrial levels before 2050?",
     "current_price": 0.815,
-    "volume": 7679,
+    "volume": 7680,
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 3.16,
     "sparkline": [
       {
-        "p": 0.805
+        "p": 0.785
       },
       {
-        "p": 0.79
+        "p": 0.775
       },
       {
         "p": 0.785
@@ -847,14 +847,14 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 14.0,
     "sparkline": [
       {
         "p": 0.275
       },
       {
-        "p": 0.29
+        "p": 0.285
       },
       {
         "p": 0.285
@@ -870,28 +870,28 @@
   {
     "id": "KXACTORSONNYCROCKETT-35",
     "question": "Who will be cast in the next Miami Vice?: Will Glen Powell be casted in the next Miami Vice?",
-    "current_price": 0.425,
-    "volume": 5776,
+    "current_price": 0.45,
+    "volume": 5781,
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 28.79,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": 36.36,
     "sparkline": [
       {
         "p": 0.325
       },
       {
-        "p": 0.46
-      },
-      {
         "p": 0.435
       },
       {
         "p": 0.435
       },
       {
-        "p": 0.425
+        "p": 0.435
+      },
+      {
+        "p": 0.45
       }
     ]
   },
@@ -903,20 +903,20 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 2.11,
     "sparkline": [
       {
         "p": 0.765
       },
       {
-        "p": 0.705
+        "p": 0.75
       },
       {
         "p": 0.72
       },
       {
-        "p": 0.72
+        "p": 0.725
       },
       {
         "p": 0.725
@@ -931,7 +931,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 8.0,
     "sparkline": [
       {
@@ -959,7 +959,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -983,11 +983,11 @@
     "id": "KXXISUCCESSOR-45JAN01",
     "question": "Who will be named as Xi Jinping's successor?: Will Ding Xuexiang become the next leader of the Chinese Communist Party (CCP) before Jan 1, 2045?",
     "current_price": 0.285,
-    "volume": 4248,
+    "volume": 4253,
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 3.64,
     "sparkline": [
       {
@@ -1011,18 +1011,18 @@
     "id": "KXDEELRIP-40",
     "question": "Will Deel or Rippling IPO first?: Will Deel or Rippling IPO first?",
     "current_price": 0.775,
-    "volume": 4008,
+    "volume": 4013,
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -1.27,
     "sparkline": [
       {
         "p": 0.79
       },
       {
-        "p": 0.79
+        "p": 0.775
       },
       {
         "p": 0.775
@@ -1043,7 +1043,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -6.85,
     "sparkline": [
       {
@@ -1066,13 +1066,13 @@
   {
     "id": "EUCLIMATE",
     "question": "EU meets its 2030 climate goals?: By 2030",
-    "current_price": 0.5,
+    "current_price": 0.505,
     "volume": 2457,
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
-    "change_since_start": 2.04,
+    "last_updated": "2026-02-14T16:42:07Z",
+    "change_since_start": 3.06,
     "sparkline": [
       {
         "p": 0.495
@@ -1087,7 +1087,7 @@
         "p": 0.5
       },
       {
-        "p": 0.5
+        "p": 0.505
       }
     ]
   },
@@ -1099,7 +1099,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 6.3,
     "sparkline": [
       {
@@ -1127,7 +1127,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -1155,7 +1155,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 75.0,
     "sparkline": [
       {
@@ -1179,11 +1179,11 @@
     "id": "KXYTUBESUBSISHOWSPEED",
     "question": "When will IShowSpeed reach 100 million Youtube subscribers?: When will IShowSpeed reach 100 million Youtube subscribers?",
     "current_price": 0.22,
-    "volume": 832,
+    "volume": 833,
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 4.76,
     "sparkline": [
       {
@@ -1211,7 +1211,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -0.84,
     "sparkline": [
       {
@@ -1239,7 +1239,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 3.45,
     "sparkline": [
       {
@@ -1267,7 +1267,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -3.45,
     "sparkline": [
       {
@@ -1295,7 +1295,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -1.2,
     "sparkline": [
       {
@@ -1323,7 +1323,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": -4.35,
     "sparkline": [
       {
@@ -1351,7 +1351,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -1379,7 +1379,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
@@ -1407,7 +1407,7 @@
     "nexus_score": 10.0,
     "market_state": "Dormant",
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-02-14T15:54:36Z",
+    "last_updated": "2026-02-14T16:42:07Z",
     "change_since_start": 0.0,
     "sparkline": [
       {
