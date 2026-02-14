@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-14T17:04:56.887294Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-14T16:42:07.550549Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Chaos | Forming",
     "metrics_snapshot": {
       "nexus_score": 36.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-08T23:57:47.009258Z",
-    "market_id": "USCLIMATE",
-    "question": "US meets its climate goals?",
-    "from_regime": "Undervalued | Chaos",
-    "to_regime": "Undervalued | Chaos | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 29.3,
       "macro_sensitivity": 0.0
     }
   }
