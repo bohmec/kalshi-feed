@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-15T21:35:54.737201Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Chaos",
+    "to_regime": "Overheated | Chaos | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 35.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-15T21:03:00.386527Z",
     "market_id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Chaos | High-Conflict",
     "metrics_snapshot": {
       "nexus_score": 34.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-11T18:09:39.910600Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Scatter",
-    "to_regime": "Undervalued | Consensus | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 62.4,
       "macro_sensitivity": 0.0
     }
   }
