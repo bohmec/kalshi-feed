@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-15T06:05:36.898702Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Consensus | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 60.5,
+      "macro_sensitivity": 5.0
+    }
+  },
+  {
+    "timestamp": "2026-02-15T06:05:36.898702Z",
+    "market_id": "KXBRUVSEAT-35",
+    "question": "Will Andrew Tate's party win a seat in the next UK election?",
+    "from_regime": "Stable",
+    "to_regime": "Consensus",
+    "metrics_snapshot": {
+      "nexus_score": 62.8,
+      "macro_sensitivity": -1.62
+    }
+  },
+  {
     "timestamp": "2026-02-15T03:17:15.355950Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -524,28 +546,6 @@
     "to_regime": "Undervalued | Consensus",
     "metrics_snapshot": {
       "nexus_score": 61.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-09T22:05:43.743894Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 54.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-09T22:05:43.743894Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Consensus",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 66.3,
       "macro_sensitivity": 0.0
     }
   }
