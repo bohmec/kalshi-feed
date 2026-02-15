@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-15T22:36:53.391905Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-15T21:35:54.737201Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Consensus",
     "metrics_snapshot": {
       "nexus_score": 62.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-11T20:03:38.319427Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos",
-    "to_regime": "Overheated | Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 34.9,
       "macro_sensitivity": 0.0
     }
   }
