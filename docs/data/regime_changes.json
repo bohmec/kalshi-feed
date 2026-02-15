@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-15T21:03:00.386527Z",
+    "market_id": "KXPRIMEENGCONSUMPTION-30",
+    "question": "What will be the largest source of global primary energy consumption in 2030?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-15T20:38:36.519627Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Consensus | Forming",
     "metrics_snapshot": {
       "nexus_score": 62.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-11T14:38:51.503726Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 58.5,
       "macro_sensitivity": 0.0
     }
   }
