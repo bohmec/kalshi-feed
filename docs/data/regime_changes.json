@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-15T09:50:18.140898Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 59.2,
+      "macro_sensitivity": 0.21
+    }
+  },
+  {
     "timestamp": "2026-02-15T09:17:36.723613Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -535,17 +546,6 @@
     "to_regime": "Forming",
     "metrics_snapshot": {
       "nexus_score": 59.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-10T11:33:38.346548Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 66.3,
       "macro_sensitivity": 0.0
     }
   }
