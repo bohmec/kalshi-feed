@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-16T11:10:38.962529Z",
+    "market_id": "KXPRIMEENGCONSUMPTION-30",
+    "question": "What will be the largest source of global primary energy consumption in 2030?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-16T10:13:38.339598Z",
     "market_id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?",
@@ -535,17 +546,6 @@
     "to_regime": "Chaos",
     "metrics_snapshot": {
       "nexus_score": 37.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-12T23:02:01.050392Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.8,
       "macro_sensitivity": 0.0
     }
   }
