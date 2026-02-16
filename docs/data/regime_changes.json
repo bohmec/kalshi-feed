@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-16T15:11:41.785907Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 51.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-16T11:10:38.962529Z",
     "market_id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?",
@@ -535,17 +546,6 @@
     "to_regime": "Consensus",
     "metrics_snapshot": {
       "nexus_score": 64.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-12T23:59:15.924502Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Overheated | Chaos | High-Conflict",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 37.0,
       "macro_sensitivity": 0.0
     }
   }
