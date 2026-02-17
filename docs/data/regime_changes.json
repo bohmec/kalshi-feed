@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-17T22:17:18.493024Z",
+    "market_id": "KXERUPTSUPER-0",
+    "question": "Will a supervolcano erupt before 2050?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 52.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-17T21:50:45.376816Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Scatter",
     "metrics_snapshot": {
       "nexus_score": 56.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-14T21:35:04.582299Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.2,
       "macro_sensitivity": 0.0
     }
   }
