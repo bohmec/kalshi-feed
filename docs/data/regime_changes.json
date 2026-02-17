@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-17T07:13:32.527701Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 56.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-17T05:01:31.254093Z",
     "market_id": "KXELONMARS-99",
     "question": "Will Elon Musk visit Mars in his lifetime?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 56.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-14T16:42:07.550549Z",
-    "market_id": "KXCOLONIZEMARS-50",
-    "question": "Will humans colonize Mars before 2050?",
-    "from_regime": "Stable",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 52.5,
       "macro_sensitivity": 0.0
     }
   }
