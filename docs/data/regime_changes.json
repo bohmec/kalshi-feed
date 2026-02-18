@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-18T03:13:49.658698Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 53.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-18T03:13:49.658698Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-18T00:03:40.569606Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 51.9,
       "macro_sensitivity": 5.0
-    }
-  },
-  {
-    "timestamp": "2026-02-14T22:35:37.898547Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 63.7,
-      "macro_sensitivity": 0.16
-    }
-  },
-  {
-    "timestamp": "2026-02-14T21:53:35.581383Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 62.2,
-      "macro_sensitivity": 0.0
     }
   }
 ]
