@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-18T20:06:28.601475Z",
+    "market_id": "KXELONMARS-99",
+    "question": "Will Elon Musk visit Mars in his lifetime?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 63.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-18T19:32:25.267803Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 60.5,
       "macro_sensitivity": 5.0
-    }
-  },
-  {
-    "timestamp": "2026-02-15T06:05:36.898702Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Stable",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 62.8,
-      "macro_sensitivity": -1.62
     }
   }
 ]
