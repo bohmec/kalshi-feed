@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-18T21:00:26.899037Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 60.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-18T21:00:26.899037Z",
+    "market_id": "KXELONMARS-99",
+    "question": "Will Elon Musk visit Mars in his lifetime?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 63.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-18T20:06:28.601475Z",
     "market_id": "KXELONMARS-99",
     "question": "Will Elon Musk visit Mars in his lifetime?",
@@ -522,28 +544,6 @@
     "question": "Will Ramp or Brex IPO first?",
     "from_regime": "Consensus | Forming",
     "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 60.5,
-      "macro_sensitivity": 5.0
-    }
-  },
-  {
-    "timestamp": "2026-02-15T07:04:47.252490Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 59.9,
-      "macro_sensitivity": 0.18
-    }
-  },
-  {
-    "timestamp": "2026-02-15T06:05:36.898702Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Consensus | Forming",
     "metrics_snapshot": {
       "nexus_score": 60.5,
       "macro_sensitivity": 5.0
