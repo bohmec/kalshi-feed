@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-18T05:06:19.899119Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 55.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-18T03:13:49.658698Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 62.5,
       "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-14T22:35:37.898547Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 51.9,
-      "macro_sensitivity": 5.0
     }
   }
 ]
