@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-19T05:01:56.809921Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 58.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-19T05:01:56.809921Z",
+    "market_id": "KXBRUVSEAT-35",
+    "question": "Will Andrew Tate's party win a seat in the next UK election?",
+    "from_regime": "Consensus",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 64.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-18T21:00:26.899037Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 59.2,
       "macro_sensitivity": 0.21
-    }
-  },
-  {
-    "timestamp": "2026-02-15T09:17:36.723613Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 57.9,
-      "macro_sensitivity": 0.2
-    }
-  },
-  {
-    "timestamp": "2026-02-15T08:47:49.796451Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Consensus | Forming",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 60.5,
-      "macro_sensitivity": 5.0
     }
   }
 ]
