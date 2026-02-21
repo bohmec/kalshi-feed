@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-21T14:36:07.880990Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Chaos",
+    "to_regime": "Overheated | Chaos | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 36.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-21T05:29:03.738066Z",
     "market_id": "KXERUPTSUPER-0",
     "question": "Will a supervolcano erupt before 2050?",
@@ -535,17 +546,6 @@
     "to_regime": "Scatter",
     "metrics_snapshot": {
       "nexus_score": 51.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-16T11:10:38.962529Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.5,
       "macro_sensitivity": 0.0
     }
   }
