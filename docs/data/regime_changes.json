@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-21T02:43:14.549998Z",
+    "market_id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 53.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-20T23:38:45.547161Z",
     "market_id": "KXERUPTSUPER-0",
     "question": "Will a supervolcano erupt before 2050?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 58.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-16T06:17:31.981796Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.6,
       "macro_sensitivity": 0.0
     }
   }
