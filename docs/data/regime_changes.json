@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-22T08:00:34.027794Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 52.9,
+      "macro_sensitivity": -0.27
+    }
+  },
+  {
     "timestamp": "2026-02-22T07:40:47.705237Z",
     "market_id": "KXERUPTSUPER-0",
     "question": "Will a supervolcano erupt before 2050?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated",
     "metrics_snapshot": {
       "nexus_score": 56.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-17T05:01:31.254093Z",
-    "market_id": "KXELONMARS-99",
-    "question": "Will Elon Musk visit Mars in his lifetime?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 62.6,
       "macro_sensitivity": 0.0
     }
   }
