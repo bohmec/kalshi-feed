@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-22T05:58:44.800265Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 45.5,
+      "macro_sensitivity": -0.77
+    }
+  },
+  {
+    "timestamp": "2026-02-22T05:58:44.800265Z",
+    "market_id": "KXELONMARS-99",
+    "question": "Will Elon Musk visit Mars in his lifetime?",
+    "from_regime": "Stable",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 56.2,
+      "macro_sensitivity": -2.12
+    }
+  },
+  {
     "timestamp": "2026-02-22T04:57:18.497782Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -524,28 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 57.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-17T02:55:01.239661Z",
-    "market_id": "KXELONMARS-99",
-    "question": "Will Elon Musk visit Mars in his lifetime?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 62.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-16T23:47:40.653511Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 54.4,
       "macro_sensitivity": 0.0
     }
   }
