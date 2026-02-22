@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-22T18:00:29.892670Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Overheated",
+    "to_regime": "Overheated | Scatter | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 29.7,
+      "macro_sensitivity": -1.8
+    }
+  },
+  {
     "timestamp": "2026-02-22T17:36:55.196908Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 52.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-18T05:06:19.899119Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 55.6,
       "macro_sensitivity": 0.0
     }
   }
