@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-22T23:55:10.890509Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 53.9,
+      "macro_sensitivity": -0.49
+    }
+  },
+  {
     "timestamp": "2026-02-22T23:35:03.524684Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 58.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-20T08:53:50.272998Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 56.8,
       "macro_sensitivity": 0.0
     }
   }
