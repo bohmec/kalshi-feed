@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-02-22T22:35:20.666409Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 53.4,
+      "macro_sensitivity": -2.58
+    }
+  },
+  {
+    "timestamp": "2026-02-22T22:35:20.666409Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Stable",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 61.0,
+      "macro_sensitivity": -0.44
+    }
+  },
+  {
+    "timestamp": "2026-02-22T22:35:20.666409Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Chaos",
+    "to_regime": "Overheated | Chaos | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 39.5,
+      "macro_sensitivity": -0.13
+    }
+  },
+  {
     "timestamp": "2026-02-22T21:52:51.316637Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -513,39 +546,6 @@
     "to_regime": "Undervalued",
     "metrics_snapshot": {
       "nexus_score": 58.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-19T05:01:56.809921Z",
-    "market_id": "KXBRUVSEAT-35",
-    "question": "Will Andrew Tate's party win a seat in the next UK election?",
-    "from_regime": "Consensus",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 64.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-18T21:00:26.899037Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 60.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-18T21:00:26.899037Z",
-    "market_id": "KXELONMARS-99",
-    "question": "Will Elon Musk visit Mars in his lifetime?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 63.2,
       "macro_sensitivity": 0.0
     }
   }
