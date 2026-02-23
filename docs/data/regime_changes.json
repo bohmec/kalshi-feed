@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-23T18:41:58.574774Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 67.1,
+      "macro_sensitivity": -0.15
+    }
+  },
+  {
     "timestamp": "2026-02-23T09:08:59.198502Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Scatter",
     "metrics_snapshot": {
       "nexus_score": 52.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-20T21:35:04.692447Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 61.4,
       "macro_sensitivity": 0.0
     }
   }
