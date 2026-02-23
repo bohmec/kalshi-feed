@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-23T02:55:35.906742Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 46.2,
+      "macro_sensitivity": -4.34
+    }
+  },
+  {
+    "timestamp": "2026-02-23T02:55:35.906742Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 56.6,
+      "macro_sensitivity": 0.78
+    }
+  },
+  {
     "timestamp": "2026-02-22T23:55:10.890509Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -524,28 +546,6 @@
     "to_regime": "Forming",
     "metrics_snapshot": {
       "nexus_score": 54.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-20T15:10:22.475822Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-20T09:53:14.490550Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 58.1,
       "macro_sensitivity": 0.0
     }
   }
