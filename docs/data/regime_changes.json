@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-23T22:10:20.661725Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 68.0,
+      "macro_sensitivity": -0.13
+    }
+  },
+  {
     "timestamp": "2026-02-23T20:27:52.733441Z",
     "market_id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 51.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-21T04:20:40.055475Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 64.2,
       "macro_sensitivity": 0.0
     }
   }
