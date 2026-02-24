@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-24T09:01:26.759566Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Undervalued | Chaos",
+    "to_regime": "Chaos | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 45.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-24T08:01:46.457240Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Chaos",
     "metrics_snapshot": {
       "nexus_score": 40.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-21T17:03:45.432744Z",
-    "market_id": "USCLIMATE",
-    "question": "US meets its climate goals?",
-    "from_regime": "Undervalued | Chaos",
-    "to_regime": "Undervalued | Chaos | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 29.7,
       "macro_sensitivity": 0.0
     }
   }
