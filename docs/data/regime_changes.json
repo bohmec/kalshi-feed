@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-25T06:18:15.394483Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 53.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-25T06:18:15.394483Z",
+    "market_id": "KXPERSONPRESFUENTES-45",
+    "question": "Will Nick Fuentes become President of the United States before 2045?",
+    "from_regime": "Stable",
+    "to_regime": "Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 56.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-25T05:15:49.712349Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 52.9,
       "macro_sensitivity": -0.27
-    }
-  },
-  {
-    "timestamp": "2026-02-22T07:40:47.705237Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 45.0,
-      "macro_sensitivity": -1.7
-    }
-  },
-  {
-    "timestamp": "2026-02-22T07:00:01.559281Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 44.8,
-      "macro_sensitivity": -0.32
     }
   }
 ]
