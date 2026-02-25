@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-25T08:08:12.163774Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 53.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-25T07:30:03.355372Z",
     "market_id": "KXPERSONPRESFUENTES-45",
     "question": "Will Nick Fuentes become President of the United States before 2045?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 44.7,
       "macro_sensitivity": -0.42
-    }
-  },
-  {
-    "timestamp": "2026-02-22T08:45:01.698792Z",
-    "market_id": "KXELONMARS-99",
-    "question": "Will Elon Musk visit Mars in his lifetime?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.2,
-      "macro_sensitivity": -2.14
     }
   }
 ]
