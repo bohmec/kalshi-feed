@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-26T14:57:10.242989Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Stable",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 57.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-26T09:00:10.028790Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 36.3,
       "macro_sensitivity": -1.96
-    }
-  },
-  {
-    "timestamp": "2026-02-22T16:00:59.776496Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 57.8,
-      "macro_sensitivity": -0.07
     }
   }
 ]
