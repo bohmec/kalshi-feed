@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-26T04:58:45.727146Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 56.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-25T23:16:38.049945Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 36.3,
       "macro_sensitivity": -1.97
-    }
-  },
-  {
-    "timestamp": "2026-02-22T13:54:22.478071Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Forming",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 36.3,
-      "macro_sensitivity": -2.24
     }
   }
 ]
