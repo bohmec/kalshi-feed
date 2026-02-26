@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-26T22:43:30.028203Z",
+    "market_id": "KXBRUVSEAT-35",
+    "question": "Will Andrew Tate's party win a seat in the next UK election?",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 66.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-26T21:58:28.552651Z",
     "market_id": "KXBRUVSEAT-35",
     "question": "Will Andrew Tate's party win a seat in the next UK election?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 29.7,
       "macro_sensitivity": -1.8
-    }
-  },
-  {
-    "timestamp": "2026-02-22T17:36:55.196908Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Fragile",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 35.8,
-      "macro_sensitivity": -2.05
     }
   }
 ]
