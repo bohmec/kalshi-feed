@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-27T13:19:52.516809Z",
+    "market_id": "USCLIMATE",
+    "question": "US meets its climate goals?",
+    "from_regime": "Undervalued | Chaos",
+    "to_regime": "Undervalued | Chaos | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 29.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-27T11:39:47.942255Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 39.5,
       "macro_sensitivity": -0.13
-    }
-  },
-  {
-    "timestamp": "2026-02-22T21:52:51.316637Z",
-    "market_id": "KXCOLONIZEMARS-50",
-    "question": "Will humans colonize Mars before 2050?",
-    "from_regime": "Stable",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 50.0,
-      "macro_sensitivity": -0.88
     }
   }
 ]
