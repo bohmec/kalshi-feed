@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-27T07:08:11.457845Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 60.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-27T05:04:50.799370Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 29.9,
       "macro_sensitivity": -1.89
-    }
-  },
-  {
-    "timestamp": "2026-02-22T21:02:01.703332Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Overheated | Chaos | High-Conflict",
-    "to_regime": "Overheated | Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 30.5,
-      "macro_sensitivity": -1.79
     }
   }
 ]
