@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-27T05:04:50.799370Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Chaos",
+    "to_regime": "Chaos | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 36.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-27T03:34:13.259236Z",
     "market_id": "KXBRUVSEAT-35",
     "question": "Will Andrew Tate's party win a seat in the next UK election?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 30.5,
       "macro_sensitivity": -1.79
-    }
-  },
-  {
-    "timestamp": "2026-02-22T19:57:21.464247Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Overheated | Chaos | Scatter | High-Conflict",
-    "to_regime": "Overheated | Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 28.4,
-      "macro_sensitivity": -1.9
     }
   }
 ]
