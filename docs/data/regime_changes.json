@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-02-28T02:35:48.886253Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 60.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-02-28T02:35:48.886253Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Stable",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 59.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-27T22:33:52.140934Z",
     "market_id": "USCLIMATE",
     "question": "US meets its climate goals?",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 46.2,
       "macro_sensitivity": -4.34
-    }
-  },
-  {
-    "timestamp": "2026-02-23T02:55:35.906742Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.6,
-      "macro_sensitivity": 0.78
-    }
-  },
-  {
-    "timestamp": "2026-02-22T23:55:10.890509Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 53.9,
-      "macro_sensitivity": -0.49
     }
   }
 ]
