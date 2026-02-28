@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-28T04:10:20.280956Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 60.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-28T02:35:48.886253Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 50.0,
       "macro_sensitivity": 0.98
-    }
-  },
-  {
-    "timestamp": "2026-02-23T02:55:35.906742Z",
-    "market_id": "KXCOLONIZEMARS-50",
-    "question": "Will humans colonize Mars before 2050?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 46.2,
-      "macro_sensitivity": -4.34
     }
   }
 ]
