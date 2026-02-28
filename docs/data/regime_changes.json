@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-02-28T09:01:39.150958Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 60.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-02-28T08:39:46.385868Z",
     "market_id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will be the next new Prime Minister of Israel?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 58.5,
       "macro_sensitivity": 0.18
-    }
-  },
-  {
-    "timestamp": "2026-02-23T19:46:04.405469Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 63.9,
-      "macro_sensitivity": -0.15
     }
   }
 ]
