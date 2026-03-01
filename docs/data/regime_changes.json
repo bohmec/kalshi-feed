@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-01T19:11:26.525392Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued | Forming",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 50.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-01T17:50:42.331501Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Chaos",
     "metrics_snapshot": {
       "nexus_score": 30.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-27T22:00:11.489051Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos | High-Conflict",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 37.1,
       "macro_sensitivity": 0.0
     }
   }
