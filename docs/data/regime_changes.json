@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-01T17:01:27.428426Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued | Chaos | Forming",
+    "to_regime": "Undervalued | Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 31.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-01T16:39:21.302488Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Undervalued | Chaos | Forming",
     "metrics_snapshot": {
       "nexus_score": 30.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-02-27T21:39:12.670774Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 60.3,
       "macro_sensitivity": 0.0
     }
   }
