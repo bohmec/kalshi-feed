@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-03-04T19:23:26.606656Z",
+    "market_id": "KXCOLONIZEMARS-50",
+    "question": "Will humans colonize Mars before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 52.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-04T19:23:26.606656Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
+    "from_regime": "Scatter",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 65.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-04T19:23:26.606656Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos | Scatter",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 49.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-04T18:29:22.390708Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
@@ -513,39 +546,6 @@
     "to_regime": "Undervalued",
     "metrics_snapshot": {
       "nexus_score": 46.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-02T13:21:00.151725Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 65.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-02T11:38:27.046217Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 46.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-02T09:11:48.227073Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran?",
-    "from_regime": "Overheated",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 50.5,
       "macro_sensitivity": 0.0
     }
   }
