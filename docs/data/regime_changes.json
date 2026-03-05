@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-05T23:59:18.389242Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 55.8,
+      "macro_sensitivity": 0.13
+    }
+  },
+  {
+    "timestamp": "2026-03-05T23:59:18.389242Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
+    "from_regime": "Scatter",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 64.9,
+      "macro_sensitivity": -0.85
+    }
+  },
+  {
     "timestamp": "2026-03-05T23:12:40.036714Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -524,28 +546,6 @@
     "to_regime": "Undervalued | Forming",
     "metrics_snapshot": {
       "nexus_score": 35.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-04T16:58:24.127296Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 69.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-04T16:58:24.127296Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos | Forming",
-    "to_regime": "Chaos | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 46.9,
       "macro_sensitivity": 0.0
     }
   }
