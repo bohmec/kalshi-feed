@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-06T17:08:18.300804Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Chaos | High-Conflict",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 40.5,
+      "macro_sensitivity": -0.2
+    }
+  },
+  {
     "timestamp": "2026-03-06T16:23:26.506150Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 67.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-04T23:46:33.929653Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos | High-Conflict",
-    "to_regime": "Overheated | Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 36.0,
       "macro_sensitivity": 0.0
     }
   }
