@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-06T10:49:20.838714Z",
+    "market_id": "KXBRUVSEAT-35",
+    "question": "Will Andrew Tate's party win a seat in the next UK election?",
+    "from_regime": "Consensus | Forming",
+    "to_regime": "Consensus",
+    "metrics_snapshot": {
+      "nexus_score": 66.4,
+      "macro_sensitivity": -1.78
+    }
+  },
+  {
+    "timestamp": "2026-03-06T10:49:20.838714Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos | Scatter",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 41.6,
+      "macro_sensitivity": -1.23
+    }
+  },
+  {
     "timestamp": "2026-03-06T07:53:50.500522Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -524,28 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 52.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-04T20:00:31.181743Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 50.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-04T20:00:31.181743Z",
-    "market_id": "KXNEWPOPE-35",
-    "question": "Who will the next Pope be?",
-    "from_regime": "Undervalued | Forming",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 35.0,
       "macro_sensitivity": 0.0
     }
   }
