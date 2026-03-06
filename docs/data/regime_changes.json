@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-06T21:39:53.249794Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Overheated | Chaos | High-Conflict",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 40.2,
+      "macro_sensitivity": -0.24
+    }
+  },
+  {
     "timestamp": "2026-03-06T20:44:40.507895Z",
     "market_id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 68.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-05T04:26:43.967827Z",
-    "market_id": "KXCOLONIZEMARS-50",
-    "question": "Will humans colonize Mars before 2050?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 52.6,
       "macro_sensitivity": 0.0
     }
   }
