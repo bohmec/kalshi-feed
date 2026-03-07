@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-07T19:46:24.294817Z",
+    "market_id": "KXPERSONPRESFUENTES-45",
+    "question": "Will Nick Fuentes become President of the United States before 2045?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 58.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-07T18:47:20.321803Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 41.6,
       "macro_sensitivity": -1.23
-    }
-  },
-  {
-    "timestamp": "2026-03-06T07:53:50.500522Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 56.0,
-      "macro_sensitivity": 0.32
     }
   }
 ]
