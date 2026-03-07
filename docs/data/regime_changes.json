@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-07T13:05:21.046435Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 69.0,
+      "macro_sensitivity": 0.34
+    }
+  },
+  {
     "timestamp": "2026-03-07T09:03:19.869088Z",
     "market_id": "USCLIMATE",
     "question": "US meets its climate goals?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 64.9,
       "macro_sensitivity": -0.85
-    }
-  },
-  {
-    "timestamp": "2026-03-05T23:12:40.036714Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 57.6,
-      "macro_sensitivity": 0.18
     }
   }
 ]
