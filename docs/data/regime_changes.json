@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-07T15:32:39.749363Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 63.1,
+      "macro_sensitivity": 0.26
+    }
+  },
+  {
     "timestamp": "2026-03-07T14:34:17.909707Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 59.4,
       "macro_sensitivity": -0.79
-    }
-  },
-  {
-    "timestamp": "2026-03-06T02:45:50.555514Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 44.8,
-      "macro_sensitivity": -0.97
     }
   }
 ]
