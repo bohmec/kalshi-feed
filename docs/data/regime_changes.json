@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-08T02:52:12.874026Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 50.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-08T02:52:12.874026Z",
+    "market_id": "KXNEXTIRANLEADER-45JAN01",
+    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
+    "from_regime": "Solid",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 67.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-07T23:32:09.209660Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 42.8,
       "macro_sensitivity": -1.11
-    }
-  },
-  {
-    "timestamp": "2026-03-06T16:23:26.506150Z",
-    "market_id": "KXFUSION",
-    "question": "When will nuclear fusion be achieved?",
-    "from_regime": "Overheated | Chaos | Scatter | High-Conflict",
-    "to_regime": "Overheated | Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 29.1,
-      "macro_sensitivity": 0.32
-    }
-  },
-  {
-    "timestamp": "2026-03-06T15:49:27.551839Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Scatter",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 59.0,
-      "macro_sensitivity": -0.76
     }
   }
 ]
