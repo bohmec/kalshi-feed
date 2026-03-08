@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-08T05:52:26.375183Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 50.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-08T05:52:26.375183Z",
+    "market_id": "KXERUPTSUPER-0",
+    "question": "Will a supervolcano erupt before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 53.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-08T04:50:48.303857Z",
     "market_id": "KXNEXTIRANLEADER-45JAN01",
     "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 38.3,
       "macro_sensitivity": -0.13
-    }
-  },
-  {
-    "timestamp": "2026-03-06T17:54:05.260172Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos | Forming",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 42.5,
-      "macro_sensitivity": -1.41
-    }
-  },
-  {
-    "timestamp": "2026-03-06T17:54:05.260172Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 40.3,
-      "macro_sensitivity": -0.18
     }
   }
 ]
