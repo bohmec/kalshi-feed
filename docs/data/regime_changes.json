@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-09T21:17:10.047491Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 63.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-09T20:45:24.673235Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -533,17 +544,6 @@
     "question": "Will Nick Fuentes become President of the United States before 2045?",
     "from_regime": "Scatter",
     "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 56.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-07T21:30:31.999510Z",
-    "market_id": "KXPERSONPRESFUENTES-45",
-    "question": "Will Nick Fuentes become President of the United States before 2045?",
-    "from_regime": "Stable",
-    "to_regime": "Scatter",
     "metrics_snapshot": {
       "nexus_score": 56.5,
       "macro_sensitivity": 0.0
