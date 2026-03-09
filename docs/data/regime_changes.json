@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-09T19:25:38.003582Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Forming",
+    "to_regime": "Undervalued | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 48.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-09T19:25:38.003582Z",
+    "market_id": "KXERUPTSUPER-0",
+    "question": "Will a supervolcano erupt before 2050?",
+    "from_regime": "Stable",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 49.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-09T17:35:49.042406Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -524,28 +546,6 @@
     "to_regime": "Chaos",
     "metrics_snapshot": {
       "nexus_score": 38.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-07T19:56:31.939664Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Consensus",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 66.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-07T19:56:31.939664Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 37.2,
       "macro_sensitivity": 0.0
     }
   }
