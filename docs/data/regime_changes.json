@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-09T13:37:17.369451Z",
+    "market_id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next Speaker of the House?",
+    "from_regime": "Dormant",
+    "to_regime": "Consensus",
+    "metrics_snapshot": {
+      "nexus_score": 67.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-09T08:56:46.238813Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 56.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-07T19:46:24.294817Z",
-    "market_id": "KXPERSONPRESFUENTES-45",
-    "question": "Will Nick Fuentes become President of the United States before 2045?",
-    "from_regime": "Stable",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 58.1,
       "macro_sensitivity": 0.0
     }
   }
