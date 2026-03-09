@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-09T07:15:25.088934Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 52.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-09T06:04:05.003768Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -535,17 +546,6 @@
     "to_regime": "Solid",
     "metrics_snapshot": {
       "nexus_score": 72.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-07T17:58:49.714653Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 67.4,
       "macro_sensitivity": 0.0
     }
   }
