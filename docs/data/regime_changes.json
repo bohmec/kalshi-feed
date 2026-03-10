@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-10T11:40:11.956298Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Stable",
+    "to_regime": "Undervalued",
+    "metrics_snapshot": {
+      "nexus_score": 45.6,
+      "macro_sensitivity": 0.9
+    }
+  },
+  {
     "timestamp": "2026-03-10T07:10:04.359740Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated",
     "metrics_snapshot": {
       "nexus_score": 63.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T06:56:40.444063Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Stable",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 73.5,
       "macro_sensitivity": 0.0
     }
   }
