@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-10T07:10:04.359740Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 49.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-10T07:10:04.359740Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will be the next new Prime Minister of Israel?",
+    "from_regime": "Undervalued",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 65.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-10T05:34:04.663550Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -524,28 +546,6 @@
     "to_regime": "Consensus",
     "metrics_snapshot": {
       "nexus_score": 73.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T06:56:40.444063Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos | High-Conflict",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 39.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T05:52:26.375183Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 50.2,
       "macro_sensitivity": 0.0
     }
   }
