@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-11T16:28:46.381481Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued",
+    "to_regime": "Undervalued | Forming",
+    "metrics_snapshot": {
+      "nexus_score": 48.4,
+      "macro_sensitivity": -3.04
+    }
+  },
+  {
+    "timestamp": "2026-03-11T16:28:46.381481Z",
+    "market_id": "KXPERFORMBONDSONG-35",
+    "question": "Who will perform the next James Bond theme?",
+    "from_regime": "Overheated | Scatter | High-Conflict",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 42.4,
+      "macro_sensitivity": -0.1
+    }
+  },
+  {
     "timestamp": "2026-03-11T15:25:24.191648Z",
     "market_id": "KXPERFORMBONDSONG-35",
     "question": "Who will perform the next James Bond theme?",
@@ -524,28 +546,6 @@
     "to_regime": "Consensus",
     "metrics_snapshot": {
       "nexus_score": 72.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T10:55:05.840016Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos",
-    "to_regime": "Overheated | Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 36.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T10:35:22.298158Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 50.2,
       "macro_sensitivity": 0.0
     }
   }
