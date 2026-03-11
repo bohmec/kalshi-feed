@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-11T19:53:25.014853Z",
+    "market_id": "KXPERFORMBONDSONG-35",
+    "question": "Who will perform the next James Bond theme?",
+    "from_regime": "Overheated | Forming | High-Conflict",
+    "to_regime": "Overheated | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 42.6,
+      "macro_sensitivity": -0.1
+    }
+  },
+  {
+    "timestamp": "2026-03-11T19:53:25.014853Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Stable",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 46.4,
+      "macro_sensitivity": 0.79
+    }
+  },
+  {
     "timestamp": "2026-03-11T19:12:05.149161Z",
     "market_id": "KXPERFORMBONDSONG-35",
     "question": "Who will perform the next James Bond theme?",
@@ -524,28 +546,6 @@
     "to_regime": "Overheated | Consensus | Forming",
     "metrics_snapshot": {
       "nexus_score": 71.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T13:51:38.910047Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Chaos | High-Conflict",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 38.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T13:07:06.822161Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Overheated | Consensus",
-    "to_regime": "Consensus | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 77.0,
       "macro_sensitivity": 0.0
     }
   }
