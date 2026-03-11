@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-11T19:12:05.149161Z",
+    "market_id": "KXPERFORMBONDSONG-35",
+    "question": "Who will perform the next James Bond theme?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Overheated | Forming | High-Conflict",
+    "metrics_snapshot": {
+      "nexus_score": 42.4,
+      "macro_sensitivity": -0.1
+    }
+  },
+  {
     "timestamp": "2026-03-11T17:29:11.368227Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Consensus | Forming",
     "metrics_snapshot": {
       "nexus_score": 77.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T13:07:06.822161Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Overheated | Chaos | High-Conflict",
-    "to_regime": "Chaos | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 36.7,
       "macro_sensitivity": 0.0
     }
   }
