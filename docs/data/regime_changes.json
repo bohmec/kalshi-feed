@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-11T21:16:54.191315Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 60.0,
+      "macro_sensitivity": -0.09
+    }
+  },
+  {
+    "timestamp": "2026-03-11T21:16:54.191315Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 47.2,
+      "macro_sensitivity": 0.81
+    }
+  },
+  {
     "timestamp": "2026-03-11T20:42:40.114714Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -524,28 +546,6 @@
     "to_regime": "Consensus | Forming",
     "metrics_snapshot": {
       "nexus_score": 72.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T17:52:54.516487Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Overheated | Scatter",
-    "to_regime": "Overheated | Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 69.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T17:33:40.287116Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Consensus",
-    "to_regime": "Overheated | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 65.2,
       "macro_sensitivity": 0.0
     }
   }
