@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-11T23:35:16.525806Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Overheated",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 59.1,
+      "macro_sensitivity": -0.09
+    }
+  },
+  {
+    "timestamp": "2026-03-11T23:35:16.525806Z",
+    "market_id": "KXERUPTSUPER-0",
+    "question": "Will a supervolcano erupt before 2050?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 53.0,
+      "macro_sensitivity": -0.37
+    }
+  },
+  {
     "timestamp": "2026-03-11T23:00:18.725562Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -524,28 +546,6 @@
     "to_regime": "Consensus",
     "metrics_snapshot": {
       "nexus_score": 73.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T20:37:09.967516Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 50.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T20:37:09.967516Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Consensus | Forming",
-    "to_regime": "Overheated | Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 71.4,
       "macro_sensitivity": 0.0
     }
   }
