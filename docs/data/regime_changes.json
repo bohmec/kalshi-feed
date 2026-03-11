@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-11T07:28:02.224451Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Forming",
+    "to_regime": "Stable",
+    "metrics_snapshot": {
+      "nexus_score": 49.6,
+      "macro_sensitivity": 0.62
+    }
+  },
+  {
     "timestamp": "2026-03-11T02:44:20.439844Z",
     "market_id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Consensus",
     "metrics_snapshot": {
       "nexus_score": 60.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T09:39:51.363445Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 50.7,
       "macro_sensitivity": 0.0
     }
   }
