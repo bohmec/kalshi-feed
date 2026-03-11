@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-11T20:42:40.114714Z",
+    "market_id": "KXRAMPBREX-40",
+    "question": "Will Ramp or Brex IPO first?",
+    "from_regime": "Undervalued | Consensus | Forming",
+    "to_regime": "Undervalued | Scatter",
+    "metrics_snapshot": {
+      "nexus_score": 48.1,
+      "macro_sensitivity": -5.0
+    }
+  },
+  {
+    "timestamp": "2026-03-11T20:42:40.114714Z",
+    "market_id": "KXERUPTSUPER-0",
+    "question": "Will a supervolcano erupt before 2050?",
+    "from_regime": "Chaos | Forming",
+    "to_regime": "Chaos",
+    "metrics_snapshot": {
+      "nexus_score": 51.2,
+      "macro_sensitivity": -0.34
+    }
+  },
+  {
     "timestamp": "2026-03-11T19:53:25.014853Z",
     "market_id": "KXPERFORMBONDSONG-35",
     "question": "Who will perform the next James Bond theme?",
@@ -524,28 +546,6 @@
     "to_regime": "Overheated | Scatter",
     "metrics_snapshot": {
       "nexus_score": 65.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T14:34:10.384810Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Overheated | Consensus | Forming",
-    "to_regime": "Consensus",
-    "metrics_snapshot": {
-      "nexus_score": 76.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T13:51:38.910047Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Consensus | Forming",
-    "to_regime": "Overheated | Consensus | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 71.2,
       "macro_sensitivity": 0.0
     }
   }
