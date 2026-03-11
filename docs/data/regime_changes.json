@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-11T23:00:18.725562Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Stable",
+    "to_regime": "Overheated",
+    "metrics_snapshot": {
+      "nexus_score": 57.8,
+      "macro_sensitivity": -0.09
+    }
+  },
+  {
     "timestamp": "2026-03-11T22:44:20.986965Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Overheated | Consensus",
     "metrics_snapshot": {
       "nexus_score": 71.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T19:56:48.741339Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Chaos | Scatter",
-    "to_regime": "Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 50.0,
       "macro_sensitivity": 0.0
     }
   }
