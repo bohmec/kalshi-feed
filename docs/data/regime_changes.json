@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-11T02:44:20.439844Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Chaos",
+    "to_regime": "Forming",
+    "metrics_snapshot": {
+      "nexus_score": 49.5,
+      "macro_sensitivity": 0.63
+    }
+  },
+  {
     "timestamp": "2026-03-10T19:23:17.486760Z",
     "market_id": "KXRAMPBREX-40",
     "question": "Will Ramp or Brex IPO first?",
@@ -535,17 +546,6 @@
     "to_regime": "Stable",
     "metrics_snapshot": {
       "nexus_score": 50.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-08T09:39:51.363445Z",
-    "market_id": "KXNEXTIRANLEADER-45JAN01",
-    "question": "Who will be the next Supreme Leader of Iran? (death settles to last traded price)",
-    "from_regime": "Overheated | Consensus",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 62.0,
       "macro_sensitivity": 0.0
     }
   }
