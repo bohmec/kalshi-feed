@@ -1,552 +1,552 @@
 [
   {
-    "timestamp": "2026-03-19T00:50:41Z",
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXSCOTUSRESIGN-29",
+    "question": "Which Supreme Court justices will resign during Trump's term?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 29.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
     "market_id": "KXLIVENATIONUS-30",
     "question": "Courts consider Live Nation a monopoly?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 67.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T00:50:41Z",
-    "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
-    "question": "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
-    "from_regime": "Overheated | Scatter | High-Conflict",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 36.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T00:48:15Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 63.9,
-      "macro_sensitivity": 0.42
-    }
-  },
-  {
-    "timestamp": "2026-03-19T00:14:28Z",
-    "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
-    "question": "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated | Scatter | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 36.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T00:14:28Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
     "from_regime": "Stable",
-    "to_regime": "Overheated",
+    "to_regime": "Volatile",
     "metrics_snapshot": {
-      "nexus_score": 56.2,
-      "macro_sensitivity": 0.42
+      "nexus_score": 38.7,
+      "macro_sensitivity": 0.0
     }
   },
   {
-    "timestamp": "2026-03-12T02:50:06.015148Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 62.5,
-      "macro_sensitivity": 0.21
-    }
-  },
-  {
-    "timestamp": "2026-03-12T02:50:06.015148Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXFTAPRC-29",
+    "question": "Will Trump make a new free trade agreement with China?",
     "from_regime": "Chaos",
-    "to_regime": "Stable",
+    "to_regime": "Volatile",
     "metrics_snapshot": {
-      "nexus_score": 45.0,
-      "macro_sensitivity": 1.02
+      "nexus_score": 24.2,
+      "macro_sensitivity": 0.0
     }
   },
   {
-    "timestamp": "2026-03-11T23:55:08.893775Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXSTATE-29",
+    "question": "Will Trump add a 51st state to the US?",
     "from_regime": "Stable",
-    "to_regime": "Chaos",
+    "to_regime": "Volatile",
     "metrics_snapshot": {
-      "nexus_score": 45.8,
+      "nexus_score": 36.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXSPACEXMARS-30",
+    "question": "Will SpaceX land anything successfully on Mars before 2030?",
+    "from_regime": "Chaos",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 27.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXGOVTCUTS-28",
+    "question": "How much government spending will Trump cut before his term ends?",
+    "from_regime": "Undervalued",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 24.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXDEBTGROWTH-28DEC31",
+    "question": "Peak US National Debt Under Trump Administration",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 24.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "CHINAUSGDP",
+    "question": "China overtakes USA\u2019s economy by 2030?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 30.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Overheated | Chaos | High-Conflict",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 30.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXFEDEND-29",
+    "question": "Will Trump end the Federal Reserve?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 42.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXCANTERRITORY-29",
+    "question": "Will the US take control of any part of Canada?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 36.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXNEXTDHSSEC-29",
+    "question": "Who will be Trump's next DHS secretary?",
+    "from_regime": "Consensus",
+    "to_regime": "Calibrating",
+    "metrics_snapshot": {
+      "nexus_score": 71.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXH1B-29",
+    "question": "Will Trump expand the H1-B program?",
+    "from_regime": "Chaos",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 27.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Undervalued",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 37.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 34.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "POWER-28",
+    "question": "2028: Who will win the Presidency, House, and Senate?",
+    "from_regime": "Stable",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 50.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXGDPUSMAX-28",
+    "question": "Will there be a Trump economic boom?",
+    "from_regime": "Chaos",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 25.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Stable",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 51.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 34.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Undervalued | Consensus",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 33.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXNEWSCOTUSCONF-29JAN20",
+    "question": "How many Supreme Court justices will the President confirm?",
+    "from_regime": "Stable",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 58.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXSCOURT-29",
+    "question": "Who will be the next Supreme Court justice?",
+    "from_regime": "Stable",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 57.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Overheated",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 48.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 37.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 22.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Overheated | Chaos | High-Conflict",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 24.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXIMPEACH-29",
+    "question": "Will President Trump be impeached during his term?",
+    "from_regime": "Chaos",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 30.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXUSAEXPANDTERRITORY",
+    "question": "Will the US acquire any new territory?",
+    "from_regime": "Chaos",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 42.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Stable",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 32.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPRESPARTY-2028",
+    "question": "2028 Presidential Election winner? (Party)",
+    "from_regime": "Chaos",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 54.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXMUSKTRILLION",
+    "question": "When will Elon Musk become a trillionaire?",
+    "from_regime": "Overheated | High-Conflict",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 22.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXINSURRECTION-29",
+    "question": "Will Trump invoke the Insurrection Act?",
+    "from_regime": "Undervalued",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 45.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXBOND-30",
+    "question": "Who will be the next James Bond?",
+    "from_regime": "Overheated",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 38.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXGTAPRICE",
+    "question": "What will the price of GTA VI be on PS5?",
+    "from_regime": "Overheated | Chaos | High-Conflict",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 26.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXNEXTUKPM-30",
+    "question": "Who will be the next Prime Minister of the UK?",
+    "from_regime": "Undervalued",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 45.3,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXCANAL-29",
+    "question": "Will Trump take back the Panama Canal?",
+    "from_regime": "Chaos",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 26.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXSTATE51-29",
+    "question": "What will be the 51st state in Trump's term?",
+    "from_regime": "Undervalued | Forming",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 33.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXCABOUT-26MAR",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Stable",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 44.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXGREENLANDPRICE-29JAN21",
+    "question": "How much will the US acquire Greenland for?",
+    "from_regime": "Consensus",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 60.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXGREENTERRITORY-29",
+    "question": "Will the US take control of any part of Greenland?",
+    "from_regime": "Undervalued | Consensus",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 40.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXGREENLAND-29",
+    "question": "Will Trump buy at least part of Greenland?",
+    "from_regime": "Undervalued",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 36.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Undervalued",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 50.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXAGICO-COMP",
+    "question": "When will any company achieve AGI?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 27.6,
+      "macro_sensitivity": -0.16
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPERFORMROLE007",
+    "question": "Who will play the next Bond girl?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 31.0,
+      "macro_sensitivity": 0.07
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPERFORMROLE007-Q",
+    "question": "Who will play Q in the next James Bond?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 29.4,
+      "macro_sensitivity": 0.05
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPERFORMROLE007-FELIX",
+    "question": "Who will play Felix Leiter in the next James Bond?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 22.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPERFORMROLE007-M",
+    "question": "Who will play M in the next James Bond film?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 24.4,
+      "macro_sensitivity": 0.75
+    }
+  },
+  {
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXPERFORMROLE007-MONEYPENNY",
+    "question": "Who will play Moneypenny in the next James Bond?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 21.8,
       "macro_sensitivity": 0.83
     }
   },
   {
-    "timestamp": "2026-03-11T23:35:16.525806Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 59.1,
-      "macro_sensitivity": -0.09
-    }
-  },
-  {
-    "timestamp": "2026-03-11T23:35:16.525806Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 53.0,
-      "macro_sensitivity": -0.37
-    }
-  },
-  {
-    "timestamp": "2026-03-11T23:00:18.725562Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Stable",
-    "to_regime": "Overheated",
-    "metrics_snapshot": {
-      "nexus_score": 57.8,
-      "macro_sensitivity": -0.09
-    }
-  },
-  {
-    "timestamp": "2026-03-11T22:44:20.986965Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Scatter",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 47.8,
-      "macro_sensitivity": -5.0
-    }
-  },
-  {
-    "timestamp": "2026-03-11T21:49:51.476416Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Chaos",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 52.9,
-      "macro_sensitivity": -0.38
-    }
-  },
-  {
-    "timestamp": "2026-03-11T21:16:54.191315Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Overheated",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 60.0,
-      "macro_sensitivity": -0.09
-    }
-  },
-  {
-    "timestamp": "2026-03-11T21:16:54.191315Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 47.2,
-      "macro_sensitivity": 0.81
-    }
-  },
-  {
-    "timestamp": "2026-03-11T20:42:40.114714Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Consensus | Forming",
-    "to_regime": "Undervalued | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 48.1,
-      "macro_sensitivity": -5.0
-    }
-  },
-  {
-    "timestamp": "2026-03-11T20:42:40.114714Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Chaos | Forming",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 51.2,
-      "macro_sensitivity": -0.34
-    }
-  },
-  {
-    "timestamp": "2026-03-11T19:53:25.014853Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | Forming | High-Conflict",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 42.6,
-      "macro_sensitivity": -0.1
-    }
-  },
-  {
-    "timestamp": "2026-03-11T19:53:25.014853Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Stable",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 46.4,
-      "macro_sensitivity": 0.79
-    }
-  },
-  {
-    "timestamp": "2026-03-11T19:12:05.149161Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated | Forming | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 42.4,
-      "macro_sensitivity": -0.1
-    }
-  },
-  {
-    "timestamp": "2026-03-11T17:29:11.368227Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Forming",
-    "to_regime": "Undervalued | Consensus | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 52.6,
-      "macro_sensitivity": -5.0
-    }
-  },
-  {
-    "timestamp": "2026-03-11T17:29:11.368227Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 51.1,
-      "macro_sensitivity": -0.34
-    }
-  },
-  {
-    "timestamp": "2026-03-11T16:28:46.381481Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Undervalued | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 48.4,
-      "macro_sensitivity": -3.04
-    }
-  },
-  {
-    "timestamp": "2026-03-11T16:28:46.381481Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | Scatter | High-Conflict",
-    "to_regime": "Overheated | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 42.4,
-      "macro_sensitivity": -0.1
-    }
-  },
-  {
-    "timestamp": "2026-03-11T15:25:24.191648Z",
-    "market_id": "KXPERFORMBONDSONG-35",
-    "question": "Who will perform the next James Bond theme?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Overheated | Scatter | High-Conflict",
-    "metrics_snapshot": {
-      "nexus_score": 38.0,
-      "macro_sensitivity": -0.15
-    }
-  },
-  {
-    "timestamp": "2026-03-11T07:28:02.224451Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Forming",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 49.6,
-      "macro_sensitivity": 0.62
-    }
-  },
-  {
-    "timestamp": "2026-03-11T02:44:20.439844Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 49.5,
-      "macro_sensitivity": 0.63
-    }
-  },
-  {
-    "timestamp": "2026-03-10T19:23:17.486760Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Forming",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 45.1,
-      "macro_sensitivity": -2.1
-    }
-  },
-  {
-    "timestamp": "2026-03-10T15:35:32.825449Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 45.4,
-      "macro_sensitivity": -2.21
-    }
-  },
-  {
-    "timestamp": "2026-03-10T14:26:58.741978Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 53.8,
-      "macro_sensitivity": 0.14
-    }
-  },
-  {
-    "timestamp": "2026-03-10T13:23:40.846443Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 46.7,
-      "macro_sensitivity": 0.85
-    }
-  },
-  {
-    "timestamp": "2026-03-10T12:03:24.826126Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 46.4,
-      "macro_sensitivity": 0.88
-    }
-  },
-  {
-    "timestamp": "2026-03-10T11:40:11.956298Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 45.6,
-      "macro_sensitivity": 0.9
-    }
-  },
-  {
-    "timestamp": "2026-03-10T07:10:04.359740Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 49.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-10T07:10:04.359740Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 65.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-10T05:34:04.663550Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos | Forming",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 48.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T23:59:22.602876Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Scatter",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 48.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T23:45:01.636149Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Undervalued | Scatter",
-    "metrics_snapshot": {
-      "nexus_score": 48.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T23:45:01.636149Z",
-    "market_id": "KXEARTHQUAKECALIFORNIA-35",
-    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "from_regime": "Chaos",
-    "to_regime": "Chaos | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 48.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T22:14:49.001023Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Forming",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 48.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T22:14:49.001023Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 62.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T21:49:14.719698Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued",
-    "to_regime": "Undervalued | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 49.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T21:17:10.047491Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Undervalued",
-    "to_regime": "Stable",
-    "metrics_snapshot": {
-      "nexus_score": 63.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T20:45:24.673235Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Undervalued | Forming",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 48.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T20:00:04.007289Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will be the next new Prime Minister of Israel?",
-    "from_regime": "Stable",
-    "to_regime": "Undervalued",
-    "metrics_snapshot": {
-      "nexus_score": 61.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T19:25:38.003582Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Forming",
-    "to_regime": "Undervalued | Forming",
-    "metrics_snapshot": {
-      "nexus_score": 48.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T19:25:38.003582Z",
-    "market_id": "KXERUPTSUPER-0",
-    "question": "Will a supervolcano erupt before 2050?",
-    "from_regime": "Stable",
-    "to_regime": "Chaos",
-    "metrics_snapshot": {
-      "nexus_score": 49.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T17:35:49.042406Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Stable",
-    "to_regime": "Forming",
-    "metrics_snapshot": {
-      "nexus_score": 49.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-09T13:37:17.369451Z",
-    "market_id": "KXNEXTSPEAKER-31",
-    "question": "Who will be the next Speaker of the House?",
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXACTORTOMCRUZ-30",
+    "question": "Will Tom Cruise be cast in another Film With Ana de Armas?",
     "from_regime": "Dormant",
-    "to_regime": "Consensus",
+    "to_regime": "Volatile",
     "metrics_snapshot": {
-      "nexus_score": 67.6,
+      "nexus_score": 24.3,
       "macro_sensitivity": 0.0
     }
   },
   {
-    "timestamp": "2026-03-09T08:56:46.238813Z",
-    "market_id": "KXRAMPBREX-40",
-    "question": "Will Ramp or Brex IPO first?",
-    "from_regime": "Scatter",
-    "to_regime": "Stable",
+    "timestamp": "2026-03-19T01:53:31Z",
+    "market_id": "KXYTUBESUBSISHOWSPEED",
+    "question": "When will IShowSpeed reach 100 million Youtube subscribers?",
+    "from_regime": "Dormant",
+    "to_regime": "Volatile",
     "metrics_snapshot": {
-      "nexus_score": 50.1,
-      "macro_sensitivity": 0.0
+      "nexus_score": 25.8,
+      "macro_sensitivity": 0.67
     }
   }
 ]
