@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T02:01:14Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Volatile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 37.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T01:53:31Z",
     "market_id": "KXSCOTUSRESIGN-29",
     "question": "Which Supreme Court justices will resign during Trump's term?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 24.3,
       "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXYTUBESUBSISHOWSPEED",
-    "question": "When will IShowSpeed reach 100 million Youtube subscribers?",
-    "from_regime": "Dormant",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 25.8,
-      "macro_sensitivity": 0.67
     }
   }
 ]
