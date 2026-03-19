@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-19T12:30:55Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Fragile",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 34.1,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T12:30:55Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Volatile | Fragile",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 40.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T12:00:49Z",
     "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
     "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
@@ -524,28 +546,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 26.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXSTATE51-29",
-    "question": "What will be the 51st state in Trump's term?",
-    "from_regime": "Undervalued | Forming",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 33.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXCABOUT-26MAR",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Stable",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 44.0,
       "macro_sensitivity": 0.0
     }
   }
