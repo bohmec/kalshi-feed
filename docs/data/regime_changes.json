@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T21:01:18Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Volatile | Fragile",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 25.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T17:01:02Z",
     "market_id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
@@ -535,17 +546,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 30.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXUSAEXPANDTERRITORY",
-    "question": "Will the US acquire any new territory?",
-    "from_regime": "Chaos",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 42.8,
       "macro_sensitivity": 0.0
     }
   }
