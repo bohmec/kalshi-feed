@@ -128,7 +128,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: bohmec/kalshi-db
-          token: ${{ secrets.DB_REPO_PAT }}
+          token: ${{ secrets.TOKEN1 }}
           path: kalshi_db
 
       - name: Setup Python
