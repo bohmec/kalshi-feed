@@ -19,13 +19,6 @@ jobs:
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
-      - name: Checkout kalshi-db
-        uses: actions/checkout@v4
-        with:
-          repository: bohmec/kalshi-db
-          token: ${{ secrets.TOKEN1 }}
-          path: kalshi_db
-
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -38,25 +31,14 @@ jobs:
         env:
           KALSHI_KEY_ID:      ${{ secrets.KALSHI_KEY_ID }}
           KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
-          KALSHI_DB_DIR:      ${{ github.workspace }}/kalshi_db
+          KALSHI_SUPABASE_URL: ${{ secrets.KALSHI_SUPABASE_URL }}
+          KALSHI_SUPABASE_KEY: ${{ secrets.KALSHI_SUPABASE_KEY }}
+          R2_ACCOUNT_ID:       ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID:    ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
         run: |
           cd private-brain
           python main.py
-
-      - name: Commit DB changes
-        if: always()
-        run: |
-          cd ${{ github.workspace }}/kalshi_db
-          git config user.name  "kalshi-nexus-bot"
-          git config user.email "bot@kalshi-nexus"
-          git add -A
-          if git diff --staged --quiet; then
-            echo "✅ No DB changes."
-          else
-            git commit -m "auto: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase -X theirs origin main
-            git push
-          fi
 
       - name: Upload Results
         uses: actions/upload-artifact@v4
