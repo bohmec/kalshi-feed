@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-19T14:31:01Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Volatile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 37.7,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T14:31:01Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Volatile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 44.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T14:00:53Z",
     "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
     "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
@@ -524,28 +546,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 54.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXMUSKTRILLION",
-    "question": "When will Elon Musk become a trillionaire?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 22.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Undervalued",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 45.6,
       "macro_sensitivity": 0.0
     }
   }
