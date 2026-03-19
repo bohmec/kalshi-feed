@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T10:00:45Z",
+    "market_id": "KXCABOUT-26MAR",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Volatile",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 31.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T09:30:49Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -535,17 +546,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 60.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXGREENTERRITORY-29",
-    "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Undervalued | Consensus",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 40.7,
       "macro_sensitivity": 0.0
     }
   }
