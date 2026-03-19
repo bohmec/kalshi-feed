@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T12:00:49Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Active",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 48.9,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T10:00:45Z",
     "market_id": "KXCABOUT-26MAR",
     "question": "Who will leave Trump's Cabinet next?",
@@ -535,17 +546,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 44.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXGREENLANDPRICE-29JAN21",
-    "question": "How much will the US acquire Greenland for?",
-    "from_regime": "Consensus",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 60.5,
       "macro_sensitivity": 0.0
     }
   }
