@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T13:00:58Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Volatile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 49.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T12:30:55Z",
     "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
     "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
@@ -535,17 +546,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 45.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXCANAL-29",
-    "question": "Will Trump take back the Panama Canal?",
-    "from_regime": "Chaos",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 26.2,
       "macro_sensitivity": 0.0
     }
   }
