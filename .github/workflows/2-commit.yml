@@ -1,8 +1,8 @@
-name: 2. Distribute & Commit
+name: 2. Kalshi-Hive — Distribute & Commit
 
 on:
   workflow_run:
-    workflows: ["1. Calculate & Analyze (Kalshi)"]
+    workflows: ["1. Kalshi-Hive — Calculate & Analyze"]
     types:
       - completed
 
