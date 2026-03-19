@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T13:30:54Z",
+    "market_id": "KXCABOUT-26MAR",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Volatile | Fragile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 38.8,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T13:00:58Z",
     "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
     "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
@@ -535,17 +546,6 @@
     "to_regime": "Volatile | Fragile",
     "metrics_snapshot": {
       "nexus_score": 26.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXNEXTUKPM-30",
-    "question": "Who will be the next Prime Minister of the UK?",
-    "from_regime": "Undervalued",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 45.3,
       "macro_sensitivity": 0.0
     }
   }
