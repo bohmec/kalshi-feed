@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T15:01:04Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Fragile",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 35.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T14:31:01Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -535,17 +546,6 @@
     "to_regime": "Volatile | Fragile",
     "metrics_snapshot": {
       "nexus_score": 32.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXPRESPARTY-2028",
-    "question": "2028 Presidential Election winner? (Party)",
-    "from_regime": "Chaos",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 54.7,
       "macro_sensitivity": 0.0
     }
   }
