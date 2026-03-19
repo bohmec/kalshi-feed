@@ -2,7 +2,6 @@ name: 1. Calculate & Analyze (Kalshi)
 
 on:
   schedule:
-    # Polymarket과 5분 시차 (05, 20, 35, 50분)
     - cron: '5-59/15 * * * *'
   workflow_dispatch:
 
@@ -16,9 +15,17 @@ jobs:
       - name: Checkout Private Brain
         uses: actions/checkout@v4
         with:
-          repository: bohmec/kalshi-core # [수정] 본인 저장소명
+          repository: bohmec/kalshi-core
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
+
+      # ── kalshi-db 체크아웃 (DB 파일 읽기/쓰기용) ────────────────────────
+      - name: Checkout kalshi-db
+        uses: actions/checkout@v4
+        with:
+          repository: bohmec/kalshi-db
+          token: ${{ secrets.DB_REPO_PAT }}
+          path: kalshi_db
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -30,16 +37,32 @@ jobs:
 
       - name: Run Engine
         env:
-          KALSHI_KEY_ID: ${{ secrets.KALSHI_KEY_ID }}
+          KALSHI_KEY_ID:      ${{ secrets.KALSHI_KEY_ID }}
           KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
+          KALSHI_DB_DIR:      ${{ github.workspace }}/kalshi_db
         run: |
           cd private-brain
           python main.py
+
+      # ── kalshi-db에 변경사항 commit & push ──────────────────────────────
+      - name: Commit DB changes
+        if: always()
+        run: |
+          cd ${{ github.workspace }}/kalshi_db
+          git config user.name  "kalshi-nexus-bot"
+          git config user.email "bot@kalshi-nexus"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "✅ No DB changes."
+          else
+            git commit -m "auto: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase -X theirs origin main
+            git push
+          fi
 
       - name: Upload Results
         uses: actions/upload-artifact@v4
         with:
           name: nexus-data
           path: private-brain/data_output/
-
           retention-days: 1
