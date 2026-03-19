@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T23:30:50Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Volatile",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 24.6,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T21:01:18Z",
     "market_id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
@@ -535,17 +546,6 @@
     "to_regime": "Volatile | Fragile",
     "metrics_snapshot": {
       "nexus_score": 24.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXIMPEACH-29",
-    "question": "Will President Trump be impeached during his term?",
-    "from_regime": "Chaos",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 30.8,
       "macro_sensitivity": 0.0
     }
   }
