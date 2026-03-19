@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-03-19T05:30:43Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Fragile",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 50.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19T05:30:43Z",
+    "market_id": "KXBOND-30",
+    "question": "Who will be the next James Bond?",
+    "from_regime": "Volatile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 44.2,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T03:49:20Z",
     "market_id": "KXBOND-30",
     "question": "Who will be the next James Bond?",
@@ -525,28 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 29.4,
       "macro_sensitivity": 0.05
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXPERFORMROLE007-FELIX",
-    "question": "Who will play Felix Leiter in the next James Bond?",
-    "from_regime": "Dormant",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 22.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXPERFORMROLE007-M",
-    "question": "Who will play M in the next James Bond film?",
-    "from_regime": "Dormant",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 24.4,
-      "macro_sensitivity": 0.75
     }
   }
 ]
