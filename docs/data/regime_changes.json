@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T08:00:39Z",
+    "market_id": "KXCABOUT-26MAR",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Volatile",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 32.4,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T06:00:40Z",
     "market_id": "KXBOND-30",
     "question": "Who will be the next James Bond?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 50.9,
       "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXAGICO-COMP",
-    "question": "When will any company achieve AGI?",
-    "from_regime": "Dormant",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 27.6,
-      "macro_sensitivity": -0.16
     }
   }
 ]
