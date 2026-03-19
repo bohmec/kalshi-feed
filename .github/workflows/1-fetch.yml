@@ -12,14 +12,13 @@ jobs:
       contents: read
 
     steps:
-      - name: Checkout Private Brain
+      - name: Checkout kalshi-core
         uses: actions/checkout@v4
         with:
           repository: bohmec/kalshi-core
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
-      # ── kalshi-db 체크아웃 (DB 파일 읽기/쓰기용) ────────────────────────
       - name: Checkout kalshi-db
         uses: actions/checkout@v4
         with:
@@ -44,7 +43,6 @@ jobs:
           cd private-brain
           python main.py
 
-      # ── kalshi-db에 변경사항 commit & push ──────────────────────────────
       - name: Commit DB changes
         if: always()
         run: |

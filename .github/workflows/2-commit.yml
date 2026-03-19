@@ -22,10 +22,8 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ---------------------------------------------------
-      # [Mission 1] Private Repo 업데이트 (kalshi-core)
-      # ---------------------------------------------------
-      - name: Checkout Private Brain
+      # Mission 1: kalshi-core 업데이트
+      - name: Checkout kalshi-core
         uses: actions/checkout@v4
         with:
           repository: bohmec/kalshi-core
@@ -35,30 +33,14 @@ jobs:
       - name: Push Assets to Private
         run: |
           cd private-brain
+          mkdir -p data_output/archive data_output/api/v1/events data_output/audit_logs data_output/completed_events
 
-          mkdir -p data_output/archive
-          mkdir -p data_output/api/v1/events
-          mkdir -p data_output/audit_logs
-          mkdir -p data_output/completed_events
-
-          if [ -f ../temp_data/active_events.json ]; then
-            cp ../temp_data/active_events.json data_output/
-          fi
-          if [ -d ../temp_data/archive_events ]; then
-            cp -r ../temp_data/archive_events/* data_output/archive/
-          fi
-          if [ -d ../temp_data/api ]; then
-            cp -r ../temp_data/api/* data_output/api/
-          fi
-          if [ -d ../temp_data/audit_logs ]; then
-            cp -r ../temp_data/audit_logs/* data_output/audit_logs/
-          fi
-          if [ -f ../temp_data/regime_changes.json ]; then
-            cp ../temp_data/regime_changes.json data_output/
-          fi
-          if [ -d ../temp_data/completed_events ]; then
-            cp -r ../temp_data/completed_events/* data_output/completed_events/
-          fi
+          [ -f ../temp_data/active_events.json ]       && cp ../temp_data/active_events.json data_output/
+          [ -d ../temp_data/archive_events ]            && cp -r ../temp_data/archive_events/* data_output/archive/
+          [ -d ../temp_data/api ]                       && cp -r ../temp_data/api/* data_output/api/
+          [ -d ../temp_data/audit_logs ]                && cp -r ../temp_data/audit_logs/* data_output/audit_logs/
+          [ -f ../temp_data/regime_changes.json ]       && cp ../temp_data/regime_changes.json data_output/
+          [ -d ../temp_data/completed_events ]          && cp -r ../temp_data/completed_events/* data_output/completed_events/
 
           git config --global user.name  "Kalshi-Nexus Bot"
           git config --global user.email "bot@kalshinexus.com"
@@ -70,9 +52,7 @@ jobs:
             git push
           fi
 
-      # ---------------------------------------------------
-      # [Mission 2] Public Repo 업데이트 (kalshi-feed)
-      # ---------------------------------------------------
+      # Mission 2: kalshi-feed (public) 업데이트
       - name: Checkout Public Face
         uses: actions/checkout@v4
         with:
@@ -85,15 +65,9 @@ jobs:
           cd public-face
           mkdir -p docs/data
 
-          if [ -f ../temp_data/latest_intelligence.json ]; then
-            cp ../temp_data/latest_intelligence.json docs/data/
-          fi
-          if [ -f ../temp_data/regime_changes.json ]; then
-            cp ../temp_data/regime_changes.json docs/data/
-          fi
-          if [ -d docs/data/api ]; then
-            rm -rf docs/data/api
-          fi
+          [ -f ../temp_data/latest_intelligence.json ] && cp ../temp_data/latest_intelligence.json docs/data/
+          [ -f ../temp_data/regime_changes.json ]      && cp ../temp_data/regime_changes.json docs/data/
+          [ -d docs/data/api ]                         && rm -rf docs/data/api
 
           git config --global user.name  "Kalshi-Nexus Bot"
           git config --global user.email "bot@kalshinexus.com"
@@ -102,63 +76,5 @@ jobs:
             echo "No public changes."
           else
             git commit -m "📢 Update Kalshi Dashboard [$(date)]"
-            git push
-          fi
-
-  # ---------------------------------------------------
-  # [Mission 3] Convergence Resolver (6시간마다)
-  # workflow_run 이벤트에서는 cron 트리거 불가 → 별도 workflow 추천
-  # 지금은 매 distribute 실행 시 한 번씩 체크 (idempotent)
-  # ---------------------------------------------------
-  resolve:
-    runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    permissions:
-      contents: read
-
-    steps:
-      - name: Checkout kalshi-core
-        uses: actions/checkout@v4
-        with:
-          repository: bohmec/kalshi-core
-          token: ${{ secrets.TOKEN1 }}
-          path: private-brain
-
-      - name: Checkout kalshi-db
-        uses: actions/checkout@v4
-        with:
-          repository: bohmec/kalshi-db
-          token: ${{ secrets.TOKEN1 }}
-          path: kalshi_db
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install Libraries
-        run: pip install -r private-brain/requirements.txt
-
-      - name: Run Convergence Resolver
-        env:
-          KALSHI_KEY_ID:      ${{ secrets.KALSHI_KEY_ID }}
-          KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
-          KALSHI_DB_DIR:      ${{ github.workspace }}/kalshi_db
-        run: |
-          cd private-brain
-          python src/convergence_resolver.py
-
-      - name: Commit resolver results
-        if: always()
-        run: |
-          cd ${{ github.workspace }}/kalshi_db
-          git config user.name  "kalshi-nexus-bot"
-          git config user.email "bot@kalshi-nexus"
-          git add -A
-          if git diff --staged --quiet; then
-            echo "✅ No resolver changes."
-          else
-            git commit -m "resolver: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git pull --rebase -X theirs origin main
             git push
           fi
