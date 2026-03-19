@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-19T03:16:14Z",
+    "market_id": "KXBOND-30",
+    "question": "Who will be the next James Bond?",
+    "from_regime": "Volatile",
+    "to_regime": "Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 42.5,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T02:01:14Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -536,17 +547,6 @@
     "metrics_snapshot": {
       "nexus_score": 21.8,
       "macro_sensitivity": 0.83
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXACTORTOMCRUZ-30",
-    "question": "Will Tom Cruise be cast in another Film With Ana de Armas?",
-    "from_regime": "Dormant",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 24.3,
-      "macro_sensitivity": 0.0
     }
   }
 ]
