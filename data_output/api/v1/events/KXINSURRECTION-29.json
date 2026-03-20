@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-20T19:31:31.942814Z",
-    "last_api_seen": "2026-03-20T19:31:31.942814Z"
+    "first_seen_at": "2026-03-20T20:01:42.132989Z",
+    "last_api_seen": "2026-03-20T20:01:42.132989Z"
   },
   "history": [
     {
@@ -2125,30 +2125,30 @@
       }
     },
     {
-      "t": "2026-03-20T19:31:31Z",
+      "t": "2026-03-20T20:01:42Z",
       "metrics": {
-        "total_volume": 387020.0,
+        "total_volume": 387030.0,
         "prob_sum": 0.945,
         "outcome_count": 3,
-        "btc": 69860.4609,
-        "sp500": 646.935,
+        "btc": 70164.5312,
+        "sp500": 648.54,
         "rates": 4.391,
-        "eth": 2125.0898,
+        "eth": 2133.4172,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 35298.0,
-          "ask_volume": 26047.0,
+          "bid_volume": 35218.0,
+          "ask_volume": 25796.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.15080283641698589,
+          "order_imbalance": 0.1544235749172321,
           "success": true
         }
       },
       "outcomes": {
         "KXINSURRECTION-29-27": {
           "p": 0.28,
-          "v": 217364,
+          "v": 217374,
           "l": 100874,
           "sp": null
         },
@@ -2171,7 +2171,7 @@
   "latest_analysis": {
     "score": 45.5,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T19:31:31.942814Z"
+    "timestamp": "2026-03-20T20:01:42.132989Z"
   },
   "last_flags": [
     "Correlated"
@@ -2179,7 +2179,7 @@
   "analysis": {
     "score": 45.5,
     "state": "Macro-Driven",
-    "liq_score": 15.3,
+    "liq_score": 15.0,
     "eff_score": 12.5,
     "ind_score": 78.0,
     "conv_score": 56.0

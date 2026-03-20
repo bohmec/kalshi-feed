@@ -13,8 +13,8 @@
       "KXGTAPRICE-90": "What will the price of GTA VI be?",
       "KXGTAPRICE-60": "What will the price of GTA VI be?"
     },
-    "first_seen_at": "2026-03-20T19:31:31.942814Z",
-    "last_api_seen": "2026-03-20T19:31:31.942814Z"
+    "first_seen_at": "2026-03-20T20:01:42.132989Z",
+    "last_api_seen": "2026-03-20T20:01:42.132989Z"
   },
   "history": [
     {
@@ -2925,49 +2925,49 @@
       }
     },
     {
-      "t": "2026-03-20T19:31:31Z",
+      "t": "2026-03-20T20:01:42Z",
       "metrics": {
-        "total_volume": 416318.0,
-        "prob_sum": 2.18,
+        "total_volume": 416824.0,
+        "prob_sum": 2.21,
         "outcome_count": 5,
-        "btc": 69860.4609,
-        "sp500": 646.935,
+        "btc": 70164.5312,
+        "sp500": 648.54,
         "rates": 4.391,
-        "eth": 2125.0898,
+        "eth": 2133.4172,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 67187.0,
-          "ask_volume": 10419.0,
+          "ask_volume": 10446.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7314898332603149,
+          "order_imbalance": 0.7308876379889995,
           "success": true
         }
       },
       "outcomes": {
         "KXGTAPRICE-100": {
           "p": 0.12,
-          "v": 126002,
-          "l": 53396,
+          "v": 126364,
+          "l": 53705,
           "sp": null
         },
         "KXGTAPRICE-70": {
-          "p": 0.6,
+          "p": 0.605,
           "v": 100340,
           "l": 26570,
           "sp": null
         },
         "KXGTAPRICE-80": {
-          "p": 0.29,
-          "v": 90365,
-          "l": 32285,
+          "p": 0.31,
+          "v": 90503,
+          "l": 32423,
           "sp": null
         },
         "KXGTAPRICE-90": {
-          "p": 0.2,
-          "v": 87310,
-          "l": 33547,
+          "p": 0.205,
+          "v": 87316,
+          "l": 33541,
           "sp": null
         },
         "KXGTAPRICE-60": {
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 56.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T19:31:31.942814Z"
+    "timestamp": "2026-03-20T20:01:42.132989Z"
   },
   "last_flags": [
     "Contested"

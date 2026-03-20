@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXAMEND22-29-JAN01": "Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029"
     },
-    "first_seen_at": "2026-03-20T19:31:31.942814Z",
-    "last_api_seen": "2026-03-20T19:31:31.942814Z"
+    "first_seen_at": "2026-03-20T20:01:42.132989Z",
+    "last_api_seen": "2026-03-20T20:01:42.132989Z"
   },
   "history": [
     {
@@ -1325,23 +1325,23 @@
       }
     },
     {
-      "t": "2026-03-20T19:31:31Z",
+      "t": "2026-03-20T20:01:42Z",
       "metrics": {
         "total_volume": 201226.0,
         "prob_sum": 0.11,
         "outcome_count": 1,
-        "btc": 69860.4609,
-        "sp500": 646.935,
+        "btc": 70164.5312,
+        "sp500": 648.54,
         "rates": 4.391,
-        "eth": 2125.0898,
+        "eth": 2133.4172,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 45374.0,
-          "ask_volume": 1000116.0,
+          "bid_volume": 44366.0,
+          "ask_volume": 999108.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.9132005088523085,
+          "order_imbalance": -0.9149648194396793,
           "success": true
         }
       },
@@ -1357,13 +1357,13 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 72.7,
+    "score": 72.6,
     "state": "Active",
-    "timestamp": "2026-03-20T19:31:31.942814Z"
+    "timestamp": "2026-03-20T20:01:42.132989Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 72.7,
+    "score": 72.6,
     "state": "Active",
     "liq_score": 75.0,
     "eff_score": 12.5,
