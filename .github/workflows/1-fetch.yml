@@ -12,7 +12,7 @@ concurrency:
 jobs:
   calculate:
     runs-on: ubuntu-latest
-    # [P2-2] timeout 추가 — 1시간 cadence 기준 여유 10분
+    # [추가] timeout: 1시간 cadence 기준 여유 10분
     timeout-minutes: 35
     permissions:
       contents: read
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout kalshi-core
         uses: actions/checkout@v4
         with:
-          repository: ${{ secrets.KALSHI_PRIVATE_REPO }}
+          repository: bohmec/kalshi-core
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 

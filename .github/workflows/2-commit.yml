@@ -6,6 +6,11 @@ on:
     types:
       - completed
 
+# push conflict 방지
+concurrency:
+  group: kalshi-nexus-commit
+  cancel-in-progress: false
+
 jobs:
   distribute:
     runs-on: ubuntu-latest
@@ -26,7 +31,7 @@ jobs:
       - name: Checkout kalshi-core
         uses: actions/checkout@v4
         with:
-          repository: bohmec/kalshi-core
+          repository: ${{ secrets.KALSHI_PRIVATE_REPO }}
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
@@ -46,9 +51,10 @@ jobs:
           git config --global user.email "bot@kalshinexus.com"
           git add data_output/
           if git diff --staged --quiet; then
-            echo "No private changes."
+            echo "✅ No private changes."
           else
             git commit -m "🧠 Update Kalshi Assets [$(date)]"
+            git pull --rebase -X theirs origin main
             git push
           fi
 
@@ -56,8 +62,6 @@ jobs:
       - name: Checkout Public Face
         uses: actions/checkout@v4
         with:
-          repository: bohmec/kalshi-feed
-          token: ${{ secrets.TOKEN1 }}
           path: public-face
 
       - name: Push Intelligence to Public
@@ -73,8 +77,9 @@ jobs:
           git config --global user.email "bot@kalshinexus.com"
           git add docs/data/
           if git diff --staged --quiet; then
-            echo "No public changes."
+            echo "✅ No public changes."
           else
             git commit -m "📢 Update Kalshi Dashboard [$(date)]"
+            git pull --rebase -X theirs origin main
             git push
           fi
