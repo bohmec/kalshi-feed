@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-20T13:01:24.714773Z",
-    "last_api_seen": "2026-03-20T13:01:24.714773Z"
+    "first_seen_at": "2026-03-20T13:31:21.806161Z",
+    "last_api_seen": "2026-03-20T13:31:21.806161Z"
   },
   "history": [
     {
@@ -2125,30 +2125,30 @@
       }
     },
     {
-      "t": "2026-03-20T13:01:24Z",
+      "t": "2026-03-20T13:31:21Z",
       "metrics": {
-        "total_volume": 386963.0,
+        "total_volume": 386966.0,
         "prob_sum": 0.935,
         "outcome_count": 3,
-        "btc": 70317.3984,
-        "sp500": 659.8,
-        "rates": 4.306,
-        "eth": 0.0,
+        "btc": 70446.3438,
+        "sp500": 655.97,
+        "rates": 4.318,
+        "eth": 2146.4902,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 38217.0,
-          "ask_volume": 28286.0,
+          "bid_volume": 34601.0,
+          "ask_volume": 27420.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.14933160910034135,
+          "order_imbalance": 0.11578336369939214,
           "success": true
         }
       },
       "outcomes": {
         "KXINSURRECTION-29-27": {
           "p": 0.28,
-          "v": 217355,
+          "v": 217358,
           "l": 100874,
           "sp": null
         },
@@ -2169,17 +2169,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 47.6,
+    "score": 46.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T13:01:24.714773Z"
+    "timestamp": "2026-03-20T13:31:21.806161Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 47.6,
+    "score": 46.8,
     "state": "Low Confidence",
-    "liq_score": 16.7,
+    "liq_score": 15.3,
     "eff_score": 12.5,
-    "ind_score": 88.7,
+    "ind_score": 86.0,
     "conv_score": 56.0
   }
 }
