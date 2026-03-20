@@ -10,8 +10,8 @@
       "KXOAIANTH-40-ANTH": "Will Open AI or Anthropic IPO first?",
       "KXOAIANTH-40-OAI": "Will OpenAI or Anthropic IPO first?"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -1845,22 +1845,22 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
-        "total_volume": 82870.0,
-        "prob_sum": 1.0,
+        "total_volume": 82874.0,
+        "prob_sum": 1.02,
         "outcome_count": 2,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXOAIANTH-40-ANTH": {
-          "p": 0.435,
-          "v": 44056,
+          "p": 0.455,
+          "v": 44060,
           "l": 18864,
           "sp": null
         },
@@ -1873,19 +1873,21 @@
       }
     }
   ],
-  "last_regime": "Low Confidence",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 49.9,
-    "state": "Low Confidence",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "score": 46.6,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 49.9,
-    "state": "Low Confidence",
+    "score": 46.6,
+    "state": "Macro-Driven",
     "liq_score": 54.7,
     "eff_score": 12.5,
-    "ind_score": 75.3,
-    "conv_score": 32.3
+    "ind_score": 59.3,
+    "conv_score": 29.7
   }
 }

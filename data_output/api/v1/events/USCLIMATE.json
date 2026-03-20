@@ -10,8 +10,8 @@
       "USCLIMATE-2025": "By 2025",
       "USCLIMATE-2030": "By 2030"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -1845,28 +1845,28 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
-        "total_volume": 49334.0,
-        "prob_sum": 0.28,
+        "total_volume": 49336.0,
+        "prob_sum": 0.285,
         "outcome_count": 2,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "USCLIMATE-2025": {
-          "p": 0.075,
-          "v": 43444,
-          "l": 7781,
+          "p": 0.08,
+          "v": 43445,
+          "l": 7782,
           "sp": null
         },
         "USCLIMATE-2030": {
           "p": 0.205,
-          "v": 5890,
+          "v": 5891,
           "l": 2060,
           "sp": null
         }
@@ -1875,17 +1875,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.3,
+    "score": 61.3,
     "state": "Active",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 62.3,
+    "score": 61.3,
     "state": "Active",
     "liq_score": 52.0,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 47.0
+    "ind_score": 94.0,
+    "conv_score": 46.7
   }
 }

@@ -33,8 +33,8 @@
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -10925,43 +10925,43 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
-        "total_volume": 20808975.0,
+        "total_volume": 20809574.0,
         "prob_sum": 0.9306,
         "outcome_count": 25,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2274827.0,
-          "ask_volume": 28453292.0,
+          "bid_volume": 2274422.0,
+          "ask_volume": 28453226.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8519384151044195,
+          "order_imbalance": -0.8519625062093916,
           "success": true
         }
       },
       "outcomes": {
         "KXPRESPERSON-28-MRUB": {
           "p": 0.165,
-          "v": 2584271,
-          "l": 1670095,
+          "v": 2584277,
+          "l": 1670101,
           "sp": null
         },
         "KXPRESPERSON-28-GNEWS": {
           "p": 0.19,
-          "v": 2055050,
-          "l": 1273084,
+          "v": 2055157,
+          "l": 1273183,
           "sp": null
         },
         "KXPRESPERSON-28-JVAN": {
           "p": 0.185,
-          "v": 1990597,
-          "l": 1313823,
+          "v": 1991083,
+          "l": 1313872,
           "sp": null
         },
         "KXPRESPERSON-28-JOSS": {
@@ -11103,7 +11103,7 @@
   "latest_analysis": {
     "score": 75.6,
     "state": "Active",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
   "last_flags": [],
   "analysis": {

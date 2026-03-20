@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -2125,43 +2125,43 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
-        "total_volume": 387039.0,
+        "total_volume": 387214.0,
         "prob_sum": 0.945,
         "outcome_count": 3,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 36160.0,
-          "ask_volume": 27008.0,
+          "bid_volume": 38079.0,
+          "ask_volume": 26922.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.14488348530901723,
+          "order_imbalance": 0.17164351317672036,
           "success": true
         }
       },
       "outcomes": {
         "KXINSURRECTION-29-27": {
           "p": 0.28,
-          "v": 217374,
-          "l": 100874,
+          "v": 217382,
+          "l": 100866,
           "sp": null
         },
         "KXINSURRECTION-29": {
           "p": 0.6,
-          "v": 159455,
-          "l": 42340,
+          "v": 159457,
+          "l": 42338,
           "sp": null
         },
         "KXINSURRECTION-29-26MAY": {
           "p": 0.065,
-          "v": 10210,
-          "l": 6980,
+          "v": 10375,
+          "l": 7070,
           "sp": null
         }
       }
@@ -2169,17 +2169,17 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 45.6,
+    "score": 45.7,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 45.6,
+    "score": 45.7,
     "state": "Macro-Driven",
-    "liq_score": 15.7,
+    "liq_score": 16.0,
     "eff_score": 12.5,
     "ind_score": 77.3,
     "conv_score": 56.0

@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -2525,31 +2525,31 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
-        "total_volume": 333481.0,
-        "prob_sum": 3.145,
+        "total_volume": 333520.0,
+        "prob_sum": 3.155,
         "outcome_count": 4,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644760.0,
-          "ask_volume": 21795.0,
+          "bid_volume": 644754.0,
+          "ask_volume": 21907.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9346040461777347,
+          "order_imbalance": 0.9342784413667516,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.695,
-          "v": 207914,
-          "l": 72669,
+          "p": 0.705,
+          "v": 207953,
+          "l": 72635,
           "sp": null
         },
         "KXMUSKTRILLION-28": {
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 69.9,
+    "score": 62.7,
     "state": "Active",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 69.9,
+    "score": 62.7,
     "state": "Active",
     "liq_score": 73.7,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 51.0
+    "ind_score": 85.3,
+    "conv_score": 50.7
   }
 }

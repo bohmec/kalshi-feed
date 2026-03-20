@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXAMEND22-29-JAN01": "Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -1325,29 +1325,29 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
         "total_volume": 201226.0,
-        "prob_sum": 0.11,
+        "prob_sum": 0.105,
         "outcome_count": 1,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 45376.0,
-          "ask_volume": 1000105.0,
+          "bid_volume": 45439.0,
+          "ask_volume": 1000166.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.9131959356506718,
+          "order_imbalance": -0.913085725489071,
           "success": true
         }
       },
       "outcomes": {
         "KXAMEND22-29-JAN01": {
-          "p": 0.11,
+          "p": 0.105,
           "v": 201226,
           "l": 57965,
           "sp": null
@@ -1355,19 +1355,21 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 72.7,
-    "state": "Active",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "score": 62.7,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 72.7,
-    "state": "Active",
+    "score": 62.7,
+    "state": "Macro-Driven",
     "liq_score": 75.0,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 59.0
+    "ind_score": 70.7,
+    "conv_score": 57.3
   }
 }

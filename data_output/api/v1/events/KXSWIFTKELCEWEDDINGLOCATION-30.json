@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-20T22:01:35.332615Z",
-    "last_api_seen": "2026-03-20T22:01:35.332615Z"
+    "first_seen_at": "2026-03-20T22:31:29.255880Z",
+    "last_api_seen": "2026-03-20T22:31:29.255880Z"
   },
   "history": [
     {
@@ -2925,55 +2925,55 @@
       }
     },
     {
-      "t": "2026-03-20T22:01:35Z",
+      "t": "2026-03-20T22:31:29Z",
       "metrics": {
-        "total_volume": 233988.0,
-        "prob_sum": 1.1209,
+        "total_volume": 234147.0,
+        "prob_sum": 1.1503,
         "outcome_count": 5,
-        "btc": 70525.0469,
+        "btc": 70728.5391,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.7439,
+        "eth": 2157.2371,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14814.0,
-          "ask_volume": 178966.0,
+          "bid_volume": 14747.0,
+          "ask_volume": 180069.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8471049643926102,
+          "order_imbalance": -0.8486058639947438,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.575,
-          "v": 115218,
-          "l": 66803,
+          "p": 0.57,
+          "v": 115269,
+          "l": 66854,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.5,
+          "p": 0.505,
           "v": 99103,
           "l": 64467,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-PEN": {
-          "p": 0.045,
+          "p": 0.04,
           "v": 12350,
           "l": 10457,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": {
-          "p": 0.0004,
-          "v": 5637,
-          "l": 4056,
+          "p": 0.035,
+          "v": 5714,
+          "l": 4132,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": {
-          "p": 0.0005,
-          "v": 1680,
-          "l": 1351,
+          "p": 0.0003,
+          "v": 1711,
+          "l": 1382,
           "sp": null
         }
       }
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 47.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T22:01:35.332615Z"
+    "timestamp": "2026-03-20T22:31:29.255880Z"
   },
   "last_flags": [
     "Contested"
@@ -2991,9 +2991,9 @@
   "analysis": {
     "score": 47.7,
     "state": "Low Confidence",
-    "liq_score": 38.0,
+    "liq_score": 38.3,
     "eff_score": 12.5,
     "ind_score": 90.0,
-    "conv_score": 34.3
+    "conv_score": 34.0
   }
 }
