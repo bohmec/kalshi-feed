@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-20T18:31:33.484205Z",
-    "last_api_seen": "2026-03-20T18:31:33.484205Z"
+    "first_seen_at": "2026-03-20T19:01:38.613809Z",
+    "last_api_seen": "2026-03-20T19:01:38.613809Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-20T18:31:33Z",
+      "t": "2026-03-20T19:01:38Z",
       "metrics": {
-        "total_volume": 6383176.0,
+        "total_volume": 6383553.0,
         "prob_sum": 0.44,
         "outcome_count": 4,
-        "btc": 69700.5234,
-        "sp500": 649.32,
-        "rates": 4.378,
-        "eth": 2125.7009,
+        "btc": 69700.6641,
+        "sp500": 648.5,
+        "rates": 4.388,
+        "eth": 2121.2939,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 991043.0,
-          "ask_volume": 628118.0,
+          "bid_volume": 990416.0,
+          "ask_volume": 627688.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.22414386216071164,
+          "order_imbalance": 0.2241685330485556,
           "success": true
         }
       },
@@ -2554,13 +2554,13 @@
         },
         "KXGREENLAND-29-26MAY": {
           "p": 0.015,
-          "v": 2067691,
-          "l": 634441,
+          "v": 2067841,
+          "l": 634591,
           "sp": null
         },
         "KXGREENLAND-29-27": {
           "p": 0.125,
-          "v": 1070444,
+          "v": 1070671,
           "l": 384080,
           "sp": null
         },
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 79.2,
     "state": "Active",
-    "timestamp": "2026-03-20T18:31:33.484205Z"
+    "timestamp": "2026-03-20T19:01:38.613809Z"
   },
   "last_flags": [],
   "analysis": {
@@ -2585,7 +2585,7 @@
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 96.0,
+    "ind_score": 95.3,
     "conv_score": 59.3
   }
 }

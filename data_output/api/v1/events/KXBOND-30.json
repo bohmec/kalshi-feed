@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-20T18:31:33.484205Z",
-    "last_api_seen": "2026-03-20T18:31:33.484205Z"
+    "first_seen_at": "2026-03-20T19:01:38.613809Z",
+    "last_api_seen": "2026-03-20T19:01:38.613809Z"
   },
   "history": [
     {
@@ -8925,31 +8925,31 @@
       }
     },
     {
-      "t": "2026-03-20T18:31:33Z",
+      "t": "2026-03-20T19:01:38Z",
       "metrics": {
-        "total_volume": 399199.0,
-        "prob_sum": 1.2029,
+        "total_volume": 399251.0,
+        "prob_sum": 1.1979,
         "outcome_count": 20,
-        "btc": 69700.5234,
-        "sp500": 649.32,
-        "rates": 4.378,
-        "eth": 2125.7009,
+        "btc": 69700.6641,
+        "sp500": 648.5,
+        "rates": 4.388,
+        "eth": 2121.2939,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14510.0,
-          "ask_volume": 23067.0,
+          "bid_volume": 14537.0,
+          "ask_volume": 23066.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.22771908348191713,
+          "order_imbalance": -0.22681700928117438,
           "success": true
         }
       },
       "outcomes": {
         "KXBOND-30-CAL": {
           "p": 0.48,
-          "v": 118514,
-          "l": 77300,
+          "v": 118515,
+          "l": 77301,
           "sp": null
         },
         "KXBOND-30-ATJ": {
@@ -8965,9 +8965,9 @@
           "sp": null
         },
         "KXBOND-30-HC": {
-          "p": 0.03,
-          "v": 23243,
-          "l": 14605,
+          "p": 0.025,
+          "v": 23263,
+          "l": 14585,
           "sp": null
         },
         "KXBOND-30-JOS": {
@@ -8978,8 +8978,8 @@
         },
         "KXBOND-30-THEO": {
           "p": 0.045,
-          "v": 11363,
-          "l": 8651,
+          "v": 11394,
+          "l": 8682,
           "sp": null
         },
         "KXBOND-30-HAR": {
@@ -9073,7 +9073,7 @@
   "latest_analysis": {
     "score": 58.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T18:31:33.484205Z"
+    "timestamp": "2026-03-20T19:01:38.613809Z"
   },
   "last_flags": [
     "Contested"

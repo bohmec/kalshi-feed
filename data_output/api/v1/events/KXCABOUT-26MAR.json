@@ -16,9 +16,9 @@
       "KXCABOUT-26MAR-DBUR": "Will Doug Burgum be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-DCOL": "Will Doug Collins be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-JRAT": "Will John Ratcliffe be the next person to leave the Trump Cabinet?",
+      "KXCABOUT-26MAR-PBON": "Will Pam Bondi be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-SWIL": "Will Susie Wiles be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-MWAL": "Will Mike Waltz be the next person to leave the Trump Cabinet?",
-      "KXCABOUT-26MAR-PBON": "Will Pam Bondi be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-MKRA": "Will Michael Kratsios be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PHEG": "Will Pete Hegseth be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-RFK": "Will Robert F. Kennedy Jr. be the next person to leave the Trump Cabinet?",
@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-20T18:31:33.484205Z",
-    "last_api_seen": "2026-03-20T18:31:33.484205Z"
+    "first_seen_at": "2026-03-20T19:01:38.613809Z",
+    "last_api_seen": "2026-03-20T19:01:38.613809Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-20T18:31:33Z",
+      "t": "2026-03-20T19:01:38Z",
       "metrics": {
-        "total_volume": 908022.0,
-        "prob_sum": 1.08,
+        "total_volume": 909120.0,
+        "prob_sum": 1.085,
         "outcome_count": 23,
-        "btc": 69700.5234,
-        "sp500": 649.32,
-        "rates": 4.378,
-        "eth": 2125.7009,
+        "btc": 69700.6641,
+        "sp500": 648.5,
+        "rates": 4.388,
+        "eth": 2121.2939,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14011.0,
-          "ask_volume": 83938.0,
+          "bid_volume": 15251.0,
+          "ask_volume": 83254.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7139123421372346,
+          "order_imbalance": -0.6903507436170753,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
-          "p": 0.305,
-          "v": 138693,
-          "l": 87211,
+          "p": 0.31,
+          "v": 139067,
+          "l": 87509,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10200,6 +10200,12 @@
           "l": 37576,
           "sp": null
         },
+        "KXCABOUT-26MAR-PBON": {
+          "p": 0.075,
+          "v": 31652,
+          "l": 25990,
+          "sp": null
+        },
         "KXCABOUT-26MAR-SWIL": {
           "p": 0.035,
           "v": 31292,
@@ -10208,20 +10214,14 @@
         },
         "KXCABOUT-26MAR-MWAL": {
           "p": 0.015,
-          "v": 31098,
-          "l": 8461,
-          "sp": null
-        },
-        "KXCABOUT-26MAR-PBON": {
-          "p": 0.075,
-          "v": 31007,
-          "l": 25816,
+          "v": 31118,
+          "l": 8441,
           "sp": null
         },
         "KXCABOUT-26MAR-MKRA": {
           "p": 0.015,
-          "v": 30019,
-          "l": 6294,
+          "v": 30039,
+          "l": 6274,
           "sp": null
         },
         "KXCABOUT-26MAR-PHEG": {
@@ -10238,8 +10238,8 @@
         },
         "KXCABOUT-26MAR-CWRI": {
           "p": 0.015,
-          "v": 19025,
-          "l": 14005,
+          "v": 19044,
+          "l": 13986,
           "sp": null
         },
         "KXCABOUT-26MAR-HLUT": {
@@ -10250,8 +10250,8 @@
         },
         "KXCABOUT-26MAR-LMCM": {
           "p": 0.015,
-          "v": 11085,
-          "l": 8486,
+          "v": 11105,
+          "l": 8466,
           "sp": null
         },
         "KXCABOUT-26MAR-SBES": {
@@ -10289,15 +10289,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.7,
+    "score": 43.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T18:31:33.484205Z"
+    "timestamp": "2026-03-20T19:01:38.613809Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 43.7,
+    "score": 43.8,
     "state": "Low Confidence",
-    "liq_score": 20.7,
+    "liq_score": 21.0,
     "eff_score": 12.5,
     "ind_score": 86.0,
     "conv_score": 40.3

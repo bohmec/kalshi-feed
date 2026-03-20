@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXCANTERRITORY-29": "Will the United States acquire any part of Canada before 2029?"
     },
-    "first_seen_at": "2026-03-20T18:31:33.484205Z",
-    "last_api_seen": "2026-03-20T18:31:33.484205Z"
+    "first_seen_at": "2026-03-20T19:01:38.613809Z",
+    "last_api_seen": "2026-03-20T19:01:38.613809Z"
   },
   "history": [
     {
@@ -1325,15 +1325,15 @@
       }
     },
     {
-      "t": "2026-03-20T18:31:33Z",
+      "t": "2026-03-20T19:01:38Z",
       "metrics": {
         "total_volume": 107432.0,
         "prob_sum": 0.15,
         "outcome_count": 1,
-        "btc": 69700.5234,
-        "sp500": 649.32,
-        "rates": 4.378,
-        "eth": 2125.7009,
+        "btc": 69700.6641,
+        "sp500": 648.5,
+        "rates": 4.388,
+        "eth": 2121.2939,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -1349,19 +1349,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 56.0,
+    "score": 55.8,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T18:31:33.484205Z"
+    "timestamp": "2026-03-20T19:01:38.613809Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 56.0,
+    "score": 55.8,
     "state": "Macro-Driven",
     "liq_score": 56.0,
     "eff_score": 12.5,
-    "ind_score": 64.0,
+    "ind_score": 62.0,
     "conv_score": 57.3
   }
 }
