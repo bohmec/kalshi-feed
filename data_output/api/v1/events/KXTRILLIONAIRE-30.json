@@ -19,8 +19,8 @@
       "KXTRILLIONAIRE-30-SB": "Will Steve Ballmer be the world's first trillionaire?",
       "KXTRILLIONAIRE-30-SRB": "Will Sergey Brin be the world's first trillionaire?"
     },
-    "first_seen_at": "2026-03-20T07:01:18.528871Z",
-    "last_api_seen": "2026-03-20T07:01:18.528871Z"
+    "first_seen_at": "2026-03-20T07:31:22.085525Z",
+    "last_api_seen": "2026-03-20T07:31:22.085525Z"
   },
   "history": [
     {
@@ -5697,21 +5697,21 @@
       }
     },
     {
-      "t": "2026-03-20T07:01:18Z",
+      "t": "2026-03-20T07:31:22Z",
       "metrics": {
         "total_volume": 168822.0,
-        "prob_sum": 0.9656,
+        "prob_sum": 0.9556,
         "outcome_count": 11,
-        "btc": 70475.7109,
+        "btc": 70511.6875,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2136.2212,
+        "eth": 2140.1011,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXTRILLIONAIRE-30-EM": {
-          "p": 0.865,
+          "p": 0.855,
           "v": 95811,
           "l": 38159,
           "sp": null
@@ -5781,17 +5781,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 66.6,
+    "score": 66.8,
     "state": "Active",
-    "timestamp": "2026-03-20T07:01:18.528871Z"
+    "timestamp": "2026-03-20T07:31:22.085525Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 66.6,
+    "score": 66.8,
     "state": "Active",
     "liq_score": 58.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 72.0
+    "conv_score": 72.7
   }
 }

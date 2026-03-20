@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-20T07:01:18.528871Z",
-    "last_api_seen": "2026-03-20T07:01:18.528871Z"
+    "first_seen_at": "2026-03-20T07:31:22.085525Z",
+    "last_api_seen": "2026-03-20T07:31:22.085525Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-20T07:01:18Z",
+      "t": "2026-03-20T07:31:22Z",
       "metrics": {
         "total_volume": 332675.0,
-        "prob_sum": 3.2,
+        "prob_sum": 3.195,
         "outcome_count": 4,
-        "btc": 70475.7109,
+        "btc": 70511.6875,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2136.2212,
+        "eth": 2140.1011,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 645473.0,
-          "ask_volume": 21807.0,
+          "bid_volume": 645416.0,
+          "ask_volume": 21795.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9346391319985613,
+          "order_imbalance": 0.9346683432976974,
           "success": true
         }
       },
@@ -2565,7 +2565,7 @@
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.84,
+          "p": 0.835,
           "v": 34175,
           "l": 9377,
           "sp": null
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 62.2,
     "state": "Active",
-    "timestamp": "2026-03-20T07:01:18.528871Z"
+    "timestamp": "2026-03-20T07:31:22.085525Z"
   },
   "last_flags": [
     "Contested"

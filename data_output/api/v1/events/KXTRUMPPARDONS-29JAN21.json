@@ -50,8 +50,8 @@
       "KXTRUMPPARDONS-29JAN21-JMAL": ":: Joe Exotic",
       "KXTRUMPPARDONS-29JAN21-BHWA": "Will Bill Hwang receive a presidential pardon before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-20T07:01:18.528871Z",
-    "last_api_seen": "2026-03-20T07:01:18.528871Z"
+    "first_seen_at": "2026-03-20T07:31:22.085525Z",
+    "last_api_seen": "2026-03-20T07:31:22.085525Z"
   },
   "history": [
     {
@@ -17725,23 +17725,23 @@
       }
     },
     {
-      "t": "2026-03-20T07:01:18Z",
+      "t": "2026-03-20T07:31:22Z",
       "metrics": {
         "total_volume": 207248.0,
-        "prob_sum": 11.525,
+        "prob_sum": 11.53,
         "outcome_count": 42,
-        "btc": 70475.7109,
+        "btc": 70511.6875,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2136.2212,
+        "eth": 2140.1011,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 111658.0,
-          "ask_volume": 12360.0,
+          "bid_volume": 114667.0,
+          "ask_volume": 14233.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.8006740956957861,
+          "order_imbalance": 0.7791621411947246,
           "success": true
         }
       },
@@ -17963,7 +17963,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-TTH": {
-          "p": 0.2,
+          "p": 0.195,
           "v": 433,
           "l": 212,
           "sp": null
@@ -17987,7 +17987,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-JMAL": {
-          "p": 0.205,
+          "p": 0.215,
           "v": 136,
           "l": 83,
           "sp": null
@@ -18003,17 +18003,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 65.3,
+    "score": 65.7,
     "state": "Active",
-    "timestamp": "2026-03-20T07:01:18.528871Z"
+    "timestamp": "2026-03-20T07:31:22.085525Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 65.3,
+    "score": 65.7,
     "state": "Active",
-    "liq_score": 25.0,
+    "liq_score": 26.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 84.0

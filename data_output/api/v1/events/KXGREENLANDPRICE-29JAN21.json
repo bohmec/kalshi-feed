@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-20T07:01:18.528871Z",
-    "last_api_seen": "2026-03-20T07:01:18.528871Z"
+    "first_seen_at": "2026-03-20T07:31:22.085525Z",
+    "last_api_seen": "2026-03-20T07:31:22.085525Z"
   },
   "history": [
     {
@@ -4125,37 +4125,37 @@
       }
     },
     {
-      "t": "2026-03-20T07:01:18Z",
+      "t": "2026-03-20T07:31:22Z",
       "metrics": {
-        "total_volume": 994650.0,
-        "prob_sum": 0.945,
+        "total_volume": 994651.0,
+        "prob_sum": 0.96,
         "outcome_count": 8,
-        "btc": 70475.7109,
+        "btc": 70511.6875,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2136.2212,
+        "eth": 2140.1011,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 80368.0,
-          "ask_volume": 59536.0,
+          "bid_volume": 80549.0,
+          "ask_volume": 59533.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.1489021043000915,
+          "order_imbalance": 0.15002641310089804,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLANDPRICE-29JAN21-NOACQ": {
-          "p": 0.76,
+          "p": 0.765,
           "v": 407006,
           "l": 160678,
           "sp": null
         },
         "KXGREENLANDPRICE-29JAN21-749B": {
-          "p": 0.055,
-          "v": 141179,
-          "l": 68485,
+          "p": 0.065,
+          "v": 141180,
+          "l": 68484,
           "sp": null
         },
         "KXGREENLANDPRICE-29JAN21-1049B": {
@@ -4199,17 +4199,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 66.9,
+    "score": 67.0,
     "state": "Active",
-    "timestamp": "2026-03-20T07:01:18.528871Z"
+    "timestamp": "2026-03-20T07:31:22.085525Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 66.9,
+    "score": 67.0,
     "state": "Active",
     "liq_score": 34.7,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 80.0
+    "conv_score": 80.3
   }
 }
