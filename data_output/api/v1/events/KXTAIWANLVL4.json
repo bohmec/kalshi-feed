@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T14:31:22.313486Z",
-    "last_api_seen": "2026-03-20T14:31:22.313486Z"
+    "first_seen_at": "2026-03-20T15:01:33.723531Z",
+    "last_api_seen": "2026-03-20T15:01:33.723531Z"
   },
   "history": [
     {
@@ -2925,37 +2925,37 @@
       }
     },
     {
-      "t": "2026-03-20T14:31:22Z",
+      "t": "2026-03-20T15:01:33Z",
       "metrics": {
-        "total_volume": 214974.0,
+        "total_volume": 214984.0,
         "prob_sum": 1.725,
         "outcome_count": 5,
-        "btc": 69952.4375,
-        "sp500": 652.46,
-        "rates": 0.0,
-        "eth": 2139.1599,
+        "btc": 69792.6328,
+        "sp500": 652.9194,
+        "rates": 4.38,
+        "eth": 2130.6907,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 26080.0,
-          "ask_volume": 10293.0,
+          "bid_volume": 26084.0,
+          "ask_volume": 12922.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.43403073708520057,
+          "order_imbalance": 0.3374352663692765,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
           "p": 0.195,
-          "v": 105405,
+          "v": 105410,
           "l": 71244,
           "sp": null
         },
         "KXTAIWANLVL4-26JUL01": {
           "p": 0.105,
-          "v": 72557,
-          "l": 52863,
+          "v": 72562,
+          "l": 52868,
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 37.0,
+    "score": 37.3,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T14:31:22.313486Z"
+    "timestamp": "2026-03-20T15:01:33.723531Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 37.0,
+    "score": 37.3,
     "state": "Low Confidence",
-    "liq_score": 8.7,
+    "liq_score": 9.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0
