@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-03-20T02:00:57Z",
+    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
+    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
+    "from_regime": "Fragile",
+    "to_regime": "Volatile | Fragile",
+    "metrics_snapshot": {
+      "nexus_score": 37.0,
+      "macro_sensitivity": 0.0
+    }
+  },
+  {
     "timestamp": "2026-03-19T23:30:50Z",
     "market_id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
@@ -535,17 +546,6 @@
     "to_regime": "Volatile | Fragile",
     "metrics_snapshot": {
       "nexus_score": 22.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXTAIWANLVL4",
-    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
-    "from_regime": "Overheated | Chaos | High-Conflict",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 24.9,
       "macro_sensitivity": 0.0
     }
   }
