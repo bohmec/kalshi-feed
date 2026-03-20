@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-20T06:01:25.768639Z",
-    "last_api_seen": "2026-03-20T06:01:25.768639Z"
+    "first_seen_at": "2026-03-20T06:31:19.135487Z",
+    "last_api_seen": "2026-03-20T06:31:19.135487Z"
   },
   "history": [
     {
@@ -2525,37 +2525,37 @@
       }
     },
     {
-      "t": "2026-03-20T06:01:25Z",
+      "t": "2026-03-20T06:31:19Z",
       "metrics": {
-        "total_volume": 332665.0,
-        "prob_sum": 3.17,
+        "total_volume": 332675.0,
+        "prob_sum": 3.2,
         "outcome_count": 4,
-        "btc": 70555.8984,
+        "btc": 70505.5938,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2139.5742,
+        "eth": 2136.7249,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 645425.0,
-          "ask_volume": 21785.0,
+          "bid_volume": 645473.0,
+          "ask_volume": 21807.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9346982209499258,
+          "order_imbalance": 0.9346391319985613,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.705,
+          "p": 0.725,
           "v": 207753,
           "l": 72756,
           "sp": null
         },
         "KXMUSKTRILLION-28": {
-          "p": 0.775,
-          "v": 54936,
-          "l": 16358,
+          "p": 0.78,
+          "v": 54946,
+          "l": 16348,
           "sp": null
         },
         "KXMUSKTRILLION-30": {
@@ -2565,7 +2565,7 @@
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.835,
+          "p": 0.84,
           "v": 34175,
           "l": 9377,
           "sp": null
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.7,
+    "score": 62.2,
     "state": "Active",
-    "timestamp": "2026-03-20T06:01:25.768639Z"
+    "timestamp": "2026-03-20T06:31:19.135487Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.7,
+    "score": 62.2,
     "state": "Active",
     "liq_score": 73.7,
     "eff_score": 12.5,
     "ind_score": 85.3,
-    "conv_score": 50.7
+    "conv_score": 49.0
   }
 }

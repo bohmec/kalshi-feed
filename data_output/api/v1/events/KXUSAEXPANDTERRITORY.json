@@ -12,8 +12,8 @@
       "KXUSAEXPANDTERRITORY-28JAN01": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 1, 2028?",
       "KXUSAEXPANDTERRITORY-29JAN21": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-20T06:01:25.768639Z",
-    "last_api_seen": "2026-03-20T06:01:25.768639Z"
+    "first_seen_at": "2026-03-20T06:31:19.135487Z",
+    "last_api_seen": "2026-03-20T06:31:19.135487Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-20T06:01:25Z",
+      "t": "2026-03-20T06:31:19Z",
       "metrics": {
-        "total_volume": 277390.0,
+        "total_volume": 277392.0,
         "prob_sum": 0.895,
         "outcome_count": 4,
-        "btc": 70555.8984,
+        "btc": 70505.5938,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2139.5742,
+        "eth": 2136.7249,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 22341.0,
-          "ask_volume": 21157.0,
+          "bid_volume": 22326.0,
+          "ask_volume": 21148.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.02721964228240379,
+          "order_imbalance": 0.02709665547223628,
           "success": true
         }
       },
@@ -2554,8 +2554,8 @@
         },
         "KXUSAEXPANDTERRITORY-26JUL01": {
           "p": 0.055,
-          "v": 79324,
-          "l": 37902,
+          "v": 79326,
+          "l": 37901,
           "sp": null
         },
         "KXUSAEXPANDTERRITORY-28JAN01": {
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 52.3,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T06:01:25.768639Z"
+    "timestamp": "2026-03-20T06:31:19.135487Z"
   },
   "last_flags": [],
   "analysis": {

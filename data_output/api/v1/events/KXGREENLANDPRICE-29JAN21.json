@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-20T06:01:25.768639Z",
-    "last_api_seen": "2026-03-20T06:01:25.768639Z"
+    "first_seen_at": "2026-03-20T06:31:19.135487Z",
+    "last_api_seen": "2026-03-20T06:31:19.135487Z"
   },
   "history": [
     {
@@ -4125,29 +4125,29 @@
       }
     },
     {
-      "t": "2026-03-20T06:01:25Z",
+      "t": "2026-03-20T06:31:19Z",
       "metrics": {
         "total_volume": 994650.0,
-        "prob_sum": 0.945,
+        "prob_sum": 0.95,
         "outcome_count": 8,
-        "btc": 70555.8984,
+        "btc": 70505.5938,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2139.5742,
+        "eth": 2136.7249,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 80171.0,
-          "ask_volume": 60101.0,
+          "bid_volume": 80119.0,
+          "ask_volume": 60103.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.14307916048819436,
+          "order_imbalance": 0.14274507566573005,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLANDPRICE-29JAN21-NOACQ": {
-          "p": 0.76,
+          "p": 0.765,
           "v": 407006,
           "l": 160678,
           "sp": null
@@ -4199,17 +4199,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 67.0,
+    "score": 67.1,
     "state": "Active",
-    "timestamp": "2026-03-20T06:01:25.768639Z"
+    "timestamp": "2026-03-20T06:31:19.135487Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 67.0,
+    "score": 67.1,
     "state": "Active",
     "liq_score": 35.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 80.0
+    "conv_score": 80.7
   }
 }
