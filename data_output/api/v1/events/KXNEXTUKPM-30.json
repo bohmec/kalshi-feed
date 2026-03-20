@@ -28,8 +28,8 @@
       "KXNEXTUKPM-30-DJON": "Will Darren Jones be the next Prime Minister of United Kingdom?",
       "KXNEXTUKPM-30-JCLE": "Will James Cleverly be the next Prime Minister of United Kingdom?"
     },
-    "first_seen_at": "2026-03-20T21:01:39.220579Z",
-    "last_api_seen": "2026-03-20T21:01:39.220579Z"
+    "first_seen_at": "2026-03-20T21:31:29.314082Z",
+    "last_api_seen": "2026-03-20T21:31:29.314082Z"
   },
   "history": [
     {
@@ -8925,23 +8925,23 @@
       }
     },
     {
-      "t": "2026-03-20T21:01:39Z",
+      "t": "2026-03-20T21:31:29Z",
       "metrics": {
-        "total_volume": 443273.0,
+        "total_volume": 443277.0,
         "prob_sum": 0.9267,
         "outcome_count": 20,
-        "btc": 70047.375,
+        "btc": 70445.6797,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2133.3193,
+        "eth": 2149.1375,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14003.0,
-          "ask_volume": 642818.0,
+          "bid_volume": 14042.0,
+          "ask_volume": 642852.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.9573612902145333,
+          "order_imbalance": -0.9572472879947145,
           "success": true
         }
       },
@@ -8972,8 +8972,8 @@
         },
         "KXNEXTUKPM-30-EMIL": {
           "p": 0.095,
-          "v": 38273,
-          "l": 12517,
+          "v": 38277,
+          "l": 12513,
           "sp": null
         },
         "KXNEXTUKPM-30-ABUR": {
@@ -9073,7 +9073,7 @@
   "latest_analysis": {
     "score": 66.6,
     "state": "Active",
-    "timestamp": "2026-03-20T21:01:39.220579Z"
+    "timestamp": "2026-03-20T21:31:29.314082Z"
   },
   "last_flags": [],
   "analysis": {
@@ -9081,7 +9081,7 @@
     "state": "Active",
     "liq_score": 72.7,
     "eff_score": 12.5,
-    "ind_score": 86.7,
+    "ind_score": 86.0,
     "conv_score": 64.7
   }
 }

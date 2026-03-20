@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T21:01:39.220579Z",
-    "last_api_seen": "2026-03-20T21:01:39.220579Z"
+    "first_seen_at": "2026-03-20T21:31:29.314082Z",
+    "last_api_seen": "2026-03-20T21:31:29.314082Z"
   },
   "history": [
     {
@@ -2925,30 +2925,30 @@
       }
     },
     {
-      "t": "2026-03-20T21:01:39Z",
+      "t": "2026-03-20T21:31:29Z",
       "metrics": {
-        "total_volume": 217667.0,
-        "prob_sum": 1.69,
+        "total_volume": 217676.0,
+        "prob_sum": 1.695,
         "outcome_count": 5,
-        "btc": 70047.375,
+        "btc": 70445.6797,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2133.3193,
+        "eth": 2149.1375,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25713.0,
-          "ask_volume": 12194.0,
+          "bid_volume": 25733.0,
+          "ask_volume": 12181.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.35663597752394016,
+          "order_imbalance": 0.35744052328955006,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
-          "p": 0.18,
-          "v": 105938,
+          "p": 0.185,
+          "v": 105947,
           "l": 71345,
           "sp": null
         },
@@ -2959,13 +2959,13 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.405,
+          "p": 0.4,
           "v": 13547,
           "l": 10196,
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.45,
+          "p": 0.455,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 37.1,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T21:01:39.220579Z"
+    "timestamp": "2026-03-20T21:31:29.314082Z"
   },
   "last_flags": [
     "Contested"
