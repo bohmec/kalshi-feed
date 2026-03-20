@@ -15,8 +15,8 @@
       "KXSTATE51-29-GU": "Will Guam be the 51st U.S. state before Jan 20, 2029?",
       "KXSTATE51-29-CO": "Will any part of Colombia be the 51st U.S. state before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-20T13:31:21.806161Z",
-    "last_api_seen": "2026-03-20T13:31:21.806161Z"
+    "first_seen_at": "2026-03-20T14:01:29.509731Z",
+    "last_api_seen": "2026-03-20T14:01:29.509731Z"
   },
   "history": [
     {
@@ -3725,23 +3725,23 @@
       }
     },
     {
-      "t": "2026-03-20T13:31:21Z",
+      "t": "2026-03-20T14:01:29Z",
       "metrics": {
-        "total_volume": 580258.0,
+        "total_volume": 580492.0,
         "prob_sum": 0.1304,
         "outcome_count": 7,
-        "btc": 70446.3438,
-        "sp500": 655.97,
-        "rates": 4.318,
-        "eth": 2146.4902,
+        "btc": 69909.5234,
+        "sp500": 652.88,
+        "rates": 4.328,
+        "eth": 2128.1541,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 71612.0,
-          "ask_volume": 217162.0,
+          "bid_volume": 71613.0,
+          "ask_volume": 217161.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.5040273708851905,
+          "order_imbalance": -0.5040204450539176,
           "success": true
         }
       },
@@ -3754,8 +3754,8 @@
         },
         "KXSTATE51-29-CA": {
           "p": 0.025,
-          "v": 98738,
-          "l": 59393,
+          "v": 98972,
+          "l": 59159,
           "sp": null
         },
         "KXSTATE51-29-PR": {
@@ -3793,17 +3793,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 68.5,
+    "score": 68.8,
     "state": "Active",
-    "timestamp": "2026-03-20T13:31:21.806161Z"
+    "timestamp": "2026-03-20T14:01:29.509731Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 68.5,
+    "score": 68.8,
     "state": "Active",
     "liq_score": 66.7,
     "eff_score": 12.5,
-    "ind_score": 94.7,
+    "ind_score": 96.0,
     "conv_score": 56.0
   }
 }

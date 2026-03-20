@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXSTATE-29": "Will the United States add another state before date?"
     },
-    "first_seen_at": "2026-03-20T13:31:21.806161Z",
-    "last_api_seen": "2026-03-20T13:31:21.806161Z"
+    "first_seen_at": "2026-03-20T14:01:29.509731Z",
+    "last_api_seen": "2026-03-20T14:01:29.509731Z"
   },
   "history": [
     {
@@ -1325,22 +1325,22 @@
       }
     },
     {
-      "t": "2026-03-20T13:31:21Z",
+      "t": "2026-03-20T14:01:29Z",
       "metrics": {
-        "total_volume": 53213.0,
+        "total_volume": 53217.0,
         "prob_sum": 0.125,
         "outcome_count": 1,
-        "btc": 70446.3438,
-        "sp500": 655.97,
-        "rates": 4.318,
-        "eth": 2146.4902,
+        "btc": 69909.5234,
+        "sp500": 652.88,
+        "rates": 4.328,
+        "eth": 2128.1541,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXSTATE-29": {
           "p": 0.125,
-          "v": 53213,
+          "v": 53217,
           "l": 24365,
           "sp": null
         }
@@ -1349,19 +1349,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 57.9,
+    "score": 58.1,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T13:31:21.806161Z"
+    "timestamp": "2026-03-20T14:01:29.509731Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 57.9,
+    "score": 58.1,
     "state": "Macro-Driven",
     "liq_score": 52.7,
     "eff_score": 12.5,
-    "ind_score": 81.3,
+    "ind_score": 82.0,
     "conv_score": 58.3
   }
 }
