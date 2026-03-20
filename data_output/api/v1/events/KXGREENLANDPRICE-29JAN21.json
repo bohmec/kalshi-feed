@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-20T10:31:22.676646Z",
-    "last_api_seen": "2026-03-20T10:31:22.676646Z"
+    "first_seen_at": "2026-03-20T11:01:20.235755Z",
+    "last_api_seen": "2026-03-20T11:01:20.235755Z"
   },
   "history": [
     {
@@ -4125,30 +4125,30 @@
       }
     },
     {
-      "t": "2026-03-20T10:31:22Z",
+      "t": "2026-03-20T11:01:20Z",
       "metrics": {
-        "total_volume": 994803.0,
-        "prob_sum": 0.96,
+        "total_volume": 994804.0,
+        "prob_sum": 0.965,
         "outcome_count": 8,
-        "btc": 70320.9219,
+        "btc": 70585.9531,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2135.8545,
+        "eth": 2148.0789,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 80562.0,
-          "ask_volume": 58450.0,
+          "bid_volume": 80539.0,
+          "ask_volume": 58234.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.15906540442551723,
+          "order_imbalance": 0.16073011320645947,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLANDPRICE-29JAN21-NOACQ": {
-          "p": 0.76,
-          "v": 407006,
+          "p": 0.765,
+          "v": 407007,
           "l": 160678,
           "sp": null
         },
@@ -4199,17 +4199,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 66.8,
+    "score": 66.9,
     "state": "Active",
-    "timestamp": "2026-03-20T10:31:22.676646Z"
+    "timestamp": "2026-03-20T11:01:20.235755Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 66.8,
+    "score": 66.9,
     "state": "Active",
     "liq_score": 34.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 79.7
+    "conv_score": 80.3
   }
 }
