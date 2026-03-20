@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXGDPUSMAX-28-5": "Will quarterly GDP be above 5% in any quarter in Q1 2025 to Q4 2028?"
     },
-    "first_seen_at": "2026-03-20T04:01:20.206834Z",
-    "last_api_seen": "2026-03-20T04:01:20.206834Z"
+    "first_seen_at": "2026-03-20T04:31:20.180960Z",
+    "last_api_seen": "2026-03-20T04:31:20.180960Z"
   },
   "history": [
     {
@@ -1325,23 +1325,23 @@
       }
     },
     {
-      "t": "2026-03-20T04:01:20Z",
+      "t": "2026-03-20T04:31:20Z",
       "metrics": {
-        "total_volume": 148424.0,
-        "prob_sum": 0.575,
+        "total_volume": 148457.0,
+        "prob_sum": 0.58,
         "outcome_count": 1,
-        "btc": 70765.3984,
+        "btc": 70876.0938,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2153.0737,
+        "eth": 2153.8457,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXGDPUSMAX-28-5": {
-          "p": 0.575,
-          "v": 148424,
-          "l": 34325,
+          "p": 0.58,
+          "v": 148457,
+          "l": 34341,
           "sp": null
         }
       }
@@ -1351,7 +1351,7 @@
   "latest_analysis": {
     "score": 63.5,
     "state": "Active",
-    "timestamp": "2026-03-20T04:01:20.206834Z"
+    "timestamp": "2026-03-20T04:31:20.180960Z"
   },
   "last_flags": [],
   "analysis": {
