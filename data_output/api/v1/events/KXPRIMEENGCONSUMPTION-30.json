@@ -18,8 +18,8 @@
       "KXPRIMEENGCONSUMPTION-30-BIOFUEL": "What will be the largest source of global primary energy consumption in 2030?",
       "KXPRIMEENGCONSUMPTION-30-BIOMASS": "What will be the largest source of global primary energy consumption in 2030?"
     },
-    "first_seen_at": "2026-03-20T17:01:32.605347Z",
-    "last_api_seen": "2026-03-20T17:01:32.605347Z"
+    "first_seen_at": "2026-03-20T17:31:34.357310Z",
+    "last_api_seen": "2026-03-20T17:31:34.357310Z"
   },
   "history": [
     {
@@ -5269,15 +5269,15 @@
       }
     },
     {
-      "t": "2026-03-20T17:01:32Z",
+      "t": "2026-03-20T17:31:34Z",
       "metrics": {
         "total_volume": 72396.0,
         "prob_sum": 0.9807,
         "outcome_count": 10,
-        "btc": 69854.3125,
-        "sp500": 652.94,
-        "rates": 4.374,
-        "eth": 2139.1226,
+        "btc": 69661.6953,
+        "sp500": 652.08,
+        "rates": 4.372,
+        "eth": 2130.9419,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -5347,19 +5347,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 58.5,
+    "score": 58.4,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T17:01:32.605347Z"
+    "timestamp": "2026-03-20T17:31:34.357310Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 58.5,
+    "score": 58.4,
     "state": "Macro-Driven",
     "liq_score": 54.0,
     "eff_score": 12.5,
-    "ind_score": 48.0,
+    "ind_score": 47.3,
     "conv_score": 75.3
   }
 }
