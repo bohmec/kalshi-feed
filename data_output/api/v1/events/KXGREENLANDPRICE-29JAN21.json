@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-20T20:31:26.647144Z",
-    "last_api_seen": "2026-03-20T20:31:26.647144Z"
+    "first_seen_at": "2026-03-20T21:01:39.220579Z",
+    "last_api_seen": "2026-03-20T21:01:39.220579Z"
   },
   "history": [
     {
@@ -4125,23 +4125,23 @@
       }
     },
     {
-      "t": "2026-03-20T20:31:26Z",
+      "t": "2026-03-20T21:01:39Z",
       "metrics": {
-        "total_volume": 995297.0,
+        "total_volume": 995397.0,
         "prob_sum": 0.965,
         "outcome_count": 8,
-        "btc": 69968.6875,
+        "btc": 70047.375,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2129.7183,
+        "eth": 2133.3193,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 81030.0,
-          "ask_volume": 60763.0,
+          "bid_volume": 79383.0,
+          "ask_volume": 60655.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.14293371322984916,
+          "order_imbalance": 0.13373512903640442,
           "success": true
         }
       },
@@ -4160,8 +4160,8 @@
         },
         "KXGREENLANDPRICE-29JAN21-1049B": {
           "p": 0.025,
-          "v": 100220,
-          "l": 61043,
+          "v": 100320,
+          "l": 61143,
           "sp": null
         },
         "KXGREENLANDPRICE-29JAN21-54B": {
@@ -4199,15 +4199,15 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 67.1,
+    "score": 67.0,
     "state": "Active",
-    "timestamp": "2026-03-20T20:31:26.647144Z"
+    "timestamp": "2026-03-20T21:01:39.220579Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 67.1,
+    "score": 67.0,
     "state": "Active",
-    "liq_score": 35.3,
+    "liq_score": 34.7,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 80.3

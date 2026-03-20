@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T20:31:26.647144Z",
-    "last_api_seen": "2026-03-20T20:31:26.647144Z"
+    "first_seen_at": "2026-03-20T21:01:39.220579Z",
+    "last_api_seen": "2026-03-20T21:01:39.220579Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-20T20:31:26Z",
+      "t": "2026-03-20T21:01:39Z",
       "metrics": {
         "total_volume": 217667.0,
-        "prob_sum": 1.695,
+        "prob_sum": 1.69,
         "outcome_count": 5,
-        "btc": 69968.6875,
+        "btc": 70047.375,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2129.7183,
+        "eth": 2133.3193,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 26013.0,
-          "ask_volume": 13659.0,
+          "bid_volume": 25713.0,
+          "ask_volume": 12194.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.31140350877192985,
+          "order_imbalance": 0.35663597752394016,
           "success": true
         }
       },
@@ -2965,7 +2965,7 @@
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.455,
+          "p": 0.45,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 37.3,
+    "score": 37.1,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T20:31:26.647144Z"
+    "timestamp": "2026-03-20T21:01:39.220579Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 37.3,
+    "score": 37.1,
     "state": "Low Confidence",
-    "liq_score": 9.7,
+    "liq_score": 9.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0
