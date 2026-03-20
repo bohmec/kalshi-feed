@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T15:31:40.633792Z",
-    "last_api_seen": "2026-03-20T15:31:40.633792Z"
+    "first_seen_at": "2026-03-20T16:01:32.771652Z",
+    "last_api_seen": "2026-03-20T16:01:32.771652Z"
   },
   "history": [
     {
@@ -2925,31 +2925,31 @@
       }
     },
     {
-      "t": "2026-03-20T15:31:40Z",
+      "t": "2026-03-20T16:01:32Z",
       "metrics": {
-        "total_volume": 215471.0,
-        "prob_sum": 1.72,
+        "total_volume": 215942.0,
+        "prob_sum": 1.73,
         "outcome_count": 5,
-        "btc": 69779.0938,
-        "sp500": 652.1811,
+        "btc": 69798.2266,
+        "sp500": 653.2501,
         "rates": 4.382,
-        "eth": 2129.8938,
+        "eth": 2133.1567,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 26084.0,
-          "ask_volume": 12904.0,
+          "bid_volume": 25566.0,
+          "ask_volume": 12328.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.33805273417461784,
+          "order_imbalance": 0.3493429038897979,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
           "p": 0.195,
-          "v": 105415,
-          "l": 71244,
+          "v": 105658,
+          "l": 71485,
           "sp": null
         },
         "KXTAIWANLVL4-26JUL01": {
@@ -2959,13 +2959,13 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.38,
-          "v": 13319,
-          "l": 9968,
+          "p": 0.395,
+          "v": 13547,
+          "l": 10196,
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.455,
+          "p": 0.45,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 37.3,
+    "score": 37.2,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T15:31:40.633792Z"
+    "timestamp": "2026-03-20T16:01:32.771652Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 37.3,
+    "score": 37.2,
     "state": "Low Confidence",
-    "liq_score": 9.3,
+    "liq_score": 9.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0

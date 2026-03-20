@@ -18,8 +18,8 @@
       "KXCABOUT-26MAR-JRAT": "Will John Ratcliffe be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-MWAL": "Will Mike Waltz be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-SWIL": "Will Susie Wiles be the next person to leave the Trump Cabinet?",
-      "KXCABOUT-26MAR-MKRA": "Will Michael Kratsios be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PBON": "Will Pam Bondi be the next person to leave the Trump Cabinet?",
+      "KXCABOUT-26MAR-MKRA": "Will Michael Kratsios be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PHEG": "Will Pete Hegseth be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-RFK": "Will Robert F. Kennedy Jr. be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-CWRI": "Will Chris Wright be the next person to leave the Trump Cabinet?",
@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-20T15:31:40.633792Z",
-    "last_api_seen": "2026-03-20T15:31:40.633792Z"
+    "first_seen_at": "2026-03-20T16:01:32.771652Z",
+    "last_api_seen": "2026-03-20T16:01:32.771652Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-20T15:31:40Z",
+      "t": "2026-03-20T16:01:32Z",
       "metrics": {
-        "total_volume": 884814.0,
-        "prob_sum": 1.105,
+        "total_volume": 891197.0,
+        "prob_sum": 1.06,
         "outcome_count": 23,
-        "btc": 69779.0938,
-        "sp500": 652.1811,
+        "btc": 69798.2266,
+        "sp500": 653.2501,
         "rates": 4.382,
-        "eth": 2129.8938,
+        "eth": 2133.1567,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14110.0,
-          "ask_volume": 84153.0,
+          "bid_volume": 10971.0,
+          "ask_volume": 83994.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.712811536387043,
+          "order_imbalance": -0.7689464539567209,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
-          "p": 0.305,
-          "v": 122504,
-          "l": 78548,
+          "p": 0.285,
+          "v": 126809,
+          "l": 81191,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10160,8 +10160,8 @@
         },
         "KXCABOUT-26MAR-LCDR": {
           "p": 0.265,
-          "v": 80920,
-          "l": 60470,
+          "v": 80928,
+          "l": 60478,
           "sp": null
         },
         "KXCABOUT-26MAR-RVOU": {
@@ -10207,9 +10207,15 @@
           "sp": null
         },
         "KXCABOUT-26MAR-SWIL": {
-          "p": 0.055,
-          "v": 30602,
+          "p": 0.04,
+          "v": 30627,
           "l": 15986,
+          "sp": null
+        },
+        "KXCABOUT-26MAR-PBON": {
+          "p": 0.08,
+          "v": 30575,
+          "l": 25512,
           "sp": null
         },
         "KXCABOUT-26MAR-MKRA": {
@@ -10218,14 +10224,8 @@
           "l": 6294,
           "sp": null
         },
-        "KXCABOUT-26MAR-PBON": {
-          "p": 0.075,
-          "v": 28930,
-          "l": 23872,
-          "sp": null
-        },
         "KXCABOUT-26MAR-PHEG": {
-          "p": 0.065,
+          "p": 0.05,
           "v": 23953,
           "l": 19306,
           "sp": null
@@ -10244,8 +10244,8 @@
         },
         "KXCABOUT-26MAR-HLUT": {
           "p": 0.045,
-          "v": 16459,
-          "l": 13466,
+          "v": 16859,
+          "l": 13866,
           "sp": null
         },
         "KXCABOUT-26MAR-LMCM": {
@@ -10289,17 +10289,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.6,
+    "score": 43.3,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T15:31:40.633792Z"
+    "timestamp": "2026-03-20T16:01:32.771652Z"
   },
-  "last_flags": [
-    "Contested"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 43.6,
+    "score": 43.3,
     "state": "Low Confidence",
-    "liq_score": 20.7,
+    "liq_score": 19.7,
     "eff_score": 12.5,
     "ind_score": 86.0,
     "conv_score": 40.0

@@ -16,8 +16,8 @@
       "KXUKPARTY-29-BRUV": "Will Bruv win the next U.K. election?",
       "KXUKPARTY-29-Y": "Will Your Party win the next U.K. election?"
     },
-    "first_seen_at": "2026-03-20T15:31:40.633792Z",
-    "last_api_seen": "2026-03-20T15:31:40.633792Z"
+    "first_seen_at": "2026-03-20T16:01:32.771652Z",
+    "last_api_seen": "2026-03-20T16:01:32.771652Z"
   },
   "history": [
     {
@@ -4125,33 +4125,33 @@
       }
     },
     {
-      "t": "2026-03-20T15:31:40Z",
+      "t": "2026-03-20T16:01:32Z",
       "metrics": {
-        "total_volume": 153703.0,
-        "prob_sum": 1.0353,
+        "total_volume": 153849.0,
+        "prob_sum": 1.0303,
         "outcome_count": 8,
-        "btc": 69779.0938,
-        "sp500": 652.1811,
+        "btc": 69798.2266,
+        "sp500": 653.2501,
         "rates": 4.382,
-        "eth": 2129.8938,
+        "eth": 2133.1567,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXUKPARTY-29-REST": {
-          "p": 0.135,
-          "v": 67073,
-          "l": 45633,
+          "p": 0.14,
+          "v": 67219,
+          "l": 45779,
           "sp": null
         },
         "KXUKPARTY-29-R": {
-          "p": 0.4,
+          "p": 0.395,
           "v": 40891,
           "l": 12968,
           "sp": null
         },
         "KXUKPARTY-29-C": {
-          "p": 0.095,
+          "p": 0.09,
           "v": 18425,
           "l": 3898,
           "sp": null
@@ -4189,21 +4189,19 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": 58.9,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-20T15:31:40.633792Z"
+    "score": 65.4,
+    "state": "Active",
+    "timestamp": "2026-03-20T16:01:32.771652Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 58.9,
-    "state": "Macro-Driven",
+    "score": 65.4,
+    "state": "Active",
     "liq_score": 57.7,
     "eff_score": 12.5,
-    "ind_score": 83.3,
-    "conv_score": 55.7
+    "ind_score": 94.7,
+    "conv_score": 54.7
   }
 }
