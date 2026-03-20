@@ -12,8 +12,8 @@
       "KXBOND-30-JACO": "Will Jacob Elordi be the next James Bond?",
       "KXBOND-30-HC": "Will Henry Cavill be the next James Bond?",
       "KXBOND-30-JOS": "Will Josh O'Connor be the next James Bond?",
-      "KXBOND-30-HAR": "Will Harris Dickinson be the next James Bond?",
       "KXBOND-30-THEO": "Will Theo James be the next James Bond?",
+      "KXBOND-30-HAR": "Will Harris Dickinson be the next James Bond?",
       "KXBOND-30-TOMH": "Will Tom Holland be the next James Bond?",
       "KXBOND-30-DI": "Will Damson Idris be the next James Bond?",
       "KXBOND-30-AP": "Will Aaron Pierre be the next James Bond?",
@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-20T08:31:17.475745Z",
-    "last_api_seen": "2026-03-20T08:31:17.475745Z"
+    "first_seen_at": "2026-03-20T09:01:20.020989Z",
+    "last_api_seen": "2026-03-20T09:01:20.020989Z"
   },
   "history": [
     {
@@ -8925,23 +8925,23 @@
       }
     },
     {
-      "t": "2026-03-20T08:31:17Z",
+      "t": "2026-03-20T09:01:20Z",
       "metrics": {
-        "total_volume": 398014.0,
-        "prob_sum": 1.2119,
+        "total_volume": 398847.0,
+        "prob_sum": 1.2179,
         "outcome_count": 20,
-        "btc": 71263.9453,
+        "btc": 71076.5156,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2166.3899,
+        "eth": 2164.8064,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14936.0,
-          "ask_volume": 23372.0,
+          "bid_volume": 14934.0,
+          "ask_volume": 23370.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.22021509867390623,
+          "order_imbalance": -0.22023809523809523,
           "success": true
         }
       },
@@ -8954,14 +8954,14 @@
         },
         "KXBOND-30-ATJ": {
           "p": 0.085,
-          "v": 88993,
-          "l": 48268,
+          "v": 89538,
+          "l": 48813,
           "sp": null
         },
         "KXBOND-30-JACO": {
           "p": 0.155,
-          "v": 58858,
-          "l": 25865,
+          "v": 59052,
+          "l": 26059,
           "sp": null
         },
         "KXBOND-30-HC": {
@@ -8976,16 +8976,16 @@
           "l": 20452,
           "sp": null
         },
+        "KXBOND-30-THEO": {
+          "p": 0.045,
+          "v": 11363,
+          "l": 8651,
+          "sp": null
+        },
         "KXBOND-30-HAR": {
           "p": 0.035,
           "v": 11287,
           "l": 6101,
-          "sp": null
-        },
-        "KXBOND-30-THEO": {
-          "p": 0.04,
-          "v": 11271,
-          "l": 8559,
           "sp": null
         },
         "KXBOND-30-TOMH": {
@@ -9001,9 +9001,9 @@
           "sp": null
         },
         "KXBOND-30-AP": {
-          "p": 0.0003,
-          "v": 8489,
-          "l": 5384,
+          "p": 0.0013,
+          "v": 8491,
+          "l": 5386,
           "sp": null
         },
         "KXBOND-30-IDRIS": {
@@ -9073,7 +9073,7 @@
   "latest_analysis": {
     "score": 58.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T08:31:17.475745Z"
+    "timestamp": "2026-03-20T09:01:20.020989Z"
   },
   "last_flags": [
     "Contested"
