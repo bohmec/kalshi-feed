@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-20T14:01:29.509731Z",
-    "last_api_seen": "2026-03-20T14:01:29.509731Z"
+    "first_seen_at": "2026-03-20T14:31:22.313486Z",
+    "last_api_seen": "2026-03-20T14:31:22.313486Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-20T14:01:29Z",
+      "t": "2026-03-20T14:31:22Z",
       "metrics": {
         "total_volume": 333317.0,
-        "prob_sum": 3.185,
+        "prob_sum": 3.175,
         "outcome_count": 4,
-        "btc": 69909.5234,
-        "sp500": 652.88,
-        "rates": 4.328,
-        "eth": 2128.1541,
+        "btc": 69952.4375,
+        "sp500": 652.46,
+        "rates": 0.0,
+        "eth": 2139.1599,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644894.0,
-          "ask_volume": 21788.0,
+          "bid_volume": 644825.0,
+          "ask_volume": 21814.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9346375033374232,
+          "order_imbalance": 0.9345552840442879,
           "success": true
         }
       },
@@ -2553,7 +2553,7 @@
           "sp": null
         },
         "KXMUSKTRILLION-28": {
-          "p": 0.78,
+          "p": 0.775,
           "v": 54946,
           "l": 16348,
           "sp": null
@@ -2565,7 +2565,7 @@
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.84,
+          "p": 0.835,
           "v": 34175,
           "l": 9377,
           "sp": null
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.5,
+    "score": 69.7,
     "state": "Active",
-    "timestamp": "2026-03-20T14:01:29.509731Z"
+    "timestamp": "2026-03-20T14:31:22.313486Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.5,
+    "score": 69.7,
     "state": "Active",
     "liq_score": 73.7,
     "eff_score": 12.5,
-    "ind_score": 85.3,
+    "ind_score": 100.0,
     "conv_score": 50.0
   }
 }

@@ -16,8 +16,8 @@
       "KXUKPARTY-29-BRUV": "Will Bruv win the next U.K. election?",
       "KXUKPARTY-29-Y": "Will Your Party win the next U.K. election?"
     },
-    "first_seen_at": "2026-03-20T14:01:29.509731Z",
-    "last_api_seen": "2026-03-20T14:01:29.509731Z"
+    "first_seen_at": "2026-03-20T14:31:22.313486Z",
+    "last_api_seen": "2026-03-20T14:31:22.313486Z"
   },
   "history": [
     {
@@ -4125,15 +4125,15 @@
       }
     },
     {
-      "t": "2026-03-20T14:01:29Z",
+      "t": "2026-03-20T14:31:22Z",
       "metrics": {
         "total_volume": 153703.0,
         "prob_sum": 1.0353,
         "outcome_count": 8,
-        "btc": 69909.5234,
-        "sp500": 652.88,
-        "rates": 4.328,
-        "eth": 2128.1541,
+        "btc": 69952.4375,
+        "sp500": 652.46,
+        "rates": 0.0,
+        "eth": 2139.1599,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4191,19 +4191,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 56.3,
+    "score": 54.6,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T14:01:29.509731Z"
+    "timestamp": "2026-03-20T14:31:22.313486Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 56.3,
+    "score": 54.6,
     "state": "Macro-Driven",
     "liq_score": 57.7,
     "eff_score": 12.5,
-    "ind_score": 65.3,
+    "ind_score": 54.7,
     "conv_score": 55.7
   }
 }

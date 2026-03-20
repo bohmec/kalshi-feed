@@ -50,8 +50,8 @@
       "KXTRUMPPARDONS-29JAN21-JMAL": ":: Joe Exotic",
       "KXTRUMPPARDONS-29JAN21-BHWA": "Will Bill Hwang receive a presidential pardon before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-20T14:01:29.509731Z",
-    "last_api_seen": "2026-03-20T14:01:29.509731Z"
+    "first_seen_at": "2026-03-20T14:31:22.313486Z",
+    "last_api_seen": "2026-03-20T14:31:22.313486Z"
   },
   "history": [
     {
@@ -17725,23 +17725,23 @@
       }
     },
     {
-      "t": "2026-03-20T14:01:29Z",
+      "t": "2026-03-20T14:31:22Z",
       "metrics": {
         "total_volume": 207248.0,
-        "prob_sum": 11.53,
+        "prob_sum": 11.52,
         "outcome_count": 42,
-        "btc": 69909.5234,
-        "sp500": 652.88,
-        "rates": 4.328,
-        "eth": 2128.1541,
+        "btc": 69952.4375,
+        "sp500": 652.46,
+        "rates": 0.0,
+        "eth": 2139.1599,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 112674.0,
-          "ask_volume": 14214.0,
+          "bid_volume": 112086.0,
+          "ask_volume": 13629.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7759599016455456,
+          "order_imbalance": 0.7831762319532275,
           "success": true
         }
       },
@@ -17777,7 +17777,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-GMAX": {
-          "p": 0.35,
+          "p": 0.345,
           "v": 9674,
           "l": 4704,
           "sp": null
@@ -17801,7 +17801,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-TLEI": {
-          "p": 0.36,
+          "p": 0.35,
           "v": 6261,
           "l": 3402,
           "sp": null
@@ -17861,13 +17861,13 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-JKUS": {
-          "p": 0.405,
+          "p": 0.41,
           "v": 2536,
           "l": 2201,
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-EADA": {
-          "p": 0.325,
+          "p": 0.33,
           "v": 2345,
           "l": 2286,
           "sp": null
@@ -17903,7 +17903,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-MBOR": {
-          "p": 0.16,
+          "p": 0.155,
           "v": 1272,
           "l": 1030,
           "sp": null
@@ -17933,7 +17933,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-SSAM": {
-          "p": 0.16,
+          "p": 0.165,
           "v": 1002,
           "l": 1000,
           "sp": null
@@ -17945,7 +17945,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-MSH": {
-          "p": 0.24,
+          "p": 0.235,
           "v": 755,
           "l": 456,
           "sp": null
@@ -18003,17 +18003,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 65.5,
+    "score": 65.4,
     "state": "Active",
-    "timestamp": "2026-03-20T14:01:29.509731Z"
+    "timestamp": "2026-03-20T14:31:22.313486Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 65.5,
+    "score": 65.4,
     "state": "Active",
-    "liq_score": 26.0,
+    "liq_score": 25.7,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 84.0
