@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T04:31:20.180960Z",
-    "last_api_seen": "2026-03-20T04:31:20.180960Z"
+    "first_seen_at": "2026-03-20T05:01:36.812542Z",
+    "last_api_seen": "2026-03-20T05:01:36.812542Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-20T04:31:20Z",
+      "t": "2026-03-20T05:01:36Z",
       "metrics": {
         "total_volume": 214947.0,
-        "prob_sum": 1.73,
+        "prob_sum": 1.725,
         "outcome_count": 5,
-        "btc": 70876.0938,
+        "btc": 70777.6406,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2153.8457,
+        "eth": 2147.8213,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25794.0,
-          "ask_volume": 14232.0,
+          "bid_volume": 25855.0,
+          "ask_volume": 12907.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.2888622395442962,
+          "order_imbalance": 0.3340384913059182,
           "success": true
         }
       },
@@ -2965,7 +2965,7 @@
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.46,
+          "p": 0.455,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 37.4,
+    "score": 37.2,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T04:31:20.180960Z"
+    "timestamp": "2026-03-20T05:01:36.812542Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 37.4,
+    "score": 37.2,
     "state": "Low Confidence",
-    "liq_score": 9.7,
+    "liq_score": 9.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0
