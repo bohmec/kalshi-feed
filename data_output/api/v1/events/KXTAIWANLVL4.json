@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T23:01:29.109494Z",
-    "last_api_seen": "2026-03-20T23:01:29.109494Z"
+    "first_seen_at": "2026-03-20T23:31:26.459057Z",
+    "last_api_seen": "2026-03-20T23:31:26.459057Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-20T23:01:29Z",
+      "t": "2026-03-20T23:31:26Z",
       "metrics": {
         "total_volume": 217698.0,
-        "prob_sum": 1.685,
+        "prob_sum": 1.69,
         "outcome_count": 5,
-        "btc": 70799.3984,
+        "btc": 70485.5625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.5569,
+        "eth": 2146.3701,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25374.0,
-          "ask_volume": 10790.0,
+          "bid_volume": 21069.0,
+          "ask_volume": 5981.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.40327397411790733,
+          "order_imbalance": 0.5577818853974122,
           "success": true
         }
       },
@@ -2959,13 +2959,13 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.4,
+          "p": 0.41,
           "v": 13569,
           "l": 10196,
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.455,
+          "p": 0.45,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 37.0,
+    "score": 36.3,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T23:01:29.109494Z"
+    "timestamp": "2026-03-20T23:31:26.459057Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 37.0,
+    "score": 36.3,
     "state": "Low Confidence",
-    "liq_score": 8.7,
+    "liq_score": 6.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0

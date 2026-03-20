@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-20T23:01:29.109494Z",
-    "last_api_seen": "2026-03-20T23:01:29.109494Z"
+    "first_seen_at": "2026-03-20T23:31:26.459057Z",
+    "last_api_seen": "2026-03-20T23:31:26.459057Z"
   },
   "history": [
     {
@@ -2525,30 +2525,30 @@
       }
     },
     {
-      "t": "2026-03-20T23:01:29Z",
+      "t": "2026-03-20T23:31:26Z",
       "metrics": {
-        "total_volume": 333520.0,
-        "prob_sum": 3.145,
+        "total_volume": 333523.0,
+        "prob_sum": 3.155,
         "outcome_count": 4,
-        "btc": 70799.3984,
+        "btc": 70485.5625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.5569,
+        "eth": 2146.3701,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644754.0,
-          "ask_volume": 21907.0,
+          "bid_volume": 644748.0,
+          "ask_volume": 21905.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9342784413667516,
+          "order_imbalance": 0.9342836528148827,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
           "p": 0.695,
-          "v": 207953,
+          "v": 207956,
           "l": 72635,
           "sp": null
         },
@@ -2559,13 +2559,13 @@
           "sp": null
         },
         "KXMUSKTRILLION-30": {
-          "p": 0.845,
+          "p": 0.85,
           "v": 36442,
           "l": 14033,
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.83,
+          "p": 0.835,
           "v": 34175,
           "l": 9377,
           "sp": null
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 69.9,
     "state": "Active",
-    "timestamp": "2026-03-20T23:01:29.109494Z"
+    "timestamp": "2026-03-20T23:31:26.459057Z"
   },
   "last_flags": [
     "Contested"

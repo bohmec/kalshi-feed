@@ -15,8 +15,8 @@
       "KXSTATE51-29-GU": "Will Guam be the 51st U.S. state before Jan 20, 2029?",
       "KXSTATE51-29-CO": "Will any part of Colombia be the 51st U.S. state before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-20T23:01:29.109494Z",
-    "last_api_seen": "2026-03-20T23:01:29.109494Z"
+    "first_seen_at": "2026-03-20T23:31:26.459057Z",
+    "last_api_seen": "2026-03-20T23:31:26.459057Z"
   },
   "history": [
     {
@@ -3725,23 +3725,23 @@
       }
     },
     {
-      "t": "2026-03-20T23:01:29Z",
+      "t": "2026-03-20T23:31:26Z",
       "metrics": {
         "total_volume": 581082.0,
         "prob_sum": 0.1254,
         "outcome_count": 7,
-        "btc": 70799.3984,
+        "btc": 70485.5625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.5569,
+        "eth": 2146.3701,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 71307.0,
-          "ask_volume": 217278.0,
+          "ask_volume": 217369.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.5058163106190551,
+          "order_imbalance": -0.5059720932810486,
           "success": true
         }
       },
@@ -3793,13 +3793,13 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 68.6,
+    "score": 68.7,
     "state": "Active",
-    "timestamp": "2026-03-20T23:01:29.109494Z"
+    "timestamp": "2026-03-20T23:31:26.459057Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 68.6,
+    "score": 68.7,
     "state": "Active",
     "liq_score": 66.7,
     "eff_score": 12.5,

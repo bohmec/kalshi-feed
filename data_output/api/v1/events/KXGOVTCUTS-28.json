@@ -13,8 +13,8 @@
       "KXGOVTCUTS-28-2000": "Will government spending decrease by 2000 before 2028?",
       "KXGOVTCUTS-28-750": "Will government spending decrease by 750 before 2028?"
     },
-    "first_seen_at": "2026-03-20T23:01:29.109494Z",
-    "last_api_seen": "2026-03-20T23:01:29.109494Z"
+    "first_seen_at": "2026-03-20T23:31:26.459057Z",
+    "last_api_seen": "2026-03-20T23:31:26.459057Z"
   },
   "history": [
     {
@@ -2925,15 +2925,15 @@
       }
     },
     {
-      "t": "2026-03-20T23:01:29Z",
+      "t": "2026-03-20T23:31:26Z",
       "metrics": {
         "total_volume": 67824.0,
-        "prob_sum": 0.31,
+        "prob_sum": 0.305,
         "outcome_count": 5,
-        "btc": 70799.3984,
+        "btc": 70485.5625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.5569,
+        "eth": 2146.3701,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -2963,7 +2963,7 @@
           "sp": null
         },
         "KXGOVTCUTS-28-750": {
-          "p": 0.04,
+          "p": 0.035,
           "v": 7112,
           "l": 2467,
           "sp": null
@@ -2973,19 +2973,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 38.9,
+    "score": 39.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T23:01:29.109494Z"
+    "timestamp": "2026-03-20T23:31:26.459057Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 38.9,
+    "score": 39.0,
     "state": "Macro-Driven",
     "liq_score": 53.7,
     "eff_score": 12.5,
-    "ind_score": 18.7,
+    "ind_score": 19.3,
     "conv_score": 25.0
   }
 }
