@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-20T17:31:34.357310Z",
-    "last_api_seen": "2026-03-20T17:31:34.357310Z"
+    "first_seen_at": "2026-03-20T18:01:27.157694Z",
+    "last_api_seen": "2026-03-20T18:01:27.157694Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-20T17:31:34Z",
+      "t": "2026-03-20T18:01:27Z",
       "metrics": {
-        "total_volume": 900977.0,
-        "prob_sum": 1.04,
+        "total_volume": 902966.0,
+        "prob_sum": 1.055,
         "outcome_count": 23,
-        "btc": 69661.6953,
-        "sp500": 652.08,
-        "rates": 4.372,
-        "eth": 2130.9419,
+        "btc": 69901.8203,
+        "sp500": 651.27,
+        "rates": 4.378,
+        "eth": 2137.3667,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15182.0,
-          "ask_volume": 86403.0,
+          "bid_volume": 14204.0,
+          "ask_volume": 85830.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7010976029925678,
+          "order_imbalance": -0.7160165543715137,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
-          "p": 0.265,
-          "v": 132969,
-          "l": 81963,
+          "p": 0.28,
+          "v": 133824,
+          "l": 82747,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10160,8 +10160,8 @@
         },
         "KXCABOUT-26MAR-LCDR": {
           "p": 0.26,
-          "v": 81387,
-          "l": 60937,
+          "v": 81404,
+          "l": 60954,
           "sp": null
         },
         "KXCABOUT-26MAR-RVOU": {
@@ -10214,7 +10214,7 @@
         },
         "KXCABOUT-26MAR-PBON": {
           "p": 0.075,
-          "v": 30890,
+          "v": 31007,
           "l": 25816,
           "sp": null
         },
@@ -10226,8 +10226,8 @@
         },
         "KXCABOUT-26MAR-PHEG": {
           "p": 0.065,
-          "v": 25726,
-          "l": 21079,
+          "v": 26726,
+          "l": 22079,
           "sp": null
         },
         "KXCABOUT-26MAR-RFK": {
@@ -10289,17 +10289,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.9,
+    "score": 43.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T17:31:34.357310Z"
+    "timestamp": "2026-03-20T18:01:27.157694Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 43.9,
+    "score": 43.8,
     "state": "Low Confidence",
-    "liq_score": 21.7,
+    "liq_score": 21.0,
     "eff_score": 12.5,
     "ind_score": 86.0,
-    "conv_score": 39.7
+    "conv_score": 40.0
   }
 }

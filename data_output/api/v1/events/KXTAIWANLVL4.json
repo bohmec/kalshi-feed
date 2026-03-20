@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T17:31:34.357310Z",
-    "last_api_seen": "2026-03-20T17:31:34.357310Z"
+    "first_seen_at": "2026-03-20T18:01:27.157694Z",
+    "last_api_seen": "2026-03-20T18:01:27.157694Z"
   },
   "history": [
     {
@@ -2925,29 +2925,29 @@
       }
     },
     {
-      "t": "2026-03-20T17:31:34Z",
+      "t": "2026-03-20T18:01:27Z",
       "metrics": {
         "total_volume": 217667.0,
-        "prob_sum": 1.705,
+        "prob_sum": 1.71,
         "outcome_count": 5,
-        "btc": 69661.6953,
-        "sp500": 652.08,
-        "rates": 4.372,
-        "eth": 2130.9419,
+        "btc": 69901.8203,
+        "sp500": 651.27,
+        "rates": 4.378,
+        "eth": 2137.3667,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25598.0,
-          "ask_volume": 12033.0,
+          "bid_volume": 25574.0,
+          "ask_volume": 12014.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.36047407722356567,
+          "order_imbalance": 0.3607534319463659,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
-          "p": 0.18,
+          "p": 0.175,
           "v": 105938,
           "l": 71345,
           "sp": null
@@ -2959,7 +2959,7 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.4,
+          "p": 0.41,
           "v": 13547,
           "l": 10196,
           "sp": null
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 37.1,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T17:31:34.357310Z"
+    "timestamp": "2026-03-20T18:01:27.157694Z"
   },
   "last_flags": [
     "Contested"
@@ -2994,6 +2994,6 @@
     "liq_score": 9.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 23.0
+    "conv_score": 22.7
   }
 }

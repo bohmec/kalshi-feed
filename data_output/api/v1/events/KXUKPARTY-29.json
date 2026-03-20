@@ -16,8 +16,8 @@
       "KXUKPARTY-29-BRUV": "Will Bruv win the next U.K. election?",
       "KXUKPARTY-29-Y": "Will Your Party win the next U.K. election?"
     },
-    "first_seen_at": "2026-03-20T17:31:34.357310Z",
-    "last_api_seen": "2026-03-20T17:31:34.357310Z"
+    "first_seen_at": "2026-03-20T18:01:27.157694Z",
+    "last_api_seen": "2026-03-20T18:01:27.157694Z"
   },
   "history": [
     {
@@ -4125,15 +4125,15 @@
       }
     },
     {
-      "t": "2026-03-20T17:31:34Z",
+      "t": "2026-03-20T18:01:27Z",
       "metrics": {
         "total_volume": 153849.0,
         "prob_sum": 1.0353,
         "outcome_count": 8,
-        "btc": 69661.6953,
-        "sp500": 652.08,
-        "rates": 4.372,
-        "eth": 2130.9419,
+        "btc": 69901.8203,
+        "sp500": 651.27,
+        "rates": 4.378,
+        "eth": 2137.3667,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4189,19 +4189,19 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 64.3,
-    "state": "Active",
-    "timestamp": "2026-03-20T17:31:34.357310Z"
+    "score": 59.0,
+    "state": "Low Confidence",
+    "timestamp": "2026-03-20T18:01:27.157694Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 64.3,
-    "state": "Active",
+    "score": 59.0,
+    "state": "Low Confidence",
     "liq_score": 57.7,
     "eff_score": 12.5,
-    "ind_score": 92.0,
+    "ind_score": 89.3,
     "conv_score": 52.7
   }
 }
