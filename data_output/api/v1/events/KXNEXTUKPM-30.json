@@ -28,8 +28,8 @@
       "KXNEXTUKPM-30-DJON": "Will Darren Jones be the next Prime Minister of United Kingdom?",
       "KXNEXTUKPM-30-JCLE": "Will James Cleverly be the next Prime Minister of United Kingdom?"
     },
-    "first_seen_at": "2026-03-20T16:01:32.771652Z",
-    "last_api_seen": "2026-03-20T16:01:32.771652Z"
+    "first_seen_at": "2026-03-20T16:31:32.858951Z",
+    "last_api_seen": "2026-03-20T16:31:32.858951Z"
   },
   "history": [
     {
@@ -8925,31 +8925,31 @@
       }
     },
     {
-      "t": "2026-03-20T16:01:32Z",
+      "t": "2026-03-20T16:31:32Z",
       "metrics": {
-        "total_volume": 443107.0,
+        "total_volume": 443270.0,
         "prob_sum": 0.9217,
         "outcome_count": 20,
-        "btc": 69798.2266,
-        "sp500": 653.2501,
-        "rates": 4.382,
-        "eth": 2133.1567,
+        "btc": 69996.1406,
+        "sp500": 652.3,
+        "rates": 4.366,
+        "eth": 2139.0381,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 13759.0,
-          "ask_volume": 642730.0,
+          "bid_volume": 14037.0,
+          "ask_volume": 642806.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.9580830752685879,
+          "order_imbalance": -0.9572591928360354,
           "success": true
         }
       },
       "outcomes": {
         "KXNEXTUKPM-30-NF": {
-          "p": 0.12,
-          "v": 121686,
-          "l": 51329,
+          "p": 0.125,
+          "v": 121849,
+          "l": 51429,
           "sp": null
         },
         "KXNEXTUKPM-30-RLOW": {
@@ -8965,7 +8965,7 @@
           "sp": null
         },
         "KXNEXTUKPM-30-WS": {
-          "p": 0.165,
+          "p": 0.16,
           "v": 41899,
           "l": 20263,
           "sp": null
@@ -9071,17 +9071,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 74.5,
+    "score": 74.3,
     "state": "Active",
-    "timestamp": "2026-03-20T16:01:32.771652Z"
+    "timestamp": "2026-03-20T16:31:32.858951Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 74.5,
+    "score": 74.3,
     "state": "Active",
-    "liq_score": 72.3,
+    "liq_score": 72.7,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 67.7
+    "conv_score": 67.0
   }
 }

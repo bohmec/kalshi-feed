@@ -16,8 +16,8 @@
       "KXCABOUT-26MAR-DBUR": "Will Doug Burgum be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-DCOL": "Will Doug Collins be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-JRAT": "Will John Ratcliffe be the next person to leave the Trump Cabinet?",
-      "KXCABOUT-26MAR-MWAL": "Will Mike Waltz be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-SWIL": "Will Susie Wiles be the next person to leave the Trump Cabinet?",
+      "KXCABOUT-26MAR-MWAL": "Will Mike Waltz be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PBON": "Will Pam Bondi be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-MKRA": "Will Michael Kratsios be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PHEG": "Will Pete Hegseth be the next person to leave the Trump Cabinet?",
@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-20T16:01:32.771652Z",
-    "last_api_seen": "2026-03-20T16:01:32.771652Z"
+    "first_seen_at": "2026-03-20T16:31:32.858951Z",
+    "last_api_seen": "2026-03-20T16:31:32.858951Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-20T16:01:32Z",
+      "t": "2026-03-20T16:31:32Z",
       "metrics": {
-        "total_volume": 891197.0,
-        "prob_sum": 1.06,
+        "total_volume": 893993.0,
+        "prob_sum": 1.055,
         "outcome_count": 23,
-        "btc": 69798.2266,
-        "sp500": 653.2501,
-        "rates": 4.382,
-        "eth": 2133.1567,
+        "btc": 69996.1406,
+        "sp500": 652.3,
+        "rates": 4.366,
+        "eth": 2139.0381,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 10971.0,
-          "ask_volume": 83994.0,
+          "bid_volume": 14735.0,
+          "ask_volume": 88168.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7689464539567209,
+          "order_imbalance": -0.7136137916290098,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
-          "p": 0.285,
-          "v": 126809,
-          "l": 81191,
+          "p": 0.275,
+          "v": 128642,
+          "l": 81058,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10200,22 +10200,22 @@
           "l": 37576,
           "sp": null
         },
+        "KXCABOUT-26MAR-SWIL": {
+          "p": 0.035,
+          "v": 31152,
+          "l": 16011,
+          "sp": null
+        },
         "KXCABOUT-26MAR-MWAL": {
           "p": 0.015,
           "v": 31098,
           "l": 8461,
           "sp": null
         },
-        "KXCABOUT-26MAR-SWIL": {
-          "p": 0.04,
-          "v": 30627,
-          "l": 15986,
-          "sp": null
-        },
         "KXCABOUT-26MAR-PBON": {
-          "p": 0.08,
-          "v": 30575,
-          "l": 25512,
+          "p": 0.075,
+          "v": 30879,
+          "l": 25816,
           "sp": null
         },
         "KXCABOUT-26MAR-MKRA": {
@@ -10225,9 +10225,9 @@
           "sp": null
         },
         "KXCABOUT-26MAR-PHEG": {
-          "p": 0.05,
-          "v": 23953,
-          "l": 19306,
+          "p": 0.065,
+          "v": 24087,
+          "l": 19440,
           "sp": null
         },
         "KXCABOUT-26MAR-RFK": {
@@ -10289,17 +10289,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.3,
+    "score": 43.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T16:01:32.771652Z"
+    "timestamp": "2026-03-20T16:31:32.858951Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 43.3,
+    "score": 43.9,
     "state": "Low Confidence",
-    "liq_score": 19.7,
+    "liq_score": 21.7,
     "eff_score": 12.5,
     "ind_score": 86.0,
-    "conv_score": 40.0
+    "conv_score": 39.7
   }
 }

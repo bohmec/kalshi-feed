@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-20T16:01:32.771652Z",
-    "last_api_seen": "2026-03-20T16:01:32.771652Z"
+    "first_seen_at": "2026-03-20T16:31:32.858951Z",
+    "last_api_seen": "2026-03-20T16:31:32.858951Z"
   },
   "history": [
     {
@@ -2925,35 +2925,35 @@
       }
     },
     {
-      "t": "2026-03-20T16:01:32Z",
+      "t": "2026-03-20T16:31:32Z",
       "metrics": {
         "total_volume": 230936.0,
-        "prob_sum": 1.136,
+        "prob_sum": 1.116,
         "outcome_count": 5,
-        "btc": 69798.2266,
-        "sp500": 653.2501,
-        "rates": 4.382,
-        "eth": 2133.1567,
+        "btc": 69996.1406,
+        "sp500": 652.3,
+        "rates": 4.366,
+        "eth": 2139.0381,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15338.0,
-          "ask_volume": 180513.0,
+          "bid_volume": 15913.0,
+          "ask_volume": 181010.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8433707257047449,
+          "order_imbalance": -0.8383835306185666,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.555,
+          "p": 0.545,
           "v": 114278,
           "l": 66143,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.535,
+          "p": 0.525,
           "v": 97271,
           "l": 62824,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 47.8,
+    "score": 47.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T16:01:32.771652Z"
+    "timestamp": "2026-03-20T16:31:32.858951Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 47.8,
+    "score": 47.9,
     "state": "Low Confidence",
-    "liq_score": 38.7,
+    "liq_score": 39.0,
     "eff_score": 12.5,
     "ind_score": 90.0,
     "conv_score": 34.0
