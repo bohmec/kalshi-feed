@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXCANAL-29": "Will Trump take back the Panama Canal?"
     },
-    "first_seen_at": "2026-03-20T21:31:29.314082Z",
-    "last_api_seen": "2026-03-20T21:31:29.314082Z"
+    "first_seen_at": "2026-03-20T22:01:35.332615Z",
+    "last_api_seen": "2026-03-20T22:01:35.332615Z"
   },
   "history": [
     {
@@ -1325,31 +1325,31 @@
       }
     },
     {
-      "t": "2026-03-20T21:31:29Z",
+      "t": "2026-03-20T22:01:35Z",
       "metrics": {
-        "total_volume": 493610.0,
+        "total_volume": 493616.0,
         "prob_sum": 0.305,
         "outcome_count": 1,
-        "btc": 70445.6797,
+        "btc": 70525.0469,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2149.1375,
+        "eth": 2147.7439,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 41723.0,
-          "ask_volume": 19091.0,
+          "bid_volume": 41707.0,
+          "ask_volume": 18978.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.37215114940638666,
+          "order_imbalance": 0.3745406607893219,
           "success": true
         }
       },
       "outcomes": {
         "KXCANAL-29": {
           "p": 0.305,
-          "v": 493610,
-          "l": 89887,
+          "v": 493616,
+          "l": 89893,
           "sp": null
         }
       }
@@ -1359,7 +1359,7 @@
   "latest_analysis": {
     "score": 36.4,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T21:31:29.314082Z"
+    "timestamp": "2026-03-20T22:01:35.332615Z"
   },
   "last_flags": [
     "Correlated"

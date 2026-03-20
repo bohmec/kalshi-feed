@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-20T21:31:29.314082Z",
-    "last_api_seen": "2026-03-20T21:31:29.314082Z"
+    "first_seen_at": "2026-03-20T22:01:35.332615Z",
+    "last_api_seen": "2026-03-20T22:01:35.332615Z"
   },
   "history": [
     {
@@ -2925,36 +2925,36 @@
       }
     },
     {
-      "t": "2026-03-20T21:31:29Z",
+      "t": "2026-03-20T22:01:35Z",
       "metrics": {
-        "total_volume": 233800.0,
-        "prob_sum": 1.1009,
+        "total_volume": 233988.0,
+        "prob_sum": 1.1209,
         "outcome_count": 5,
-        "btc": 70445.6797,
+        "btc": 70525.0469,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2149.1375,
+        "eth": 2147.7439,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14909.0,
-          "ask_volume": 179200.0,
+          "bid_volume": 14814.0,
+          "ask_volume": 178966.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8463852783745215,
+          "order_imbalance": -0.8471049643926102,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.57,
-          "v": 115065,
-          "l": 66766,
+          "p": 0.575,
+          "v": 115218,
+          "l": 66803,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.485,
-          "v": 99068,
+          "p": 0.5,
+          "v": 99103,
           "l": 64467,
           "sp": null
         },
@@ -2983,9 +2983,11 @@
   "latest_analysis": {
     "score": 47.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T21:31:29.314082Z"
+    "timestamp": "2026-03-20T22:01:35.332615Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Contested"
+  ],
   "analysis": {
     "score": 47.7,
     "state": "Low Confidence",
