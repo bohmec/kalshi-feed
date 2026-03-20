@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXTRUMPREMOVE": "Will Trump be impeached and removed from office?"
     },
-    "first_seen_at": "2026-03-20T19:01:38.613809Z",
-    "last_api_seen": "2026-03-20T19:01:38.613809Z"
+    "first_seen_at": "2026-03-20T19:31:31.942814Z",
+    "last_api_seen": "2026-03-20T19:31:31.942814Z"
   },
   "history": [
     {
@@ -1325,23 +1325,23 @@
       }
     },
     {
-      "t": "2026-03-20T19:01:38Z",
+      "t": "2026-03-20T19:31:31Z",
       "metrics": {
         "total_volume": 289617.0,
         "prob_sum": 0.22,
         "outcome_count": 1,
-        "btc": 69700.6641,
-        "sp500": 648.5,
-        "rates": 4.388,
-        "eth": 2121.2939,
+        "btc": 69860.4609,
+        "sp500": 646.935,
+        "rates": 4.391,
+        "eth": 2125.0898,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 405011.0,
+          "bid_volume": 404893.0,
           "ask_volume": 116774.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.5524056843335857,
+          "order_imbalance": 0.5523044394220834,
           "success": true
         }
       },
@@ -1359,7 +1359,7 @@
   "latest_analysis": {
     "score": 78.0,
     "state": "Active",
-    "timestamp": "2026-03-20T19:01:38.613809Z"
+    "timestamp": "2026-03-20T19:31:31.942814Z"
   },
   "last_flags": [],
   "analysis": {

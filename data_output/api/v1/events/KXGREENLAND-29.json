@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-20T19:01:38.613809Z",
-    "last_api_seen": "2026-03-20T19:01:38.613809Z"
+    "first_seen_at": "2026-03-20T19:31:31.942814Z",
+    "last_api_seen": "2026-03-20T19:31:31.942814Z"
   },
   "history": [
     {
@@ -2525,29 +2525,29 @@
       }
     },
     {
-      "t": "2026-03-20T19:01:38Z",
+      "t": "2026-03-20T19:31:31Z",
       "metrics": {
-        "total_volume": 6383553.0,
-        "prob_sum": 0.44,
+        "total_volume": 6383608.0,
+        "prob_sum": 0.435,
         "outcome_count": 4,
-        "btc": 69700.6641,
-        "sp500": 648.5,
-        "rates": 4.388,
-        "eth": 2121.2939,
+        "btc": 69860.4609,
+        "sp500": 646.935,
+        "rates": 4.391,
+        "eth": 2125.0898,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 990416.0,
-          "ask_volume": 627688.0,
+          "bid_volume": 989524.0,
+          "ask_volume": 626937.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.2241685330485556,
+          "order_imbalance": 0.22430915438108312,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLAND-29": {
-          "p": 0.275,
+          "p": 0.27,
           "v": 3229566,
           "l": 387491,
           "sp": null
@@ -2560,8 +2560,8 @@
         },
         "KXGREENLAND-29-27": {
           "p": 0.125,
-          "v": 1070671,
-          "l": 384080,
+          "v": 1070726,
+          "l": 384025,
           "sp": null
         },
         "KXGREENLAND-29-26JUL": {
@@ -2575,17 +2575,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 79.2,
+    "score": 72.4,
     "state": "Active",
-    "timestamp": "2026-03-20T19:01:38.613809Z"
+    "timestamp": "2026-03-20T19:31:31.942814Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 79.2,
+    "score": 72.4,
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 95.3,
-    "conv_score": 59.3
+    "ind_score": 86.7,
+    "conv_score": 58.0
   }
 }
