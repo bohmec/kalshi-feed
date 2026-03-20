@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T09:31:19.060020Z",
-    "last_api_seen": "2026-03-20T09:31:19.060020Z"
+    "first_seen_at": "2026-03-20T10:01:24.392642Z",
+    "last_api_seen": "2026-03-20T10:01:24.392642Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-20T09:31:19Z",
+      "t": "2026-03-20T10:01:24Z",
       "metrics": {
         "total_volume": 214957.0,
-        "prob_sum": 1.72,
+        "prob_sum": 1.715,
         "outcome_count": 5,
-        "btc": 70526.5938,
+        "btc": 70567.2266,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2143.4138,
+        "eth": 2140.5342,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 26104.0,
-          "ask_volume": 11342.0,
+          "bid_volume": 25584.0,
+          "ask_volume": 9606.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.394221011590023,
+          "order_imbalance": 0.45404944586530266,
           "success": true
         }
       },
@@ -2959,7 +2959,7 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.385,
+          "p": 0.38,
           "v": 13319,
           "l": 9968,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 37.1,
+    "score": 36.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T09:31:19.060020Z"
+    "timestamp": "2026-03-20T10:01:24.392642Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 37.1,
+    "score": 36.9,
     "state": "Low Confidence",
-    "liq_score": 9.0,
+    "liq_score": 8.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0

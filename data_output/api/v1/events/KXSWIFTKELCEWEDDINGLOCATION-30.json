@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-20T09:31:19.060020Z",
-    "last_api_seen": "2026-03-20T09:31:19.060020Z"
+    "first_seen_at": "2026-03-20T10:01:24.392642Z",
+    "last_api_seen": "2026-03-20T10:01:24.392642Z"
   },
   "history": [
     {
@@ -2925,37 +2925,37 @@
       }
     },
     {
-      "t": "2026-03-20T09:31:19Z",
+      "t": "2026-03-20T10:01:24Z",
       "metrics": {
-        "total_volume": 225745.0,
-        "prob_sum": 1.142,
+        "total_volume": 226090.0,
+        "prob_sum": 0.962,
         "outcome_count": 5,
-        "btc": 70526.5938,
+        "btc": 70567.2266,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2143.4138,
+        "eth": 2140.5342,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 12811.0,
-          "ask_volume": 73318.0,
+          "bid_volume": 12803.0,
+          "ask_volume": 173297.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7025159934516829,
+          "order_imbalance": -0.862407307898979,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.61,
-          "v": 112171,
-          "l": 64515,
+          "p": 0.34,
+          "v": 112358,
+          "l": 64564,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.53,
-          "v": 94265,
-          "l": 60337,
+          "p": 0.62,
+          "v": 94423,
+          "l": 60482,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-PEN": {
@@ -2981,19 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 41.9,
+    "score": 47.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T09:31:19.060020Z"
+    "timestamp": "2026-03-20T10:01:24.392642Z"
   },
-  "last_flags": [
-    "Contested"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 41.9,
+    "score": 47.9,
     "state": "Low Confidence",
-    "liq_score": 18.3,
+    "liq_score": 36.0,
     "eff_score": 12.5,
-    "ind_score": 90.0,
-    "conv_score": 34.7
+    "ind_score": 94.0,
+    "conv_score": 35.0
   }
 }
