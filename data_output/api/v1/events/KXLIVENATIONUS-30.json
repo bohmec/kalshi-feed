@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXLIVENATIONUS-30-JAN01": "Will the DOJ win their antitrust lawsuit against Live Nation before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T03:54:42.397618Z",
-    "last_api_seen": "2026-03-20T03:54:42.397618Z"
+    "first_seen_at": "2026-03-20T04:00:07.375869Z",
+    "last_api_seen": "2026-03-20T04:00:07.375869Z"
   },
   "history": [
     {
@@ -1325,15 +1325,15 @@
       }
     },
     {
-      "t": "2026-03-20T03:54:42Z",
+      "t": "2026-03-20T04:00:07Z",
       "metrics": {
         "total_volume": 53307.0,
         "prob_sum": 0.02,
         "outcome_count": 1,
-        "btc": 70756.9297,
+        "btc": 70749.125,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2153.2271,
+        "eth": 2152.8555,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -1347,19 +1347,19 @@
       }
     }
   ],
-  "last_regime": "Initializing",
+  "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": null,
-    "state": "Initializing",
-    "timestamp": "2026-03-20T03:54:42.397618Z"
+    "score": 54.6,
+    "state": "Low Confidence",
+    "timestamp": "2026-03-20T04:00:07.375869Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": null,
-    "state": "Initializing",
-    "liq_score": null,
-    "eff_score": null,
-    "ind_score": null,
-    "conv_score": null
+    "score": 54.6,
+    "state": "Low Confidence",
+    "liq_score": 52.7,
+    "eff_score": 12.5,
+    "ind_score": 100.0,
+    "conv_score": 37.7
   }
 }

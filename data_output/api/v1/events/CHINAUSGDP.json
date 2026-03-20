@@ -9,8 +9,8 @@
     "outcomes_map": {
       "CHINAUSGDP-30": "By 2030"
     },
-    "first_seen_at": "2026-03-20T03:54:42.397618Z",
-    "last_api_seen": "2026-03-20T03:54:42.397618Z"
+    "first_seen_at": "2026-03-20T04:00:07.375869Z",
+    "last_api_seen": "2026-03-20T04:00:07.375869Z"
   },
   "history": [
     {
@@ -1325,41 +1325,41 @@
       }
     },
     {
-      "t": "2026-03-20T03:54:42Z",
+      "t": "2026-03-20T04:00:07Z",
       "metrics": {
-        "total_volume": 79921.0,
+        "total_volume": 79925.0,
         "prob_sum": 0.215,
         "outcome_count": 1,
-        "btc": 70756.9297,
+        "btc": 70749.125,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2153.2271,
+        "eth": 2152.8555,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "CHINAUSGDP-30": {
           "p": 0.215,
-          "v": 79921,
+          "v": 79925,
           "l": 19920,
           "sp": null
         }
       }
     }
   ],
-  "last_regime": "Initializing",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": null,
-    "state": "Initializing",
-    "timestamp": "2026-03-20T03:54:42.397618Z"
+    "score": 63.2,
+    "state": "Active",
+    "timestamp": "2026-03-20T04:00:07.375869Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": null,
-    "state": "Initializing",
-    "liq_score": null,
-    "eff_score": null,
-    "ind_score": null,
-    "conv_score": null
+    "score": 63.2,
+    "state": "Active",
+    "liq_score": 54.3,
+    "eff_score": 12.5,
+    "ind_score": 100.0,
+    "conv_score": 47.7
   }
 }

@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-20T03:54:42.397618Z",
-    "last_api_seen": "2026-03-20T03:54:42.397618Z"
+    "first_seen_at": "2026-03-20T04:00:07.375869Z",
+    "last_api_seen": "2026-03-20T04:00:07.375869Z"
   },
   "history": [
     {
@@ -4125,29 +4125,29 @@
       }
     },
     {
-      "t": "2026-03-20T03:54:42Z",
+      "t": "2026-03-20T04:00:07Z",
       "metrics": {
         "total_volume": 994650.0,
-        "prob_sum": 0.95,
+        "prob_sum": 0.945,
         "outcome_count": 8,
-        "btc": 70756.9297,
+        "btc": 70749.125,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2153.2271,
+        "eth": 2152.8555,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 80612.0,
-          "ask_volume": 60761.0,
+          "bid_volume": 80579.0,
+          "ask_volume": 60733.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.14041577953357431,
+          "order_imbalance": 0.14044100996376813,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLANDPRICE-29JAN21-NOACQ": {
-          "p": 0.765,
+          "p": 0.76,
           "v": 407006,
           "l": 160678,
           "sp": null
@@ -4197,19 +4197,19 @@
       }
     }
   ],
-  "last_regime": "Initializing",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": null,
-    "state": "Initializing",
-    "timestamp": "2026-03-20T03:54:42.397618Z"
+    "score": 67.1,
+    "state": "Active",
+    "timestamp": "2026-03-20T04:00:07.375869Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": null,
-    "state": "Initializing",
-    "liq_score": null,
-    "eff_score": null,
-    "ind_score": null,
-    "conv_score": null
+    "score": 67.1,
+    "state": "Active",
+    "liq_score": 35.0,
+    "eff_score": 12.5,
+    "ind_score": 100.0,
+    "conv_score": 80.0
   }
 }

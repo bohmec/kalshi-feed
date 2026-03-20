@@ -33,8 +33,8 @@
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-20T03:54:42.397618Z",
-    "last_api_seen": "2026-03-20T03:54:42.397618Z"
+    "first_seen_at": "2026-03-20T04:00:07.375869Z",
+    "last_api_seen": "2026-03-20T04:00:07.375869Z"
   },
   "history": [
     {
@@ -10925,30 +10925,30 @@
       }
     },
     {
-      "t": "2026-03-20T03:54:42Z",
+      "t": "2026-03-20T04:00:07Z",
       "metrics": {
-        "total_volume": 20630253.0,
+        "total_volume": 20632677.0,
         "prob_sum": 0.9506,
         "outcome_count": 25,
-        "btc": 70756.9297,
+        "btc": 70749.125,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2153.2271,
+        "eth": 2152.8555,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2194484.0,
-          "ask_volume": 28345922.0,
+          "bid_volume": 2194437.0,
+          "ask_volume": 28344101.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8562897952306201,
+          "order_imbalance": -0.8562840827547147,
           "success": true
         }
       },
       "outcomes": {
         "KXPRESPERSON-28-MRUB": {
           "p": 0.165,
-          "v": 2569735,
+          "v": 2569820,
           "l": 1658039,
           "sp": null
         },
@@ -10996,8 +10996,8 @@
         },
         "KXPRESPERSON-28-SSMI": {
           "p": 0.015,
-          "v": 966062,
-          "l": 878515,
+          "v": 968401,
+          "l": 880854,
           "sp": null
         },
         "KXPRESPERSON-28-JSHA": {
@@ -11099,19 +11099,19 @@
       }
     }
   ],
-  "last_regime": "Initializing",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": null,
-    "state": "Initializing",
-    "timestamp": "2026-03-20T03:54:42.397618Z"
+    "score": 76.3,
+    "state": "Active",
+    "timestamp": "2026-03-20T04:00:07.375869Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": null,
-    "state": "Initializing",
-    "liq_score": null,
-    "eff_score": null,
-    "ind_score": null,
-    "conv_score": null
+    "score": 76.3,
+    "state": "Active",
+    "liq_score": 78.0,
+    "eff_score": 12.5,
+    "ind_score": 100.0,
+    "conv_score": 68.0
   }
 }
