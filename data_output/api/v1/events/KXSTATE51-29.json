@@ -15,8 +15,8 @@
       "KXSTATE51-29-GU": "Will Guam be the 51st U.S. state before Jan 20, 2029?",
       "KXSTATE51-29-CO": "Will any part of Colombia be the 51st U.S. state before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-20T06:31:19.135487Z",
-    "last_api_seen": "2026-03-20T06:31:19.135487Z"
+    "first_seen_at": "2026-03-20T07:01:18.528871Z",
+    "last_api_seen": "2026-03-20T07:01:18.528871Z"
   },
   "history": [
     {
@@ -3725,31 +3725,31 @@
       }
     },
     {
-      "t": "2026-03-20T06:31:19Z",
+      "t": "2026-03-20T07:01:18Z",
       "metrics": {
-        "total_volume": 579935.0,
+        "total_volume": 580040.0,
         "prob_sum": 0.1254,
         "outcome_count": 7,
-        "btc": 70505.5938,
+        "btc": 70475.7109,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2136.7249,
+        "eth": 2136.2212,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 71504.0,
-          "ask_volume": 217454.0,
+          "ask_volume": 217417.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.5050907052235966,
+          "order_imbalance": -0.5050273258087851,
           "success": true
         }
       },
       "outcomes": {
         "KXSTATE51-29-GL": {
           "p": 0.04,
-          "v": 250707,
-          "l": 110086,
+          "v": 250725,
+          "l": 110104,
           "sp": null
         },
         "KXSTATE51-29-CA": {
@@ -3760,13 +3760,13 @@
         },
         "KXSTATE51-29-PR": {
           "p": 0.045,
-          "v": 81974,
-          "l": 53247,
+          "v": 81992,
+          "l": 53255,
           "sp": null
         },
         "KXSTATE51-29-VE": {
           "p": 0.0002,
-          "v": 75246,
+          "v": 75315,
           "l": 33223,
           "sp": null
         },
@@ -3795,7 +3795,7 @@
   "latest_analysis": {
     "score": 68.5,
     "state": "Active",
-    "timestamp": "2026-03-20T06:31:19.135487Z"
+    "timestamp": "2026-03-20T07:01:18.528871Z"
   },
   "last_flags": [],
   "analysis": {
