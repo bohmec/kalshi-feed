@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-20T05:01:36.812542Z",
-    "last_api_seen": "2026-03-20T05:01:36.812542Z"
+    "first_seen_at": "2026-03-20T05:31:15.638170Z",
+    "last_api_seen": "2026-03-20T05:31:15.638170Z"
   },
   "history": [
     {
@@ -2525,35 +2525,35 @@
       }
     },
     {
-      "t": "2026-03-20T05:01:36Z",
+      "t": "2026-03-20T05:31:15Z",
       "metrics": {
-        "total_volume": 332657.0,
+        "total_volume": 332662.0,
         "prob_sum": 3.18,
         "outcome_count": 4,
-        "btc": 70777.6406,
+        "btc": 70726.8047,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2147.8213,
+        "eth": 2147.5093,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 645407.0,
-          "ask_volume": 20785.0,
+          "bid_volume": 645425.0,
+          "ask_volume": 21785.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9376005716069842,
+          "order_imbalance": 0.9346982209499258,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.71,
-          "v": 207745,
+          "p": 0.715,
+          "v": 207750,
           "l": 72756,
           "sp": null
         },
         "KXMUSKTRILLION-28": {
-          "p": 0.78,
+          "p": 0.775,
           "v": 54936,
           "l": 16358,
           "sp": null
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.6,
+    "score": 62.5,
     "state": "Active",
-    "timestamp": "2026-03-20T05:01:36.812542Z"
+    "timestamp": "2026-03-20T05:31:15.638170Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.6,
+    "score": 62.5,
     "state": "Active",
     "liq_score": 73.7,
     "eff_score": 12.5,
     "ind_score": 85.3,
-    "conv_score": 50.7
+    "conv_score": 50.0
   }
 }

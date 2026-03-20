@@ -12,8 +12,8 @@
       "KXAGENCYELIM-29-EPA": ":: Environmental Protection Agency",
       "KXAGENCYELIM-29-NASA": ":: National Aeronautics and Space Administration"
     },
-    "first_seen_at": "2026-03-20T05:01:36.812542Z",
-    "last_api_seen": "2026-03-20T05:01:36.812542Z"
+    "first_seen_at": "2026-03-20T05:31:15.638170Z",
+    "last_api_seen": "2026-03-20T05:31:15.638170Z"
   },
   "history": [
     {
@@ -2525,15 +2525,15 @@
       }
     },
     {
-      "t": "2026-03-20T05:01:36Z",
+      "t": "2026-03-20T05:31:15Z",
       "metrics": {
-        "total_volume": 167527.0,
-        "prob_sum": 0.68,
+        "total_volume": 167549.0,
+        "prob_sum": 0.685,
         "outcome_count": 4,
-        "btc": 70777.6406,
+        "btc": 70726.8047,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2147.8213,
+        "eth": 2147.5093,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -2551,9 +2551,9 @@
           "sp": null
         },
         "KXAGENCYELIM-29-EPA": {
-          "p": 0.105,
-          "v": 7685,
-          "l": 2354,
+          "p": 0.11,
+          "v": 7707,
+          "l": 2376,
           "sp": null
         },
         "KXAGENCYELIM-29-NASA": {
@@ -2569,7 +2569,7 @@
   "latest_analysis": {
     "score": 77.2,
     "state": "Active",
-    "timestamp": "2026-03-20T05:01:36.812542Z"
+    "timestamp": "2026-03-20T05:31:15.638170Z"
   },
   "last_flags": [],
   "analysis": {

@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T05:01:36.812542Z",
-    "last_api_seen": "2026-03-20T05:01:36.812542Z"
+    "first_seen_at": "2026-03-20T05:31:15.638170Z",
+    "last_api_seen": "2026-03-20T05:31:15.638170Z"
   },
   "history": [
     {
@@ -2925,29 +2925,29 @@
       }
     },
     {
-      "t": "2026-03-20T05:01:36Z",
+      "t": "2026-03-20T05:31:15Z",
       "metrics": {
         "total_volume": 214947.0,
-        "prob_sum": 1.725,
+        "prob_sum": 1.72,
         "outcome_count": 5,
-        "btc": 70777.6406,
+        "btc": 70726.8047,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2147.8213,
+        "eth": 2147.5093,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25855.0,
+          "bid_volume": 25835.0,
           "ask_volume": 12907.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.3340384913059182,
+          "order_imbalance": 0.33369469826028597,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
-          "p": 0.195,
+          "p": 0.19,
           "v": 105397,
           "l": 71244,
           "sp": null
@@ -2959,13 +2959,13 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.385,
+          "p": 0.39,
           "v": 13319,
           "l": 9968,
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.455,
+          "p": 0.45,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 37.2,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T05:01:36.812542Z"
+    "timestamp": "2026-03-20T05:31:15.638170Z"
   },
   "last_flags": [
     "Contested"
