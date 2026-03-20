@@ -12,8 +12,8 @@
       "KXUSAEXPANDTERRITORY-28JAN01": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 1, 2028?",
       "KXUSAEXPANDTERRITORY-29JAN21": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-20T18:01:27.157694Z",
-    "last_api_seen": "2026-03-20T18:01:27.157694Z"
+    "first_seen_at": "2026-03-20T18:31:33.484205Z",
+    "last_api_seen": "2026-03-20T18:31:33.484205Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-20T18:01:27Z",
+      "t": "2026-03-20T18:31:33Z",
       "metrics": {
         "total_volume": 277462.0,
         "prob_sum": 0.89,
         "outcome_count": 4,
-        "btc": 69901.8203,
-        "sp500": 651.27,
+        "btc": 69700.5234,
+        "sp500": 649.32,
         "rates": 4.378,
-        "eth": 2137.3667,
+        "eth": 2125.7009,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 22258.0,
-          "ask_volume": 21461.0,
+          "bid_volume": 22371.0,
+          "ask_volume": 21509.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.01823006015691118,
+          "order_imbalance": 0.019644484958979035,
           "success": true
         }
       },
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 51.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T18:01:27.157694Z"
+    "timestamp": "2026-03-20T18:31:33.484205Z"
   },
   "last_flags": [],
   "analysis": {
@@ -2585,7 +2585,7 @@
     "state": "Low Confidence",
     "liq_score": 11.0,
     "eff_score": 12.5,
-    "ind_score": 98.0,
+    "ind_score": 97.3,
     "conv_score": 54.3
   }
 }
