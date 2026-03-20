@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-20T12:31:22.051000Z",
-    "last_api_seen": "2026-03-20T12:31:22.051000Z"
+    "first_seen_at": "2026-03-20T13:01:24.714773Z",
+    "last_api_seen": "2026-03-20T13:01:24.714773Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-20T12:31:22Z",
+      "t": "2026-03-20T13:01:24Z",
       "metrics": {
         "total_volume": 214965.0,
-        "prob_sum": 1.725,
+        "prob_sum": 1.72,
         "outcome_count": 5,
-        "btc": 70440.0703,
+        "btc": 70317.3984,
         "sp500": 659.8,
-        "rates": 4.281,
-        "eth": 2141.3696,
+        "rates": 4.306,
+        "eth": 0.0,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 26094.0,
-          "ask_volume": 8313.0,
+          "bid_volume": 25798.0,
+          "ask_volume": 12052.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.5167843752724737,
+          "order_imbalance": 0.36317040951122853,
           "success": true
         }
       },
@@ -2959,7 +2959,7 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.385,
+          "p": 0.38,
           "v": 13319,
           "l": 9968,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 36.8,
+    "score": 37.2,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T12:31:22.051000Z"
+    "timestamp": "2026-03-20T13:01:24.714773Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 36.8,
+    "score": 37.2,
     "state": "Low Confidence",
-    "liq_score": 8.0,
+    "liq_score": 9.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0

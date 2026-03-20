@@ -12,8 +12,8 @@
       "KXUSAEXPANDTERRITORY-28JAN01": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 1, 2028?",
       "KXUSAEXPANDTERRITORY-29JAN21": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-20T12:31:22.051000Z",
-    "last_api_seen": "2026-03-20T12:31:22.051000Z"
+    "first_seen_at": "2026-03-20T13:01:24.714773Z",
+    "last_api_seen": "2026-03-20T13:01:24.714773Z"
   },
   "history": [
     {
@@ -2525,31 +2525,31 @@
       }
     },
     {
-      "t": "2026-03-20T12:31:22Z",
+      "t": "2026-03-20T13:01:24Z",
       "metrics": {
-        "total_volume": 277419.0,
+        "total_volume": 277445.0,
         "prob_sum": 0.9,
         "outcome_count": 4,
-        "btc": 70440.0703,
+        "btc": 70317.3984,
         "sp500": 659.8,
-        "rates": 4.281,
-        "eth": 2141.3696,
+        "rates": 4.306,
+        "eth": 0.0,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 22320.0,
-          "ask_volume": 21019.0,
+          "bid_volume": 22227.0,
+          "ask_volume": 21173.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.030019151341747617,
+          "order_imbalance": 0.024285714285714285,
           "success": true
         }
       },
       "outcomes": {
         "KXUSAEXPANDTERRITORY-27JAN01": {
           "p": 0.16,
-          "v": 84003,
-          "l": 35241,
+          "v": 84029,
+          "l": 35267,
           "sp": null
         },
         "KXUSAEXPANDTERRITORY-26JUL01": {
@@ -2577,13 +2577,13 @@
   "latest_analysis": {
     "score": 52.0,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T12:31:22.051000Z"
+    "timestamp": "2026-03-20T13:01:24.714773Z"
   },
   "last_flags": [],
   "analysis": {
     "score": 52.0,
     "state": "Low Confidence",
-    "liq_score": 10.7,
+    "liq_score": 11.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 54.3
