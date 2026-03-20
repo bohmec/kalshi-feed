@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXSTATE-29": "Will the United States add another state before date?"
     },
-    "first_seen_at": "2026-03-20T15:01:33.723531Z",
-    "last_api_seen": "2026-03-20T15:01:33.723531Z"
+    "first_seen_at": "2026-03-20T15:31:40.633792Z",
+    "last_api_seen": "2026-03-20T15:31:40.633792Z"
   },
   "history": [
     {
@@ -1325,15 +1325,15 @@
       }
     },
     {
-      "t": "2026-03-20T15:01:33Z",
+      "t": "2026-03-20T15:31:40Z",
       "metrics": {
         "total_volume": 53217.0,
         "prob_sum": 0.125,
         "outcome_count": 1,
-        "btc": 69792.6328,
-        "sp500": 652.9194,
-        "rates": 4.38,
-        "eth": 2130.6907,
+        "btc": 69779.0938,
+        "sp500": 652.1811,
+        "rates": 4.382,
+        "eth": 2129.8938,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -1351,7 +1351,7 @@
   "latest_analysis": {
     "score": 64.5,
     "state": "Active",
-    "timestamp": "2026-03-20T15:01:33.723531Z"
+    "timestamp": "2026-03-20T15:31:40.633792Z"
   },
   "last_flags": [],
   "analysis": {
@@ -1359,7 +1359,7 @@
     "state": "Active",
     "liq_score": 52.7,
     "eff_score": 12.5,
-    "ind_score": 92.0,
+    "ind_score": 91.3,
     "conv_score": 58.3
   }
 }

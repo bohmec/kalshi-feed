@@ -12,8 +12,8 @@
       "KXIMPEACHCABINET-28JAN01": "Will any member of the Cabinet (defined as: the Vice President, Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security, Administrator of the Environmental Protection Agency, Director of the Office of Management and Budget, Director of National Intelligence, Trade Representative, Administrator of the Small Business Administration, White House Chief of Staff) be impeached before Jan 1, 2028?",
       "KXIMPEACHCABINET-29JAN20": "Will any member of the Cabinet (defined as: the Vice President, Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security, Administrator of the Environmental Protection Agency, Director of the Office of Management and Budget, Director of National Intelligence, Trade Representative, Administrator of the Small Business Administration, White House Chief of Staff) be impeached before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-20T15:01:33.723531Z",
-    "last_api_seen": "2026-03-20T15:01:33.723531Z"
+    "first_seen_at": "2026-03-20T15:31:40.633792Z",
+    "last_api_seen": "2026-03-20T15:31:40.633792Z"
   },
   "history": [
     {
@@ -2525,29 +2525,29 @@
       }
     },
     {
-      "t": "2026-03-20T15:01:33Z",
+      "t": "2026-03-20T15:31:40Z",
       "metrics": {
-        "total_volume": 100142.0,
+        "total_volume": 100220.0,
         "prob_sum": 1.385,
         "outcome_count": 4,
-        "btc": 69792.6328,
-        "sp500": 652.9194,
-        "rates": 4.38,
-        "eth": 2130.6907,
+        "btc": 69779.0938,
+        "sp500": 652.1811,
+        "rates": 4.382,
+        "eth": 2129.8938,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXIMPEACHCABINET-26JUL01": {
           "p": 0.055,
-          "v": 56508,
-          "l": 30338,
+          "v": 56547,
+          "l": 30377,
           "sp": null
         },
         "KXIMPEACHCABINET-27JAN01": {
           "p": 0.155,
-          "v": 24273,
-          "l": 15812,
+          "v": 24312,
+          "l": 15851,
           "sp": null
         },
         "KXIMPEACHCABINET-28JAN01": {
@@ -2567,20 +2567,20 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 46.1,
+    "score": 45.8,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T15:01:33.723531Z"
+    "timestamp": "2026-03-20T15:31:40.633792Z"
   },
   "last_flags": [
     "Correlated",
     "Contested"
   ],
   "analysis": {
-    "score": 46.1,
+    "score": 45.8,
     "state": "Macro-Driven",
     "liq_score": 55.7,
     "eff_score": 12.5,
-    "ind_score": 29.3,
+    "ind_score": 27.3,
     "conv_score": 41.7
   }
 }

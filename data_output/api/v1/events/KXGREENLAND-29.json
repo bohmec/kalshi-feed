@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-20T15:01:33.723531Z",
-    "last_api_seen": "2026-03-20T15:01:33.723531Z"
+    "first_seen_at": "2026-03-20T15:31:40.633792Z",
+    "last_api_seen": "2026-03-20T15:31:40.633792Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-20T15:01:33Z",
+      "t": "2026-03-20T15:31:40Z",
       "metrics": {
-        "total_volume": 6374196.0,
+        "total_volume": 6380665.0,
         "prob_sum": 0.445,
         "outcome_count": 4,
-        "btc": 69792.6328,
-        "sp500": 652.9194,
-        "rates": 4.38,
-        "eth": 2130.6907,
+        "btc": 69779.0938,
+        "sp500": 652.1811,
+        "rates": 4.382,
+        "eth": 2129.8938,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 998810.0,
-          "ask_volume": 627747.0,
+          "bid_volume": 998768.0,
+          "ask_volume": 627727.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.2281278799328889,
+          "order_imbalance": 0.2281230498710417,
           "success": true
         }
       },
@@ -2554,20 +2554,20 @@
         },
         "KXGREENLAND-29-26MAY": {
           "p": 0.015,
-          "v": 2061361,
-          "l": 636433,
+          "v": 2067511,
+          "l": 634261,
           "sp": null
         },
         "KXGREENLAND-29-27": {
           "p": 0.125,
-          "v": 1068640,
-          "l": 384475,
+          "v": 1068809,
+          "l": 384540,
           "sp": null
         },
         "KXGREENLAND-29-26JUL": {
           "p": 0.03,
-          "v": 14659,
-          "l": 7972,
+          "v": 14809,
+          "l": 8122,
           "sp": null
         }
       }
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 79.4,
     "state": "Active",
-    "timestamp": "2026-03-20T15:01:33.723531Z"
+    "timestamp": "2026-03-20T15:31:40.633792Z"
   },
   "last_flags": [],
   "analysis": {
@@ -2585,7 +2585,7 @@
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 97.3,
+    "ind_score": 96.7,
     "conv_score": 59.3
   }
 }
