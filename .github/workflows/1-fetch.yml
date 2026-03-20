@@ -2,7 +2,7 @@ name: 1. Kalshi-Hive — Calculate & Analyze
 
 on:
   repository_dispatch:
-    types: [kalshi-nexus-run]   # Cloudflare Worker가 보내는 신호
+    types: [kalshi-nexus-run]
   workflow_dispatch:
 
 concurrency:
@@ -12,6 +12,8 @@ concurrency:
 jobs:
   calculate:
     runs-on: ubuntu-latest
+    # [P2-2] timeout 추가 — 1시간 cadence 기준 여유 10분
+    timeout-minutes: 35
     permissions:
       contents: read
 
@@ -19,7 +21,7 @@ jobs:
       - name: Checkout kalshi-core
         uses: actions/checkout@v4
         with:
-          repository: bohmec/kalshi-core
+          repository: ${{ secrets.KALSHI_PRIVATE_REPO }}
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
@@ -40,13 +42,13 @@ jobs:
 
       - name: Run Engine
         env:
-          KALSHI_KEY_ID:        ${{ secrets.KALSHI_KEY_ID }}
-          KALSHI_PRIVATE_KEY:   ${{ secrets.KALSHI_PRIVATE_KEY }}
-          KALSHI_SUPABASE_URL:  ${{ secrets.KALSHI_SUPABASE_URL }}
-          KALSHI_SUPABASE_KEY:  ${{ secrets.KALSHI_SUPABASE_KEY }}
-          R2_ACCOUNT_ID:        ${{ secrets.R2_ACCOUNT_ID }}
-          R2_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
-          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          KALSHI_KEY_ID:          ${{ secrets.KALSHI_KEY_ID }}
+          KALSHI_PRIVATE_KEY:     ${{ secrets.KALSHI_PRIVATE_KEY }}
+          KALSHI_SUPABASE_URL:    ${{ secrets.KALSHI_SUPABASE_URL }}
+          KALSHI_SUPABASE_KEY:    ${{ secrets.KALSHI_SUPABASE_KEY }}
+          R2_ACCOUNT_ID:          ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID:       ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY:   ${{ secrets.R2_SECRET_ACCESS_KEY }}
         run: |
           cd private-brain
           python main.py
