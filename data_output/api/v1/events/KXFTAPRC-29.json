@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXFTAPRC-29": "Will Trump make a new free trade agreement with China before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-20T20:01:42.132989Z",
-    "last_api_seen": "2026-03-20T20:01:42.132989Z"
+    "first_seen_at": "2026-03-20T20:31:26.647144Z",
+    "last_api_seen": "2026-03-20T20:31:26.647144Z"
   },
   "history": [
     {
@@ -1325,21 +1325,21 @@
       }
     },
     {
-      "t": "2026-03-20T20:01:42Z",
+      "t": "2026-03-20T20:31:26Z",
       "metrics": {
         "total_volume": 53441.0,
-        "prob_sum": 0.365,
+        "prob_sum": 0.37,
         "outcome_count": 1,
-        "btc": 70164.5312,
-        "sp500": 648.54,
+        "btc": 69968.6875,
+        "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2133.4172,
+        "eth": 2129.7183,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXFTAPRC-29": {
-          "p": 0.365,
+          "p": 0.37,
           "v": 53441,
           "l": 12038,
           "sp": null
@@ -1347,21 +1347,19 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 48.4,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-20T20:01:42.132989Z"
+    "score": 49.7,
+    "state": "Low Confidence",
+    "timestamp": "2026-03-20T20:31:26.647144Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 48.4,
-    "state": "Macro-Driven",
+    "score": 49.7,
+    "state": "Low Confidence",
     "liq_score": 52.7,
     "eff_score": 12.5,
-    "ind_score": 83.3,
-    "conv_score": 25.3
+    "ind_score": 89.3,
+    "conv_score": 27.0
   }
 }

@@ -15,8 +15,8 @@
       "KXNEWPOPE-70-PPIZ": "Who will the next Pope be?",
       "KXNEWPOPE-70-MZUP": "Who will the next Pope be?"
     },
-    "first_seen_at": "2026-03-20T20:01:42.132989Z",
-    "last_api_seen": "2026-03-20T20:01:42.132989Z"
+    "first_seen_at": "2026-03-20T20:31:26.647144Z",
+    "last_api_seen": "2026-03-20T20:31:26.647144Z"
   },
   "history": [
     {
@@ -3985,15 +3985,15 @@
       }
     },
     {
-      "t": "2026-03-20T20:01:42Z",
+      "t": "2026-03-20T20:31:26Z",
       "metrics": {
-        "total_volume": 73778.0,
-        "prob_sum": 0.395,
+        "total_volume": 73780.0,
+        "prob_sum": 0.41,
         "outcome_count": 7,
-        "btc": 70164.5312,
-        "sp500": 648.54,
+        "btc": 69968.6875,
+        "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2133.4172,
+        "eth": 2129.7183,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4005,8 +4005,8 @@
           "sp": null
         },
         "KXNEWPOPE-70-PPAR": {
-          "p": 0.065,
-          "v": 14369,
+          "p": 0.08,
+          "v": 14371,
           "l": 4537,
           "sp": null
         },
@@ -4047,7 +4047,7 @@
   "latest_analysis": {
     "score": 57.0,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T20:01:42.132989Z"
+    "timestamp": "2026-03-20T20:31:26.647144Z"
   },
   "last_flags": [],
   "analysis": {
@@ -4056,6 +4056,6 @@
     "liq_score": 54.0,
     "eff_score": 12.5,
     "ind_score": 92.0,
-    "conv_score": 48.0
+    "conv_score": 48.3
   }
 }

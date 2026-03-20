@@ -33,8 +33,8 @@
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-20T20:01:42.132989Z",
-    "last_api_seen": "2026-03-20T20:01:42.132989Z"
+    "first_seen_at": "2026-03-20T20:31:26.647144Z",
+    "last_api_seen": "2026-03-20T20:31:26.647144Z"
   },
   "history": [
     {
@@ -10925,48 +10925,48 @@
       }
     },
     {
-      "t": "2026-03-20T20:01:42Z",
+      "t": "2026-03-20T20:31:26Z",
       "metrics": {
-        "total_volume": 20791937.0,
-        "prob_sum": 0.9356,
+        "total_volume": 20801424.0,
+        "prob_sum": 0.9306,
         "outcome_count": 25,
-        "btc": 70164.5312,
-        "sp500": 648.54,
+        "btc": 69968.6875,
+        "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2133.4172,
+        "eth": 2129.7183,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2256561.0,
-          "ask_volume": 28451915.0,
+          "bid_volume": 2255208.0,
+          "ask_volume": 28454892.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8530333449305657,
+          "order_imbalance": -0.8531292310998662,
           "success": true
         }
       },
       "outcomes": {
         "KXPRESPERSON-28-MRUB": {
           "p": 0.165,
-          "v": 2578512,
-          "l": 1664375,
+          "v": 2583026,
+          "l": 1668889,
           "sp": null
         },
         "KXPRESPERSON-28-GNEWS": {
           "p": 0.19,
-          "v": 2052962,
-          "l": 1271840,
+          "v": 2053157,
+          "l": 1271881,
           "sp": null
         },
         "KXPRESPERSON-28-JVAN": {
-          "p": 0.19,
-          "v": 1985613,
-          "l": 1314518,
+          "p": 0.185,
+          "v": 1990211,
+          "l": 1313580,
           "sp": null
         },
         "KXPRESPERSON-28-JOSS": {
           "p": 0.045,
-          "v": 1537170,
+          "v": 1537188,
           "l": 1320086,
           "sp": null
         },
@@ -10990,8 +10990,8 @@
         },
         "KXPRESPERSON-28-JPRI": {
           "p": 0.025,
-          "v": 999139,
-          "l": 785019,
+          "v": 999170,
+          "l": 785050,
           "sp": null
         },
         "KXPRESPERSON-28-SSMI": {
@@ -11002,8 +11002,8 @@
         },
         "KXPRESPERSON-28-JSHA": {
           "p": 0.035,
-          "v": 814001,
-          "l": 687389,
+          "v": 814024,
+          "l": 687412,
           "sp": null
         },
         "KXPRESPERSON-28-TGAB": {
@@ -11026,8 +11026,8 @@
         },
         "KXPRESPERSON-28-PBUT": {
           "p": 0.025,
-          "v": 662939,
-          "l": 588213,
+          "v": 663001,
+          "l": 588275,
           "sp": null
         },
         "KXPRESPERSON-28-WMOO": {
@@ -11044,8 +11044,8 @@
         },
         "KXPRESPERSON-28-MKEL": {
           "p": 0.015,
-          "v": 477976,
-          "l": 472461,
+          "v": 478022,
+          "l": 472507,
           "sp": null
         },
         "KXPRESPERSON-28-GWHI": {
@@ -11103,13 +11103,13 @@
   "latest_analysis": {
     "score": 75.6,
     "state": "Active",
-    "timestamp": "2026-03-20T20:01:42.132989Z"
+    "timestamp": "2026-03-20T20:31:26.647144Z"
   },
   "last_flags": [],
   "analysis": {
     "score": 75.6,
     "state": "Active",
-    "liq_score": 78.3,
+    "liq_score": 78.0,
     "eff_score": 12.5,
     "ind_score": 95.3,
     "conv_score": 68.0
