@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-20T11:01:20.235755Z",
-    "last_api_seen": "2026-03-20T11:01:20.235755Z"
+    "first_seen_at": "2026-03-20T11:31:20.868885Z",
+    "last_api_seen": "2026-03-20T11:31:20.868885Z"
   },
   "history": [
     {
@@ -2925,31 +2925,31 @@
       }
     },
     {
-      "t": "2026-03-20T11:01:20Z",
+      "t": "2026-03-20T11:31:20Z",
       "metrics": {
-        "total_volume": 226134.0,
-        "prob_sum": 0.977,
+        "total_volume": 226202.0,
+        "prob_sum": 1.207,
         "outcome_count": 5,
-        "btc": 70585.9531,
+        "btc": 70710.2656,
         "sp500": 659.8,
         "rates": 4.281,
-        "eth": 2148.0789,
+        "eth": 2150.9092,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 13146.0,
-          "ask_volume": 172206.0,
+          "bid_volume": 15008.0,
+          "ask_volume": 171859.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8581509775993785,
+          "order_imbalance": -0.8393723878480417,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.365,
-          "v": 112402,
-          "l": 64572,
+          "p": 0.595,
+          "v": 112470,
+          "l": 64633,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
@@ -2981,17 +2981,19 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 47.8,
+    "score": 47.4,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T11:01:20.235755Z"
+    "timestamp": "2026-03-20T11:31:20.868885Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Contested"
+  ],
   "analysis": {
-    "score": 47.8,
+    "score": 47.4,
     "state": "Low Confidence",
-    "liq_score": 36.0,
+    "liq_score": 37.0,
     "eff_score": 12.5,
-    "ind_score": 94.0,
+    "ind_score": 90.0,
     "conv_score": 34.7
   }
 }
