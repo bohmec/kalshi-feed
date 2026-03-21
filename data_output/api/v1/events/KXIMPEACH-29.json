@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXIMPEACH-29-JAN20": "Will the President be impeached before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-21T09:00:53.590188Z",
-    "last_api_seen": "2026-03-21T09:00:53.590188Z"
+    "first_seen_at": "2026-03-21T09:31:00.249444Z",
+    "last_api_seen": "2026-03-21T09:31:00.249444Z"
   },
   "history": [
     {
@@ -1325,23 +1325,23 @@
       }
     },
     {
-      "t": "2026-03-21T09:00:53Z",
+      "t": "2026-03-21T09:31:00Z",
       "metrics": {
         "total_volume": 253666.0,
         "prob_sum": 0.68,
         "outcome_count": 1,
-        "btc": 70582.0625,
+        "btc": 70622.6016,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.1333,
+        "eth": 2155.459,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 473210.0,
-          "ask_volume": 498999.0,
+          "bid_volume": 473226.0,
+          "ask_volume": 499015.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.026526189327603426,
+          "order_imbalance": -0.026525316253891783,
           "success": true
         }
       },
@@ -1359,7 +1359,7 @@
   "latest_analysis": {
     "score": 50.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T09:00:53.590188Z"
+    "timestamp": "2026-03-21T09:31:00.249444Z"
   },
   "last_flags": [
     "Correlated"
