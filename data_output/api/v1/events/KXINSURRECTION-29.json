@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-21T00:00:41.651835Z",
-    "last_api_seen": "2026-03-21T00:00:41.651835Z"
+    "first_seen_at": "2026-03-21T00:30:44.443899Z",
+    "last_api_seen": "2026-03-21T00:30:44.443899Z"
   },
   "history": [
     {
@@ -2125,23 +2125,23 @@
       }
     },
     {
-      "t": "2026-03-21T00:00:41Z",
+      "t": "2026-03-21T00:30:44Z",
       "metrics": {
         "total_volume": 387420.0,
-        "prob_sum": 0.94,
+        "prob_sum": 0.93,
         "outcome_count": 3,
-        "btc": 70507.9844,
+        "btc": 70697.6953,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2146.0564,
+        "eth": 2152.2385,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 34306.0,
-          "ask_volume": 24915.0,
+          "bid_volume": 35248.0,
+          "ask_volume": 25921.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.15857550531061618,
+          "order_imbalance": 0.15247919697886184,
           "success": true
         }
       },
@@ -2153,13 +2153,13 @@
           "sp": null
         },
         "KXINSURRECTION-29": {
-          "p": 0.6,
+          "p": 0.595,
           "v": 159457,
           "l": 42338,
           "sp": null
         },
         "KXINSURRECTION-29-26MAY": {
-          "p": 0.06,
+          "p": 0.055,
           "v": 10564,
           "l": 6935,
           "sp": null
@@ -2169,17 +2169,17 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 45.3,
+    "score": 45.5,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T00:00:41.651835Z"
+    "timestamp": "2026-03-21T00:30:44.443899Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 45.3,
+    "score": 45.5,
     "state": "Macro-Driven",
-    "liq_score": 14.7,
+    "liq_score": 15.3,
     "eff_score": 12.5,
     "ind_score": 77.3,
     "conv_score": 56.0
