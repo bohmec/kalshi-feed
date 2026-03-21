@@ -33,8 +33,8 @@
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-21T14:01:01.744857Z",
-    "last_api_seen": "2026-03-21T14:01:01.744857Z"
+    "first_seen_at": "2026-03-21T14:30:58.385139Z",
+    "last_api_seen": "2026-03-21T14:30:58.385139Z"
   },
   "history": [
     {
@@ -10925,23 +10925,23 @@
       }
     },
     {
-      "t": "2026-03-21T14:01:01Z",
+      "t": "2026-03-21T14:30:58Z",
       "metrics": {
-        "total_volume": 22668785.0,
+        "total_volume": 22676414.0,
         "prob_sum": 0.8407,
         "outcome_count": 25,
-        "btc": 70698.7422,
+        "btc": 70931.6797,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.8491,
+        "eth": 2161.6782,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2255642.0,
-          "ask_volume": 28395805.0,
+          "bid_volume": 2255632.0,
+          "ask_volume": 28395686.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8528198685040873,
+          "order_imbalance": -0.8528199015781311,
           "success": true
         }
       },
@@ -10954,14 +10954,14 @@
         },
         "KXPRESPERSON-28-GNEWS": {
           "p": 0.19,
-          "v": 2062201,
-          "l": 1277637,
+          "v": 2062257,
+          "l": 1277693,
           "sp": null
         },
         "KXPRESPERSON-28-JVAN": {
           "p": 0.185,
-          "v": 1996766,
-          "l": 1318619,
+          "v": 1996839,
+          "l": 1318692,
           "sp": null
         },
         "KXPRESPERSON-28-JOSS": {
@@ -11074,8 +11074,8 @@
         },
         "KXPRESPERSON-28-TCAR": {
           "p": 0.015,
-          "v": 174275,
-          "l": 172503,
+          "v": 181775,
+          "l": 180003,
           "sp": null
         },
         "KXPRESPERSON-28-NHAL": {
@@ -11103,7 +11103,7 @@
   "latest_analysis": {
     "score": 64.6,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T14:01:01.744857Z"
+    "timestamp": "2026-03-21T14:30:58.385139Z"
   },
   "last_flags": [
     "Correlated"

@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T14:01:01.744857Z",
-    "last_api_seen": "2026-03-21T14:01:01.744857Z"
+    "first_seen_at": "2026-03-21T14:30:58.385139Z",
+    "last_api_seen": "2026-03-21T14:30:58.385139Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T14:01:01Z",
+      "t": "2026-03-21T14:30:58Z",
       "metrics": {
-        "total_volume": 948264.0,
+        "total_volume": 948427.0,
         "prob_sum": 1.08,
         "outcome_count": 23,
-        "btc": 70698.7422,
+        "btc": 70931.6797,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.8491,
+        "eth": 2161.6782,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 13125.0,
-          "ask_volume": 83036.0,
+          "bid_volume": 14598.0,
+          "ask_volume": 82731.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7270203096889591,
+          "order_imbalance": -0.7000277409610702,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
           "p": 0.295,
-          "v": 153606,
-          "l": 95754,
+          "v": 153752,
+          "l": 95900,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10160,8 +10160,8 @@
         },
         "KXCABOUT-26MAR-LCDR": {
           "p": 0.265,
-          "v": 84030,
-          "l": 62141,
+          "v": 84047,
+          "l": 62158,
           "sp": null
         },
         "KXCABOUT-26MAR-RVOU": {
@@ -10289,15 +10289,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.6,
+    "score": 43.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T14:01:01.744857Z"
+    "timestamp": "2026-03-21T14:30:58.385139Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 43.6,
+    "score": 43.7,
     "state": "Low Confidence",
-    "liq_score": 20.3,
+    "liq_score": 20.7,
     "eff_score": 12.5,
     "ind_score": 86.0,
     "conv_score": 40.3

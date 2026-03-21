@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXIMPEACH-29-JAN20": "Will the President be impeached before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-21T14:01:01.744857Z",
-    "last_api_seen": "2026-03-21T14:01:01.744857Z"
+    "first_seen_at": "2026-03-21T14:30:58.385139Z",
+    "last_api_seen": "2026-03-21T14:30:58.385139Z"
   },
   "history": [
     {
@@ -1325,31 +1325,31 @@
       }
     },
     {
-      "t": "2026-03-21T14:01:01Z",
+      "t": "2026-03-21T14:30:58Z",
       "metrics": {
-        "total_volume": 253682.0,
-        "prob_sum": 0.685,
+        "total_volume": 253685.0,
+        "prob_sum": 0.665,
         "outcome_count": 1,
-        "btc": 70698.7422,
+        "btc": 70931.6797,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.8491,
+        "eth": 2161.6782,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 473259.0,
-          "ask_volume": 498984.0,
+          "bid_volume": 474979.0,
+          "ask_volume": 498962.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.02645943452408503,
+          "order_imbalance": -0.024624694925051926,
           "success": true
         }
       },
       "outcomes": {
         "KXIMPEACH-29-JAN20": {
-          "p": 0.685,
-          "v": 253682,
-          "l": 64988,
+          "p": 0.665,
+          "v": 253685,
+          "l": 64989,
           "sp": null
         }
       }
@@ -1359,7 +1359,7 @@
   "latest_analysis": {
     "score": 50.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T14:01:01.744857Z"
+    "timestamp": "2026-03-21T14:30:58.385139Z"
   },
   "last_flags": [
     "Correlated"
@@ -1369,7 +1369,7 @@
     "state": "Macro-Driven",
     "liq_score": 100.0,
     "eff_score": 12.5,
-    "ind_score": 18.7,
-    "conv_score": 52.0
+    "ind_score": 18.0,
+    "conv_score": 39.7
   }
 }
