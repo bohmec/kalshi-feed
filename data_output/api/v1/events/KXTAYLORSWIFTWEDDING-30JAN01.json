@@ -25,8 +25,8 @@
       "KXTAYLORSWIFTWEDDING-30JAN01-ASH": "Will Ashley Avignone be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
       "KXTAYLORSWIFTWEDDING-30JAN01-DAN": "Will Danielle Haim be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?"
     },
-    "first_seen_at": "2026-03-21T19:30:58.445686Z",
-    "last_api_seen": "2026-03-21T19:30:58.445686Z"
+    "first_seen_at": "2026-03-21T20:00:52.912409Z",
+    "last_api_seen": "2026-03-21T20:00:52.912409Z"
   },
   "history": [
     {
@@ -7725,33 +7725,33 @@
       }
     },
     {
-      "t": "2026-03-21T19:30:58Z",
+      "t": "2026-03-21T20:00:52Z",
       "metrics": {
         "total_volume": 62897.0,
-        "prob_sum": 6.215,
+        "prob_sum": 6.2,
         "outcome_count": 17,
-        "btc": 70425.5938,
+        "btc": 70378.5781,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2152.323,
+        "eth": 2152.2476,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXTAYLORSWIFTWEDDING-30JAN01-GIG": {
-          "p": 0.59,
+          "p": 0.595,
           "v": 16069,
           "l": 4956,
           "sp": null
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-SEL": {
-          "p": 0.81,
+          "p": 0.805,
           "v": 10577,
           "l": 4754,
           "sp": null
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-BLA": {
-          "p": 0.175,
+          "p": 0.165,
           "v": 8896,
           "l": 4722,
           "sp": null
@@ -7787,7 +7787,7 @@
           "sp": null
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-ABI": {
-          "p": 0.88,
+          "p": 0.875,
           "v": 1994,
           "l": 793,
           "sp": null
@@ -7843,21 +7843,22 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 73.7,
-    "state": "Active",
-    "timestamp": "2026-03-21T19:30:58.445686Z"
+    "score": 65.3,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T20:00:52.912409Z"
   },
   "last_flags": [
-    "Contested"
+    "Contested",
+    "Correlated"
   ],
   "analysis": {
-    "score": 73.7,
-    "state": "Active",
+    "score": 65.3,
+    "state": "Macro-Driven",
     "liq_score": 53.3,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 84.0
+    "ind_score": 77.3,
+    "conv_score": 83.7
   }
 }
