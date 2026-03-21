@@ -25,8 +25,8 @@
       "KXTAYLORSWIFTWEDDING-30JAN01-ASH": "Will Ashley Avignone be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
       "KXTAYLORSWIFTWEDDING-30JAN01-DAN": "Will Danielle Haim be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?"
     },
-    "first_seen_at": "2026-03-21T14:30:58.385139Z",
-    "last_api_seen": "2026-03-21T14:30:58.385139Z"
+    "first_seen_at": "2026-03-21T15:01:03.536181Z",
+    "last_api_seen": "2026-03-21T15:01:03.536181Z"
   },
   "history": [
     {
@@ -7725,21 +7725,21 @@
       }
     },
     {
-      "t": "2026-03-21T14:30:58Z",
+      "t": "2026-03-21T15:01:03Z",
       "metrics": {
         "total_volume": 62775.0,
-        "prob_sum": 6.215,
+        "prob_sum": 6.21,
         "outcome_count": 17,
-        "btc": 70931.6797,
+        "btc": 70590.8203,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2161.6782,
+        "eth": 2150.8147,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXTAYLORSWIFTWEDDING-30JAN01-GIG": {
-          "p": 0.595,
+          "p": 0.59,
           "v": 16069,
           "l": 4956,
           "sp": null
@@ -7843,22 +7843,21 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": 65.2,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-21T14:30:58.385139Z"
+    "score": 73.8,
+    "state": "Active",
+    "timestamp": "2026-03-21T15:01:03.536181Z"
   },
   "last_flags": [
-    "Contested",
-    "Correlated"
+    "Contested"
   ],
   "analysis": {
-    "score": 65.2,
-    "state": "Macro-Driven",
+    "score": 73.8,
+    "state": "Active",
     "liq_score": 53.3,
     "eff_score": 12.5,
-    "ind_score": 77.3,
-    "conv_score": 83.7
+    "ind_score": 100.0,
+    "conv_score": 84.3
   }
 }
