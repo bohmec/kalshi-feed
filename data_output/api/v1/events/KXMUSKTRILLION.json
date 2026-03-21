@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-21T13:31:10.761645Z",
-    "last_api_seen": "2026-03-21T13:31:10.761645Z"
+    "first_seen_at": "2026-03-21T14:01:01.744857Z",
+    "last_api_seen": "2026-03-21T14:01:01.744857Z"
   },
   "history": [
     {
@@ -2525,30 +2525,30 @@
       }
     },
     {
-      "t": "2026-03-21T13:31:10Z",
+      "t": "2026-03-21T14:01:01Z",
       "metrics": {
-        "total_volume": 333718.0,
+        "total_volume": 333738.0,
         "prob_sum": 3.12,
         "outcome_count": 4,
-        "btc": 70723.625,
+        "btc": 70698.7422,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.2104,
+        "eth": 2154.8491,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644004.0,
-          "ask_volume": 30402.0,
+          "bid_volume": 644231.0,
+          "ask_volume": 29397.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9098406597806069,
+          "order_imbalance": 0.9127203738561936,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
           "p": 0.7,
-          "v": 207990,
+          "v": 208008,
           "l": 72657,
           "sp": null
         },
@@ -2566,8 +2566,8 @@
         },
         "KXMUSKTRILLION-29": {
           "p": 0.795,
-          "v": 34335,
-          "l": 9383,
+          "v": 34337,
+          "l": 9381,
           "sp": null
         }
       }
@@ -2575,15 +2575,15 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 70.4,
+    "score": 70.3,
     "state": "Active",
-    "timestamp": "2026-03-21T13:31:10.761645Z"
+    "timestamp": "2026-03-21T14:01:01.744857Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 70.4,
+    "score": 70.3,
     "state": "Active",
     "liq_score": 75.0,
     "eff_score": 12.5,
