@@ -14,12 +14,12 @@
       "KXPRIMEENGCONSUMPTION-30-HYDROPOWER": "What will be the largest source of global primary energy consumption in 2030?",
       "KXPRIMEENGCONSUMPTION-30-GAS": "What will be the largest source of global primary energy consumption in 2030?",
       "KXPRIMEENGCONSUMPTION-30-RENEWABLE": "What will be the largest source of global primary energy consumption in 2030?",
-      "KXPRIMEENGCONSUMPTION-30-COAL": "What will be the largest source of global primary energy consumption in 2030?",
       "KXPRIMEENGCONSUMPTION-30-BIOFUEL": "What will be the largest source of global primary energy consumption in 2030?",
+      "KXPRIMEENGCONSUMPTION-30-COAL": "What will be the largest source of global primary energy consumption in 2030?",
       "KXPRIMEENGCONSUMPTION-30-BIOMASS": "What will be the largest source of global primary energy consumption in 2030?"
     },
-    "first_seen_at": "2026-03-21T15:30:58.423208Z",
-    "last_api_seen": "2026-03-21T15:30:58.423208Z"
+    "first_seen_at": "2026-03-21T16:01:07.191338Z",
+    "last_api_seen": "2026-03-21T16:01:07.191338Z"
   },
   "history": [
     {
@@ -5269,15 +5269,15 @@
       }
     },
     {
-      "t": "2026-03-21T15:30:58Z",
+      "t": "2026-03-21T16:01:07Z",
       "metrics": {
-        "total_volume": 72748.0,
-        "prob_sum": 0.9957,
+        "total_volume": 73177.0,
+        "prob_sum": 1.0157,
         "outcome_count": 10,
-        "btc": 70639.2422,
+        "btc": 70648.1094,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.9719,
+        "eth": 2155.1472,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -5319,21 +5319,21 @@
           "sp": null
         },
         "KXPRIMEENGCONSUMPTION-30-RENEWABLE": {
-          "p": 0.025,
-          "v": 2193,
-          "l": 1530,
+          "p": 0.03,
+          "v": 2418,
+          "l": 1755,
+          "sp": null
+        },
+        "KXPRIMEENGCONSUMPTION-30-BIOFUEL": {
+          "p": 0.035,
+          "v": 2269,
+          "l": 1292,
           "sp": null
         },
         "KXPRIMEENGCONSUMPTION-30-COAL": {
           "p": 0.285,
           "v": 2147,
           "l": 1453,
-          "sp": null
-        },
-        "KXPRIMEENGCONSUMPTION-30-BIOFUEL": {
-          "p": 0.02,
-          "v": 2065,
-          "l": 1102,
           "sp": null
         },
         "KXPRIMEENGCONSUMPTION-30-BIOMASS": {
@@ -5347,17 +5347,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 73.0,
+    "score": 72.9,
     "state": "Active",
-    "timestamp": "2026-03-21T15:30:58.423208Z"
+    "timestamp": "2026-03-21T16:01:07.191338Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 73.0,
+    "score": 72.9,
     "state": "Active",
     "liq_score": 54.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 81.0
+    "conv_score": 80.7
   }
 }

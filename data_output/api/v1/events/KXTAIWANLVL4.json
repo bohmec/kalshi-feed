@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?"
     },
-    "first_seen_at": "2026-03-21T15:30:58.423208Z",
-    "last_api_seen": "2026-03-21T15:30:58.423208Z"
+    "first_seen_at": "2026-03-21T16:01:07.191338Z",
+    "last_api_seen": "2026-03-21T16:01:07.191338Z"
   },
   "history": [
     {
@@ -2925,29 +2925,29 @@
       }
     },
     {
-      "t": "2026-03-21T15:30:58Z",
+      "t": "2026-03-21T16:01:07Z",
       "metrics": {
         "total_volume": 218237.0,
-        "prob_sum": 1.655,
+        "prob_sum": 1.66,
         "outcome_count": 5,
-        "btc": 70639.2422,
+        "btc": 70648.1094,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.9719,
+        "eth": 2155.1472,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25504.0,
-          "ask_volume": 8188.0,
+          "bid_volume": 25346.0,
+          "ask_volume": 11886.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.5139498990858364,
+          "order_imbalance": 0.3615169746454663,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
-          "p": 0.17,
+          "p": 0.165,
           "v": 105975,
           "l": 71368,
           "sp": null
@@ -2965,13 +2965,13 @@
           "sp": null
         },
         "KXTAIWANLVL4-30JAN01": {
-          "p": 0.565,
+          "p": 0.57,
           "v": 12024,
           "l": 8010,
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.45,
+          "p": 0.455,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 36.7,
+    "score": 37.0,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T15:30:58.423208Z"
+    "timestamp": "2026-03-21T16:01:07.191338Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 36.7,
+    "score": 37.0,
     "state": "Low Confidence",
-    "liq_score": 7.7,
+    "liq_score": 9.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.0
