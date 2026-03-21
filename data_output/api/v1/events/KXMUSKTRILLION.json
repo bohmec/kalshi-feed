@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-21T17:30:56.100185Z",
-    "last_api_seen": "2026-03-21T17:30:56.100185Z"
+    "first_seen_at": "2026-03-21T18:00:54.740469Z",
+    "last_api_seen": "2026-03-21T18:00:54.740469Z"
   },
   "history": [
     {
@@ -2525,31 +2525,31 @@
       }
     },
     {
-      "t": "2026-03-21T17:30:56Z",
+      "t": "2026-03-21T18:00:54Z",
       "metrics": {
-        "total_volume": 333842.0,
+        "total_volume": 333888.0,
         "prob_sum": 3.155,
         "outcome_count": 4,
-        "btc": 70370.2891,
+        "btc": 70322.625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.6843,
+        "eth": 2148.3911,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644295.0,
-          "ask_volume": 29182.0,
+          "bid_volume": 644158.0,
+          "ask_volume": 19918.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9133392825590183,
+          "order_imbalance": 0.9400128900908932,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.715,
-          "v": 208093,
-          "l": 72652,
+          "p": 0.705,
+          "v": 208103,
+          "l": 72647,
           "sp": null
         },
         "KXMUSKTRILLION-28": {
@@ -2565,9 +2565,9 @@
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.81,
-          "v": 34346,
-          "l": 9390,
+          "p": 0.82,
+          "v": 34382,
+          "l": 9426,
           "sp": null
         }
       }
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.9,
+    "score": 62.6,
     "state": "Active",
-    "timestamp": "2026-03-21T17:30:56.100185Z"
+    "timestamp": "2026-03-21T18:00:54.740469Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.9,
+    "score": 62.6,
     "state": "Active",
-    "liq_score": 75.0,
+    "liq_score": 73.3,
     "eff_score": 12.5,
     "ind_score": 85.3,
-    "conv_score": 50.3
+    "conv_score": 50.7
   }
 }

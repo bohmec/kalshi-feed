@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T17:30:56.100185Z",
-    "last_api_seen": "2026-03-21T17:30:56.100185Z"
+    "first_seen_at": "2026-03-21T18:00:54.740469Z",
+    "last_api_seen": "2026-03-21T18:00:54.740469Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T17:30:56Z",
+      "t": "2026-03-21T18:00:54Z",
       "metrics": {
-        "total_volume": 952822.0,
-        "prob_sum": 1.085,
+        "total_volume": 954158.0,
+        "prob_sum": 1.095,
         "outcome_count": 23,
-        "btc": 70370.2891,
+        "btc": 70322.625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2147.6843,
+        "eth": 2148.3911,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 14493.0,
-          "ask_volume": 84043.0,
+          "bid_volume": 15308.0,
+          "ask_volume": 83774.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.705833400990501,
+          "order_imbalance": -0.6910034113158797,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
-          "p": 0.275,
-          "v": 155874,
-          "l": 94190,
+          "p": 0.29,
+          "v": 157200,
+          "l": 95301,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10160,8 +10160,8 @@
         },
         "KXCABOUT-26MAR-LCDR": {
           "p": 0.265,
-          "v": 84310,
-          "l": 62421,
+          "v": 84320,
+          "l": 62431,
           "sp": null
         },
         "KXCABOUT-26MAR-RVOU": {
@@ -10201,7 +10201,7 @@
           "sp": null
         },
         "KXCABOUT-26MAR-PBON": {
-          "p": 0.115,
+          "p": 0.11,
           "v": 37305,
           "l": 31576,
           "sp": null
@@ -10289,17 +10289,19 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.7,
+    "score": 43.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T17:30:56.100185Z"
+    "timestamp": "2026-03-21T18:00:54.740469Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Contested"
+  ],
   "analysis": {
-    "score": 43.7,
+    "score": 43.9,
     "state": "Low Confidence",
-    "liq_score": 21.0,
+    "liq_score": 21.3,
     "eff_score": 12.5,
     "ind_score": 86.0,
-    "conv_score": 40.0
+    "conv_score": 40.3
   }
 }
