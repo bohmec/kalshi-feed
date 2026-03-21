@@ -13,8 +13,8 @@
       "KXGTAPRICE-90": "What will the price of GTA VI be?",
       "KXGTAPRICE-60": "What will the price of GTA VI be?"
     },
-    "first_seen_at": "2026-03-21T11:31:03.418933Z",
-    "last_api_seen": "2026-03-21T11:31:03.418933Z"
+    "first_seen_at": "2026-03-21T12:01:04.662175Z",
+    "last_api_seen": "2026-03-21T12:01:04.662175Z"
   },
   "history": [
     {
@@ -2925,30 +2925,30 @@
       }
     },
     {
-      "t": "2026-03-21T11:31:03Z",
+      "t": "2026-03-21T12:01:04Z",
       "metrics": {
-        "total_volume": 417263.0,
+        "total_volume": 417714.0,
         "prob_sum": 2.19,
         "outcome_count": 5,
-        "btc": 70597.7422,
+        "btc": 70636.2656,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.3425,
+        "eth": 2157.0278,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 66991.0,
-          "ask_volume": 10441.0,
+          "ask_volume": 10424.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7303182146916004,
+          "order_imbalance": 0.7306981851062455,
           "success": true
         }
       },
       "outcomes": {
         "KXGTAPRICE-100": {
           "p": 0.115,
-          "v": 126373,
+          "v": 126819,
           "l": 53710,
           "sp": null
         },
@@ -2959,9 +2959,9 @@
           "sp": null
         },
         "KXGTAPRICE-80": {
-          "p": 0.3,
-          "v": 90586,
-          "l": 32498,
+          "p": 0.295,
+          "v": 90591,
+          "l": 32493,
           "sp": null
         },
         "KXGTAPRICE-90": {
@@ -2971,7 +2971,7 @@
           "sp": null
         },
         "KXGTAPRICE-60": {
-          "p": 0.96,
+          "p": 0.965,
           "v": 12380,
           "l": 5043,
           "sp": null
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 55.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T11:31:03.418933Z"
+    "timestamp": "2026-03-21T12:01:04.662175Z"
   },
   "last_flags": [
     "Contested"
