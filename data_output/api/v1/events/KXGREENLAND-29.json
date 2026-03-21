@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-21T02:30:43.230073Z",
-    "last_api_seen": "2026-03-21T02:30:43.230073Z"
+    "first_seen_at": "2026-03-21T03:00:42.844529Z",
+    "last_api_seen": "2026-03-21T03:00:42.844529Z"
   },
   "history": [
     {
@@ -2525,36 +2525,36 @@
       }
     },
     {
-      "t": "2026-03-21T02:30:43Z",
+      "t": "2026-03-21T03:00:42Z",
       "metrics": {
-        "total_volume": 6384937.0,
-        "prob_sum": 0.435,
+        "total_volume": 6384947.0,
+        "prob_sum": 0.44,
         "outcome_count": 4,
-        "btc": 70642.6016,
+        "btc": 70718.6406,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2152.5327,
+        "eth": 2154.168,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 988093.0,
-          "ask_volume": 625462.0,
+          "bid_volume": 989042.0,
+          "ask_volume": 625383.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.2247404024033888,
+          "order_imbalance": 0.2252560509159608,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLAND-29": {
-          "p": 0.27,
+          "p": 0.275,
           "v": 3229831,
           "l": 387528,
           "sp": null
         },
         "KXGREENLAND-29-26MAY": {
           "p": 0.015,
-          "v": 2068374,
+          "v": 2068384,
           "l": 634062,
           "sp": null
         },
@@ -2575,17 +2575,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 72.5,
+    "score": 79.2,
     "state": "Active",
-    "timestamp": "2026-03-21T02:30:43.230073Z"
+    "timestamp": "2026-03-21T03:00:42.844529Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 72.5,
+    "score": 79.2,
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 87.3,
-    "conv_score": 58.0
+    "ind_score": 95.3,
+    "conv_score": 59.3
   }
 }
