@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-21T04:30:50.897186Z",
-    "last_api_seen": "2026-03-21T04:30:50.897186Z"
+    "first_seen_at": "2026-03-21T05:00:47.786003Z",
+    "last_api_seen": "2026-03-21T05:00:47.786003Z"
   },
   "history": [
     {
@@ -2525,36 +2525,36 @@
       }
     },
     {
-      "t": "2026-03-21T04:30:50Z",
+      "t": "2026-03-21T05:00:47Z",
       "metrics": {
-        "total_volume": 333537.0,
+        "total_volume": 333540.0,
         "prob_sum": 3.145,
         "outcome_count": 4,
-        "btc": 70790.4219,
+        "btc": 70642.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.8203,
+        "eth": 2151.9585,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644619.0,
-          "ask_volume": 21908.0,
+          "bid_volume": 642215.0,
+          "ask_volume": 17886.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9342622279367527,
+          "order_imbalance": 0.945808292973348,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
           "p": 0.695,
-          "v": 207970,
+          "v": 207972,
           "l": 72649,
           "sp": null
         },
         "KXMUSKTRILLION-28": {
           "p": 0.775,
-          "v": 54950,
+          "v": 54951,
           "l": 16344,
           "sp": null
         },
@@ -2575,17 +2575,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 69.9,
+    "score": 69.7,
     "state": "Active",
-    "timestamp": "2026-03-21T04:30:50.897186Z"
+    "timestamp": "2026-03-21T05:00:47.786003Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 69.9,
+    "score": 69.7,
     "state": "Active",
-    "liq_score": 73.7,
+    "liq_score": 73.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 51.0

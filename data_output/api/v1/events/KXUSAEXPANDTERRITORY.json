@@ -12,8 +12,8 @@
       "KXUSAEXPANDTERRITORY-28JAN01": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 1, 2028?",
       "KXUSAEXPANDTERRITORY-29JAN21": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-21T04:30:50.897186Z",
-    "last_api_seen": "2026-03-21T04:30:50.897186Z"
+    "first_seen_at": "2026-03-21T05:00:47.786003Z",
+    "last_api_seen": "2026-03-21T05:00:47.786003Z"
   },
   "history": [
     {
@@ -2525,35 +2525,35 @@
       }
     },
     {
-      "t": "2026-03-21T04:30:50Z",
+      "t": "2026-03-21T05:00:47Z",
       "metrics": {
-        "total_volume": 277590.0,
-        "prob_sum": 0.89,
+        "total_volume": 277592.0,
+        "prob_sum": 0.885,
         "outcome_count": 4,
-        "btc": 70790.4219,
+        "btc": 70642.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2156.8203,
+        "eth": 2151.9585,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 22460.0,
-          "ask_volume": 21312.0,
+          "bid_volume": 22467.0,
+          "ask_volume": 21229.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.02622681166042219,
+          "order_imbalance": 0.028332112779201758,
           "success": true
         }
       },
       "outcomes": {
         "KXUSAEXPANDTERRITORY-27JAN01": {
           "p": 0.145,
-          "v": 84133,
+          "v": 84135,
           "l": 35371,
           "sp": null
         },
         "KXUSAEXPANDTERRITORY-26JUL01": {
-          "p": 0.06,
+          "p": 0.055,
           "v": 79367,
           "l": 37873,
           "sp": null
@@ -2577,7 +2577,7 @@
   "latest_analysis": {
     "score": 43.1,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T04:30:50.897186Z"
+    "timestamp": "2026-03-21T05:00:47.786003Z"
   },
   "last_flags": [
     "Correlated"
@@ -2588,6 +2588,6 @@
     "liq_score": 11.0,
     "eff_score": 12.5,
     "ind_score": 78.0,
-    "conv_score": 51.7
+    "conv_score": 52.0
   }
 }
