@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T08:00:56.656002Z",
-    "last_api_seen": "2026-03-21T08:00:56.656002Z"
+    "first_seen_at": "2026-03-21T08:30:56.426085Z",
+    "last_api_seen": "2026-03-21T08:30:56.426085Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T08:00:56Z",
+      "t": "2026-03-21T08:30:56Z",
       "metrics": {
-        "total_volume": 945165.0,
+        "total_volume": 945482.0,
         "prob_sum": 1.07,
         "outcome_count": 23,
-        "btc": 0.0,
+        "btc": 70536.1484,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.3149,
+        "eth": 2152.1033,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 12763.0,
-          "ask_volume": 83875.0,
+          "bid_volume": 14251.0,
+          "ask_volume": 83481.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7358595997433721,
+          "order_imbalance": -0.7083657348667786,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
           "p": 0.295,
-          "v": 151738,
-          "l": 93938,
+          "v": 152055,
+          "l": 94255,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10289,17 +10289,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 45.6,
+    "score": 43.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T08:00:56.656002Z"
+    "timestamp": "2026-03-21T08:30:56.426085Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 45.6,
+    "score": 43.7,
     "state": "Low Confidence",
-    "liq_score": 20.3,
+    "liq_score": 20.7,
     "eff_score": 12.5,
-    "ind_score": 100.0,
+    "ind_score": 86.0,
     "conv_score": 40.3
   }
 }

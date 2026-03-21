@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-21T08:00:56.656002Z",
-    "last_api_seen": "2026-03-21T08:00:56.656002Z"
+    "first_seen_at": "2026-03-21T08:30:56.426085Z",
+    "last_api_seen": "2026-03-21T08:30:56.426085Z"
   },
   "history": [
     {
@@ -2125,23 +2125,23 @@
       }
     },
     {
-      "t": "2026-03-21T08:00:56Z",
+      "t": "2026-03-21T08:30:56Z",
       "metrics": {
         "total_volume": 387663.0,
-        "prob_sum": 0.94,
+        "prob_sum": 0.935,
         "outcome_count": 3,
-        "btc": 0.0,
+        "btc": 70536.1484,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.3149,
+        "eth": 2152.1033,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 33599.0,
-          "ask_volume": 24808.0,
+          "bid_volume": 36592.0,
+          "ask_volume": 23725.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.15051278100227714,
+          "order_imbalance": 0.21332294378036043,
           "success": true
         }
       },
@@ -2159,7 +2159,7 @@
           "sp": null
         },
         "KXINSURRECTION-29-26MAY": {
-          "p": 0.065,
+          "p": 0.06,
           "v": 10775,
           "l": 7145,
           "sp": null
@@ -2167,19 +2167,21 @@
       }
     }
   ],
-  "last_regime": "Low Confidence",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 53.0,
-    "state": "Low Confidence",
-    "timestamp": "2026-03-21T08:00:56.656002Z"
+    "score": 45.4,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T08:30:56.426085Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 53.0,
-    "state": "Low Confidence",
-    "liq_score": 14.7,
+    "score": 45.4,
+    "state": "Macro-Driven",
+    "liq_score": 15.0,
     "eff_score": 12.5,
-    "ind_score": 96.0,
-    "conv_score": 55.7
+    "ind_score": 77.3,
+    "conv_score": 56.0
   }
 }
