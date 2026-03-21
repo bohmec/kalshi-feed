@@ -16,8 +16,8 @@
       "KXUKPARTY-29-BRUV": "Will Bruv win the next U.K. election?",
       "KXUKPARTY-29-Y": "Will Your Party win the next U.K. election?"
     },
-    "first_seen_at": "2026-03-21T16:01:07.191338Z",
-    "last_api_seen": "2026-03-21T16:01:07.191338Z"
+    "first_seen_at": "2026-03-21T16:30:53.029940Z",
+    "last_api_seen": "2026-03-21T16:30:53.029940Z"
   },
   "history": [
     {
@@ -4125,15 +4125,15 @@
       }
     },
     {
-      "t": "2026-03-21T16:01:07Z",
+      "t": "2026-03-21T16:30:53Z",
       "metrics": {
-        "total_volume": 156188.0,
-        "prob_sum": 1.0053,
+        "total_volume": 156191.0,
+        "prob_sum": 1.0153,
         "outcome_count": 8,
-        "btc": 70648.1094,
+        "btc": 70517.8906,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.1472,
+        "eth": 2151.2937,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4145,13 +4145,13 @@
           "sp": null
         },
         "KXUKPARTY-29-R": {
-          "p": 0.4,
+          "p": 0.395,
           "v": 40902,
           "l": 12968,
           "sp": null
         },
         "KXUKPARTY-29-C": {
-          "p": 0.085,
+          "p": 0.095,
           "v": 18432,
           "l": 3905,
           "sp": null
@@ -4163,8 +4163,8 @@
           "sp": null
         },
         "KXUKPARTY-29-L": {
-          "p": 0.28,
-          "v": 8894,
+          "p": 0.285,
+          "v": 8897,
           "l": 2893,
           "sp": null
         },
@@ -4193,7 +4193,7 @@
   "latest_analysis": {
     "score": 47.2,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T16:01:07.191338Z"
+    "timestamp": "2026-03-21T16:30:53.029940Z"
   },
   "last_flags": [
     "Correlated"
@@ -4204,6 +4204,6 @@
     "liq_score": 57.7,
     "eff_score": 12.5,
     "ind_score": 27.3,
-    "conv_score": 44.3
+    "conv_score": 44.0
   }
 }

@@ -18,8 +18,8 @@
       "KXNEWSCOTUSCONF-29JAN20-9": "Will the next President confirm 9 Supreme Court justices?",
       "KXNEWSCOTUSCONF-29JAN20-8": "Will the next President confirm 8 Supreme Court justices?"
     },
-    "first_seen_at": "2026-03-21T16:01:07.191338Z",
-    "last_api_seen": "2026-03-21T16:01:07.191338Z"
+    "first_seen_at": "2026-03-21T16:30:53.029940Z",
+    "last_api_seen": "2026-03-21T16:30:53.029940Z"
   },
   "history": [
     {
@@ -4925,21 +4925,21 @@
       }
     },
     {
-      "t": "2026-03-21T16:01:07Z",
+      "t": "2026-03-21T16:30:53Z",
       "metrics": {
-        "total_volume": 170515.0,
-        "prob_sum": 1.0055,
+        "total_volume": 170516.0,
+        "prob_sum": 1.0005,
         "outcome_count": 10,
-        "btc": 70648.1094,
+        "btc": 70517.8906,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.1472,
+        "eth": 2151.2937,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXNEWSCOTUSCONF-29JAN20-2": {
-          "p": 0.345,
+          "p": 0.34,
           "v": 52587,
           "l": 8558,
           "sp": null
@@ -4958,8 +4958,8 @@
         },
         "KXNEWSCOTUSCONF-29JAN20-1": {
           "p": 0.305,
-          "v": 23917,
-          "l": 9298,
+          "v": 23918,
+          "l": 9299,
           "sp": null
         },
         "KXNEWSCOTUSCONF-29JAN20-3": {
@@ -5001,19 +5001,21 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 74.9,
-    "state": "Active",
-    "timestamp": "2026-03-21T16:01:07.191338Z"
+    "score": 63.7,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T16:30:53.029940Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 74.9,
-    "state": "Active",
+    "score": 63.7,
+    "state": "Macro-Driven",
     "liq_score": 58.0,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 83.3
+    "ind_score": 61.3,
+    "conv_score": 82.0
   }
 }
