@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T19:00:54.013806Z",
-    "last_api_seen": "2026-03-21T19:00:54.013806Z"
+    "first_seen_at": "2026-03-21T19:30:58.445686Z",
+    "last_api_seen": "2026-03-21T19:30:58.445686Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T19:00:54Z",
+      "t": "2026-03-21T19:30:58Z",
       "metrics": {
-        "total_volume": 957205.0,
-        "prob_sum": 1.105,
+        "total_volume": 957501.0,
+        "prob_sum": 1.1,
         "outcome_count": 23,
-        "btc": 70408.8203,
+        "btc": 70425.5938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.5798,
+        "eth": 2152.323,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 13945.0,
-          "ask_volume": 83099.0,
+          "bid_volume": 13838.0,
+          "ask_volume": 83116.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7126045917315856,
+          "order_imbalance": -0.7145450419786703,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
-          "p": 0.29,
-          "v": 157750,
-          "l": 95461,
+          "p": 0.285,
+          "v": 157762,
+          "l": 95473,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10160,7 +10160,7 @@
         },
         "KXCABOUT-26MAR-LCDR": {
           "p": 0.265,
-          "v": 84425,
+          "v": 84513,
           "l": 62536,
           "sp": null
         },
@@ -10208,8 +10208,8 @@
         },
         "KXCABOUT-26MAR-PBON": {
           "p": 0.11,
-          "v": 37743,
-          "l": 32014,
+          "v": 37939,
+          "l": 32210,
           "sp": null
         },
         "KXCABOUT-26MAR-MWAL": {
@@ -10291,7 +10291,7 @@
   "latest_analysis": {
     "score": 43.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T19:00:54.013806Z"
+    "timestamp": "2026-03-21T19:30:58.445686Z"
   },
   "last_flags": [
     "Contested"

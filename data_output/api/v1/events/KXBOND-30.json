@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-21T19:00:54.013806Z",
-    "last_api_seen": "2026-03-21T19:00:54.013806Z"
+    "first_seen_at": "2026-03-21T19:30:58.445686Z",
+    "last_api_seen": "2026-03-21T19:30:58.445686Z"
   },
   "history": [
     {
@@ -8925,35 +8925,35 @@
       }
     },
     {
-      "t": "2026-03-21T19:00:54Z",
+      "t": "2026-03-21T19:30:58Z",
       "metrics": {
-        "total_volume": 402710.0,
-        "prob_sum": 1.2369,
+        "total_volume": 402746.0,
+        "prob_sum": 1.2269,
         "outcome_count": 20,
-        "btc": 70408.8203,
+        "btc": 70425.5938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.5798,
+        "eth": 2152.323,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15320.0,
-          "ask_volume": 22849.0,
+          "bid_volume": 15349.0,
+          "ask_volume": 22779.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.19725431633000604,
+          "order_imbalance": -0.1948699118757868,
           "success": true
         }
       },
       "outcomes": {
         "KXBOND-30-CAL": {
           "p": 0.485,
-          "v": 119205,
+          "v": 119241,
           "l": 77156,
           "sp": null
         },
         "KXBOND-30-ATJ": {
-          "p": 0.08,
+          "p": 0.075,
           "v": 89792,
           "l": 48872,
           "sp": null
@@ -8989,7 +8989,7 @@
           "sp": null
         },
         "KXBOND-30-TOMH": {
-          "p": 0.02,
+          "p": 0.015,
           "v": 11034,
           "l": 8531,
           "sp": null
@@ -9071,15 +9071,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 58.8,
+    "score": 58.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T19:00:54.013806Z"
+    "timestamp": "2026-03-21T19:30:58.445686Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 58.8,
+    "score": 58.9,
     "state": "Low Confidence",
     "liq_score": 9.3,
     "eff_score": 12.5,

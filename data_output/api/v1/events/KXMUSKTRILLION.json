@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-21T19:00:54.013806Z",
-    "last_api_seen": "2026-03-21T19:00:54.013806Z"
+    "first_seen_at": "2026-03-21T19:30:58.445686Z",
+    "last_api_seen": "2026-03-21T19:30:58.445686Z"
   },
   "history": [
     {
@@ -2525,29 +2525,29 @@
       }
     },
     {
-      "t": "2026-03-21T19:00:54Z",
+      "t": "2026-03-21T19:30:58Z",
       "metrics": {
-        "total_volume": 333899.0,
-        "prob_sum": 3.14,
+        "total_volume": 334059.0,
+        "prob_sum": 3.15,
         "outcome_count": 4,
-        "btc": 70408.8203,
+        "btc": 70425.5938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.5798,
+        "eth": 2152.323,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 644077.0,
-          "ask_volume": 21889.0,
+          "bid_volume": 643659.0,
+          "ask_volume": 20900.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9342639113708507,
+          "order_imbalance": 0.9371011452707736,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.705,
+          "p": 0.71,
           "v": 208104,
           "l": 72647,
           "sp": null
@@ -2565,8 +2565,8 @@
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.815,
-          "v": 34382,
+          "p": 0.82,
+          "v": 34542,
           "l": 9426,
           "sp": null
         }
@@ -2575,15 +2575,15 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.7,
+    "score": 62.6,
     "state": "Active",
-    "timestamp": "2026-03-21T19:00:54.013806Z"
+    "timestamp": "2026-03-21T19:30:58.445686Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.7,
+    "score": 62.6,
     "state": "Active",
     "liq_score": 73.7,
     "eff_score": 12.5,

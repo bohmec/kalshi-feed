@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-21T19:00:54.013806Z",
-    "last_api_seen": "2026-03-21T19:00:54.013806Z"
+    "first_seen_at": "2026-03-21T19:30:58.445686Z",
+    "last_api_seen": "2026-03-21T19:30:58.445686Z"
   },
   "history": [
     {
@@ -2125,31 +2125,31 @@
       }
     },
     {
-      "t": "2026-03-21T19:00:54Z",
+      "t": "2026-03-21T19:30:58Z",
       "metrics": {
-        "total_volume": 387687.0,
-        "prob_sum": 0.92,
+        "total_volume": 388415.0,
+        "prob_sum": 0.935,
         "outcome_count": 3,
-        "btc": 70408.8203,
+        "btc": 70425.5938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.5798,
+        "eth": 2152.323,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 36827.0,
-          "ask_volume": 26299.0,
+          "bid_volume": 36563.0,
+          "ask_volume": 28696.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.1667775559991129,
+          "order_imbalance": 0.12055042216399271,
           "success": true
         }
       },
       "outcomes": {
         "KXINSURRECTION-29-27": {
-          "p": 0.275,
-          "v": 217449,
-          "l": 100896,
+          "p": 0.29,
+          "v": 217909,
+          "l": 101310,
           "sp": null
         },
         "KXINSURRECTION-29": {
@@ -2160,28 +2160,26 @@
         },
         "KXINSURRECTION-29-26MAY": {
           "p": 0.06,
-          "v": 10775,
-          "l": 7145,
+          "v": 11043,
+          "l": 7413,
           "sp": null
         }
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.2,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-21T19:00:54.013806Z"
+    "score": 54.1,
+    "state": "Low Confidence",
+    "timestamp": "2026-03-21T19:30:58.445686Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 43.2,
-    "state": "Macro-Driven",
-    "liq_score": 15.7,
+    "score": 54.1,
+    "state": "Low Confidence",
+    "liq_score": 16.3,
     "eff_score": 12.5,
-    "ind_score": 64.7,
-    "conv_score": 54.3
+    "ind_score": 97.3,
+    "conv_score": 57.0
   }
 }

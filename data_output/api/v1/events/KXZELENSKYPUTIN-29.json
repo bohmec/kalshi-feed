@@ -11,8 +11,8 @@
       "KXZELENSKYPUTIN-29-VPUT": "Volodymyr Zelenskyy and Vladimir Putin meet before Jan 20, 2029?",
       "KXZELENSKYPUTIN-29-27": "Volodymyr Zelenskyy and Vladimir Putin meet before Jan 1, 2027?"
     },
-    "first_seen_at": "2026-03-21T19:00:54.013806Z",
-    "last_api_seen": "2026-03-21T19:00:54.013806Z"
+    "first_seen_at": "2026-03-21T19:30:58.445686Z",
+    "last_api_seen": "2026-03-21T19:30:58.445686Z"
   },
   "history": [
     {
@@ -2125,22 +2125,22 @@
       }
     },
     {
-      "t": "2026-03-21T19:00:54Z",
+      "t": "2026-03-21T19:30:58Z",
       "metrics": {
-        "total_volume": 135186.0,
-        "prob_sum": 0.845,
+        "total_volume": 135187.0,
+        "prob_sum": 0.84,
         "outcome_count": 3,
-        "btc": 70408.8203,
+        "btc": 70425.5938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.5798,
+        "eth": 2152.323,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXZELENSKYPUTIN-29-26JUL": {
-          "p": 0.085,
-          "v": 54909,
+          "p": 0.08,
+          "v": 54910,
           "l": 26084,
           "sp": null
         },
@@ -2161,19 +2161,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 45.8,
+    "score": 46.7,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T19:00:54.013806Z"
+    "timestamp": "2026-03-21T19:30:58.445686Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 45.8,
+    "score": 46.7,
     "state": "Macro-Driven",
     "liq_score": 57.0,
     "eff_score": 12.5,
-    "ind_score": 68.0,
-    "conv_score": 19.7
+    "ind_score": 74.0,
+    "conv_score": 20.0
   }
 }
