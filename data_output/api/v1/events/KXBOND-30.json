@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-21T05:00:47.786003Z",
-    "last_api_seen": "2026-03-21T05:00:47.786003Z"
+    "first_seen_at": "2026-03-21T05:30:45.665977Z",
+    "last_api_seen": "2026-03-21T05:30:45.665977Z"
   },
   "history": [
     {
@@ -8925,23 +8925,23 @@
       }
     },
     {
-      "t": "2026-03-21T05:00:47Z",
+      "t": "2026-03-21T05:30:45Z",
       "metrics": {
-        "total_volume": 402146.0,
-        "prob_sum": 1.2178,
+        "total_volume": 402159.0,
+        "prob_sum": 1.2128,
         "outcome_count": 20,
-        "btc": 70642.0,
+        "btc": 70746.0938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.9585,
+        "eth": 2155.4714,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 12768.0,
-          "ask_volume": 21145.0,
+          "bid_volume": 15034.0,
+          "ask_volume": 23366.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.24701441924925543,
+          "order_imbalance": -0.21697916666666667,
           "success": true
         }
       },
@@ -8954,8 +8954,8 @@
         },
         "KXBOND-30-ATJ": {
           "p": 0.075,
-          "v": 89634,
-          "l": 48855,
+          "v": 89647,
+          "l": 48842,
           "sp": null
         },
         "KXBOND-30-JACO": {
@@ -9043,7 +9043,7 @@
           "sp": null
         },
         "KXBOND-30-REG": {
-          "p": 0.025,
+          "p": 0.02,
           "v": 1617,
           "l": 1082,
           "sp": null
@@ -9071,17 +9071,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 58.5,
+    "score": 58.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T05:00:47.786003Z"
+    "timestamp": "2026-03-21T05:30:45.665977Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 58.5,
+    "score": 58.9,
     "state": "Low Confidence",
-    "liq_score": 8.3,
+    "liq_score": 9.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 78.3

@@ -25,8 +25,8 @@
       "KXTAYLORSWIFTWEDDING-30JAN01-ASH": "Will Ashley Avignone be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
       "KXTAYLORSWIFTWEDDING-30JAN01-DAN": "Will Danielle Haim be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?"
     },
-    "first_seen_at": "2026-03-21T05:00:47.786003Z",
-    "last_api_seen": "2026-03-21T05:00:47.786003Z"
+    "first_seen_at": "2026-03-21T05:30:45.665977Z",
+    "last_api_seen": "2026-03-21T05:30:45.665977Z"
   },
   "history": [
     {
@@ -7725,21 +7725,21 @@
       }
     },
     {
-      "t": "2026-03-21T05:00:47Z",
+      "t": "2026-03-21T05:30:45Z",
       "metrics": {
         "total_volume": 62775.0,
-        "prob_sum": 6.255,
+        "prob_sum": 6.215,
         "outcome_count": 17,
-        "btc": 70642.0,
+        "btc": 70746.0938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.9585,
+        "eth": 2155.4714,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXTAYLORSWIFTWEDDING-30JAN01-GIG": {
-          "p": 0.59,
+          "p": 0.595,
           "v": 16069,
           "l": 4956,
           "sp": null
@@ -7751,13 +7751,13 @@
           "sp": null
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-BLA": {
-          "p": 0.18,
+          "p": 0.17,
           "v": 8893,
           "l": 4722,
           "sp": null
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-KYL": {
-          "p": 0.56,
+          "p": 0.525,
           "v": 8493,
           "l": 5010,
           "sp": null
@@ -7843,21 +7843,22 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 73.8,
-    "state": "Active",
-    "timestamp": "2026-03-21T05:00:47.786003Z"
+    "score": 65.2,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T05:30:45.665977Z"
   },
   "last_flags": [
-    "Contested"
+    "Contested",
+    "Correlated"
   ],
   "analysis": {
-    "score": 73.8,
-    "state": "Active",
+    "score": 65.2,
+    "state": "Macro-Driven",
     "liq_score": 53.3,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 84.3
+    "ind_score": 77.3,
+    "conv_score": 83.7
   }
 }

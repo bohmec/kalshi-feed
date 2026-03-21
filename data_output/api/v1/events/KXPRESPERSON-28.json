@@ -13,28 +13,28 @@
       "KXPRESPERSON-28-JOSS": ":: Democratic",
       "KXPRESPERSON-28-DTRU": ":: Republican",
       "KXPRESPERSON-28-AOCA": ":: Democratic",
+      "KXPRESPERSON-28-SSMI": ":: Unknown",
       "KXPRESPERSON-28-KHAR": ":: Democratic",
       "KXPRESPERSON-28-JPRI": ":: Democratic",
-      "KXPRESPERSON-28-SSMI": ":: Unknown",
+      "KXPRESPERSON-28-WMOO": ":: Democratic",
       "KXPRESPERSON-28-JSHA": ":: Democratic",
       "KXPRESPERSON-28-TGAB": ":: Republican",
-      "KXPRESPERSON-28-ABES": ":: Democratic",
-      "KXPRESPERSON-28-RDES": ":: Republican",
       "KXPRESPERSON-28-PBUT": ":: Democratic",
-      "KXPRESPERSON-28-WMOO": ":: Democratic",
+      "KXPRESPERSON-28-GWHI": ":: Democratic",
+      "KXPRESPERSON-28-RDES": ":: Republican",
+      "KXPRESPERSON-28-ABES": ":: Democratic",
+      "KXPRESPERSON-28-DTRUJR": ":: Republican",
       "KXPRESPERSON-28-GYOU": ":: Republican",
       "KXPRESPERSON-28-MKEL": ":: Democratic",
-      "KXPRESPERSON-28-GWHI": ":: Democratic",
       "KXPRESPERSON-28-JDIM": "Who will win the next presidential election?",
-      "KXPRESPERSON-28-DTRUJR": ":: Republican",
       "KXPRESPERSON-28-VRAM": ":: Republican",
       "KXPRESPERSON-28-TCAR": ":: Republican",
       "KXPRESPERSON-28-NHAL": ":: Republican",
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-21T05:00:47.786003Z",
-    "last_api_seen": "2026-03-21T05:00:47.786003Z"
+    "first_seen_at": "2026-03-21T05:30:45.665977Z",
+    "last_api_seen": "2026-03-21T05:30:45.665977Z"
   },
   "history": [
     {
@@ -10925,43 +10925,43 @@
       }
     },
     {
-      "t": "2026-03-21T05:00:47Z",
+      "t": "2026-03-21T05:30:45Z",
       "metrics": {
-        "total_volume": 20953903.0,
-        "prob_sum": 0.8906,
+        "total_volume": 22633916.0,
+        "prob_sum": 0.8457,
         "outcome_count": 25,
-        "btc": 70642.0,
+        "btc": 70746.0938,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.9585,
+        "eth": 2155.4714,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2271414.0,
-          "ask_volume": 28377470.0,
+          "bid_volume": 2254649.0,
+          "ask_volume": 28395952.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8517783551270578,
+          "order_imbalance": -0.8528806009382981,
           "success": true
         }
       },
       "outcomes": {
         "KXPRESPERSON-28-MRUB": {
           "p": 0.155,
-          "v": 2590470,
-          "l": 1671052,
+          "v": 2591124,
+          "l": 1671706,
           "sp": null
         },
         "KXPRESPERSON-28-GNEWS": {
           "p": 0.19,
-          "v": 2061372,
-          "l": 1277190,
+          "v": 2061864,
+          "l": 1277646,
           "sp": null
         },
         "KXPRESPERSON-28-JVAN": {
           "p": 0.185,
-          "v": 1995213,
-          "l": 1317756,
+          "v": 1995378,
+          "l": 1317839,
           "sp": null
         },
         "KXPRESPERSON-28-JOSS": {
@@ -10978,8 +10978,14 @@
         },
         "KXPRESPERSON-28-AOCA": {
           "p": 0.045,
-          "v": 1251611,
-          "l": 981968,
+          "v": 1257111,
+          "l": 986813,
+          "sp": null
+        },
+        "KXPRESPERSON-28-SSMI": {
+          "p": 0.015,
+          "v": 1195812,
+          "l": 1106321,
           "sp": null
         },
         "KXPRESPERSON-28-KHAR": {
@@ -10989,15 +10995,15 @@
           "sp": null
         },
         "KXPRESPERSON-28-JPRI": {
-          "p": 0.025,
-          "v": 999293,
-          "l": 785081,
+          "p": 0.015,
+          "v": 1031834,
+          "l": 817622,
           "sp": null
         },
-        "KXPRESPERSON-28-SSMI": {
+        "KXPRESPERSON-28-WMOO": {
           "p": 0.015,
-          "v": 970812,
-          "l": 881321,
+          "v": 941778,
+          "l": 803492,
           "sp": null
         },
         "KXPRESPERSON-28-JSHA": {
@@ -11012,34 +11018,40 @@
           "l": 759470,
           "sp": null
         },
-        "KXPRESPERSON-28-ABES": {
+        "KXPRESPERSON-28-PBUT": {
           "p": 0.015,
-          "v": 758777,
-          "l": 716635,
+          "v": 809193,
+          "l": 728451,
+          "sp": null
+        },
+        "KXPRESPERSON-28-GWHI": {
+          "p": 0.015,
+          "v": 797864,
+          "l": 759285,
           "sp": null
         },
         "KXPRESPERSON-28-RDES": {
-          "p": 0.025,
-          "v": 733185,
-          "l": 682906,
-          "sp": null
-        },
-        "KXPRESPERSON-28-PBUT": {
-          "p": 0.025,
-          "v": 671345,
-          "l": 590619,
-          "sp": null
-        },
-        "KXPRESPERSON-28-WMOO": {
           "p": 0.015,
-          "v": 538244,
-          "l": 403492,
+          "v": 777930,
+          "l": 722365,
+          "sp": null
+        },
+        "KXPRESPERSON-28-ABES": {
+          "p": 0.015,
+          "v": 759010,
+          "l": 716868,
+          "sp": null
+        },
+        "KXPRESPERSON-28-DTRUJR": {
+          "p": 0.015,
+          "v": 656713,
+          "l": 621372,
           "sp": null
         },
         "KXPRESPERSON-28-GYOU": {
-          "p": 0.015,
-          "v": 479656,
-          "l": 417923,
+          "p": 0.0001,
+          "v": 578957,
+          "l": 517224,
           "sp": null
         },
         "KXPRESPERSON-28-MKEL": {
@@ -11048,22 +11060,10 @@
           "l": 472905,
           "sp": null
         },
-        "KXPRESPERSON-28-GWHI": {
-          "p": 0.015,
-          "v": 452864,
-          "l": 414285,
-          "sp": null
-        },
         "KXPRESPERSON-28-JDIM": {
           "p": 0.0001,
           "v": 323318,
           "l": 319849,
-          "sp": null
-        },
-        "KXPRESPERSON-28-DTRUJR": {
-          "p": 0.015,
-          "v": 271713,
-          "l": 236372,
           "sp": null
         },
         "KXPRESPERSON-28-VRAM": {
@@ -11103,7 +11103,7 @@
   "latest_analysis": {
     "score": 64.6,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T05:00:47.786003Z"
+    "timestamp": "2026-03-21T05:30:45.665977Z"
   },
   "last_flags": [
     "Correlated"
