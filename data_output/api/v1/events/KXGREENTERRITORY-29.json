@@ -11,8 +11,8 @@
       "KXGREENTERRITORY-29-26APR": "Will the United States acquire any part of Greenland before Apr 1, 2026?",
       "KXGREENTERRITORY-29-27": "Will the United States acquire any part of Greenland before Jan 1, 2027?"
     },
-    "first_seen_at": "2026-03-21T07:00:56.894911Z",
-    "last_api_seen": "2026-03-21T07:00:56.894911Z"
+    "first_seen_at": "2026-03-21T07:30:42.855846Z",
+    "last_api_seen": "2026-03-21T07:30:42.855846Z"
   },
   "history": [
     {
@@ -2125,23 +2125,23 @@
       }
     },
     {
-      "t": "2026-03-21T07:00:56Z",
+      "t": "2026-03-21T07:30:42Z",
       "metrics": {
-        "total_volume": 3649102.0,
+        "total_volume": 3650042.0,
         "prob_sum": 0.4601,
         "outcome_count": 3,
-        "btc": 70764.7578,
+        "btc": 70869.0781,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.658,
+        "eth": 2160.4995,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 327305.0,
-          "ask_volume": 113481.0,
+          "bid_volume": 327314.0,
+          "ask_volume": 112631.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.485097076585917,
+          "order_imbalance": 0.4879769062041846,
           "success": true
         }
       },
@@ -2160,8 +2160,8 @@
         },
         "KXGREENTERRITORY-29-27": {
           "p": 0.095,
-          "v": 316597,
-          "l": 153698,
+          "v": 317537,
+          "l": 154557,
           "sp": null
         }
       }
@@ -2171,7 +2171,7 @@
   "latest_analysis": {
     "score": 86.6,
     "state": "Active",
-    "timestamp": "2026-03-21T07:00:56.894911Z"
+    "timestamp": "2026-03-21T07:30:42.855846Z"
   },
   "last_flags": [],
   "analysis": {

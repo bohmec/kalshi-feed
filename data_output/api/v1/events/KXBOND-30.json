@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-21T07:00:56.894911Z",
-    "last_api_seen": "2026-03-21T07:00:56.894911Z"
+    "first_seen_at": "2026-03-21T07:30:42.855846Z",
+    "last_api_seen": "2026-03-21T07:30:42.855846Z"
   },
   "history": [
     {
@@ -8925,23 +8925,23 @@
       }
     },
     {
-      "t": "2026-03-21T07:00:56Z",
+      "t": "2026-03-21T07:30:42Z",
       "metrics": {
-        "total_volume": 402213.0,
-        "prob_sum": 1.2178,
+        "total_volume": 402220.0,
+        "prob_sum": 1.2078,
         "outcome_count": 20,
-        "btc": 70764.7578,
+        "btc": 70869.0781,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.658,
+        "eth": 2160.4995,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15041.0,
-          "ask_volume": 23366.0,
+          "bid_volume": 14819.0,
+          "ask_volume": 23421.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.21675736193922981,
+          "order_imbalance": -0.2249476987447699,
           "success": true
         }
       },
@@ -8954,12 +8954,12 @@
         },
         "KXBOND-30-ATJ": {
           "p": 0.075,
-          "v": 89679,
-          "l": 48832,
+          "v": 89686,
+          "l": 48825,
           "sp": null
         },
         "KXBOND-30-JACO": {
-          "p": 0.19,
+          "p": 0.185,
           "v": 60618,
           "l": 27468,
           "sp": null
@@ -9031,7 +9031,7 @@
           "sp": null
         },
         "KXBOND-30-JN": {
-          "p": 0.02,
+          "p": 0.015,
           "v": 4139,
           "l": 3898,
           "sp": null
@@ -9071,15 +9071,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 58.9,
+    "score": 58.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T07:00:56.894911Z"
+    "timestamp": "2026-03-21T07:30:42.855846Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 58.9,
+    "score": 58.8,
     "state": "Low Confidence",
     "liq_score": 9.3,
     "eff_score": 12.5,
