@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-21T08:30:56.426085Z",
-    "last_api_seen": "2026-03-21T08:30:56.426085Z"
+    "first_seen_at": "2026-03-21T09:00:53.590188Z",
+    "last_api_seen": "2026-03-21T09:00:53.590188Z"
   },
   "history": [
     {
@@ -2925,35 +2925,35 @@
       }
     },
     {
-      "t": "2026-03-21T08:30:56Z",
+      "t": "2026-03-21T09:00:53Z",
       "metrics": {
-        "total_volume": 241295.0,
-        "prob_sum": 1.0206,
+        "total_volume": 241296.0,
+        "prob_sum": 1.0456,
         "outcome_count": 5,
-        "btc": 70536.1484,
+        "btc": 70582.0625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2152.1033,
+        "eth": 2154.1333,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15275.0,
-          "ask_volume": 193090.0,
+          "bid_volume": 15375.0,
+          "ask_volume": 193059.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8533822858925443,
+          "order_imbalance": -0.8524712858746654,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.51,
-          "v": 118872,
-          "l": 69383,
+          "p": 0.53,
+          "v": 118873,
+          "l": 69384,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.51,
+          "p": 0.515,
           "v": 101977,
           "l": 67096,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 50.1,
+    "score": 46.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T08:30:56.426085Z"
+    "timestamp": "2026-03-21T09:00:53.590188Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 50.1,
+    "score": 46.8,
     "state": "Low Confidence",
     "liq_score": 40.7,
     "eff_score": 12.5,
-    "ind_score": 100.0,
+    "ind_score": 78.0,
     "conv_score": 34.7
   }
 }
