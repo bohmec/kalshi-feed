@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXELONMARS-99": "Will Elon Musk visit Mars before Aug 1, 2099?"
     },
-    "first_seen_at": "2026-03-21T02:00:43.027903Z",
-    "last_api_seen": "2026-03-21T02:00:43.027903Z"
+    "first_seen_at": "2026-03-21T02:30:43.230073Z",
+    "last_api_seen": "2026-03-21T02:30:43.230073Z"
   },
   "history": [
     {
@@ -1417,15 +1417,15 @@
       }
     },
     {
-      "t": "2026-03-21T02:00:43Z",
+      "t": "2026-03-21T02:30:43Z",
       "metrics": {
         "total_volume": 56681.0,
         "prob_sum": 0.105,
         "outcome_count": 1,
-        "btc": 70502.2344,
+        "btc": 70642.6016,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2148.2935,
+        "eth": 2152.5327,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -1441,19 +1441,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 49.8,
+    "score": 49.7,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T02:00:43.027903Z"
+    "timestamp": "2026-03-21T02:30:43.230073Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 49.8,
+    "score": 49.7,
     "state": "Macro-Driven",
     "liq_score": 52.7,
     "eff_score": 12.5,
-    "ind_score": 19.3,
+    "ind_score": 18.7,
     "conv_score": 62.0
   }
 }

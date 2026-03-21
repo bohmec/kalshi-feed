@@ -9,9 +9,7 @@
     "outcomes_map": {
       "USCLIMATE-2025": "By 2025",
       "USCLIMATE-2030": "By 2030"
-    },
-    "first_seen_at": "2026-03-21T02:00:43.027903Z",
-    "last_api_seen": "2026-03-21T02:00:43.027903Z"
+    }
   },
   "history": [
     {
@@ -1843,49 +1841,23 @@
           "lr": 0.3509
         }
       }
-    },
-    {
-      "t": "2026-03-21T02:00:43Z",
-      "metrics": {
-        "total_volume": 49338.0,
-        "prob_sum": 0.27,
-        "outcome_count": 2,
-        "btc": 70502.2344,
-        "sp500": 648.57,
-        "rates": 4.391,
-        "eth": 2148.2935,
-        "tvl": 0.0,
-        "usdc": 0.0
-      },
-      "outcomes": {
-        "USCLIMATE-2025": {
-          "p": 0.07,
-          "v": 43446,
-          "l": 7781,
-          "sp": null
-        },
-        "USCLIMATE-2030": {
-          "p": 0.2,
-          "v": 5892,
-          "l": 2059,
-          "sp": null
-        }
-      }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Volatile",
   "latest_analysis": {
-    "score": 60.5,
-    "state": "Active",
-    "timestamp": "2026-03-21T02:00:43.027903Z"
+    "score": 28.0,
+    "state": "Volatile",
+    "timestamp": "2026-03-20T03:31:22Z"
   },
-  "last_flags": [],
   "analysis": {
-    "score": 60.5,
-    "state": "Active",
-    "liq_score": 52.0,
-    "eff_score": 12.5,
-    "ind_score": 90.7,
-    "conv_score": 46.0
+    "score": 28.0,
+    "state": "Volatile",
+    "metrics": {
+      "macro_sensitivity": 0.0,
+      "entropy": 0.838,
+      "divergence": 0.72,
+      "momentum": 0.0,
+      "conflict": 2.9288
+    }
   }
 }
