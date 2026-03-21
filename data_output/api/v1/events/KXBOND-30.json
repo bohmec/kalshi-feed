@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-21T22:30:51.656854Z",
-    "last_api_seen": "2026-03-21T22:30:51.656854Z"
+    "first_seen_at": "2026-03-21T23:00:53.955886Z",
+    "last_api_seen": "2026-03-21T23:00:53.955886Z"
   },
   "history": [
     {
@@ -8925,31 +8925,31 @@
       }
     },
     {
-      "t": "2026-03-21T22:30:51Z",
+      "t": "2026-03-21T23:00:53Z",
       "metrics": {
-        "total_volume": 402870.0,
-        "prob_sum": 1.2761,
+        "total_volume": 402973.0,
+        "prob_sum": 1.2861,
         "outcome_count": 20,
-        "btc": 70282.8047,
+        "btc": 70284.3359,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2150.5874,
+        "eth": 2150.0361,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15324.0,
+          "bid_volume": 15307.0,
           "ask_volume": 22752.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.19508351717617398,
+          "order_imbalance": -0.19561733098610054,
           "success": true
         }
       },
       "outcomes": {
         "KXBOND-30-CAL": {
           "p": 0.485,
-          "v": 119241,
-          "l": 77156,
+          "v": 119297,
+          "l": 77125,
           "sp": null
         },
         "KXBOND-30-ATJ": {
@@ -8959,9 +8959,9 @@
           "sp": null
         },
         "KXBOND-30-JACO": {
-          "p": 0.17,
-          "v": 60618,
-          "l": 27468,
+          "p": 0.175,
+          "v": 60665,
+          "l": 27504,
           "sp": null
         },
         "KXBOND-30-HC": {
@@ -9043,7 +9043,7 @@
           "sp": null
         },
         "KXBOND-30-REG": {
-          "p": 0.02,
+          "p": 0.025,
           "v": 1635,
           "l": 1100,
           "sp": null
@@ -9073,7 +9073,7 @@
   "latest_analysis": {
     "score": 58.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T22:30:51.656854Z"
+    "timestamp": "2026-03-21T23:00:53.955886Z"
   },
   "last_flags": [
     "Contested"
