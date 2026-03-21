@@ -13,8 +13,8 @@
       "KXGTAPRICE-90": "What will the price of GTA VI be?",
       "KXGTAPRICE-60": "What will the price of GTA VI be?"
     },
-    "first_seen_at": "2026-03-21T01:30:45.437110Z",
-    "last_api_seen": "2026-03-21T01:30:45.437110Z"
+    "first_seen_at": "2026-03-21T02:00:43.027903Z",
+    "last_api_seen": "2026-03-21T02:00:43.027903Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-21T01:30:45Z",
+      "t": "2026-03-21T02:00:43Z",
       "metrics": {
-        "total_volume": 417042.0,
-        "prob_sum": 2.235,
+        "total_volume": 417119.0,
+        "prob_sum": 2.225,
         "outcome_count": 5,
-        "btc": 70637.9766,
+        "btc": 70502.2344,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.6677,
+        "eth": 2148.2935,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 67238.0,
-          "ask_volume": 10357.0,
+          "bid_volume": 67216.0,
+          "ask_volume": 10263.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7330498099104323,
+          "order_imbalance": 0.7350766014016701,
           "success": true
         }
       },
@@ -2953,13 +2953,13 @@
           "sp": null
         },
         "KXGTAPRICE-70": {
-          "p": 0.615,
-          "v": 100478,
-          "l": 26620,
+          "p": 0.61,
+          "v": 100555,
+          "l": 26543,
           "sp": null
         },
         "KXGTAPRICE-80": {
-          "p": 0.33,
+          "p": 0.325,
           "v": 90537,
           "l": 32449,
           "sp": null
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 55.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T01:30:45.437110Z"
+    "timestamp": "2026-03-21T02:00:43.027903Z"
   },
   "last_flags": [
     "Contested"
