@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXFEDEND-29-JAN20": "Will Trump end the Federal Reserve before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-21T18:00:54.740469Z",
-    "last_api_seen": "2026-03-21T18:00:54.740469Z"
+    "first_seen_at": "2026-03-21T18:31:00.554762Z",
+    "last_api_seen": "2026-03-21T18:31:00.554762Z"
   },
   "history": [
     {
@@ -1325,15 +1325,15 @@
       }
     },
     {
-      "t": "2026-03-21T18:00:54Z",
+      "t": "2026-03-21T18:31:00Z",
       "metrics": {
         "total_volume": 104638.0,
         "prob_sum": 0.085,
         "outcome_count": 1,
-        "btc": 70322.625,
+        "btc": 70427.6719,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2148.3911,
+        "eth": 2152.2332,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -1351,7 +1351,7 @@
   "latest_analysis": {
     "score": 50.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T18:00:54.740469Z"
+    "timestamp": "2026-03-21T18:31:00.554762Z"
   },
   "last_flags": [
     "Correlated"
@@ -1361,7 +1361,7 @@
     "state": "Macro-Driven",
     "liq_score": 55.7,
     "eff_score": 12.5,
-    "ind_score": 20.0,
+    "ind_score": 19.3,
     "conv_score": 63.0
   }
 }

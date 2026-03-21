@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-21T18:00:54.740469Z",
-    "last_api_seen": "2026-03-21T18:00:54.740469Z"
+    "first_seen_at": "2026-03-21T18:31:00.554762Z",
+    "last_api_seen": "2026-03-21T18:31:00.554762Z"
   },
   "history": [
     {
@@ -2525,43 +2525,43 @@
       }
     },
     {
-      "t": "2026-03-21T18:00:54Z",
+      "t": "2026-03-21T18:31:00Z",
       "metrics": {
-        "total_volume": 6386488.0,
-        "prob_sum": 0.435,
+        "total_volume": 6386531.0,
+        "prob_sum": 0.4295,
         "outcome_count": 4,
-        "btc": 70322.625,
+        "btc": 70427.6719,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2148.3911,
+        "eth": 2152.2332,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 989597.0,
-          "ask_volume": 625281.0,
+          "bid_volume": 989353.0,
+          "ask_volume": 625624.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.22559970474549781,
+          "order_imbalance": 0.22522240254814774,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLAND-29": {
-          "p": 0.275,
+          "p": 0.2745,
           "v": 3229903,
           "l": 387528,
           "sp": null
         },
         "KXGREENLAND-29-26MAY": {
           "p": 0.015,
-          "v": 2068990,
-          "l": 633746,
+          "v": 2068995,
+          "l": 633751,
           "sp": null
         },
         "KXGREENLAND-29-27": {
-          "p": 0.12,
-          "v": 1071610,
-          "l": 383471,
+          "p": 0.115,
+          "v": 1071648,
+          "l": 383433,
           "sp": null
         },
         "KXGREENLAND-29-26JUL": {
@@ -2575,17 +2575,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 79.2,
+    "score": 79.1,
     "state": "Active",
-    "timestamp": "2026-03-21T18:00:54.740469Z"
+    "timestamp": "2026-03-21T18:31:00.554762Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 79.2,
+    "score": 79.1,
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 95.3,
+    "ind_score": 94.7,
     "conv_score": 59.7
   }
 }
