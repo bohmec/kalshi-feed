@@ -12,8 +12,8 @@
       "KXUSAEXPANDTERRITORY-28JAN01": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 1, 2028?",
       "KXUSAEXPANDTERRITORY-29JAN21": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-21T05:30:45.665977Z",
-    "last_api_seen": "2026-03-21T05:30:45.665977Z"
+    "first_seen_at": "2026-03-21T06:00:58.588211Z",
+    "last_api_seen": "2026-03-21T06:00:58.588211Z"
   },
   "history": [
     {
@@ -2525,29 +2525,29 @@
       }
     },
     {
-      "t": "2026-03-21T05:30:45Z",
+      "t": "2026-03-21T06:00:58Z",
       "metrics": {
         "total_volume": 277592.0,
-        "prob_sum": 0.885,
+        "prob_sum": 0.89,
         "outcome_count": 4,
-        "btc": 70746.0938,
+        "btc": 70705.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.4714,
+        "eth": 2152.9841,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 22467.0,
-          "ask_volume": 21223.0,
+          "bid_volume": 22372.0,
+          "ask_volume": 20996.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.028473334859235522,
+          "order_imbalance": 0.03172846338313964,
           "success": true
         }
       },
       "outcomes": {
         "KXUSAEXPANDTERRITORY-27JAN01": {
-          "p": 0.145,
+          "p": 0.15,
           "v": 84135,
           "l": 35371,
           "sp": null
@@ -2573,21 +2573,19 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.1,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-21T05:30:45.665977Z"
+    "score": 51.6,
+    "state": "Low Confidence",
+    "timestamp": "2026-03-21T06:00:58.588211Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 43.1,
-    "state": "Macro-Driven",
+    "score": 51.6,
+    "state": "Low Confidence",
     "liq_score": 11.0,
     "eff_score": 12.5,
-    "ind_score": 78.0,
-    "conv_score": 52.0
+    "ind_score": 97.3,
+    "conv_score": 54.3
   }
 }
