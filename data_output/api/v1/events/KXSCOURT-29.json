@@ -15,8 +15,8 @@
       "KXSCOURT-29-GGK": "Will Gregory G. Katsas become the next Justice on the Supreme Court?",
       "KXSCOURT-29-NR": "Will Neomi Rao become the next Justice on the Supreme Court?",
       "KXSCOURT-29-LVD": "Will Lawrence VanDyke become the next Justice on the Supreme Court?",
-      "KXSCOURT-29-PB": "Will Patrick Bumatay become the next Justice on the Supreme Court?",
       "KXSCOURT-29-ML": "Will Mike Lee become the next Justice on the Supreme Court?",
+      "KXSCOURT-29-PB": "Will Patrick Bumatay become the next Justice on the Supreme Court?",
       "KXSCOURT-29-MP": "Will Michael Park become the next Justice on the Supreme Court?",
       "KXSCOURT-29-TC": "Will Tom Cotton become the next Justice on the Supreme Court?",
       "KXSCOURT-29-EBOV": "Will Emil Bove become the next Justice on the Supreme Court?",
@@ -42,8 +42,8 @@
       "KXSCOURT-29-DS": "Will David Stras become the next Justice on the Supreme Court?",
       "KXSCOURT-29-AEID": "Will Allison Eid become the next Justice on the Supreme Court?"
     },
-    "first_seen_at": "2026-03-21T03:30:49.031082Z",
-    "last_api_seen": "2026-03-21T03:30:49.031082Z"
+    "first_seen_at": "2026-03-21T04:00:47.530243Z",
+    "last_api_seen": "2026-03-21T04:00:47.530243Z"
   },
   "history": [
     {
@@ -14525,15 +14525,15 @@
       }
     },
     {
-      "t": "2026-03-21T03:30:49Z",
+      "t": "2026-03-21T04:00:47Z",
       "metrics": {
-        "total_volume": 189008.0,
+        "total_volume": 189942.0,
         "prob_sum": 0.9873,
         "outcome_count": 34,
-        "btc": 70698.1172,
+        "btc": 70687.6875,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2153.532,
+        "eth": 2153.9148,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -14586,16 +14586,16 @@
           "l": 5716,
           "sp": null
         },
+        "KXSCOURT-29-ML": {
+          "p": 0.0001,
+          "v": 6299,
+          "l": 4084,
+          "sp": null
+        },
         "KXSCOURT-29-PB": {
           "p": 0.0003,
           "v": 6218,
           "l": 5297,
-          "sp": null
-        },
-        "KXSCOURT-29-ML": {
-          "p": 0.0001,
-          "v": 5832,
-          "l": 3617,
           "sp": null
         },
         "KXSCOURT-29-MP": {
@@ -14606,8 +14606,8 @@
         },
         "KXSCOURT-29-TC": {
           "p": 0.0001,
-          "v": 4619,
-          "l": 2985,
+          "v": 5086,
+          "l": 3452,
           "sp": null
         },
         "KXSCOURT-29-EBOV": {
@@ -14749,7 +14749,7 @@
   "latest_analysis": {
     "score": 77.4,
     "state": "Active",
-    "timestamp": "2026-03-21T03:30:49.031082Z"
+    "timestamp": "2026-03-21T04:00:47.530243Z"
   },
   "last_flags": [],
   "analysis": {

@@ -12,8 +12,8 @@
       "KXUSAEXPANDTERRITORY-28JAN01": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 1, 2028?",
       "KXUSAEXPANDTERRITORY-29JAN21": "Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-21T03:30:49.031082Z",
-    "last_api_seen": "2026-03-21T03:30:49.031082Z"
+    "first_seen_at": "2026-03-21T04:00:47.530243Z",
+    "last_api_seen": "2026-03-21T04:00:47.530243Z"
   },
   "history": [
     {
@@ -2525,31 +2525,31 @@
       }
     },
     {
-      "t": "2026-03-21T03:30:49Z",
+      "t": "2026-03-21T04:00:47Z",
       "metrics": {
-        "total_volume": 277490.0,
-        "prob_sum": 0.895,
+        "total_volume": 277590.0,
+        "prob_sum": 0.89,
         "outcome_count": 4,
-        "btc": 70698.1172,
+        "btc": 70687.6875,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2153.532,
+        "eth": 2153.9148,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 22460.0,
-          "ask_volume": 21312.0,
+          "bid_volume": 22516.0,
+          "ask_volume": 21289.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.02622681166042219,
+          "order_imbalance": 0.028010501084351103,
           "success": true
         }
       },
       "outcomes": {
         "KXUSAEXPANDTERRITORY-27JAN01": {
-          "p": 0.15,
-          "v": 84033,
-          "l": 35271,
+          "p": 0.145,
+          "v": 84133,
+          "l": 35371,
           "sp": null
         },
         "KXUSAEXPANDTERRITORY-26JUL01": {
@@ -2573,19 +2573,21 @@
       }
     }
   ],
-  "last_regime": "Low Confidence",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 51.6,
-    "state": "Low Confidence",
-    "timestamp": "2026-03-21T03:30:49.031082Z"
+    "score": 43.1,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T04:00:47.530243Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 51.6,
-    "state": "Low Confidence",
+    "score": 43.1,
+    "state": "Macro-Driven",
     "liq_score": 11.0,
     "eff_score": 12.5,
-    "ind_score": 97.3,
-    "conv_score": 54.3
+    "ind_score": 78.0,
+    "conv_score": 51.7
   }
 }
