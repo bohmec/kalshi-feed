@@ -20,28 +20,28 @@
       "KXNEXTISRAELPM-45JAN01-BGAN": "::",
       "KXNEXTISRAELPM-45JAN01-ALIE": "::"
     },
-    "first_seen_at": "2026-03-21T07:30:42.855846Z",
-    "last_api_seen": "2026-03-21T07:30:42.855846Z"
+    "first_seen_at": "2026-03-21T08:00:56.656002Z",
+    "last_api_seen": "2026-03-21T08:00:56.656002Z"
   },
   "history": [
     {
-      "t": "2026-03-21T07:30:42Z",
+      "t": "2026-03-21T08:00:56Z",
       "metrics": {
-        "total_volume": 49874.0,
-        "prob_sum": 0.99,
+        "total_volume": 49980.0,
+        "prob_sum": 1.025,
         "outcome_count": 12,
-        "btc": 70869.0781,
+        "btc": 0.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2160.4995,
+        "eth": 2155.3149,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXNEXTISRAELPM-45JAN01-NBEN": {
-          "p": 0.36,
-          "v": 18247,
-          "l": 5607,
+          "p": 0.37,
+          "v": 18332,
+          "l": 5604,
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-IKAT": {
@@ -57,7 +57,7 @@
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-YLEV": {
-          "p": 0.12,
+          "p": 0.115,
           "v": 4950,
           "l": 2172,
           "sp": null
@@ -69,9 +69,9 @@
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-GEIS": {
-          "p": 0.065,
-          "v": 2328,
-          "l": 1568,
+          "p": 0.095,
+          "v": 2349,
+          "l": 1588,
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-BSMO": {
@@ -117,9 +117,9 @@
   "latest_analysis": {
     "score": null,
     "state": "Initializing",
-    "timestamp": "2026-03-21T07:30:42.855846Z"
+    "timestamp": "2026-03-21T08:00:56.656002Z"
   },
-  "last_archived_at": "2026-03-21T07:30:42Z",
+  "last_archived_at": "2026-03-21T08:00:56Z",
   "last_flags": [],
   "analysis": {
     "score": null,

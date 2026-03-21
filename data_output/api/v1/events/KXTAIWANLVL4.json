@@ -13,8 +13,8 @@
       "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
       "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
     },
-    "first_seen_at": "2026-03-21T07:30:42.855846Z",
-    "last_api_seen": "2026-03-21T07:30:42.855846Z"
+    "first_seen_at": "2026-03-21T08:00:56.656002Z",
+    "last_api_seen": "2026-03-21T08:00:56.656002Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-21T07:30:42Z",
+      "t": "2026-03-21T08:00:56Z",
       "metrics": {
         "total_volume": 218028.0,
-        "prob_sum": 1.675,
+        "prob_sum": 1.665,
         "outcome_count": 5,
-        "btc": 70869.0781,
+        "btc": 0.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2160.4995,
+        "eth": 2155.3149,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25895.0,
-          "ask_volume": 8405.0,
+          "bid_volume": 26118.0,
+          "ask_volume": 12314.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.5099125364431487,
+          "order_imbalance": 0.3591798501248959,
           "success": true
         }
       },
@@ -2965,7 +2965,7 @@
           "sp": null
         },
         "KXTAIWANLVL4-29JAN01": {
-          "p": 0.455,
+          "p": 0.445,
           "v": 11848,
           "l": 4804,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 36.9,
+    "score": 37.3,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T07:30:42.855846Z"
+    "timestamp": "2026-03-21T08:00:56.656002Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 36.9,
+    "score": 37.3,
     "state": "Low Confidence",
-    "liq_score": 8.0,
+    "liq_score": 9.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 23.3
