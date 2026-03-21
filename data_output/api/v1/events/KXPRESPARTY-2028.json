@@ -10,8 +10,8 @@
       "KXPRESPARTY-2028-R": "Will Republican win the Presidency in 2028?",
       "KXPRESPARTY-2028-D": "Will Democratic win the Presidency in 2028?"
     },
-    "first_seen_at": "2026-03-21T20:30:55.240826Z",
-    "last_api_seen": "2026-03-21T20:30:55.240826Z"
+    "first_seen_at": "2026-03-21T21:00:54.226046Z",
+    "last_api_seen": "2026-03-21T21:00:54.226046Z"
   },
   "history": [
     {
@@ -1725,23 +1725,23 @@
       }
     },
     {
-      "t": "2026-03-21T20:30:55Z",
+      "t": "2026-03-21T21:00:54Z",
       "metrics": {
         "total_volume": 323898.0,
         "prob_sum": 1.01,
         "outcome_count": 2,
-        "btc": 70438.3203,
+        "btc": 70445.6484,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2153.6338,
+        "eth": 2155.2595,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 11953131.0,
-          "ask_volume": 14093299.0,
+          "ask_volume": 14093286.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.08216742179254508,
+          "order_imbalance": -0.08216696369408506,
           "success": true
         }
       },
@@ -1765,7 +1765,7 @@
   "latest_analysis": {
     "score": 50.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T20:30:55.240826Z"
+    "timestamp": "2026-03-21T21:00:54.226046Z"
   },
   "last_flags": [
     "Correlated"

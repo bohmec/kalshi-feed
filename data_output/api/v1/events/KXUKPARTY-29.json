@@ -16,8 +16,8 @@
       "KXUKPARTY-29-BRUV": "Will Bruv win the next U.K. election?",
       "KXUKPARTY-29-Y": "Will Your Party win the next U.K. election?"
     },
-    "first_seen_at": "2026-03-21T20:30:55.240826Z",
-    "last_api_seen": "2026-03-21T20:30:55.240826Z"
+    "first_seen_at": "2026-03-21T21:00:54.226046Z",
+    "last_api_seen": "2026-03-21T21:00:54.226046Z"
   },
   "history": [
     {
@@ -4125,35 +4125,35 @@
       }
     },
     {
-      "t": "2026-03-21T20:30:55Z",
+      "t": "2026-03-21T21:00:54Z",
       "metrics": {
-        "total_volume": 156232.0,
-        "prob_sum": 1.0253,
+        "total_volume": 156373.0,
+        "prob_sum": 1.0103,
         "outcome_count": 8,
-        "btc": 70438.3203,
+        "btc": 70445.6484,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2153.6338,
+        "eth": 2155.2595,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXUKPARTY-29-REST": {
-          "p": 0.125,
-          "v": 69506,
-          "l": 43612,
+          "p": 0.12,
+          "v": 69646,
+          "l": 43752,
           "sp": null
         },
         "KXUKPARTY-29-R": {
-          "p": 0.4,
+          "p": 0.395,
           "v": 40907,
           "l": 12973,
           "sp": null
         },
         "KXUKPARTY-29-C": {
-          "p": 0.095,
-          "v": 18437,
-          "l": 3910,
+          "p": 0.09,
+          "v": 18438,
+          "l": 3911,
           "sp": null
         },
         "KXUKPARTY-29-GRE": {
@@ -4191,19 +4191,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 53.1,
+    "score": 50.1,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T20:30:55.240826Z"
+    "timestamp": "2026-03-21T21:00:54.226046Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 53.1,
+    "score": 50.1,
     "state": "Macro-Driven",
     "liq_score": 57.7,
     "eff_score": 12.5,
-    "ind_score": 50.0,
-    "conv_score": 52.7
+    "ind_score": 37.3,
+    "conv_score": 49.0
   }
 }
