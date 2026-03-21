@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXTRUMPRESIGN": "Will President Trump resign before his term is up?"
     },
-    "first_seen_at": "2026-03-21T17:00:55.377937Z",
-    "last_api_seen": "2026-03-21T17:00:55.377937Z"
+    "first_seen_at": "2026-03-21T17:30:56.100185Z",
+    "last_api_seen": "2026-03-21T17:30:56.100185Z"
   },
   "history": [
     {
@@ -1325,22 +1325,22 @@
       }
     },
     {
-      "t": "2026-03-21T17:00:55Z",
+      "t": "2026-03-21T17:30:56Z",
       "metrics": {
-        "total_volume": 164597.0,
+        "total_volume": 164602.0,
         "prob_sum": 0.18,
         "outcome_count": 1,
-        "btc": 70282.7891,
+        "btc": 70370.2891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2145.7427,
+        "eth": 2147.6843,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXTRUMPRESIGN": {
           "p": 0.18,
-          "v": 164597,
+          "v": 164602,
           "l": 50542,
           "sp": null
         }
@@ -1351,7 +1351,7 @@
   "latest_analysis": {
     "score": 50.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T17:00:55.377937Z"
+    "timestamp": "2026-03-21T17:30:56.100185Z"
   },
   "last_flags": [
     "Correlated"

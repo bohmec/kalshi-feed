@@ -16,8 +16,8 @@
       "KXCABOUT-26MAR-DBUR": "Will Doug Burgum be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-DCOL": "Will Doug Collins be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-JRAT": "Will John Ratcliffe be the next person to leave the Trump Cabinet?",
-      "KXCABOUT-26MAR-SWIL": "Will Susie Wiles be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PBON": "Will Pam Bondi be the next person to leave the Trump Cabinet?",
+      "KXCABOUT-26MAR-SWIL": "Will Susie Wiles be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-MWAL": "Will Mike Waltz be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-MKRA": "Will Michael Kratsios be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-PHEG": "Will Pete Hegseth be the next person to leave the Trump Cabinet?",
@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T17:00:55.377937Z",
-    "last_api_seen": "2026-03-21T17:00:55.377937Z"
+    "first_seen_at": "2026-03-21T17:30:56.100185Z",
+    "last_api_seen": "2026-03-21T17:30:56.100185Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T17:00:55Z",
+      "t": "2026-03-21T17:30:56Z",
       "metrics": {
-        "total_volume": 950898.0,
-        "prob_sum": 1.055,
+        "total_volume": 952822.0,
+        "prob_sum": 1.085,
         "outcome_count": 23,
-        "btc": 70282.7891,
+        "btc": 70370.2891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2145.7427,
+        "eth": 2147.6843,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 13139.0,
-          "ask_volume": 82695.0,
+          "bid_volume": 14493.0,
+          "ask_volume": 84043.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7257966901099818,
+          "order_imbalance": -0.705833400990501,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
           "p": 0.275,
-          "v": 155832,
-          "l": 94148,
+          "v": 155874,
+          "l": 94190,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10200,16 +10200,16 @@
           "l": 37576,
           "sp": null
         },
+        "KXCABOUT-26MAR-PBON": {
+          "p": 0.115,
+          "v": 37305,
+          "l": 31576,
+          "sp": null
+        },
         "KXCABOUT-26MAR-SWIL": {
           "p": 0.035,
           "v": 36096,
           "l": 20455,
-          "sp": null
-        },
-        "KXCABOUT-26MAR-PBON": {
-          "p": 0.085,
-          "v": 35423,
-          "l": 29694,
           "sp": null
         },
         "KXCABOUT-26MAR-MWAL": {
@@ -10289,15 +10289,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.5,
+    "score": 43.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T17:00:55.377937Z"
+    "timestamp": "2026-03-21T17:30:56.100185Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 43.5,
+    "score": 43.7,
     "state": "Low Confidence",
-    "liq_score": 20.3,
+    "liq_score": 21.0,
     "eff_score": 12.5,
     "ind_score": 86.0,
     "conv_score": 40.0
