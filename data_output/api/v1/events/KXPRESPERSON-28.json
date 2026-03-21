@@ -33,8 +33,8 @@
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-21T12:30:58.143691Z",
-    "last_api_seen": "2026-03-21T12:30:58.143691Z"
+    "first_seen_at": "2026-03-21T13:01:00.059046Z",
+    "last_api_seen": "2026-03-21T13:01:00.059046Z"
   },
   "history": [
     {
@@ -10925,23 +10925,23 @@
       }
     },
     {
-      "t": "2026-03-21T12:30:58Z",
+      "t": "2026-03-21T13:01:00Z",
       "metrics": {
-        "total_volume": 22666028.0,
+        "total_volume": 22666102.0,
         "prob_sum": 0.8407,
         "outcome_count": 25,
-        "btc": 70759.1875,
+        "btc": 70708.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2159.2737,
+        "eth": 2157.4009,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2253808.0,
-          "ask_volume": 28395982.0,
+          "bid_volume": 2253768.0,
+          "ask_volume": 28395934.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8529315861544239,
+          "order_imbalance": -0.8529337740379987,
           "success": true
         }
       },
@@ -10954,14 +10954,14 @@
         },
         "KXPRESPERSON-28-GNEWS": {
           "p": 0.19,
-          "v": 2062034,
-          "l": 1277762,
+          "v": 2062046,
+          "l": 1277774,
           "sp": null
         },
         "KXPRESPERSON-28-JVAN": {
           "p": 0.185,
-          "v": 1996602,
-          "l": 1318455,
+          "v": 1996664,
+          "l": 1318517,
           "sp": null
         },
         "KXPRESPERSON-28-JOSS": {
@@ -11103,7 +11103,7 @@
   "latest_analysis": {
     "score": 64.6,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T12:30:58.143691Z"
+    "timestamp": "2026-03-21T13:01:00.059046Z"
   },
   "last_flags": [
     "Correlated"

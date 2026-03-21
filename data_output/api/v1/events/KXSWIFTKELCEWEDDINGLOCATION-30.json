@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-21T12:30:58.143691Z",
-    "last_api_seen": "2026-03-21T12:30:58.143691Z"
+    "first_seen_at": "2026-03-21T13:01:00.059046Z",
+    "last_api_seen": "2026-03-21T13:01:00.059046Z"
   },
   "history": [
     {
@@ -2925,43 +2925,43 @@
       }
     },
     {
-      "t": "2026-03-21T12:30:58Z",
+      "t": "2026-03-21T13:01:00Z",
       "metrics": {
-        "total_volume": 241372.0,
-        "prob_sum": 1.0456,
+        "total_volume": 241458.0,
+        "prob_sum": 1.0358,
         "outcome_count": 5,
-        "btc": 70759.1875,
+        "btc": 70708.0,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2159.2737,
+        "eth": 2157.4009,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15694.0,
-          "ask_volume": 193194.0,
+          "bid_volume": 15435.0,
+          "ask_volume": 188211.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8497376584581211,
+          "order_imbalance": -0.848413423293362,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.54,
-          "v": 118949,
-          "l": 69380,
+          "p": 0.535,
+          "v": 118973,
+          "l": 69381,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.505,
+          "p": 0.5,
           "v": 101977,
           "l": 67096,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-PEN": {
-          "p": 0.0001,
-          "v": 12433,
-          "l": 10415,
+          "p": 0.0003,
+          "v": 12495,
+          "l": 10477,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": {
@@ -2981,15 +2981,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 48.7,
+    "score": 48.4,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T12:30:58.143691Z"
+    "timestamp": "2026-03-21T13:01:00.059046Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 48.7,
+    "score": 48.4,
     "state": "Low Confidence",
-    "liq_score": 41.0,
+    "liq_score": 40.0,
     "eff_score": 12.5,
     "ind_score": 90.0,
     "conv_score": 34.7
