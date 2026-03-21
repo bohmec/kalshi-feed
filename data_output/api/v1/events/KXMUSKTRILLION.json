@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-21T16:30:53.029940Z",
-    "last_api_seen": "2026-03-21T16:30:53.029940Z"
+    "first_seen_at": "2026-03-21T17:00:55.377937Z",
+    "last_api_seen": "2026-03-21T17:00:55.377937Z"
   },
   "history": [
     {
@@ -2525,35 +2525,35 @@
       }
     },
     {
-      "t": "2026-03-21T16:30:53Z",
+      "t": "2026-03-21T17:00:55Z",
       "metrics": {
         "total_volume": 333832.0,
-        "prob_sum": 3.175,
+        "prob_sum": 3.19,
         "outcome_count": 4,
-        "btc": 70517.8906,
+        "btc": 70282.7891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.2937,
+        "eth": 2145.7427,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 642302.0,
-          "ask_volume": 28823.0,
+          "bid_volume": 642348.0,
+          "ask_volume": 28836.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9141054200037251,
+          "order_imbalance": 0.9140742329972109,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.71,
+          "p": 0.715,
           "v": 208093,
           "l": 72652,
           "sp": null
         },
         "KXMUSKTRILLION-28": {
-          "p": 0.78,
+          "p": 0.79,
           "v": 54951,
           "l": 16344,
           "sp": null
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.9,
+    "score": 62.8,
     "state": "Active",
-    "timestamp": "2026-03-21T16:30:53.029940Z"
+    "timestamp": "2026-03-21T17:00:55.377937Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.9,
+    "score": 62.8,
     "state": "Active",
     "liq_score": 75.0,
     "eff_score": 12.5,
     "ind_score": 85.3,
-    "conv_score": 50.3
+    "conv_score": 50.0
   }
 }

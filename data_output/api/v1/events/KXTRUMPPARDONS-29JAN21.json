@@ -50,8 +50,8 @@
       "KXTRUMPPARDONS-29JAN21-JMAL": ":: Joe Exotic",
       "KXTRUMPPARDONS-29JAN21-BHWA": "Will Bill Hwang receive a presidential pardon before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-21T16:30:53.029940Z",
-    "last_api_seen": "2026-03-21T16:30:53.029940Z"
+    "first_seen_at": "2026-03-21T17:00:55.377937Z",
+    "last_api_seen": "2026-03-21T17:00:55.377937Z"
   },
   "history": [
     {
@@ -17725,23 +17725,23 @@
       }
     },
     {
-      "t": "2026-03-21T16:30:53Z",
+      "t": "2026-03-21T17:00:55Z",
       "metrics": {
         "total_volume": 207308.0,
-        "prob_sum": 11.495,
+        "prob_sum": 11.47,
         "outcome_count": 42,
-        "btc": 70517.8906,
+        "btc": 70282.7891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.2937,
+        "eth": 2145.7427,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 111776.0,
-          "ask_volume": 13510.0,
+          "bid_volume": 111475.0,
+          "ask_volume": 14386.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7843334450776623,
+          "order_imbalance": 0.7713986063991228,
           "success": true
         }
       },
@@ -17891,7 +17891,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-LSTA": {
-          "p": 0.15,
+          "p": 0.145,
           "v": 1308,
           "l": 1300,
           "sp": null
@@ -17939,13 +17939,13 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-HBID": {
-          "p": 0.045,
+          "p": 0.04,
           "v": 784,
           "l": 784,
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-MSH": {
-          "p": 0.24,
+          "p": 0.235,
           "v": 755,
           "l": 456,
           "sp": null
@@ -17957,7 +17957,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-JSUN": {
-          "p": 0.195,
+          "p": 0.19,
           "v": 578,
           "l": 237,
           "sp": null
@@ -17975,7 +17975,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-STEL": {
-          "p": 0.105,
+          "p": 0.1,
           "v": 256,
           "l": 250,
           "sp": null
@@ -18003,17 +18003,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 65.4,
+    "score": 65.5,
     "state": "Active",
-    "timestamp": "2026-03-21T16:30:53.029940Z"
+    "timestamp": "2026-03-21T17:00:55.377937Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 65.4,
+    "score": 65.5,
     "state": "Active",
-    "liq_score": 25.7,
+    "liq_score": 26.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 84.0

@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXDOED-29-JAN20": "Will the Department of Education be eliminated before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-21T16:30:53.029940Z",
-    "last_api_seen": "2026-03-21T16:30:53.029940Z"
+    "first_seen_at": "2026-03-21T17:00:55.377937Z",
+    "last_api_seen": "2026-03-21T17:00:55.377937Z"
   },
   "history": [
     {
@@ -1325,21 +1325,21 @@
       }
     },
     {
-      "t": "2026-03-21T16:30:53Z",
+      "t": "2026-03-21T17:00:55Z",
       "metrics": {
         "total_volume": 143139.0,
-        "prob_sum": 0.185,
+        "prob_sum": 0.19,
         "outcome_count": 1,
-        "btc": 70517.8906,
+        "btc": 70282.7891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.2937,
+        "eth": 2145.7427,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXDOED-29-JAN20": {
-          "p": 0.185,
+          "p": 0.19,
           "v": 143139,
           "l": 26527,
           "sp": null
@@ -1347,19 +1347,21 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 68.5,
-    "state": "Active",
-    "timestamp": "2026-03-21T16:30:53.029940Z"
+    "score": 50.0,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T17:00:55.377937Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 68.5,
-    "state": "Active",
+    "score": 50.0,
+    "state": "Macro-Driven",
     "liq_score": 57.3,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 62.7
+    "ind_score": 20.0,
+    "conv_score": 58.0
   }
 }

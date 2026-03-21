@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXAMEND22-29-JAN01": "Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029"
     },
-    "first_seen_at": "2026-03-21T16:30:53.029940Z",
-    "last_api_seen": "2026-03-21T16:30:53.029940Z"
+    "first_seen_at": "2026-03-21T17:00:55.377937Z",
+    "last_api_seen": "2026-03-21T17:00:55.377937Z"
   },
   "history": [
     {
@@ -1325,15 +1325,15 @@
       }
     },
     {
-      "t": "2026-03-21T16:30:53Z",
+      "t": "2026-03-21T17:00:55Z",
       "metrics": {
         "total_volume": 201228.0,
         "prob_sum": 0.105,
         "outcome_count": 1,
-        "btc": 70517.8906,
+        "btc": 70282.7891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.2937,
+        "eth": 2145.7427,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
@@ -1359,7 +1359,7 @@
   "latest_analysis": {
     "score": 62.1,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T16:30:53.029940Z"
+    "timestamp": "2026-03-21T17:00:55.377937Z"
   },
   "last_flags": [
     "Correlated"
@@ -1369,7 +1369,7 @@
     "state": "Macro-Driven",
     "liq_score": 75.0,
     "eff_score": 12.5,
-    "ind_score": 70.7,
+    "ind_score": 70.0,
     "conv_score": 55.3
   }
 }

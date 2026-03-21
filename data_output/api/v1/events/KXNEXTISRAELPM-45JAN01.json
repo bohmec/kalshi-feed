@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXNEXTISRAELPM-45JAN01-NBEN": "Will Naftali Bennett be the next Prime Minister of Israel?",
       "KXNEXTISRAELPM-45JAN01-IKAT": "::",
-      "KXNEXTISRAELPM-45JAN01-IBEN": "::",
       "KXNEXTISRAELPM-45JAN01-YLEV": "::",
+      "KXNEXTISRAELPM-45JAN01-IBEN": "::",
       "KXNEXTISRAELPM-45JAN01-YLAP": "::",
       "KXNEXTISRAELPM-45JAN01-GEIS": "::",
       "KXNEXTISRAELPM-45JAN01-BSMO": "::",
@@ -20,20 +20,20 @@
       "KXNEXTISRAELPM-45JAN01-BGAN": "::",
       "KXNEXTISRAELPM-45JAN01-ALIE": "::"
     },
-    "first_seen_at": "2026-03-21T16:30:53.029940Z",
-    "last_api_seen": "2026-03-21T16:30:53.029940Z"
+    "first_seen_at": "2026-03-21T17:00:55.377937Z",
+    "last_api_seen": "2026-03-21T17:00:55.377937Z"
   },
   "history": [
     {
-      "t": "2026-03-21T16:30:53Z",
+      "t": "2026-03-21T17:00:55Z",
       "metrics": {
-        "total_volume": 50642.0,
-        "prob_sum": 1.065,
+        "total_volume": 50677.0,
+        "prob_sum": 1.035,
         "outcome_count": 12,
-        "btc": 70517.8906,
+        "btc": 70282.7891,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2151.2937,
+        "eth": 2145.7427,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -45,21 +45,21 @@
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-IKAT": {
-          "p": 0.15,
+          "p": 0.145,
           "v": 8036,
           "l": 3600,
+          "sp": null
+        },
+        "KXNEXTISRAELPM-45JAN01-YLEV": {
+          "p": 0.155,
+          "v": 5329,
+          "l": 2460,
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-IBEN": {
           "p": 0.025,
           "v": 5306,
           "l": 3010,
-          "sp": null
-        },
-        "KXNEXTISRAELPM-45JAN01-YLEV": {
-          "p": 0.18,
-          "v": 5294,
-          "l": 2428,
           "sp": null
         },
         "KXNEXTISRAELPM-45JAN01-YLAP": {
@@ -117,9 +117,9 @@
   "latest_analysis": {
     "score": null,
     "state": "Initializing",
-    "timestamp": "2026-03-21T16:30:53.029940Z"
+    "timestamp": "2026-03-21T17:00:55.377937Z"
   },
-  "last_archived_at": "2026-03-21T16:30:53Z",
+  "last_archived_at": "2026-03-21T17:00:55Z",
   "last_flags": [],
   "analysis": {
     "score": null,
