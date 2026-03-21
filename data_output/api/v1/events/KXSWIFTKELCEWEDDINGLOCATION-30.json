@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-21T03:00:42.844529Z",
-    "last_api_seen": "2026-03-21T03:00:42.844529Z"
+    "first_seen_at": "2026-03-21T03:30:49.031082Z",
+    "last_api_seen": "2026-03-21T03:30:49.031082Z"
   },
   "history": [
     {
@@ -2925,23 +2925,23 @@
       }
     },
     {
-      "t": "2026-03-21T03:00:42Z",
+      "t": "2026-03-21T03:30:49Z",
       "metrics": {
-        "total_volume": 239785.0,
-        "prob_sum": 1.1403,
+        "total_volume": 240179.0,
+        "prob_sum": 1.0556,
         "outcome_count": 5,
-        "btc": 70718.6406,
+        "btc": 70698.1172,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.168,
+        "eth": 2153.532,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15443.0,
-          "ask_volume": 193011.0,
+          "bid_volume": 15335.0,
+          "ask_volume": 194052.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8518330183157915,
+          "order_imbalance": -0.8535248129062454,
           "success": true
         }
       },
@@ -2953,21 +2953,21 @@
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.525,
+          "p": 0.5,
           "v": 101977,
           "l": 67096,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-PEN": {
-          "p": 0.025,
-          "v": 12350,
-          "l": 10457,
+          "p": 0.0001,
+          "v": 12433,
+          "l": 10415,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": {
-          "p": 0.035,
-          "v": 5854,
-          "l": 4272,
+          "p": 0.0002,
+          "v": 6165,
+          "l": 4227,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": {
@@ -2981,19 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 48.5,
+    "score": 48.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T03:00:42.844529Z"
+    "timestamp": "2026-03-21T03:30:49.031082Z"
   },
-  "last_flags": [
-    "Contested"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 48.5,
+    "score": 48.7,
     "state": "Low Confidence",
-    "liq_score": 40.7,
+    "liq_score": 41.0,
     "eff_score": 12.5,
     "ind_score": 90.0,
-    "conv_score": 34.0
+    "conv_score": 34.7
   }
 }

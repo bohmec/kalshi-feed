@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-21T03:00:42.844529Z",
-    "last_api_seen": "2026-03-21T03:00:42.844529Z"
+    "first_seen_at": "2026-03-21T03:30:49.031082Z",
+    "last_api_seen": "2026-03-21T03:30:49.031082Z"
   },
   "history": [
     {
@@ -8925,23 +8925,23 @@
       }
     },
     {
-      "t": "2026-03-21T03:00:42Z",
+      "t": "2026-03-21T03:30:49Z",
       "metrics": {
         "total_volume": 401930.0,
-        "prob_sum": 1.2628,
+        "prob_sum": 1.2278,
         "outcome_count": 20,
-        "btc": 70718.6406,
+        "btc": 70698.1172,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.168,
+        "eth": 2153.532,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 12511.0,
-          "ask_volume": 19693.0,
+          "bid_volume": 15095.0,
+          "ask_volume": 23302.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.22301577443795803,
+          "order_imbalance": -0.21374065682214757,
           "success": true
         }
       },
@@ -8959,7 +8959,7 @@
           "sp": null
         },
         "KXBOND-30-JACO": {
-          "p": 0.23,
+          "p": 0.195,
           "v": 60570,
           "l": 27473,
           "sp": null
@@ -9071,17 +9071,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 58.4,
+    "score": 58.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T03:00:42.844529Z"
+    "timestamp": "2026-03-21T03:30:49.031082Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 58.4,
+    "score": 58.9,
     "state": "Low Confidence",
-    "liq_score": 8.0,
+    "liq_score": 9.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 78.3
