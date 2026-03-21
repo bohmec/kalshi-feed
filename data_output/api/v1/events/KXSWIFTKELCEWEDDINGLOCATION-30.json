@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-21T13:01:00.059046Z",
-    "last_api_seen": "2026-03-21T13:01:00.059046Z"
+    "first_seen_at": "2026-03-21T13:31:10.761645Z",
+    "last_api_seen": "2026-03-21T13:31:10.761645Z"
   },
   "history": [
     {
@@ -2925,35 +2925,35 @@
       }
     },
     {
-      "t": "2026-03-21T13:01:00Z",
+      "t": "2026-03-21T13:31:10Z",
       "metrics": {
         "total_volume": 241458.0,
-        "prob_sum": 1.0358,
+        "prob_sum": 0.9208,
         "outcome_count": 5,
-        "btc": 70708.0,
+        "btc": 70723.625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2157.4009,
+        "eth": 2156.2104,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 15435.0,
-          "ask_volume": 188211.0,
+          "bid_volume": 15504.0,
+          "ask_volume": 188311.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.848413423293362,
+          "order_imbalance": -0.8478620317444742,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.535,
+          "p": 0.41,
           "v": 118973,
           "l": 69381,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.5,
+          "p": 0.51,
           "v": 101977,
           "l": 67096,
           "sp": null
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 48.4,
+    "score": 48.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T13:01:00.059046Z"
+    "timestamp": "2026-03-21T13:31:10.761645Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 48.4,
+    "score": 48.9,
     "state": "Low Confidence",
     "liq_score": 40.0,
     "eff_score": 12.5,
-    "ind_score": 90.0,
+    "ind_score": 94.0,
     "conv_score": 34.7
   }
 }

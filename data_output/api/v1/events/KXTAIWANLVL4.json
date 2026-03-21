@@ -10,11 +10,11 @@
       "KXTAIWANLVL4-27JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2027?",
       "KXTAIWANLVL4-26JUL01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jul 1, 2026?",
       "KXTAIWANLVL4-28JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2028?",
-      "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?",
-      "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?"
+      "KXTAIWANLVL4-30JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
+      "KXTAIWANLVL4-29JAN01": "Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2029?"
     },
-    "first_seen_at": "2026-03-21T13:01:00.059046Z",
-    "last_api_seen": "2026-03-21T13:01:00.059046Z"
+    "first_seen_at": "2026-03-21T13:31:10.761645Z",
+    "last_api_seen": "2026-03-21T13:31:10.761645Z"
   },
   "history": [
     {
@@ -2925,31 +2925,31 @@
       }
     },
     {
-      "t": "2026-03-21T13:01:00Z",
+      "t": "2026-03-21T13:31:10Z",
       "metrics": {
-        "total_volume": 218035.0,
+        "total_volume": 218237.0,
         "prob_sum": 1.65,
         "outcome_count": 5,
-        "btc": 70708.0,
+        "btc": 70723.625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2157.4009,
+        "eth": 2156.2104,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 25849.0,
-          "ask_volume": 8803.0,
+          "bid_volume": 25670.0,
+          "ask_volume": 8637.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.49191965831698026,
+          "order_imbalance": 0.49648759728335323,
           "success": true
         }
       },
       "outcomes": {
         "KXTAIWANLVL4-27JAN01": {
-          "p": 0.175,
-          "v": 105952,
-          "l": 71345,
+          "p": 0.17,
+          "v": 105975,
+          "l": 71368,
           "sp": null
         },
         "KXTAIWANLVL4-26JUL01": {
@@ -2959,21 +2959,21 @@
           "sp": null
         },
         "KXTAIWANLVL4-28JAN01": {
-          "p": 0.39,
+          "p": 0.395,
           "v": 13569,
           "l": 10196,
           "sp": null
         },
-        "KXTAIWANLVL4-29JAN01": {
-          "p": 0.45,
-          "v": 11848,
-          "l": 4804,
+        "KXTAIWANLVL4-30JAN01": {
+          "p": 0.565,
+          "v": 12024,
+          "l": 8010,
           "sp": null
         },
-        "KXTAIWANLVL4-30JAN01": {
-          "p": 0.57,
-          "v": 11845,
-          "l": 8012,
+        "KXTAIWANLVL4-29JAN01": {
+          "p": 0.455,
+          "v": 11848,
+          "l": 4804,
           "sp": null
         }
       }
@@ -2983,7 +2983,7 @@
   "latest_analysis": {
     "score": 36.8,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T13:01:00.059046Z"
+    "timestamp": "2026-03-21T13:31:10.761645Z"
   },
   "last_flags": [
     "Contested"
