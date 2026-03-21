@@ -16,8 +16,8 @@
       "KXUKPARTY-29-BRUV": "Will Bruv win the next U.K. election?",
       "KXUKPARTY-29-Y": "Will Your Party win the next U.K. election?"
     },
-    "first_seen_at": "2026-03-21T20:00:52.912409Z",
-    "last_api_seen": "2026-03-21T20:00:52.912409Z"
+    "first_seen_at": "2026-03-21T20:30:55.240826Z",
+    "last_api_seen": "2026-03-21T20:30:55.240826Z"
   },
   "history": [
     {
@@ -4125,41 +4125,41 @@
       }
     },
     {
-      "t": "2026-03-21T20:00:52Z",
+      "t": "2026-03-21T20:30:55Z",
       "metrics": {
-        "total_volume": 156201.0,
-        "prob_sum": 1.0053,
+        "total_volume": 156232.0,
+        "prob_sum": 1.0253,
         "outcome_count": 8,
-        "btc": 70378.5781,
+        "btc": 70438.3203,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2152.2476,
+        "eth": 2153.6338,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXUKPARTY-29-REST": {
-          "p": 0.115,
+          "p": 0.125,
           "v": 69506,
           "l": 43612,
           "sp": null
         },
         "KXUKPARTY-29-R": {
-          "p": 0.395,
-          "v": 40904,
-          "l": 12970,
+          "p": 0.4,
+          "v": 40907,
+          "l": 12973,
           "sp": null
         },
         "KXUKPARTY-29-C": {
-          "p": 0.09,
+          "p": 0.095,
           "v": 18437,
           "l": 3910,
           "sp": null
         },
         "KXUKPARTY-29-GRE": {
           "p": 0.125,
-          "v": 13862,
-          "l": 11527,
+          "v": 13890,
+          "l": 11550,
           "sp": null
         },
         "KXUKPARTY-29-L": {
@@ -4191,19 +4191,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 47.2,
+    "score": 53.1,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T20:00:52.912409Z"
+    "timestamp": "2026-03-21T20:30:55.240826Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 47.2,
+    "score": 53.1,
     "state": "Macro-Driven",
     "liq_score": 57.7,
     "eff_score": 12.5,
-    "ind_score": 27.3,
-    "conv_score": 44.0
+    "ind_score": 50.0,
+    "conv_score": 52.7
   }
 }

@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-21T20:00:52.912409Z",
-    "last_api_seen": "2026-03-21T20:00:52.912409Z"
+    "first_seen_at": "2026-03-21T20:30:55.240826Z",
+    "last_api_seen": "2026-03-21T20:30:55.240826Z"
   },
   "history": [
     {
@@ -2525,29 +2525,29 @@
       }
     },
     {
-      "t": "2026-03-21T20:00:52Z",
+      "t": "2026-03-21T20:30:55Z",
       "metrics": {
         "total_volume": 334087.0,
-        "prob_sum": 3.12,
+        "prob_sum": 3.105,
         "outcome_count": 4,
-        "btc": 70378.5781,
+        "btc": 70438.3203,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2152.2476,
+        "eth": 2153.6338,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 643569.0,
-          "ask_volume": 20990.0,
+          "bid_volume": 643703.0,
+          "ask_volume": 22021.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.9368302889585425,
+          "order_imbalance": 0.9338434546448678,
           "success": true
         }
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
-          "p": 0.71,
+          "p": 0.7,
           "v": 208104,
           "l": 72647,
           "sp": null
@@ -2565,7 +2565,7 @@
           "sp": null
         },
         "KXMUSKTRILLION-29": {
-          "p": 0.81,
+          "p": 0.805,
           "v": 34542,
           "l": 9426,
           "sp": null
@@ -2575,19 +2575,19 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 62.6,
+    "score": 70.0,
     "state": "Active",
-    "timestamp": "2026-03-21T20:00:52.912409Z"
+    "timestamp": "2026-03-21T20:30:55.240826Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.6,
+    "score": 70.0,
     "state": "Active",
-    "liq_score": 73.7,
+    "liq_score": 74.0,
     "eff_score": 12.5,
-    "ind_score": 85.3,
-    "conv_score": 50.7
+    "ind_score": 100.0,
+    "conv_score": 51.0
   }
 }
