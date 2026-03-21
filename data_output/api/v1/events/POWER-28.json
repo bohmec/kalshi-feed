@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "2028: Who will win the Presidency, House, and Senate?",
-    "category": "Politics",
+    "category": "Elections",
     "end_date": "2029-11-07T15:00:00Z",
     "slug": "POWER-28",
     "description": "",
@@ -16,8 +16,8 @@
       "POWER-28-RH-DS-RP": "Will the Republican party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",
       "POWER-28-DH-DS-RP": "Will the Democratic party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?"
     },
-    "first_seen_at": "2026-03-20T23:31:26.459057Z",
-    "last_api_seen": "2026-03-20T23:31:26.459057Z"
+    "first_seen_at": "2026-03-21T00:00:41.651835Z",
+    "last_api_seen": "2026-03-21T00:00:41.651835Z"
   },
   "history": [
     {
@@ -4125,15 +4125,15 @@
       }
     },
     {
-      "t": "2026-03-20T23:31:26Z",
+      "t": "2026-03-21T00:00:41Z",
       "metrics": {
         "total_volume": 144781.0,
         "prob_sum": 0.985,
         "outcome_count": 8,
-        "btc": 70485.5625,
+        "btc": 70507.9844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2146.3701,
+        "eth": 2146.0564,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4191,19 +4191,19 @@
   ],
   "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 65.2,
+    "score": 65.0,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-20T23:31:26.459057Z"
+    "timestamp": "2026-03-21T00:00:41.651835Z"
   },
   "last_flags": [
     "Correlated"
   ],
   "analysis": {
-    "score": 65.2,
+    "score": 65.0,
     "state": "Macro-Driven",
     "liq_score": 57.3,
     "eff_score": 12.5,
     "ind_score": 76.7,
-    "conv_score": 80.0
+    "conv_score": 79.3
   }
 }

@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-20T23:31:26.459057Z",
-    "last_api_seen": "2026-03-20T23:31:26.459057Z"
+    "first_seen_at": "2026-03-21T00:00:41.651835Z",
+    "last_api_seen": "2026-03-21T00:00:41.651835Z"
   },
   "history": [
     {
@@ -2525,29 +2525,29 @@
       }
     },
     {
-      "t": "2026-03-20T23:31:26Z",
+      "t": "2026-03-21T00:00:41Z",
       "metrics": {
-        "total_volume": 6384781.0,
-        "prob_sum": 0.44,
+        "total_volume": 6384855.0,
+        "prob_sum": 0.435,
         "outcome_count": 4,
-        "btc": 70485.5625,
+        "btc": 70507.9844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2146.3701,
+        "eth": 2146.0564,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 987543.0,
-          "ask_volume": 624791.0,
+          "bid_volume": 986406.0,
+          "ask_volume": 623858.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.22498564193275092,
+          "order_imbalance": 0.22514817446083374,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLAND-29": {
-          "p": 0.275,
+          "p": 0.27,
           "v": 3229783,
           "l": 387497,
           "sp": null
@@ -2566,8 +2566,8 @@
         },
         "KXGREENLAND-29-26JUL": {
           "p": 0.025,
-          "v": 15495,
-          "l": 7801,
+          "v": 15569,
+          "l": 7875,
           "sp": null
         }
       }
@@ -2575,17 +2575,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 79.2,
+    "score": 72.6,
     "state": "Active",
-    "timestamp": "2026-03-20T23:31:26.459057Z"
+    "timestamp": "2026-03-21T00:00:41.651835Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 79.2,
+    "score": 72.6,
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 95.3,
-    "conv_score": 59.3
+    "ind_score": 87.3,
+    "conv_score": 58.0
   }
 }

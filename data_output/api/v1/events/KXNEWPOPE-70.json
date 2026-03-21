@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Who will the next Pope be?",
-    "category": "World",
+    "category": "Elections",
     "end_date": "2070-01-01T15:00:00Z",
     "slug": "KXNEWPOPE-70",
     "description": "",
@@ -15,8 +15,8 @@
       "KXNEWPOPE-70-PPIZ": "Who will the next Pope be?",
       "KXNEWPOPE-70-MZUP": "Who will the next Pope be?"
     },
-    "first_seen_at": "2026-03-20T23:31:26.459057Z",
-    "last_api_seen": "2026-03-20T23:31:26.459057Z"
+    "first_seen_at": "2026-03-21T00:00:41.651835Z",
+    "last_api_seen": "2026-03-21T00:00:41.651835Z"
   },
   "history": [
     {
@@ -3985,58 +3985,58 @@
       }
     },
     {
-      "t": "2026-03-20T23:31:26Z",
+      "t": "2026-03-21T00:00:41Z",
       "metrics": {
-        "total_volume": 73787.0,
+        "total_volume": 73844.0,
         "prob_sum": 0.4,
         "outcome_count": 7,
-        "btc": 70485.5625,
+        "btc": 70507.9844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2146.3701,
+        "eth": 2146.0564,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXNEWPOPE-70-PERD": {
           "p": 0.045,
-          "v": 14386,
+          "v": 14437,
           "l": 1957,
           "sp": null
         },
         "KXNEWPOPE-70-PPAR": {
           "p": 0.07,
-          "v": 14372,
+          "v": 14373,
           "l": 4537,
           "sp": null
         },
         "KXNEWPOPE-70-LANT": {
           "p": 0.065,
-          "v": 9755,
+          "v": 9756,
           "l": 2649,
           "sp": null
         },
         "KXNEWPOPE-70-FAMB": {
           "p": 0.045,
-          "v": 9625,
+          "v": 9626,
           "l": 1862,
           "sp": null
         },
         "KXNEWPOPE-70-AARB": {
           "p": 0.045,
-          "v": 8944,
+          "v": 8945,
           "l": 1935,
           "sp": null
         },
         "KXNEWPOPE-70-PPIZ": {
           "p": 0.055,
-          "v": 8839,
+          "v": 8840,
           "l": 1880,
           "sp": null
         },
         "KXNEWPOPE-70-MZUP": {
           "p": 0.075,
-          "v": 7866,
+          "v": 7867,
           "l": 1863,
           "sp": null
         }
@@ -4045,17 +4045,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 57.1,
+    "score": 50.1,
     "state": "Low Confidence",
-    "timestamp": "2026-03-20T23:31:26.459057Z"
+    "timestamp": "2026-03-21T00:00:41.651835Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 57.1,
+    "score": 50.1,
     "state": "Low Confidence",
     "liq_score": 54.0,
     "eff_score": 12.5,
     "ind_score": 92.7,
-    "conv_score": 48.0
+    "conv_score": 25.0
   }
 }
