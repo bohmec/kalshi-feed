@@ -50,8 +50,8 @@
       "KXTRUMPPARDONS-29JAN21-JMAL": ":: Joe Exotic",
       "KXTRUMPPARDONS-29JAN21-BHWA": "Will Bill Hwang receive a presidential pardon before Jan 21, 2029?"
     },
-    "first_seen_at": "2026-03-21T21:30:49.256392Z",
-    "last_api_seen": "2026-03-21T21:30:49.256392Z"
+    "first_seen_at": "2026-03-21T22:00:51.627832Z",
+    "last_api_seen": "2026-03-21T22:00:51.627832Z"
   },
   "history": [
     {
@@ -17725,23 +17725,23 @@
       }
     },
     {
-      "t": "2026-03-21T21:30:49Z",
+      "t": "2026-03-21T22:00:51Z",
       "metrics": {
         "total_volume": 207332.0,
-        "prob_sum": 11.595,
+        "prob_sum": 11.605,
         "outcome_count": 42,
-        "btc": 70363.4844,
+        "btc": 70330.1094,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2154.3293,
+        "eth": 2153.4026,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 111926.0,
-          "ask_volume": 13622.0,
+          "bid_volume": 111536.0,
+          "ask_volume": 13408.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7829993309331889,
+          "order_imbalance": 0.7853758483800742,
           "success": true
         }
       },
@@ -17753,7 +17753,7 @@
           "sp": null
         },
         "KXTRUMPPARDONS-29JAN21-BAR": {
-          "p": 0.45,
+          "p": 0.46,
           "v": 27121,
           "l": 19189,
           "sp": null
@@ -18005,7 +18005,7 @@
   "latest_analysis": {
     "score": 65.4,
     "state": "Active",
-    "timestamp": "2026-03-21T21:30:49.256392Z"
+    "timestamp": "2026-03-21T22:00:51.627832Z"
   },
   "last_flags": [
     "Contested"
@@ -18013,7 +18013,7 @@
   "analysis": {
     "score": 65.4,
     "state": "Active",
-    "liq_score": 25.7,
+    "liq_score": 25.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 84.0
