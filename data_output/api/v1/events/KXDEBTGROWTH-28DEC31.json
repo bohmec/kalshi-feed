@@ -11,8 +11,8 @@
       "KXDEBTGROWTH-28DEC31-50": "Will the national debt hit $50 trillion during the Trump Administration?",
       "KXDEBTGROWTH-28DEC31-45": "Will the national debt hit $45 trillion during the Trump Administration?"
     },
-    "first_seen_at": "2026-03-21T21:00:54.226046Z",
-    "last_api_seen": "2026-03-21T21:00:54.226046Z"
+    "first_seen_at": "2026-03-21T21:30:49.256392Z",
+    "last_api_seen": "2026-03-21T21:30:49.256392Z"
   },
   "history": [
     {
@@ -2125,15 +2125,15 @@
       }
     },
     {
-      "t": "2026-03-21T21:00:54Z",
+      "t": "2026-03-21T21:30:49Z",
       "metrics": {
-        "total_volume": 64938.0,
-        "prob_sum": 2.34,
+        "total_volume": 64978.0,
+        "prob_sum": 2.335,
         "outcome_count": 3,
-        "btc": 70445.6484,
+        "btc": 70363.4844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.2595,
+        "eth": 2154.3293,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -2145,8 +2145,8 @@
           "sp": null
         },
         "KXDEBTGROWTH-28DEC31-50": {
-          "p": 0.53,
-          "v": 14009,
+          "p": 0.525,
+          "v": 14049,
           "l": 4303,
           "sp": null
         },
@@ -2163,7 +2163,7 @@
   "latest_analysis": {
     "score": 40.9,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T21:00:54.226046Z"
+    "timestamp": "2026-03-21T21:30:49.256392Z"
   },
   "last_flags": [
     "Correlated",
@@ -2174,7 +2174,7 @@
     "state": "Macro-Driven",
     "liq_score": 53.3,
     "eff_score": 12.5,
-    "ind_score": 38.7,
+    "ind_score": 39.3,
     "conv_score": 21.7
   }
 }

@@ -11,8 +11,8 @@
       "KXINSURRECTION-29": "Will Trump invoke the Insurrection Act during his Presidency?",
       "KXINSURRECTION-29-26MAY": "Will Trump invoke the Insurrection Act during his Presidency?"
     },
-    "first_seen_at": "2026-03-21T21:00:54.226046Z",
-    "last_api_seen": "2026-03-21T21:00:54.226046Z"
+    "first_seen_at": "2026-03-21T21:30:49.256392Z",
+    "last_api_seen": "2026-03-21T21:30:49.256392Z"
   },
   "history": [
     {
@@ -2125,30 +2125,30 @@
       }
     },
     {
-      "t": "2026-03-21T21:00:54Z",
+      "t": "2026-03-21T21:30:49Z",
       "metrics": {
-        "total_volume": 388431.0,
-        "prob_sum": 0.945,
+        "total_volume": 388436.0,
+        "prob_sum": 0.93,
         "outcome_count": 3,
-        "btc": 70445.6484,
+        "btc": 70363.4844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2155.2595,
+        "eth": 2154.3293,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 38399.0,
-          "ask_volume": 25632.0,
+          "bid_volume": 34594.0,
+          "ask_volume": 25650.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.19938779653605285,
+          "order_imbalance": 0.14846291746895957,
           "success": true
         }
       },
       "outcomes": {
         "KXINSURRECTION-29-27": {
-          "p": 0.3,
-          "v": 217919,
+          "p": 0.29,
+          "v": 217924,
           "l": 101315,
           "sp": null
         },
@@ -2159,7 +2159,7 @@
           "sp": null
         },
         "KXINSURRECTION-29-26MAY": {
-          "p": 0.06,
+          "p": 0.055,
           "v": 11043,
           "l": 7413,
           "sp": null
@@ -2169,17 +2169,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 47.2,
+    "score": 53.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T21:00:54.226046Z"
+    "timestamp": "2026-03-21T21:30:49.256392Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 47.2,
+    "score": 53.7,
     "state": "Low Confidence",
-    "liq_score": 15.7,
+    "liq_score": 15.0,
     "eff_score": 12.5,
-    "ind_score": 88.0,
-    "conv_score": 55.7
+    "ind_score": 97.3,
+    "conv_score": 57.0
   }
 }
