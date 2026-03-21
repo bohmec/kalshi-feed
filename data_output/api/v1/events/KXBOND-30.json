@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-21T00:30:44.443899Z",
-    "last_api_seen": "2026-03-21T00:30:44.443899Z"
+    "first_seen_at": "2026-03-21T01:00:43.326253Z",
+    "last_api_seen": "2026-03-21T01:00:43.326253Z"
   },
   "history": [
     {
@@ -8925,31 +8925,31 @@
       }
     },
     {
-      "t": "2026-03-21T00:30:44Z",
+      "t": "2026-03-21T01:00:43Z",
       "metrics": {
-        "total_volume": 400437.0,
-        "prob_sum": 1.1928,
+        "total_volume": 400470.0,
+        "prob_sum": 1.1878,
         "outcome_count": 20,
-        "btc": 70697.6953,
+        "btc": 70698.9297,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2152.2385,
+        "eth": 2152.7017,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 12860.0,
-          "ask_volume": 21090.0,
+          "bid_volume": 15048.0,
+          "ask_volume": 23277.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.24241531664212077,
+          "order_imbalance": -0.21471624266144815,
           "success": true
         }
       },
       "outcomes": {
         "KXBOND-30-CAL": {
           "p": 0.485,
-          "v": 119079,
-          "l": 77121,
+          "v": 119084,
+          "l": 77126,
           "sp": null
         },
         "KXBOND-30-ATJ": {
@@ -8959,13 +8959,13 @@
           "sp": null
         },
         "KXBOND-30-JACO": {
-          "p": 0.155,
-          "v": 59146,
-          "l": 26153,
+          "p": 0.16,
+          "v": 59174,
+          "l": 26180,
           "sp": null
         },
         "KXBOND-30-HC": {
-          "p": 0.025,
+          "p": 0.02,
           "v": 23263,
           "l": 14585,
           "sp": null
@@ -9043,7 +9043,7 @@
           "sp": null
         },
         "KXBOND-30-REG": {
-          "p": 0.025,
+          "p": 0.02,
           "v": 1617,
           "l": 1082,
           "sp": null
@@ -9071,17 +9071,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 58.6,
+    "score": 58.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T00:30:44.443899Z"
+    "timestamp": "2026-03-21T01:00:43.326253Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 58.6,
+    "score": 58.9,
     "state": "Low Confidence",
-    "liq_score": 8.3,
+    "liq_score": 9.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
     "conv_score": 78.7
