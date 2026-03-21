@@ -18,8 +18,8 @@
       "KXNEXTDHSSEC-29-TEDG": "Who will be Trump's next United States Secretary of Homeland Security?",
       "KXNEXTDHSSEC-29-TLYO": "Who will be Trump's next United States Secretary of Homeland Security?"
     },
-    "first_seen_at": "2026-03-21T12:01:04.662175Z",
-    "last_api_seen": "2026-03-21T12:01:04.662175Z"
+    "first_seen_at": "2026-03-21T12:30:58.143691Z",
+    "last_api_seen": "2026-03-21T12:30:58.143691Z"
   },
   "history": [
     {
@@ -4925,35 +4925,35 @@
       }
     },
     {
-      "t": "2026-03-21T12:01:04Z",
+      "t": "2026-03-21T12:30:58Z",
       "metrics": {
-        "total_volume": 120737.0,
+        "total_volume": 122195.0,
         "prob_sum": 0.9963,
         "outcome_count": 10,
-        "btc": 70636.2656,
+        "btc": 70759.1875,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2157.0278,
+        "eth": 2159.2737,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXNEXTDHSSEC-29-MMUL": {
           "p": 0.995,
-          "v": 66214,
-          "l": 33346,
+          "v": 67049,
+          "l": 34181,
           "sp": null
         },
         "KXNEXTDHSSEC-29-THOM": {
-          "p": 0.0003,
-          "v": 17143,
-          "l": 10237,
+          "p": 0.0002,
+          "v": 17376,
+          "l": 10470,
           "sp": null
         },
         "KXNEXTDHSSEC-29-GYOU": {
           "p": 0.0002,
-          "v": 13106,
-          "l": 6234,
+          "v": 13356,
+          "l": 6484,
           "sp": null
         },
         "KXNEXTDHSSEC-29-RDES": {
@@ -4963,9 +4963,9 @@
           "sp": null
         },
         "KXNEXTDHSSEC-29-NNP": {
-          "p": 0.0001,
-          "v": 7523,
-          "l": 5111,
+          "p": 0.0002,
+          "v": 7663,
+          "l": 5245,
           "sp": null
         },
         "KXNEXTDHSSEC-29-JCHA": {
@@ -5005,13 +5005,13 @@
   "latest_analysis": {
     "score": 58.1,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T12:01:04.662175Z"
+    "timestamp": "2026-03-21T12:30:58.143691Z"
   },
   "last_flags": [],
   "analysis": {
     "score": 58.1,
     "state": "Low Confidence",
-    "liq_score": 56.3,
+    "liq_score": 56.7,
     "eff_score": 12.5,
     "ind_score": 90.7,
     "conv_score": 50.0

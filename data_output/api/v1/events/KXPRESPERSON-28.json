@@ -33,8 +33,8 @@
       "KXPRESPERSON-28-GABB": ":: Republican",
       "KXPRESPERSON-28-TWAL": ":: Democratic"
     },
-    "first_seen_at": "2026-03-21T12:01:04.662175Z",
-    "last_api_seen": "2026-03-21T12:01:04.662175Z"
+    "first_seen_at": "2026-03-21T12:30:58.143691Z",
+    "last_api_seen": "2026-03-21T12:30:58.143691Z"
   },
   "history": [
     {
@@ -10925,23 +10925,23 @@
       }
     },
     {
-      "t": "2026-03-21T12:01:04Z",
+      "t": "2026-03-21T12:30:58Z",
       "metrics": {
-        "total_volume": 22650656.0,
+        "total_volume": 22666028.0,
         "prob_sum": 0.8407,
         "outcome_count": 25,
-        "btc": 70636.2656,
+        "btc": 70759.1875,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2157.0278,
+        "eth": 2159.2737,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 2253822.0,
-          "ask_volume": 28394728.0,
+          "bid_volume": 2253808.0,
+          "ask_volume": 28395982.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8529247223767519,
+          "order_imbalance": -0.8529315861544239,
           "success": true
         }
       },
@@ -10954,8 +10954,8 @@
         },
         "KXPRESPERSON-28-GNEWS": {
           "p": 0.19,
-          "v": 2062029,
-          "l": 1277759,
+          "v": 2062034,
+          "l": 1277762,
           "sp": null
         },
         "KXPRESPERSON-28-JVAN": {
@@ -10978,14 +10978,14 @@
         },
         "KXPRESPERSON-28-AOCA": {
           "p": 0.045,
-          "v": 1257251,
+          "v": 1261939,
           "l": 986813,
           "sp": null
         },
         "KXPRESPERSON-28-SSMI": {
           "p": 0.015,
-          "v": 1195812,
-          "l": 1106321,
+          "v": 1197812,
+          "l": 1108321,
           "sp": null
         },
         "KXPRESPERSON-28-KHAR": {
@@ -11032,14 +11032,14 @@
         },
         "KXPRESPERSON-28-RDES": {
           "p": 0.015,
-          "v": 784133,
-          "l": 728568,
+          "v": 788133,
+          "l": 732568,
           "sp": null
         },
         "KXPRESPERSON-28-ABES": {
           "p": 0.015,
-          "v": 759010,
-          "l": 716868,
+          "v": 763689,
+          "l": 721547,
           "sp": null
         },
         "KXPRESPERSON-28-DTRUJR": {
@@ -11103,7 +11103,7 @@
   "latest_analysis": {
     "score": 64.6,
     "state": "Macro-Driven",
-    "timestamp": "2026-03-21T12:01:04.662175Z"
+    "timestamp": "2026-03-21T12:30:58.143691Z"
   },
   "last_flags": [
     "Correlated"

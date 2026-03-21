@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T12:01:04.662175Z",
-    "last_api_seen": "2026-03-21T12:01:04.662175Z"
+    "first_seen_at": "2026-03-21T12:30:58.143691Z",
+    "last_api_seen": "2026-03-21T12:30:58.143691Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T12:01:04Z",
+      "t": "2026-03-21T12:30:58Z",
       "metrics": {
-        "total_volume": 946787.0,
-        "prob_sum": 1.07,
+        "total_volume": 946820.0,
+        "prob_sum": 1.08,
         "outcome_count": 23,
-        "btc": 70636.2656,
+        "btc": 70759.1875,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2157.0278,
+        "eth": 2159.2737,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 12717.0,
-          "ask_volume": 82721.0,
+          "bid_volume": 14464.0,
+          "ask_volume": 82482.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7335023785075128,
+          "order_imbalance": -0.7016070802302312,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
           "p": 0.295,
-          "v": 152700,
-          "l": 94900,
+          "v": 152715,
+          "l": 94915,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10159,9 +10159,9 @@
           "sp": null
         },
         "KXCABOUT-26MAR-LCDR": {
-          "p": 0.255,
-          "v": 84012,
-          "l": 62123,
+          "p": 0.265,
+          "v": 84030,
+          "l": 62141,
           "sp": null
         },
         "KXCABOUT-26MAR-RVOU": {
@@ -10289,15 +10289,15 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.5,
+    "score": 43.7,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T12:01:04.662175Z"
+    "timestamp": "2026-03-21T12:30:58.143691Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 43.5,
+    "score": 43.7,
     "state": "Low Confidence",
-    "liq_score": 20.0,
+    "liq_score": 20.7,
     "eff_score": 12.5,
     "ind_score": 86.0,
     "conv_score": 40.3
