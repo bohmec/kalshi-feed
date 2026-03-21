@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXH1B-29": "Will Trump expand high-skill immigration?"
     },
-    "first_seen_at": "2026-03-21T23:00:53.955886Z",
-    "last_api_seen": "2026-03-21T23:00:53.955886Z"
+    "first_seen_at": "2026-03-21T23:30:48.403146Z",
+    "last_api_seen": "2026-03-21T23:30:48.403146Z"
   },
   "history": [
     {
@@ -1325,21 +1325,21 @@
       }
     },
     {
-      "t": "2026-03-21T23:00:53Z",
+      "t": "2026-03-21T23:30:48Z",
       "metrics": {
         "total_volume": 117932.0,
-        "prob_sum": 0.305,
+        "prob_sum": 0.3,
         "outcome_count": 1,
-        "btc": 70284.3359,
+        "btc": 70134.0625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2150.0361,
+        "eth": 2144.8081,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXH1B-29": {
-          "p": 0.305,
+          "p": 0.3,
           "v": 117932,
           "l": 18066,
           "sp": null
@@ -1347,19 +1347,21 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Macro-Driven",
   "latest_analysis": {
-    "score": 66.9,
-    "state": "Active",
-    "timestamp": "2026-03-21T23:00:53.955886Z"
+    "score": 49.1,
+    "state": "Macro-Driven",
+    "timestamp": "2026-03-21T23:30:48.403146Z"
   },
-  "last_flags": [],
+  "last_flags": [
+    "Correlated"
+  ],
   "analysis": {
-    "score": 66.9,
-    "state": "Active",
+    "score": 49.1,
+    "state": "Macro-Driven",
     "liq_score": 56.3,
     "eff_score": 12.5,
-    "ind_score": 100.0,
-    "conv_score": 58.3
+    "ind_score": 20.0,
+    "conv_score": 55.3
   }
 }

@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T23:00:53.955886Z",
-    "last_api_seen": "2026-03-21T23:00:53.955886Z"
+    "first_seen_at": "2026-03-21T23:30:48.403146Z",
+    "last_api_seen": "2026-03-21T23:30:48.403146Z"
   },
   "history": [
     {
@@ -10125,23 +10125,23 @@
       }
     },
     {
-      "t": "2026-03-21T23:00:53Z",
+      "t": "2026-03-21T23:30:48Z",
       "metrics": {
-        "total_volume": 964775.0,
+        "total_volume": 964860.0,
         "prob_sum": 1.11,
         "outcome_count": 23,
-        "btc": 70284.3359,
+        "btc": 70134.0625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2150.0361,
+        "eth": 2144.8081,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 11782.0,
-          "ask_volume": 85082.0,
+          "bid_volume": 13286.0,
+          "ask_volume": 84138.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7567310868847044,
+          "order_imbalance": -0.7272540647068484,
           "success": true
         }
       },
@@ -10208,8 +10208,8 @@
         },
         "KXCABOUT-26MAR-PBON": {
           "p": 0.11,
-          "v": 38078,
-          "l": 32349,
+          "v": 38163,
+          "l": 32434,
           "sp": null
         },
         "KXCABOUT-26MAR-MWAL": {
@@ -10289,17 +10289,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 43.5,
+    "score": 43.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T23:00:53.955886Z"
+    "timestamp": "2026-03-21T23:30:48.403146Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 43.5,
+    "score": 43.6,
     "state": "Low Confidence",
-    "liq_score": 20.0,
+    "liq_score": 20.3,
     "eff_score": 12.5,
     "ind_score": 86.0,
     "conv_score": 40.0

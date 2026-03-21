@@ -13,8 +13,8 @@
       "KXMOONMAN-31-I": "Which country will be the next to send humans to the Moon?",
       "KXMOONMAN-31-E": "Which country will be the next to send humans to the Moon?"
     },
-    "first_seen_at": "2026-03-21T23:00:53.955886Z",
-    "last_api_seen": "2026-03-21T23:00:53.955886Z"
+    "first_seen_at": "2026-03-21T23:30:48.403146Z",
+    "last_api_seen": "2026-03-21T23:30:48.403146Z"
   },
   "history": [
     {
@@ -3129,23 +3129,23 @@
       }
     },
     {
-      "t": "2026-03-21T23:00:53Z",
+      "t": "2026-03-21T23:30:48Z",
       "metrics": {
-        "total_volume": 96875.0,
+        "total_volume": 96902.0,
         "prob_sum": 1.12,
         "outcome_count": 5,
-        "btc": 70284.3359,
+        "btc": 70134.0625,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2150.0361,
+        "eth": 2144.8081,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXMOONMAN-31-USA": {
           "p": 0.685,
-          "v": 52497,
-          "l": 27719,
+          "v": 52524,
+          "l": 27699,
           "sp": null
         },
         "KXMOONMAN-31-PRC": {
@@ -3179,7 +3179,7 @@
   "latest_analysis": {
     "score": 64.2,
     "state": "Active",
-    "timestamp": "2026-03-21T23:00:53.955886Z"
+    "timestamp": "2026-03-21T23:30:48.403146Z"
   },
   "last_flags": [],
   "analysis": {
@@ -3187,7 +3187,7 @@
     "state": "Active",
     "liq_score": 55.3,
     "eff_score": 12.5,
-    "ind_score": 67.3,
+    "ind_score": 66.7,
     "conv_score": 83.3
   }
 }
