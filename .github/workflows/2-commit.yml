@@ -1,23 +1,18 @@
 name: 2. Kalshi-Hive — Distribute & Commit
-
 on:
   workflow_run:
     workflows: ["1. Kalshi-Hive — Calculate & Analyze"]
     types:
       - completed
-
-# push conflict 방지
 concurrency:
   group: kalshi-nexus-commit
   cancel-in-progress: false
-
 jobs:
   distribute:
     runs-on: ubuntu-latest
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     permissions:
       contents: write
-
     steps:
       - name: Download Data
         uses: actions/download-artifact@v4
@@ -27,7 +22,7 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Mission 1: kalshi-core 업데이트
+      # Mission 1: kalshi-core (private) 업데이트
       - name: Checkout kalshi-core
         uses: actions/checkout@v4
         with:
@@ -35,18 +30,16 @@ jobs:
           token: ${{ secrets.TOKEN1 }}
           path: private-brain
 
-      - name: Push Assets to Private
+      - name: Push Assets to kalshi-core
         run: |
           cd private-brain
           mkdir -p data_output/archive data_output/api/v1/events data_output/audit_logs data_output/completed_events
-
-          [ -f ../temp_data/active_events.json ]       && cp ../temp_data/active_events.json data_output/
-          [ -d ../temp_data/archive_events ]            && cp -r ../temp_data/archive_events/* data_output/archive/
-          [ -d ../temp_data/api ]                       && cp -r ../temp_data/api/* data_output/api/
-          [ -d ../temp_data/audit_logs ]                && cp -r ../temp_data/audit_logs/* data_output/audit_logs/
-          [ -f ../temp_data/regime_changes.json ]       && cp ../temp_data/regime_changes.json data_output/
-          [ -d ../temp_data/completed_events ]          && cp -r ../temp_data/completed_events/* data_output/completed_events/
-
+          [ -f ../temp_data/active_events.json ]     && cp ../temp_data/active_events.json       data_output/
+          [ -d ../temp_data/archive_events ]          && cp -r ../temp_data/archive_events/*      data_output/archive/ || true
+          [ -d ../temp_data/api ]                     && cp -r ../temp_data/api/*                 data_output/api/ || true
+          [ -d ../temp_data/audit_logs ]              && cp -r ../temp_data/audit_logs/*          data_output/audit_logs/ || true
+          [ -f ../temp_data/regime_changes.json ]     && cp ../temp_data/regime_changes.json      data_output/
+          [ -d ../temp_data/completed_events ]        && cp -r ../temp_data/completed_events/*    data_output/completed_events/ || true
           git config --global user.name  "Kalshi-Nexus Bot"
           git config --global user.email "bot@kalshinexus.com"
           git add data_output/
@@ -58,21 +51,18 @@ jobs:
             git push
           fi
 
-      # Mission 2: kalshi-feed (public) 업데이트
-      - name: Checkout Public Face
+      # Mission 2: kalshi-feed (public) — docs/data만 업데이트
+      - name: Checkout kalshi-feed
         uses: actions/checkout@v4
         with:
           path: public-face
 
-      - name: Push Intelligence to Public
+      - name: Push Intelligence to kalshi-feed
         run: |
           cd public-face
           mkdir -p docs/data
-
           [ -f ../temp_data/latest_intelligence.json ] && cp ../temp_data/latest_intelligence.json docs/data/
-          [ -f ../temp_data/regime_changes.json ]      && cp ../temp_data/regime_changes.json docs/data/
-          [ -d docs/data/api ]                         && rm -rf docs/data/api
-
+          [ -f ../temp_data/regime_changes.json ]      && cp ../temp_data/regime_changes.json      docs/data/
           git config --global user.name  "Kalshi-Nexus Bot"
           git config --global user.email "bot@kalshinexus.com"
           git add docs/data/
