@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXCANAL-29": "Will Trump take back the Panama Canal?"
     },
-    "first_seen_at": "2026-03-22T01:39:04.449265Z",
-    "last_api_seen": "2026-03-22T01:39:04.449265Z"
+    "first_seen_at": "2026-03-22T01:50:20.826552Z",
+    "last_api_seen": "2026-03-22T01:50:20.826552Z"
   },
   "history": [
     {
@@ -1325,19 +1325,27 @@
       }
     },
     {
-      "t": "2026-03-22T01:39:04Z",
+      "t": "2026-03-22T01:50:20Z",
       "metrics": {
         "total_volume": 493835.0,
         "prob_sum": 0.31,
         "outcome_count": 1,
         "avg_spread": 0.02,
         "spread_coverage": 1.0,
-        "btc": 69006.9609,
+        "btc": 68883.8359,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2089.8711,
+        "eth": 2085.9382,
         "tvl": 0.0,
-        "usdc": 0.0
+        "usdc": 0.0,
+        "clob_depth": {
+          "bid_volume": 0.0,
+          "ask_volume": 0.0,
+          "mid_price": 0.0,
+          "spread_pct": 0.0,
+          "order_imbalance": 0.0,
+          "success": false
+        }
       },
       "outcomes": {
         "KXCANAL-29": {
@@ -1353,7 +1361,7 @@
   "latest_analysis": {
     "score": 69.3,
     "state": "Active",
-    "timestamp": "2026-03-22T01:39:04.449265Z"
+    "timestamp": "2026-03-22T01:50:20.826552Z"
   },
   "last_flags": [],
   "analysis": {
