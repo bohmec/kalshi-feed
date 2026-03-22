@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: kalshi-nexus-fetch
+  group: kalshi-hive-fetch
   cancel-in-progress: true
 
 jobs:
