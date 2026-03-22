@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-22T00:00:49.569825Z",
-    "last_api_seen": "2026-03-22T00:00:49.569825Z"
+    "first_seen_at": "2026-03-22T00:30:50.863662Z",
+    "last_api_seen": "2026-03-22T00:30:50.863662Z"
   },
   "history": [
     {
@@ -2925,36 +2925,36 @@
       }
     },
     {
-      "t": "2026-03-22T00:00:49Z",
+      "t": "2026-03-22T00:30:50Z",
       "metrics": {
-        "total_volume": 250416.0,
-        "prob_sum": 1.0364,
+        "total_volume": 250462.0,
+        "prob_sum": 1.0414,
         "outcome_count": 5,
-        "btc": 68737.4453,
+        "btc": 68822.9297,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2072.886,
+        "eth": 2078.4368,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 16491.0,
-          "ask_volume": 185028.0,
+          "bid_volume": 16635.0,
+          "ask_volume": 184708.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.8363330504815923,
+          "order_imbalance": -0.8347595893574646,
           "success": true
         }
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.385,
-          "v": 120116,
-          "l": 70137,
+          "p": 0.405,
+          "v": 120157,
+          "l": 70178,
           "sp": null
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
-          "p": 0.65,
-          "v": 108465,
+          "p": 0.635,
+          "v": 108470,
           "l": 70401,
           "sp": null
         },
@@ -2981,17 +2981,17 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 49.0,
+    "score": 48.9,
     "state": "Low Confidence",
-    "timestamp": "2026-03-22T00:00:49.569825Z"
+    "timestamp": "2026-03-22T00:30:50.863662Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 49.0,
+    "score": 48.9,
     "state": "Low Confidence",
     "liq_score": 39.7,
     "eff_score": 12.5,
     "ind_score": 94.0,
-    "conv_score": 35.0
+    "conv_score": 34.7
   }
 }
