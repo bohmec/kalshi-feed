@@ -2,7 +2,7 @@ name: 1. Kalshi-Hive — Calculate & Analyze
 
 on:
   repository_dispatch:
-    types: [kalshi-nexus-run]
+    types: [kalshi-hive-run]
   workflow_dispatch:
 
 concurrency:
