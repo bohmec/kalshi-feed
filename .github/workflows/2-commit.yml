@@ -20,7 +20,7 @@ jobs:
           name: nexus-data
           path: temp_data
           run-id: ${{ github.event.workflow_run.id }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.TOKEN1 }}
 
       # Mission 1: kalshi-core (private) 업데이트
       - name: Checkout kalshi-core
