@@ -16,8 +16,8 @@
       "POWER-28-RH-DS-RP": "Will the Republican party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",
       "POWER-28-DH-DS-RP": "Will the Democratic party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -4125,15 +4125,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 144948.0,
         "prob_sum": 0.985,
         "outcome_count": 8,
-        "btc": 69013.4062,
+        "avg_spread": 0.0187,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4142,65 +4144,65 @@
           "p": 0.39,
           "v": 50247,
           "l": 27285,
-          "sp": null
+          "sp": 0.02
         },
         "POWER-28-RH-RS-RP": {
           "p": 0.185,
           "v": 31707,
           "l": 20757,
-          "sp": null
+          "sp": 0.01
         },
         "POWER-28-DH-RS-DP": {
           "p": 0.18,
           "v": 16292,
           "l": 13299,
-          "sp": null
+          "sp": 0.04
         },
         "POWER-28-RH-RS-DP": {
           "p": 0.035,
           "v": 11846,
           "l": 3623,
-          "sp": null
+          "sp": 0.01
         },
         "POWER-28-DH-RS-RP": {
           "p": 0.105,
           "v": 11382,
           "l": 8277,
-          "sp": null
+          "sp": 0.03
         },
         "POWER-28-RH-DS-DP": {
           "p": 0.025,
           "v": 9061,
           "l": 5561,
-          "sp": null
+          "sp": 0.01
         },
         "POWER-28-RH-DS-RP": {
           "p": 0.03,
           "v": 8205,
           "l": 6374,
-          "sp": null
+          "sp": 0.02
         },
         "POWER-28-DH-DS-RP": {
           "p": 0.035,
           "v": 6208,
           "l": 5627,
-          "sp": null
+          "sp": 0.01
         }
       }
     }
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 73.9,
+    "score": 74.4,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 73.9,
+    "score": 74.4,
     "state": "Active",
     "liq_score": 57.3,
-    "eff_score": 12.5,
+    "eff_score": 12.9,
     "ind_score": 100.0,
     "conv_score": 80.7
   }

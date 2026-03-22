@@ -42,8 +42,8 @@
       "KXSCOURT-29-DS": "Will David Stras become the next Justice on the Supreme Court?",
       "KXSCOURT-29-AEID": "Will Allison Eid become the next Justice on the Supreme Court?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -14525,15 +14525,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 190228.0,
         "prob_sum": 0.9823,
         "outcome_count": 34,
-        "btc": 69013.4062,
+        "avg_spread": 0.0229,
+        "spread_coverage": 0.41,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -14542,49 +14544,49 @@
           "p": 0.15,
           "v": 36984,
           "l": 8394,
-          "sp": null
+          "sp": 0.04
         },
         "KXSCOURT-29-AC": {
           "p": 0.125,
           "v": 26345,
           "l": 10534,
-          "sp": null
+          "sp": 0.03
         },
         "KXSCOURT-29-AO": {
           "p": 0.23,
           "v": 15911,
           "l": 8678,
-          "sp": null
+          "sp": 0.04
         },
         "KXSCOURT-29-JH": {
           "p": 0.115,
           "v": 15121,
           "l": 11390,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-TED": {
           "p": 0.06,
           "v": 12513,
           "l": 7937,
-          "sp": null
+          "sp": 0.04
         },
         "KXSCOURT-29-GGK": {
           "p": 0.025,
           "v": 6939,
           "l": 4276,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-NR": {
           "p": 0.045,
           "v": 6829,
           "l": 6566,
-          "sp": null
+          "sp": 0.03
         },
         "KXSCOURT-29-LVD": {
           "p": 0.03,
           "v": 6542,
           "l": 5716,
-          "sp": null
+          "sp": 0.04
         },
         "KXSCOURT-29-ML": {
           "p": 0.0001,
@@ -14602,7 +14604,7 @@
           "p": 0.045,
           "v": 5434,
           "l": 4947,
-          "sp": null
+          "sp": 0.03
         },
         "KXSCOURT-29-TC": {
           "p": 0.0001,
@@ -14614,19 +14616,19 @@
           "p": 0.095,
           "v": 4286,
           "l": 3954,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-MK": {
           "p": 0.015,
           "v": 3933,
           "l": 3552,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-SKD": {
           "p": 0.015,
           "v": 3838,
           "l": 3352,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-SBIB": {
           "p": 0.0002,
@@ -14644,13 +14646,13 @@
           "p": 0.015,
           "v": 2944,
           "l": 2785,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-KM": {
           "p": 0.015,
           "v": 2853,
           "l": 2710,
-          "sp": null
+          "sp": 0.01
         },
         "KXSCOURT-29-BG": {
           "p": 0.0001,
@@ -14747,16 +14749,16 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 77.4,
+    "score": 76.5,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 77.4,
+    "score": 76.5,
     "state": "Active",
     "liq_score": 58.7,
-    "eff_score": 12.5,
+    "eff_score": 11.7,
     "ind_score": 100.0,
     "conv_score": 91.0
   }

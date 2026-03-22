@@ -18,8 +18,8 @@
       "KXNEXTDHSSEC-29-TEDG": "Who will be Trump's next United States Secretary of Homeland Security?",
       "KXNEXTDHSSEC-29-TLYO": "Who will be Trump's next United States Secretary of Homeland Security?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -4925,15 +4925,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 122634.0,
         "prob_sum": 0.9862,
         "outcome_count": 10,
-        "btc": 69013.4062,
+        "avg_spread": 0.01,
+        "spread_coverage": 0.1,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4942,7 +4944,7 @@
           "p": 0.985,
           "v": 67433,
           "l": 34561,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTDHSSEC-29-THOM": {
           "p": 0.0002,
@@ -5003,16 +5005,16 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 58.1,
+    "score": 54.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 58.1,
+    "score": 54.6,
     "state": "Low Confidence",
     "liq_score": 56.7,
-    "eff_score": 12.5,
+    "eff_score": 9.1,
     "ind_score": 90.7,
     "conv_score": 50.0
   }

@@ -11,8 +11,8 @@
       "KXDEBTGROWTH-28DEC31-50": "Will the national debt hit $50 trillion during the Trump Administration?",
       "KXDEBTGROWTH-28DEC31-45": "Will the national debt hit $45 trillion during the Trump Administration?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -2125,15 +2125,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 65043.0,
         "prob_sum": 2.335,
         "outcome_count": 3,
-        "btc": 69013.4062,
+        "avg_spread": 0.0233,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -2142,37 +2144,37 @@
           "p": 0.955,
           "v": 43699,
           "l": 9570,
-          "sp": null
+          "sp": 0.01
         },
         "KXDEBTGROWTH-28DEC31-50": {
           "p": 0.525,
           "v": 14112,
           "l": 4358,
-          "sp": null
+          "sp": 0.03
         },
         "KXDEBTGROWTH-28DEC31-45": {
           "p": 0.855,
           "v": 7232,
           "l": 3976,
-          "sp": null
+          "sp": 0.03
         }
       }
     }
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 55.3,
+    "score": 50.5,
     "state": "Low Confidence",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 55.3,
+    "score": 50.5,
     "state": "Low Confidence",
     "liq_score": 53.3,
-    "eff_score": 12.5,
+    "eff_score": 7.8,
     "ind_score": 100.0,
     "conv_score": 22.3
   }

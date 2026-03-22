@@ -28,8 +28,8 @@
       "KXNEXTUKPM-30-DJON": "Will Darren Jones be the next Prime Minister of United Kingdom?",
       "KXNEXTUKPM-30-JCLE": "Will James Cleverly be the next Prime Minister of United Kingdom?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -8925,15 +8925,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 444111.0,
-        "prob_sum": 0.8969,
+        "prob_sum": 0.9019,
         "outcome_count": 20,
-        "btc": 69013.4062,
+        "avg_spread": 0.0289,
+        "spread_coverage": 0.45,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -8942,43 +8944,43 @@
           "p": 0.13,
           "v": 121849,
           "l": 51429,
-          "sp": null
+          "sp": 0.04
         },
         "KXNEXTUKPM-30-RLOW": {
           "p": 0.08,
           "v": 118866,
           "l": 75825,
-          "sp": null
+          "sp": 0.02
         },
         "KXNEXTUKPM-30-AR": {
-          "p": 0.245,
+          "p": 0.25,
           "v": 43426,
           "l": 15935,
-          "sp": null
+          "sp": 0.04
         },
         "KXNEXTUKPM-30-WS": {
           "p": 0.16,
           "v": 41931,
           "l": 20263,
-          "sp": null
+          "sp": 0.02
         },
         "KXNEXTUKPM-30-EMIL": {
           "p": 0.075,
           "v": 38277,
           "l": 12513,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTUKPM-30-ABUR": {
           "p": 0.045,
           "v": 28956,
           "l": 5403,
-          "sp": null
+          "sp": 0.05
         },
         "KXNEXTUKPM-30-KB": {
           "p": 0.045,
           "v": 15239,
           "l": 6649,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEXTUKPM-30-RR": {
           "p": 0.0003,
@@ -8990,7 +8992,7 @@
           "p": 0.075,
           "v": 7809,
           "l": 5923,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTUKPM-30-AT": {
           "p": 0.0001,
@@ -9014,7 +9016,7 @@
           "p": 0.04,
           "v": 1409,
           "l": 1310,
-          "sp": null
+          "sp": 0.04
         },
         "KXNEXTUKPM-30-BJOH": {
           "p": 0.0001,
@@ -9063,16 +9065,16 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 71.7,
+    "score": 67.3,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 71.7,
+    "score": 67.3,
     "state": "Active",
     "liq_score": 62.7,
-    "eff_score": 12.5,
+    "eff_score": 8.1,
     "ind_score": 100.0,
     "conv_score": 67.7
   }

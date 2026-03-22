@@ -28,8 +28,8 @@
       "KXBOND-30-CIL": "Will Cillian Murphy be the next James Bond?",
       "KXBOND-30-SCO": "Will Scott Rose-Marsh be the next James Bond?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -8925,15 +8925,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 403313.0,
-        "prob_sum": 1.2761,
+        "prob_sum": 1.2661,
         "outcome_count": 20,
-        "btc": 69013.4062,
+        "avg_spread": 0.0193,
+        "spread_coverage": 0.75,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -8942,79 +8944,79 @@
           "p": 0.485,
           "v": 119297,
           "l": 77125,
-          "sp": null
+          "sp": 0.03
         },
         "KXBOND-30-ATJ": {
           "p": 0.075,
           "v": 90063,
           "l": 49093,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-JACO": {
           "p": 0.18,
           "v": 60673,
           "l": 27512,
-          "sp": null
+          "sp": 0.04
         },
         "KXBOND-30-HC": {
           "p": 0.02,
           "v": 23341,
           "l": 14627,
-          "sp": null
+          "sp": 0.02
         },
         "KXBOND-30-JOS": {
           "p": 0.21,
           "v": 23153,
           "l": 20518,
-          "sp": null
+          "sp": 0.02
         },
         "KXBOND-30-THEO": {
-          "p": 0.045,
+          "p": 0.035,
           "v": 11626,
           "l": 8736,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-HAR": {
           "p": 0.035,
           "v": 11404,
           "l": 6218,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-TOMH": {
           "p": 0.015,
           "v": 11090,
           "l": 8475,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-DI": {
           "p": 0.05,
           "v": 10284,
           "l": 7347,
-          "sp": null
+          "sp": 0.02
         },
         "KXBOND-30-AP": {
           "p": 0.04,
           "v": 8528,
           "l": 5423,
-          "sp": null
+          "sp": 0.06
         },
         "KXBOND-30-IDRIS": {
           "p": 0.025,
           "v": 8271,
           "l": 6884,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-JON": {
           "p": 0.025,
           "v": 4780,
           "l": 3568,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-JAC": {
           "p": 0.035,
           "v": 4458,
           "l": 3814,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-TOM": {
           "p": 0.0002,
@@ -9026,7 +9028,7 @@
           "p": 0.02,
           "v": 4139,
           "l": 3898,
-          "sp": null
+          "sp": 0.02
         },
         "KXBOND-30-RM": {
           "p": 0.0002,
@@ -9038,7 +9040,7 @@
           "p": 0.015,
           "v": 1635,
           "l": 1100,
-          "sp": null
+          "sp": 0.01
         },
         "KXBOND-30-CHARL": {
           "p": 0.0002,
@@ -9063,18 +9065,18 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 75.7,
+    "score": 74.2,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 75.7,
+    "score": 74.2,
     "state": "Active",
     "liq_score": 62.3,
-    "eff_score": 12.5,
+    "eff_score": 10.9,
     "ind_score": 100.0,
     "conv_score": 82.0
   }

@@ -25,8 +25,8 @@
       "KXTAYLORSWIFTWEDDING-30JAN01-ASH": "Will Ashley Avignone be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
       "KXTAYLORSWIFTWEDDING-30JAN01-DAN": "Will Danielle Haim be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -7725,15 +7725,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 62931.0,
-        "prob_sum": 6.19,
+        "prob_sum": 6.195,
         "outcome_count": 17,
-        "btc": 69013.4062,
+        "avg_spread": 0.0559,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -7742,121 +7744,121 @@
           "p": 0.585,
           "v": 16099,
           "l": 4956,
-          "sp": null
+          "sp": 0.05
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-SEL": {
           "p": 0.81,
           "v": 10577,
           "l": 4754,
-          "sp": null
+          "sp": 0.08
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-BLA": {
           "p": 0.165,
           "v": 8899,
           "l": 4719,
-          "sp": null
+          "sp": 0.05
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-KYL": {
-          "p": 0.555,
+          "p": 0.56,
           "v": 8516,
           "l": 5031,
-          "sp": null
+          "sp": 0.1
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-BRI": {
           "p": 0.225,
           "v": 3254,
           "l": 1962,
-          "sp": null
+          "sp": 0.03
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-SAB": {
           "p": 0.315,
           "v": 3097,
           "l": 2696,
-          "sp": null
+          "sp": 0.05
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-LAN": {
           "p": 0.105,
           "v": 2104,
           "l": 575,
-          "sp": null
+          "sp": 0.03
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-EST": {
           "p": 0.385,
           "v": 2035,
           "l": 1302,
-          "sp": null
+          "sp": 0.07
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-ABI": {
           "p": 0.875,
           "v": 1994,
           "l": 793,
-          "sp": null
+          "sp": 0.05
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-SOP": {
           "p": 0.155,
           "v": 1814,
           "l": 925,
-          "sp": null
+          "sp": 0.05
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-ICE": {
           "p": 0.05,
           "v": 1540,
           "l": 1168,
-          "sp": null
+          "sp": 0.06
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-ALA": {
           "p": 0.265,
           "v": 814,
           "l": 568,
-          "sp": null
+          "sp": 0.07
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-ZOE": {
           "p": 0.33,
           "v": 784,
           "l": 239,
-          "sp": null
+          "sp": 0.02
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-EMM": {
           "p": 0.365,
           "v": 583,
           "l": 174,
-          "sp": null
+          "sp": 0.03
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-CAR": {
           "p": 0.145,
           "v": 403,
           "l": 128,
-          "sp": null
+          "sp": 0.05
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-ASH": {
           "p": 0.61,
           "v": 319,
           "l": 298,
-          "sp": null
+          "sp": 0.08
         },
         "KXTAYLORSWIFTWEDDING-30JAN01-DAN": {
           "p": 0.25,
           "v": 99,
           "l": 54,
-          "sp": null
+          "sp": 0.08
         }
       }
     }
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 73.8,
+    "score": 65.0,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 73.8,
+    "score": 65.0,
     "state": "Active",
     "liq_score": 53.3,
-    "eff_score": 12.5,
+    "eff_score": 3.7,
     "ind_score": 100.0,
     "conv_score": 84.3
   }

@@ -19,8 +19,8 @@
       "KXTRILLIONAIRE-30-SB": "Will Steve Ballmer be the world's first trillionaire?",
       "KXTRILLIONAIRE-30-SRB": "Will Sergey Brin be the world's first trillionaire?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -5697,15 +5697,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 169114.0,
         "prob_sum": 0.9506,
         "outcome_count": 11,
-        "btc": 69013.4062,
+        "avg_spread": 0.012,
+        "spread_coverage": 0.45,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -5714,25 +5716,25 @@
           "p": 0.845,
           "v": 96052,
           "l": 38333,
-          "sp": null
+          "sp": 0.01
         },
         "KXTRILLIONAIRE-30-JH": {
           "p": 0.04,
           "v": 21473,
           "l": 15438,
-          "sp": null
+          "sp": 0.02
         },
         "KXTRILLIONAIRE-30-JB": {
           "p": 0.035,
           "v": 17281,
           "l": 11798,
-          "sp": null
+          "sp": 0.01
         },
         "KXTRILLIONAIRE-30-LE": {
           "p": 0.015,
           "v": 8628,
           "l": 6009,
-          "sp": null
+          "sp": 0.01
         },
         "KXTRILLIONAIRE-30-SA": {
           "p": 0.0001,
@@ -5750,7 +5752,7 @@
           "p": 0.015,
           "v": 4598,
           "l": 4415,
-          "sp": null
+          "sp": 0.01
         },
         "KXTRILLIONAIRE-30-BA": {
           "p": 0.0001,
@@ -5781,16 +5783,16 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 67.6,
+    "score": 67.2,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 67.6,
+    "score": 67.2,
     "state": "Active",
     "liq_score": 58.0,
-    "eff_score": 12.5,
+    "eff_score": 12.1,
     "ind_score": 100.0,
     "conv_score": 59.0
   }

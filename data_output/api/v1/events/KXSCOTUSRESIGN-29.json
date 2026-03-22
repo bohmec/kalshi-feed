@@ -12,8 +12,8 @@
       "KXSCOTUSRESIGN-29-SS": "Will Sonia Sotomayor resign during Trump's term?",
       "KXSCOTUSRESIGN-29-JR": "Will John Roberts resign during Trump's term?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -2525,15 +2525,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 51005.0,
         "prob_sum": 1.425,
         "outcome_count": 4,
-        "btc": 69013.4062,
+        "avg_spread": 0.0325,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -2542,43 +2544,43 @@
           "p": 0.49,
           "v": 24291,
           "l": 9658,
-          "sp": null
+          "sp": 0.02
         },
         "KXSCOTUSRESIGN-29-SA": {
           "p": 0.7,
           "v": 16344,
           "l": 8097,
-          "sp": null
+          "sp": 0.04
         },
         "KXSCOTUSRESIGN-29-SS": {
           "p": 0.08,
           "v": 7299,
           "l": 3061,
-          "sp": null
+          "sp": 0.04
         },
         "KXSCOTUSRESIGN-29-JR": {
           "p": 0.155,
           "v": 3071,
           "l": 2621,
-          "sp": null
+          "sp": 0.03
         }
       }
     }
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 71.2,
+    "score": 67.2,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 71.2,
+    "score": 67.2,
     "state": "Active",
     "liq_score": 52.3,
-    "eff_score": 12.5,
+    "eff_score": 8.5,
     "ind_score": 100.0,
     "conv_score": 76.7
   }

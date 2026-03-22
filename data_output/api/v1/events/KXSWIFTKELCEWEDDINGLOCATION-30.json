@@ -13,8 +13,8 @@
       "KXSWIFTKELCEWEDDINGLOCATION-30-TEN": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
       "KXSWIFTKELCEWEDDINGLOCATION-30-OHI": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -2925,30 +2925,32 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 250659.0,
-        "prob_sum": 1.0564,
+        "prob_sum": 1.0664,
         "outcome_count": 5,
-        "btc": 69013.4062,
+        "avg_spread": 0.055,
+        "spread_coverage": 0.4,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXSWIFTKELCEWEDDINGLOCATION-30-RHO": {
-          "p": 0.42,
+          "p": 0.43,
           "v": 120312,
           "l": 70333,
-          "sp": null
+          "sp": 0.08
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-NEW": {
           "p": 0.635,
           "v": 108512,
           "l": 70438,
-          "sp": null
+          "sp": 0.03
         },
         "KXSWIFTKELCEWEDDINGLOCATION-30-PEN": {
           "p": 0.0006,
@@ -2973,16 +2975,16 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 55.0,
+    "score": 44.1,
     "state": "Low Confidence",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 55.0,
+    "score": 44.1,
     "state": "Low Confidence",
     "liq_score": 60.0,
-    "eff_score": 12.5,
+    "eff_score": 1.6,
     "ind_score": 94.0,
     "conv_score": 34.7
   }

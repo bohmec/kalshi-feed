@@ -13,8 +13,8 @@
       "KXMOONMAN-31-I": "Which country will be the next to send humans to the Moon?",
       "KXMOONMAN-31-E": "Which country will be the next to send humans to the Moon?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -3129,15 +3129,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 96916.0,
         "prob_sum": 1.12,
         "outcome_count": 5,
-        "btc": 69013.4062,
+        "avg_spread": 0.012,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -3146,47 +3148,47 @@
           "p": 0.685,
           "v": 52538,
           "l": 27713,
-          "sp": null
+          "sp": 0.01
         },
         "KXMOONMAN-31-PRC": {
           "p": 0.325,
           "v": 32395,
           "l": 17693,
-          "sp": null
+          "sp": 0.01
         },
         "KXMOONMAN-31-R": {
           "p": 0.04,
           "v": 4782,
           "l": 3116,
-          "sp": null
+          "sp": 0.02
         },
         "KXMOONMAN-31-I": {
           "p": 0.035,
           "v": 4041,
           "l": 2508,
-          "sp": null
+          "sp": 0.01
         },
         "KXMOONMAN-31-E": {
           "p": 0.035,
           "v": 3160,
           "l": 1179,
-          "sp": null
+          "sp": 0.01
         }
       }
     }
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 74.0,
+    "score": 77.5,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 74.0,
+    "score": 77.5,
     "state": "Active",
     "liq_score": 55.3,
-    "eff_score": 12.5,
+    "eff_score": 16.0,
     "ind_score": 97.3,
     "conv_score": 84.0
   }

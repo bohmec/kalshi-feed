@@ -20,20 +20,22 @@
       "KXNEXTISRAELPM-45JAN01-BGAN": "::",
       "KXNEXTISRAELPM-45JAN01-ALIE": "::"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
-        "total_volume": 51121.0,
+        "total_volume": 51131.0,
         "prob_sum": 1.01,
         "outcome_count": 12,
-        "btc": 69013.4062,
+        "avg_spread": 0.025,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -42,73 +44,73 @@
           "p": 0.36,
           "v": 18560,
           "l": 5697,
-          "sp": null
+          "sp": 0.02
         },
         "KXNEXTISRAELPM-45JAN01-IKAT": {
           "p": 0.155,
           "v": 8048,
           "l": 3592,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTISRAELPM-45JAN01-YLEV": {
           "p": 0.13,
           "v": 5648,
           "l": 2146,
-          "sp": null
+          "sp": 0.04
         },
         "KXNEXTISRAELPM-45JAN01-IBEN": {
           "p": 0.025,
-          "v": 5306,
+          "v": 5316,
           "l": 3010,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTISRAELPM-45JAN01-YLAP": {
           "p": 0.09,
           "v": 3891,
           "l": 1697,
-          "sp": null
+          "sp": 0.04
         },
         "KXNEXTISRAELPM-45JAN01-GEIS": {
           "p": 0.095,
           "v": 2349,
           "l": 1588,
-          "sp": null
+          "sp": 0.05
         },
         "KXNEXTISRAELPM-45JAN01-BSMO": {
           "p": 0.035,
           "v": 2173,
           "l": 930,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEXTISRAELPM-45JAN01-YGAL": {
           "p": 0.035,
           "v": 1599,
           "l": 612,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEXTISRAELPM-45JAN01-YCOH": {
           "p": 0.015,
           "v": 1114,
           "l": 430,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTISRAELPM-45JAN01-YGOL": {
           "p": 0.015,
           "v": 1052,
           "l": 709,
-          "sp": null
+          "sp": 0.01
         },
         "KXNEXTISRAELPM-45JAN01-BGAN": {
           "p": 0.035,
           "v": 952,
           "l": 496,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEXTISRAELPM-45JAN01-ALIE": {
           "p": 0.02,
           "v": 429,
           "l": 257,
-          "sp": null
+          "sp": 0.02
         }
       }
     }
@@ -117,9 +119,9 @@
   "latest_analysis": {
     "score": null,
     "state": "Initializing",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
-  "last_archived_at": "2026-03-22T01:30:50Z",
+  "last_archived_at": "2026-03-22T01:39:04Z",
   "last_flags": [],
   "analysis": {
     "score": null,

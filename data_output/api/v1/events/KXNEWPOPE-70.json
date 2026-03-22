@@ -15,8 +15,8 @@
       "KXNEWPOPE-70-PPIZ": "Who will the next Pope be?",
       "KXNEWPOPE-70-MZUP": "Who will the next Pope be?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -3985,15 +3985,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 73854.0,
         "prob_sum": 0.4,
         "outcome_count": 7,
-        "btc": 69013.4062,
+        "avg_spread": 0.0286,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4002,59 +4004,59 @@
           "p": 0.045,
           "v": 14437,
           "l": 1957,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEWPOPE-70-PPAR": {
           "p": 0.07,
           "v": 14373,
           "l": 4537,
-          "sp": null
+          "sp": 0.04
         },
         "KXNEWPOPE-70-LANT": {
           "p": 0.065,
           "v": 9756,
           "l": 2649,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEWPOPE-70-FAMB": {
           "p": 0.045,
           "v": 9631,
           "l": 1857,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEWPOPE-70-AARB": {
           "p": 0.045,
           "v": 8945,
           "l": 1935,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEWPOPE-70-PPIZ": {
           "p": 0.055,
           "v": 8840,
           "l": 1880,
-          "sp": null
+          "sp": 0.03
         },
         "KXNEWPOPE-70-MZUP": {
           "p": 0.075,
           "v": 7872,
           "l": 1858,
-          "sp": null
+          "sp": 0.01
         }
       }
     }
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 55.8,
+    "score": 50.2,
     "state": "Low Confidence",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 55.8,
+    "score": 50.2,
     "state": "Low Confidence",
     "liq_score": 54.0,
-    "eff_score": 12.5,
+    "eff_score": 6.9,
     "ind_score": 92.0,
     "conv_score": 27.7
   }

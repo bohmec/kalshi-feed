@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-22T01:30:50.801385Z",
-    "last_api_seen": "2026-03-22T01:30:50.801385Z"
+    "first_seen_at": "2026-03-22T01:39:04.449265Z",
+    "last_api_seen": "2026-03-22T01:39:04.449265Z"
   },
   "history": [
     {
@@ -4125,15 +4125,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:30:50Z",
+      "t": "2026-03-22T01:39:04Z",
       "metrics": {
         "total_volume": 996907.0,
         "prob_sum": 0.975,
         "outcome_count": 8,
-        "btc": 69013.4062,
+        "avg_spread": 0.0162,
+        "spread_coverage": 1.0,
+        "btc": 69006.9609,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2090.4502,
+        "eth": 2089.8711,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4142,65 +4144,65 @@
           "p": 0.77,
           "v": 408691,
           "l": 161564,
-          "sp": null
+          "sp": 0.02
         },
         "KXGREENLANDPRICE-29JAN21-749B": {
           "p": 0.06,
           "v": 141260,
           "l": 68564,
-          "sp": null
+          "sp": 0.02
         },
         "KXGREENLANDPRICE-29JAN21-1049B": {
           "p": 0.025,
           "v": 100381,
           "l": 61144,
-          "sp": null
+          "sp": 0.01
         },
         "KXGREENLANDPRICE-29JAN21-54B": {
           "p": 0.035,
           "v": 89746,
           "l": 64255,
-          "sp": null
+          "sp": 0.03
         },
         "KXGREENLANDPRICE-29JAN21-449B": {
           "p": 0.025,
           "v": 65939,
           "l": 51585,
-          "sp": null
+          "sp": 0.01
         },
         "KXGREENLANDPRICE-29JAN21-1200B": {
           "p": 0.025,
           "v": 65026,
           "l": 51022,
-          "sp": null
+          "sp": 0.01
         },
         "KXGREENLANDPRICE-29JAN21-5B": {
           "p": 0.015,
           "v": 63018,
           "l": 45143,
-          "sp": null
+          "sp": 0.01
         },
         "KXGREENLANDPRICE-29JAN21-199B": {
           "p": 0.02,
           "v": 62846,
           "l": 50476,
-          "sp": null
+          "sp": 0.02
         }
       }
     }
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 77.6,
+    "score": 78.2,
     "state": "Active",
-    "timestamp": "2026-03-22T01:30:50.801385Z"
+    "timestamp": "2026-03-22T01:39:04.449265Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 77.6,
+    "score": 78.2,
     "state": "Active",
     "liq_score": 66.7,
-    "eff_score": 12.5,
+    "eff_score": 13.1,
     "ind_score": 100.0,
     "conv_score": 83.7
   }
