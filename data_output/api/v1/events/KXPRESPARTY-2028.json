@@ -10,8 +10,8 @@
       "KXPRESPARTY-2028-R": "Will Republican win the Presidency in 2028?",
       "KXPRESPARTY-2028-D": "Will Democratic win the Presidency in 2028?"
     },
-    "first_seen_at": "2026-03-21T23:30:48.403146Z",
-    "last_api_seen": "2026-03-21T23:30:48.403146Z"
+    "first_seen_at": "2026-03-22T00:00:49.569825Z",
+    "last_api_seen": "2026-03-22T00:00:49.569825Z"
   },
   "history": [
     {
@@ -1725,31 +1725,31 @@
       }
     },
     {
-      "t": "2026-03-21T23:30:48Z",
+      "t": "2026-03-22T00:00:49Z",
       "metrics": {
-        "total_volume": 323898.0,
+        "total_volume": 323939.0,
         "prob_sum": 1.01,
         "outcome_count": 2,
-        "btc": 70134.0625,
+        "btc": 68737.4453,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2144.8081,
+        "eth": 2072.886,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 11953021.0,
+          "bid_volume": 11952980.0,
           "ask_volume": 14093280.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.08217132252291794,
+          "order_imbalance": -0.08217302599298325,
           "success": true
         }
       },
       "outcomes": {
         "KXPRESPARTY-2028-R": {
           "p": 0.435,
-          "v": 186222,
-          "l": 72297,
+          "v": 186263,
+          "l": 72256,
           "sp": null
         },
         "KXPRESPARTY-2028-D": {
@@ -1761,21 +1761,19 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": 50.0,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-21T23:30:48.403146Z"
+    "score": 77.6,
+    "state": "Active",
+    "timestamp": "2026-03-22T00:00:49.569825Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 50.0,
-    "state": "Macro-Driven",
+    "score": 77.6,
+    "state": "Active",
     "liq_score": 99.7,
     "eff_score": 12.5,
-    "ind_score": 20.0,
+    "ind_score": 100.0,
     "conv_score": 50.3
   }
 }

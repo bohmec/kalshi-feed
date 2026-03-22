@@ -13,8 +13,8 @@
       "KXGTAPRICE-90": "What will the price of GTA VI be?",
       "KXGTAPRICE-60": "What will the price of GTA VI be?"
     },
-    "first_seen_at": "2026-03-21T23:30:48.403146Z",
-    "last_api_seen": "2026-03-21T23:30:48.403146Z"
+    "first_seen_at": "2026-03-22T00:00:49.569825Z",
+    "last_api_seen": "2026-03-22T00:00:49.569825Z"
   },
   "history": [
     {
@@ -2925,31 +2925,31 @@
       }
     },
     {
-      "t": "2026-03-21T23:30:48Z",
+      "t": "2026-03-22T00:00:49Z",
       "metrics": {
-        "total_volume": 417887.0,
-        "prob_sum": 2.21,
+        "total_volume": 418071.0,
+        "prob_sum": 2.225,
         "outcome_count": 5,
-        "btc": 70134.0625,
+        "btc": 68737.4453,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2144.8081,
+        "eth": 2072.886,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 66894.0,
-          "ask_volume": 10309.0,
+          "ask_volume": 10336.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.7329378392031398,
+          "order_imbalance": 0.7323319953385989,
           "success": true
         }
       },
       "outcomes": {
         "KXGTAPRICE-100": {
-          "p": 0.115,
-          "v": 126820,
-          "l": 53710,
+          "p": 0.12,
+          "v": 127004,
+          "l": 53894,
           "sp": null
         },
         "KXGTAPRICE-70": {
@@ -2959,7 +2959,7 @@
           "sp": null
         },
         "KXGTAPRICE-80": {
-          "p": 0.325,
+          "p": 0.335,
           "v": 90651,
           "l": 32553,
           "sp": null
@@ -2981,19 +2981,19 @@
   ],
   "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 55.6,
+    "score": 56.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T23:30:48.403146Z"
+    "timestamp": "2026-03-22T00:00:49.569825Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 55.6,
+    "score": 56.6,
     "state": "Low Confidence",
     "liq_score": 16.3,
     "eff_score": 12.5,
-    "ind_score": 94.7,
-    "conv_score": 63.3
+    "ind_score": 100.0,
+    "conv_score": 64.0
   }
 }

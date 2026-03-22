@@ -18,8 +18,8 @@
       "KXNEWSCOTUSCONF-29JAN20-9": "Will the next President confirm 9 Supreme Court justices?",
       "KXNEWSCOTUSCONF-29JAN20-8": "Will the next President confirm 8 Supreme Court justices?"
     },
-    "first_seen_at": "2026-03-21T23:30:48.403146Z",
-    "last_api_seen": "2026-03-21T23:30:48.403146Z"
+    "first_seen_at": "2026-03-22T00:00:49.569825Z",
+    "last_api_seen": "2026-03-22T00:00:49.569825Z"
   },
   "history": [
     {
@@ -4925,15 +4925,15 @@
       }
     },
     {
-      "t": "2026-03-21T23:30:48Z",
+      "t": "2026-03-22T00:00:49Z",
       "metrics": {
-        "total_volume": 170553.0,
+        "total_volume": 170555.0,
         "prob_sum": 1.0005,
         "outcome_count": 10,
-        "btc": 70134.0625,
+        "btc": 68737.4453,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2144.8081,
+        "eth": 2072.886,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4958,8 +4958,8 @@
         },
         "KXNEWSCOTUSCONF-29JAN20-1": {
           "p": 0.305,
-          "v": 23938,
-          "l": 9309,
+          "v": 23940,
+          "l": 9311,
           "sp": null
         },
         "KXNEWSCOTUSCONF-29JAN20-3": {
@@ -5001,21 +5001,19 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": 63.8,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-21T23:30:48.403146Z"
+    "score": 74.5,
+    "state": "Active",
+    "timestamp": "2026-03-22T00:00:49.569825Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 63.8,
-    "state": "Macro-Driven",
+    "score": 74.5,
+    "state": "Active",
     "liq_score": 58.0,
     "eff_score": 12.5,
-    "ind_score": 62.0,
+    "ind_score": 100.0,
     "conv_score": 82.0
   }
 }

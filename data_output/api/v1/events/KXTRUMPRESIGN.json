@@ -9,8 +9,8 @@
     "outcomes_map": {
       "KXTRUMPRESIGN": "Will President Trump resign before his term is up?"
     },
-    "first_seen_at": "2026-03-21T23:30:48.403146Z",
-    "last_api_seen": "2026-03-21T23:30:48.403146Z"
+    "first_seen_at": "2026-03-22T00:00:49.569825Z",
+    "last_api_seen": "2026-03-22T00:00:49.569825Z"
   },
   "history": [
     {
@@ -1325,15 +1325,15 @@
       }
     },
     {
-      "t": "2026-03-21T23:30:48Z",
+      "t": "2026-03-22T00:00:49Z",
       "metrics": {
         "total_volume": 164604.0,
         "prob_sum": 0.185,
         "outcome_count": 1,
-        "btc": 70134.0625,
+        "btc": 68737.4453,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2144.8081,
+        "eth": 2072.886,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -1347,21 +1347,19 @@
       }
     }
   ],
-  "last_regime": "Macro-Driven",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": 49.0,
-    "state": "Macro-Driven",
-    "timestamp": "2026-03-21T23:30:48.403146Z"
+    "score": 66.0,
+    "state": "Active",
+    "timestamp": "2026-03-22T00:00:49.569825Z"
   },
-  "last_flags": [
-    "Correlated"
-  ],
+  "last_flags": [],
   "analysis": {
-    "score": 49.0,
-    "state": "Macro-Driven",
+    "score": 66.0,
+    "state": "Active",
     "liq_score": 58.0,
     "eff_score": 12.5,
-    "ind_score": 20.0,
+    "ind_score": 100.0,
     "conv_score": 53.7
   }
 }

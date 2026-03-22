@@ -12,8 +12,8 @@
       "KXGREENLAND-29-27": "Will Trump buy Greenland?",
       "KXGREENLAND-29-26JUL": "Will Trump buy Greenland?"
     },
-    "first_seen_at": "2026-03-21T23:30:48.403146Z",
-    "last_api_seen": "2026-03-21T23:30:48.403146Z"
+    "first_seen_at": "2026-03-22T00:00:49.569825Z",
+    "last_api_seen": "2026-03-22T00:00:49.569825Z"
   },
   "history": [
     {
@@ -2525,23 +2525,23 @@
       }
     },
     {
-      "t": "2026-03-21T23:30:48Z",
+      "t": "2026-03-22T00:00:49Z",
       "metrics": {
         "total_volume": 6387428.0,
         "prob_sum": 0.4295,
         "outcome_count": 4,
-        "btc": 70134.0625,
+        "btc": 68737.4453,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2144.8081,
+        "eth": 2072.886,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 988742.0,
-          "ask_volume": 624646.0,
+          "bid_volume": 988728.0,
+          "ask_volume": 624658.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.22567169211621754,
+          "order_imbalance": 0.22565585668897586,
           "success": true
         }
       },
@@ -2575,17 +2575,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 79.1,
+    "score": 80.0,
     "state": "Active",
-    "timestamp": "2026-03-21T23:30:48.403146Z"
+    "timestamp": "2026-03-22T00:00:49.569825Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 79.1,
+    "score": 80.0,
     "state": "Active",
     "liq_score": 98.3,
     "eff_score": 12.5,
-    "ind_score": 94.7,
+    "ind_score": 100.0,
     "conv_score": 59.7
   }
 }

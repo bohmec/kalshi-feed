@@ -31,8 +31,8 @@
       "KXCABOUT-26MAR-STUR": "Will Scott Turner be the next person to leave the Trump Cabinet?",
       "KXCABOUT-26MAR-KLOE": "Will Kelly Loeffler be the next person to leave the Trump Cabinet?"
     },
-    "first_seen_at": "2026-03-21T23:30:48.403146Z",
-    "last_api_seen": "2026-03-21T23:30:48.403146Z"
+    "first_seen_at": "2026-03-22T00:00:49.569825Z",
+    "last_api_seen": "2026-03-22T00:00:49.569825Z"
   },
   "history": [
     {
@@ -10125,31 +10125,31 @@
       }
     },
     {
-      "t": "2026-03-21T23:30:48Z",
+      "t": "2026-03-22T00:00:49Z",
       "metrics": {
-        "total_volume": 964860.0,
+        "total_volume": 965119.0,
         "prob_sum": 1.11,
         "outcome_count": 23,
-        "btc": 70134.0625,
+        "btc": 68737.4453,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2144.8081,
+        "eth": 2072.886,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 13286.0,
-          "ask_volume": 84138.0,
+          "bid_volume": 13280.0,
+          "ask_volume": 84102.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.7272540647068484,
+          "order_imbalance": -0.7272596578423117,
           "success": true
         }
       },
       "outcomes": {
         "KXCABOUT-26MAR-TGAB": {
           "p": 0.285,
-          "v": 162327,
-          "l": 92204,
+          "v": 162391,
+          "l": 92268,
           "sp": null
         },
         "KXCABOUT-26MAR-SDUF": {
@@ -10208,8 +10208,8 @@
         },
         "KXCABOUT-26MAR-PBON": {
           "p": 0.11,
-          "v": 38163,
-          "l": 32434,
+          "v": 38358,
+          "l": 32629,
           "sp": null
         },
         "KXCABOUT-26MAR-MWAL": {
@@ -10291,7 +10291,7 @@
   "latest_analysis": {
     "score": 43.6,
     "state": "Low Confidence",
-    "timestamp": "2026-03-21T23:30:48.403146Z"
+    "timestamp": "2026-03-22T00:00:49.569825Z"
   },
   "last_flags": [
     "Contested"
