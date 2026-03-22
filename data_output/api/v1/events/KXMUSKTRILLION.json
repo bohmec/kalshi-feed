@@ -12,8 +12,8 @@
       "KXMUSKTRILLION-30": "Will Elon Musk be a trillionaire before 2030?",
       "KXMUSKTRILLION-29": "Will Elon Musk be a trillionaire before 2029?"
     },
-    "first_seen_at": "2026-03-22T01:00:46.929818Z",
-    "last_api_seen": "2026-03-22T01:00:46.929818Z"
+    "first_seen_at": "2026-03-22T01:11:43.231651Z",
+    "last_api_seen": "2026-03-22T01:11:43.231651Z"
   },
   "history": [
     {
@@ -2525,25 +2525,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:00:46Z",
+      "t": "2026-03-22T01:11:43Z",
       "metrics": {
         "total_volume": 334979.0,
         "prob_sum": 3.065,
         "outcome_count": 4,
-        "btc": 68902.8828,
+        "btc": 68914.9844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2086.2192,
+        "eth": 2087.2354,
         "tvl": 0.0,
-        "usdc": 0.0,
-        "clob_depth": {
-          "bid_volume": 643874.0,
-          "ask_volume": 22838.0,
-          "mid_price": 0.0,
-          "spread_pct": 0.0,
-          "order_imbalance": 0.9314906586352129,
-          "success": true
-        }
+        "usdc": 0.0
       },
       "outcomes": {
         "KXMUSKTRILLION-27": {
@@ -2573,21 +2565,21 @@
       }
     }
   ],
-  "last_regime": "Active",
+  "last_regime": "Low Confidence",
   "latest_analysis": {
-    "score": 62.8,
-    "state": "Active",
-    "timestamp": "2026-03-22T01:00:46.929818Z"
+    "score": 56.0,
+    "state": "Low Confidence",
+    "timestamp": "2026-03-22T01:11:43.231651Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 62.8,
-    "state": "Active",
-    "liq_score": 74.0,
+    "score": 56.0,
+    "state": "Low Confidence",
+    "liq_score": 61.3,
     "eff_score": 12.5,
     "ind_score": 85.3,
-    "conv_score": 51.0
+    "conv_score": 40.7
   }
 }

@@ -16,8 +16,8 @@
       "POWER-28-RH-DS-RP": "Will the Republican party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?",
       "POWER-28-DH-DS-RP": "Will the Democratic party win the House, the Democratic party win the Senate, and the Republican party win the Presidency?"
     },
-    "first_seen_at": "2026-03-22T01:00:46.929818Z",
-    "last_api_seen": "2026-03-22T01:00:46.929818Z"
+    "first_seen_at": "2026-03-22T01:11:43.231651Z",
+    "last_api_seen": "2026-03-22T01:11:43.231651Z"
   },
   "history": [
     {
@@ -4125,15 +4125,15 @@
       }
     },
     {
-      "t": "2026-03-22T01:00:46Z",
+      "t": "2026-03-22T01:11:43Z",
       "metrics": {
         "total_volume": 144948.0,
         "prob_sum": 0.985,
         "outcome_count": 8,
-        "btc": 68902.8828,
+        "btc": 68914.9844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2086.2192,
+        "eth": 2087.2354,
         "tvl": 0.0,
         "usdc": 0.0
       },
@@ -4191,17 +4191,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 73.5,
+    "score": 73.9,
     "state": "Active",
-    "timestamp": "2026-03-22T01:00:46.929818Z"
+    "timestamp": "2026-03-22T01:11:43.231651Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 73.5,
+    "score": 73.9,
     "state": "Active",
     "liq_score": 57.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 79.3
+    "conv_score": 80.7
   }
 }

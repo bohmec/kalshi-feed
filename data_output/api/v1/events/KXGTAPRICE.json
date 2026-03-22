@@ -13,8 +13,8 @@
       "KXGTAPRICE-90": "What will the price of GTA VI be?",
       "KXGTAPRICE-60": "What will the price of GTA VI be?"
     },
-    "first_seen_at": "2026-03-22T01:00:46.929818Z",
-    "last_api_seen": "2026-03-22T01:00:46.929818Z"
+    "first_seen_at": "2026-03-22T01:11:43.231651Z",
+    "last_api_seen": "2026-03-22T01:11:43.231651Z"
   },
   "history": [
     {
@@ -2925,25 +2925,17 @@
       }
     },
     {
-      "t": "2026-03-22T01:00:46Z",
+      "t": "2026-03-22T01:11:43Z",
       "metrics": {
-        "total_volume": 418358.0,
-        "prob_sum": 2.225,
+        "total_volume": 418363.0,
+        "prob_sum": 2.255,
         "outcome_count": 5,
-        "btc": 68902.8828,
+        "btc": 68914.9844,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2086.2192,
+        "eth": 2087.2354,
         "tvl": 0.0,
-        "usdc": 0.0,
-        "clob_depth": {
-          "bid_volume": 66984.0,
-          "ask_volume": 10293.0,
-          "mid_price": 0.0,
-          "spread_pct": 0.0,
-          "order_imbalance": 0.7336076711052447,
-          "success": true
-        }
+        "usdc": 0.0
       },
       "outcomes": {
         "KXGTAPRICE-100": {
@@ -2959,9 +2951,9 @@
           "sp": null
         },
         "KXGTAPRICE-80": {
-          "p": 0.325,
-          "v": 90932,
-          "l": 32820,
+          "p": 0.355,
+          "v": 90937,
+          "l": 32825,
           "sp": null
         },
         "KXGTAPRICE-90": {
@@ -2979,21 +2971,21 @@
       }
     }
   ],
-  "last_regime": "Low Confidence",
+  "last_regime": "Active",
   "latest_analysis": {
-    "score": 56.4,
-    "state": "Low Confidence",
-    "timestamp": "2026-03-22T01:00:46.929818Z"
+    "score": 71.1,
+    "state": "Active",
+    "timestamp": "2026-03-22T01:11:43.231651Z"
   },
   "last_flags": [
     "Contested"
   ],
   "analysis": {
-    "score": 56.4,
-    "state": "Low Confidence",
-    "liq_score": 16.3,
+    "score": 71.1,
+    "state": "Active",
+    "liq_score": 62.3,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 63.7
+    "conv_score": 66.0
   }
 }
