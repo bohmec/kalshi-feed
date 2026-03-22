@@ -15,8 +15,8 @@
       "KXSTATE51-29-GU": "Will Guam be the 51st U.S. state before Jan 20, 2029?",
       "KXSTATE51-29-CO": "Will any part of Colombia be the 51st U.S. state before Jan 20, 2029?"
     },
-    "first_seen_at": "2026-03-22T00:30:50.863662Z",
-    "last_api_seen": "2026-03-22T00:30:50.863662Z"
+    "first_seen_at": "2026-03-22T01:00:46.929818Z",
+    "last_api_seen": "2026-03-22T01:00:46.929818Z"
   },
   "history": [
     {
@@ -3725,29 +3725,29 @@
       }
     },
     {
-      "t": "2026-03-22T00:30:50Z",
+      "t": "2026-03-22T01:00:46Z",
       "metrics": {
         "total_volume": 583176.0,
-        "prob_sum": 0.1254,
+        "prob_sum": 0.1154,
         "outcome_count": 7,
-        "btc": 68822.9297,
+        "btc": 68902.8828,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2078.4368,
+        "eth": 2086.2192,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
           "bid_volume": 71660.0,
-          "ask_volume": 216937.0,
+          "ask_volume": 217147.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": -0.5033905411352162,
+          "order_imbalance": -0.5037516403688276,
           "success": true
         }
       },
       "outcomes": {
         "KXSTATE51-29-GL": {
-          "p": 0.04,
+          "p": 0.035,
           "v": 251323,
           "l": 110572,
           "sp": null
@@ -3759,7 +3759,7 @@
           "sp": null
         },
         "KXSTATE51-29-PR": {
-          "p": 0.045,
+          "p": 0.04,
           "v": 83363,
           "l": 53960,
           "sp": null
@@ -3793,17 +3793,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 68.5,
+    "score": 66.6,
     "state": "Active",
-    "timestamp": "2026-03-22T00:30:50.863662Z"
+    "timestamp": "2026-03-22T01:00:46.929818Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 68.5,
+    "score": 66.6,
     "state": "Active",
     "liq_score": 66.7,
     "eff_score": 12.5,
     "ind_score": 94.0,
-    "conv_score": 56.3
+    "conv_score": 50.0
   }
 }

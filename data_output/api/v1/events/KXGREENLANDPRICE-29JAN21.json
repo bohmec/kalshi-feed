@@ -16,8 +16,8 @@
       "KXGREENLANDPRICE-29JAN21-5B": "Will the U.S. pay between $1 billion and $9 billion for Greenland during Trump's term?",
       "KXGREENLANDPRICE-29JAN21-199B": "Will the U.S. pay between $100 billion and $299 billion for Greenland during Trump's term?"
     },
-    "first_seen_at": "2026-03-22T00:30:50.863662Z",
-    "last_api_seen": "2026-03-22T00:30:50.863662Z"
+    "first_seen_at": "2026-03-22T01:00:46.929818Z",
+    "last_api_seen": "2026-03-22T01:00:46.929818Z"
   },
   "history": [
     {
@@ -4125,31 +4125,31 @@
       }
     },
     {
-      "t": "2026-03-22T00:30:50Z",
+      "t": "2026-03-22T01:00:46Z",
       "metrics": {
-        "total_volume": 996083.0,
-        "prob_sum": 0.97,
+        "total_volume": 996906.0,
+        "prob_sum": 0.975,
         "outcome_count": 8,
-        "btc": 68822.9297,
+        "btc": 68902.8828,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2078.4368,
+        "eth": 2086.2192,
         "tvl": 0.0,
         "usdc": 0.0,
         "clob_depth": {
-          "bid_volume": 79488.0,
-          "ask_volume": 59109.0,
+          "bid_volume": 79167.0,
+          "ask_volume": 58285.0,
           "mid_price": 0.0,
           "spread_pct": 0.0,
-          "order_imbalance": 0.14703781467131324,
+          "order_imbalance": 0.1519221255420074,
           "success": true
         }
       },
       "outcomes": {
         "KXGREENLANDPRICE-29JAN21-NOACQ": {
-          "p": 0.765,
-          "v": 407867,
-          "l": 160832,
+          "p": 0.77,
+          "v": 408690,
+          "l": 161563,
           "sp": null
         },
         "KXGREENLANDPRICE-29JAN21-749B": {
@@ -4199,17 +4199,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 66.9,
+    "score": 66.7,
     "state": "Active",
-    "timestamp": "2026-03-22T00:30:50.863662Z"
+    "timestamp": "2026-03-22T01:00:46.929818Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 66.9,
+    "score": 66.7,
     "state": "Active",
-    "liq_score": 34.3,
+    "liq_score": 34.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 80.3
+    "conv_score": 79.7
   }
 }

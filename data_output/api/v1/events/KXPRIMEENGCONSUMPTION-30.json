@@ -18,8 +18,8 @@
       "KXPRIMEENGCONSUMPTION-30-COAL": "What will be the largest source of global primary energy consumption in 2030?",
       "KXPRIMEENGCONSUMPTION-30-BIOMASS": "What will be the largest source of global primary energy consumption in 2030?"
     },
-    "first_seen_at": "2026-03-22T00:30:50.863662Z",
-    "last_api_seen": "2026-03-22T00:30:50.863662Z"
+    "first_seen_at": "2026-03-22T01:00:46.929818Z",
+    "last_api_seen": "2026-03-22T01:00:46.929818Z"
   },
   "history": [
     {
@@ -5269,23 +5269,23 @@
       }
     },
     {
-      "t": "2026-03-22T00:30:50Z",
+      "t": "2026-03-22T01:00:46Z",
       "metrics": {
-        "total_volume": 73501.0,
-        "prob_sum": 1.0402,
+        "total_volume": 73551.0,
+        "prob_sum": 1.0202,
         "outcome_count": 10,
-        "btc": 68822.9297,
+        "btc": 68902.8828,
         "sp500": 648.57,
         "rates": 4.391,
-        "eth": 2078.4368,
+        "eth": 2086.2192,
         "tvl": 0.0,
         "usdc": 0.0
       },
       "outcomes": {
         "KXPRIMEENGCONSUMPTION-30-OIL": {
-          "p": 0.4,
-          "v": 29086,
-          "l": 7578,
+          "p": 0.38,
+          "v": 29136,
+          "l": 7541,
           "sp": null
         },
         "KXPRIMEENGCONSUMPTION-30-SOLAR": {
@@ -5347,17 +5347,17 @@
   ],
   "last_regime": "Active",
   "latest_analysis": {
-    "score": 72.9,
+    "score": 72.6,
     "state": "Active",
-    "timestamp": "2026-03-22T00:30:50.863662Z"
+    "timestamp": "2026-03-22T01:00:46.929818Z"
   },
   "last_flags": [],
   "analysis": {
-    "score": 72.9,
+    "score": 72.6,
     "state": "Active",
     "liq_score": 54.0,
     "eff_score": 12.5,
     "ind_score": 100.0,
-    "conv_score": 80.7
+    "conv_score": 79.7
   }
 }
