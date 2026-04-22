@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-22T23:31:42.043892Z",
+    "market_id": "KXCAGOVMATCHUP-26JUN",
+    "question": "California Governor matchup?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 28.7
+    }
+  },
+  {
     "timestamp": "2026-04-22T14:01:21.516969Z",
     "market_id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
@@ -532,17 +542,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 34.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Undervalued | Consensus",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 33.4,
       "macro_sensitivity": 0.0
     }
   }
