@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-22T14:01:21.516969Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
     "timestamp": "2026-04-22T13:31:38.575018Z",
     "market_id": "KXNEWSCOTUSCONF-29JAN20",
     "question": "How many Supreme Court justices will the President confirm?",
@@ -533,17 +543,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 33.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXNEWSCOTUSCONF-29JAN20",
-    "question": "How many Supreme Court justices will the President confirm?",
-    "from_regime": "Stable",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 58.3,
       "macro_sensitivity": 0.0
     }
   }
