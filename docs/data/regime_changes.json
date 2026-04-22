@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-22T13:31:38.575018Z",
+    "market_id": "KXNEWSCOTUSCONF-29JAN20",
+    "question": "How many Supreme Court justices will the President confirm?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 54.3
+    }
+  },
+  {
     "timestamp": "2026-04-22T06:31:51.546629Z",
     "market_id": "KXDOED-29",
     "question": "Will Trump abolish the Department of Education?",
@@ -534,17 +544,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 58.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXSCOURT-29",
-    "question": "Who will be the next Supreme Court justice?",
-    "from_regime": "Stable",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 57.2,
       "macro_sensitivity": 0.0
     }
   }
