@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-24T00:01:38.942586Z",
+    "market_id": "KXNEXTAG-29",
+    "question": "Who will be Trump's next Attorney General?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.5
+    }
+  },
+  {
     "timestamp": "2026-04-23T17:31:45.396302Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -530,17 +540,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 25.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXUKPARTY-29",
-    "question": "Which party will win the next UK general election?",
-    "from_regime": "Stable",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 51.1,
       "macro_sensitivity": 0.0
     }
   }
