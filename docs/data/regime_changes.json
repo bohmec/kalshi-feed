@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-24T13:31:36.569889Z",
+    "market_id": "KXCAGOVMATCHUP-26JUN",
+    "question": "California Governor matchup?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 39.1
+    }
+  },
+  {
     "timestamp": "2026-04-24T00:01:38.942586Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -529,17 +539,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 50.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXGDPUSMAX-28",
-    "question": "Will there be a Trump economic boom?",
-    "from_regime": "Chaos",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 25.4,
       "macro_sensitivity": 0.0
     }
   }
