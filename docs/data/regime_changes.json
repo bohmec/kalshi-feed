@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-25T10:31:41.757675Z",
+    "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
+    "question": "California Governor primary: 1st place",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 42.4
+    }
+  },
+  {
     "timestamp": "2026-04-24T22:31:26.376300Z",
     "market_id": "KXFEDCHAIRCONFIRM",
     "question": "Who will be confirmed as Fed chair?",
@@ -525,17 +535,6 @@
     "to_regime": "Calibrating",
     "metrics_snapshot": {
       "nexus_score": 71.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXH1B-29",
-    "question": "Will Trump expand the H1-B program?",
-    "from_regime": "Chaos",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 27.8,
       "macro_sensitivity": 0.0
     }
   }
