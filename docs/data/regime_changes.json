@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-25T11:31:32.876486Z",
+    "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
+    "question": "California Governor primary: 1st place",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.3
+    }
+  },
+  {
     "timestamp": "2026-04-25T10:31:41.757675Z",
     "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
     "question": "California Governor primary: 1st place",
@@ -524,17 +534,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 36.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXNEXTDHSSEC-29",
-    "question": "Who will be Trump's next DHS secretary?",
-    "from_regime": "Consensus",
-    "to_regime": "Calibrating",
-    "metrics_snapshot": {
-      "nexus_score": 71.7,
       "macro_sensitivity": 0.0
     }
   }
