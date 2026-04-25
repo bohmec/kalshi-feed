@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-04-25T18:31:41.031047Z",
+    "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
+    "question": "California Governor primary: 1st place",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 49.3
+    }
+  },
+  {
+    "timestamp": "2026-04-25T18:31:41.031047Z",
+    "market_id": "KXPRESPARTY-2028",
+    "question": "2028 Presidential Election winner? (Party)",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.5
+    }
+  },
+  {
     "timestamp": "2026-04-25T15:31:37.589517Z",
     "market_id": "KXPRESPARTY-2028",
     "question": "2028 Presidential Election winner? (Party)",
@@ -509,28 +529,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 24.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXDEBTGROWTH-28DEC31",
-    "question": "Peak US National Debt Under Trump Administration",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 24.3,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "CHINAUSGDP",
-    "question": "China overtakes USA\u2019s economy by 2030?",
-    "from_regime": "Stable",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 30.5,
       "macro_sensitivity": 0.0
     }
   }
