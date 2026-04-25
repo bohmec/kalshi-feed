@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-25T14:01:30.831842Z",
+    "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
+    "question": "California Governor primary: 1st place",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 42.0
+    }
+  },
+  {
     "timestamp": "2026-04-25T12:01:22.549193Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -522,17 +532,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 30.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXFEDEND-29",
-    "question": "Will Trump end the Federal Reserve?",
-    "from_regime": "Stable",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 42.2,
       "macro_sensitivity": 0.0
     }
   }
