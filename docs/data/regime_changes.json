@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-26T14:31:29.716707Z",
+    "market_id": "KXCANAL-29",
+    "question": "Will Trump take back the Panama Canal?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.4
+    }
+  },
+  {
     "timestamp": "2026-04-26T13:01:32.512291Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -515,17 +525,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 38.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXFTAPRC-29",
-    "question": "Will Trump make a new free trade agreement with China?",
-    "from_regime": "Chaos",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 24.2,
       "macro_sensitivity": 0.0
     }
   }
