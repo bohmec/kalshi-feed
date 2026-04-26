@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-26T10:31:39.442655Z",
+    "market_id": "KXFEDCHAIRCONFIRM",
+    "question": "Who will be confirmed as Fed chair?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.9
+    }
+  },
+  {
     "timestamp": "2026-04-25T18:31:41.031047Z",
     "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
     "question": "California Governor primary: 1st place",
@@ -518,17 +528,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 27.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXGOVTCUTS-28",
-    "question": "How much government spending will Trump cut before his term ends?",
-    "from_regime": "Undervalued",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 24.2,
       "macro_sensitivity": 0.0
     }
   }
