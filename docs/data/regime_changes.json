@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-26T22:01:41.797427Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.4
+    }
+  },
+  {
     "timestamp": "2026-04-26T15:31:33.837839Z",
     "market_id": "KXGTAPRICE",
     "question": "What will the price of GTA VI be on PS5?",
@@ -513,17 +523,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 37.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T01:53:31Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Overheated | High-Conflict",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 29.1,
       "macro_sensitivity": 0.0
     }
   }
