@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-27T03:01:51.115891Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.3
+    }
+  },
+  {
     "timestamp": "2026-04-26T22:01:41.797427Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -512,17 +522,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 42.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T02:01:14Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Volatile",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 37.9,
       "macro_sensitivity": 0.0
     }
   }
