@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-27T17:31:22.196959Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 40.1
+    }
+  },
+  {
     "timestamp": "2026-04-27T03:01:51.115891Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -511,17 +521,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 38.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T03:16:14Z",
-    "market_id": "KXBOND-30",
-    "question": "Who will be the next James Bond?",
-    "from_regime": "Volatile",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 42.5,
       "macro_sensitivity": 0.0
     }
   }
