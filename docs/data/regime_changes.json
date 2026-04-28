@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-04-28T13:01:19.837220Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.3
+    }
+  },
+  {
+    "timestamp": "2026-04-28T13:01:19.837220Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 42.2
+    }
+  },
+  {
+    "timestamp": "2026-04-28T13:01:19.837220Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 8.7
+    }
+  },
+  {
     "timestamp": "2026-04-28T01:31:29.930770Z",
     "market_id": "POWER-28",
     "question": "2028: Who will win the Presidency, House, and Senate?",
@@ -487,39 +517,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 37.8,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T06:00:40Z",
-    "market_id": "KXCABOUT-26MAR",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 33.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T05:30:43Z",
-    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
-    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
-    "from_regime": "Fragile",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 50.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T05:30:43Z",
-    "market_id": "KXBOND-30",
-    "question": "Who will be the next James Bond?",
-    "from_regime": "Volatile",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 44.2,
       "macro_sensitivity": 0.0
     }
   }
