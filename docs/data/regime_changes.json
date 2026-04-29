@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-29T22:01:49.194650Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.7
+    }
+  },
+  {
     "timestamp": "2026-04-28T13:01:19.837220Z",
     "market_id": "KXDOED-29",
     "question": "Will Trump abolish the Department of Education?",
@@ -506,17 +516,6 @@
     "to_regime": "Volatile | Fragile",
     "metrics_snapshot": {
       "nexus_score": 32.4,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T06:00:40Z",
-    "market_id": "KXBOND-30",
-    "question": "Who will be the next James Bond?",
-    "from_regime": "Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 37.8,
       "macro_sensitivity": 0.0
     }
   }
