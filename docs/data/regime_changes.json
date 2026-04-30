@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-30T18:31:38.289460Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.5
+    }
+  },
+  {
     "timestamp": "2026-04-30T13:31:34.761141Z",
     "market_id": "KXAGENCYELIM-29",
     "question": "Which agencies will Trump eliminate?",
@@ -501,17 +511,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 40.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T12:00:49Z",
-    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
-    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
-    "from_regime": "Active",
-    "to_regime": "Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 48.9,
       "macro_sensitivity": 0.0
     }
   }
