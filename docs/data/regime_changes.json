@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-04-30T13:31:34.761141Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 50.0
+    }
+  },
+  {
+    "timestamp": "2026-04-30T13:31:34.761141Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.9
+    }
+  },
+  {
+    "timestamp": "2026-04-30T13:31:34.761141Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.9
+    }
+  },
+  {
     "timestamp": "2026-04-30T13:01:33.951425Z",
     "market_id": "KXTRUMPPARDONS-29JAN21",
     "question": "Who will Trump pardon?",
@@ -482,39 +512,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 48.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T10:00:45Z",
-    "market_id": "KXCABOUT-26MAR",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Volatile",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 31.6,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T09:30:49Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 37.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T09:30:49Z",
-    "market_id": "KXCABOUT-26MAR",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Volatile | Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 30.5,
       "macro_sensitivity": 0.0
     }
   }
