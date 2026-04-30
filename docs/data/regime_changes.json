@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-30T13:01:33.951425Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.8
+    }
+  },
+  {
     "timestamp": "2026-04-29T22:01:49.194650Z",
     "market_id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?",
@@ -505,17 +515,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 30.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T08:00:39Z",
-    "market_id": "KXCABOUT-26MAR",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Volatile",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 32.4,
       "macro_sensitivity": 0.0
     }
   }
