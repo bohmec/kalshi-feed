@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-02T23:31:05.092273Z",
+    "market_id": "KXIMPEACH-29",
+    "question": "Will President Trump be impeached during his term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.8
+    }
+  },
+  {
     "timestamp": "2026-04-30T18:31:38.289460Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -500,17 +510,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 34.1,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T12:30:55Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Volatile | Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 40.2,
       "macro_sensitivity": 0.0
     }
   }
