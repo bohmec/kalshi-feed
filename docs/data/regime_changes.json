@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-03T12:31:45.006378Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.7
+    }
+  },
+  {
     "timestamp": "2026-05-03T11:01:57.642268Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -496,17 +506,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 38.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T14:00:53Z",
-    "market_id": "KXTAIWANLVL4",
-    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
-    "from_regime": "Volatile | Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 26.0,
       "macro_sensitivity": 0.0
     }
   }
