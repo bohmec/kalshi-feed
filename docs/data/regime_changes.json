@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-05-03T15:01:44.395305Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.3
+    }
+  },
+  {
+    "timestamp": "2026-05-03T15:01:44.395305Z",
+    "market_id": "KXIMPEACH-29",
+    "question": "Will President Trump be impeached during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.3
+    }
+  },
+  {
     "timestamp": "2026-05-03T14:31:49.376575Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -481,28 +501,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 25.2,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T17:01:02Z",
-    "market_id": "KXTAIWANLVL4",
-    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
-    "from_regime": "Volatile",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 24.7,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T15:01:04Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 35.4,
       "macro_sensitivity": 0.0
     }
   }
