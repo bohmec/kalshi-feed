@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-03T06:31:48.825927Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.3
+    }
+  },
+  {
     "timestamp": "2026-05-02T23:31:05.092273Z",
     "market_id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?",
@@ -499,17 +509,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 49.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T12:30:55Z",
-    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
-    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
-    "from_regime": "Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 34.1,
       "macro_sensitivity": 0.0
     }
   }
