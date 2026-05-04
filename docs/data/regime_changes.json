@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-05-04T14:02:12.317687Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 8.0
+    }
+  },
+  {
+    "timestamp": "2026-05-04T14:02:12.317687Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.7
+    }
+  },
+  {
     "timestamp": "2026-05-04T05:32:06.019071Z",
     "market_id": "KXGDPUSMAX-28",
     "question": "Will there be a Trump economic boom?",
@@ -478,28 +498,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 24.9,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-20T02:00:57Z",
-    "market_id": "KXSWIFTKELCEWEDDINGLOCATION-30",
-    "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
-    "from_regime": "Fragile",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 37.0,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-19T23:30:50Z",
-    "market_id": "KXTAIWANLVL4",
-    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
-    "from_regime": "Volatile",
-    "to_regime": "Volatile | Fragile",
-    "metrics_snapshot": {
-      "nexus_score": 24.6,
       "macro_sensitivity": 0.0
     }
   }
