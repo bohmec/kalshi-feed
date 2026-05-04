@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-04T16:01:22.701297Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.9
+    }
+  },
+  {
     "timestamp": "2026-05-04T14:02:12.317687Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -487,17 +497,6 @@
     "to_regime": "Fragile",
     "metrics_snapshot": {
       "nexus_score": 47.5,
-      "macro_sensitivity": 0.0
-    }
-  },
-  {
-    "timestamp": "2026-03-20T02:30:53Z",
-    "market_id": "KXTAIWANLVL4",
-    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
-    "from_regime": "Volatile | Fragile",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 24.9,
       "macro_sensitivity": 0.0
     }
   }
