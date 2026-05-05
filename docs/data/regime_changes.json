@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-05T13:02:09.804413Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.0
+    }
+  },
+  {
     "timestamp": "2026-05-04T17:31:12.771639Z",
     "market_id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 54.3
-    }
-  },
-  {
-    "timestamp": "2026-04-22T06:31:51.546629Z",
-    "market_id": "KXDOED-29",
-    "question": "Will Trump abolish the Department of Education?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 51.7
     }
   }
 ]
