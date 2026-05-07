@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-07T10:02:00.186194Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.1
+    }
+  },
+  {
     "timestamp": "2026-05-05T14:02:04.306825Z",
     "market_id": "KXOSCARPIC-27",
     "question": "Oscar for Best Picture?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.1
-    }
-  },
-  {
-    "timestamp": "2026-04-22T23:31:42.043892Z",
-    "market_id": "KXCAGOVMATCHUP-26JUN",
-    "question": "California Governor matchup?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 28.7
     }
   }
 ]
