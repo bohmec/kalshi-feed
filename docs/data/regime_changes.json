@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-05-07T13:01:38.907224Z",
+    "market_id": "KXOSCARPIC-27",
+    "question": "Oscar for Best Picture?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.8
+    }
+  },
+  {
+    "timestamp": "2026-05-07T13:01:38.907224Z",
+    "market_id": "KXPRESNOMD-28",
+    "question": "2028 Democratic presidential nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.8
+    }
+  },
+  {
+    "timestamp": "2026-05-07T13:01:38.907224Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
+    "timestamp": "2026-05-07T13:01:38.907224Z",
+    "market_id": "KXGREENLANDPRICE-29JAN21",
+    "question": "How much will the US acquire Greenland for?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.7
+    }
+  },
+  {
     "timestamp": "2026-05-07T10:02:00.186194Z",
     "market_id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?",
@@ -457,46 +497,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 60.0
-    }
-  },
-  {
-    "timestamp": "2026-04-24T14:31:35.053599Z",
-    "market_id": "KXCANAL-29",
-    "question": "Will Trump take back the Panama Canal?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.0
-    }
-  },
-  {
-    "timestamp": "2026-04-24T13:31:36.569889Z",
-    "market_id": "KXCAGOVMATCHUP-26JUN",
-    "question": "California Governor matchup?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 39.1
-    }
-  },
-  {
-    "timestamp": "2026-04-24T00:01:38.942586Z",
-    "market_id": "KXNEXTAG-29",
-    "question": "Who will be Trump's next Attorney General?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.5
-    }
-  },
-  {
-    "timestamp": "2026-04-23T17:31:45.396302Z",
-    "market_id": "KXNEXTAG-29",
-    "question": "Who will be Trump's next Attorney General?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.1
     }
   }
 ]
