@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-08T13:01:28.400825Z",
+    "market_id": "KXPRESPARTY-2028",
+    "question": "2028 Presidential Election winner? (Party)",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.8
+    }
+  },
+  {
     "timestamp": "2026-05-07T13:01:38.907224Z",
     "market_id": "KXOSCARPIC-27",
     "question": "Oscar for Best Picture?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 11.4
-    }
-  },
-  {
-    "timestamp": "2026-04-24T22:31:26.376300Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 60.0
     }
   }
 ]
