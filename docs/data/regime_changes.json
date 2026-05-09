@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-09T17:31:25.037550Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 24.0
+    }
+  },
+  {
     "timestamp": "2026-05-09T14:31:09.579762Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 42.0
-    }
-  },
-  {
-    "timestamp": "2026-04-25T12:01:22.549193Z",
-    "market_id": "KXUKPARTY-29",
-    "question": "Which party will win the next UK general election?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 43.2
     }
   }
 ]
