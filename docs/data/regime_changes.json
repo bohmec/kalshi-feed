@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-09T12:31:07.023295Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.7
+    }
+  },
+  {
     "timestamp": "2026-05-08T13:01:28.400825Z",
     "market_id": "KXPRESPARTY-2028",
     "question": "2028 Presidential Election winner? (Party)",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 42.4
-    }
-  },
-  {
-    "timestamp": "2026-04-24T22:31:26.376300Z",
-    "market_id": "KXFEDCHAIRCONFIRM",
-    "question": "Who will be confirmed as Fed chair?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 11.4
     }
   }
 ]
