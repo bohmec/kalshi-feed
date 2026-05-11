@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-11T19:01:38.229942Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.8
+    }
+  },
+  {
     "timestamp": "2026-05-10T13:30:58.836548Z",
     "market_id": "KXNEXTUKPM-30",
     "question": "Who will be the next Prime Minister of the UK?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.9
-    }
-  },
-  {
-    "timestamp": "2026-04-25T18:31:41.031047Z",
-    "market_id": "KXCAGOVPRIMARY1ST-26JUN02-1ST",
-    "question": "California Governor primary: 1st place",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 49.3
     }
   }
 ]
