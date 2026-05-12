@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-12T20:02:02.672362Z",
+    "market_id": "KXNEXTUKPM-30",
+    "question": "Who will be the next Prime Minister of the UK?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.7
+    }
+  },
+  {
     "timestamp": "2026-05-12T19:02:01.186092Z",
     "market_id": "KXNEXTUKPM-30",
     "question": "Who will be the next Prime Minister of the UK?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.4
-    }
-  },
-  {
-    "timestamp": "2026-04-26T13:01:32.512291Z",
-    "market_id": "KXUKPARTY-29",
-    "question": "Which party will win the next UK general election?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 53.5
     }
   }
 ]
