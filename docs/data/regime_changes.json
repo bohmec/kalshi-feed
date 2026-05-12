@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-12T19:02:01.186092Z",
+    "market_id": "KXNEXTUKPM-30",
+    "question": "Who will be the next Prime Minister of the UK?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.7
+    }
+  },
+  {
     "timestamp": "2026-05-12T14:02:01.304627Z",
     "market_id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 53.5
-    }
-  },
-  {
-    "timestamp": "2026-04-26T13:01:32.512291Z",
-    "market_id": "KXGTAPRICE",
-    "question": "What will the price of GTA VI be on PS5?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 12.6
     }
   }
 ]
