@@ -3,13 +3,13 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Gavin Newsom be the Democratic Presidential nominee in 2028?",
     "current_price": 0.245,
-    "volume": 105084282,
+    "volume": 105084823,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.245
@@ -39,13 +39,13 @@
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
     "current_price": 0.345,
-    "volume": 40490226,
+    "volume": 40490639,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.345
@@ -75,7 +75,7 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.195,
-    "volume": 36038598,
+    "volume": 36038915,
     "nexus_score": 15.2,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
@@ -83,7 +83,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.24,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.205
@@ -112,14 +112,14 @@
   {
     "id": "KXCITRINI-28JUL01",
     "question": "Will the Citrini scenario happen?: Will the number of unemployment rate exceeds 10% (monthly BLS); S&P 500 declines more than 30% from its closing level on Issuance; Zillow Home Value Index declines more than 10% YoY in any of: NYC, LA, San Francisco, Chicago, Houston, Phoenix; labor share of gross domestic income (GDI) first-release value for any quarter falls below 50%; CPI-U (All items, not seasonally-adjusted) YoY falls below 0% in any monthly release during before July 2028 be above 2?",
-    "current_price": 0.245,
-    "volume": 25801171,
-    "nexus_score": 22.5,
+    "current_price": 0.24,
+    "volume": 25801340,
+    "nexus_score": 22.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.245
@@ -134,13 +134,13 @@
         "p": 0.245
       },
       {
-        "p": 0.245
+        "p": 0.24
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 8.3,
+    "c4": 8.0,
     "slug": "KXCITRINI-28JUL01",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -149,13 +149,13 @@
     "id": "KXFEDCHAIRCONFIRM",
     "question": "Who will be confirmed as Fed chair?: Will Kevin Warsh be confirmed as chair of the Board of Governors of the Federal Reserve System before Jan 1, 2029?",
     "current_price": 0.9975,
-    "volume": 7992634,
+    "volume": 8002529,
     "nexus_score": 17.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.9965
@@ -164,7 +164,7 @@
         "p": 0.9965
       },
       {
-        "p": 0.9975
+        "p": 0.997
       },
       {
         "p": 0.9975
@@ -185,13 +185,13 @@
     "id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?: Who will be Trump's next Attorney General?",
     "current_price": 0.48,
-    "volume": 6666137,
+    "volume": 6666168,
     "nexus_score": 17.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.465
@@ -220,14 +220,14 @@
   {
     "id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?: :: During Trump's term",
-    "current_price": 0.26,
+    "current_price": 0.255,
     "volume": 4686504,
     "nexus_score": 23.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.255
@@ -242,7 +242,7 @@
         "p": 0.255
       },
       {
-        "p": 0.26
+        "p": 0.255
       }
     ],
     "c1": 0.0,
@@ -257,13 +257,13 @@
     "id": "KXGREENTERRITORY-29",
     "question": "Will the US take control of any part of Greenland?: Will the United States acquire any part of Greenland before 2029?",
     "current_price": 0.33,
-    "volume": 3051905,
+    "volume": 3052205,
     "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.335
@@ -293,13 +293,13 @@
     "id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee: Will Gretchen Whitmer be the nominee for the Vice Presidency for the Democratic party?",
     "current_price": 0.0975,
-    "volume": 1572474,
+    "volume": 1572485,
     "nexus_score": 22.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.0975
@@ -329,13 +329,13 @@
     "id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?: Will there be no U.S. acquisition of Greenland during Trump's term?",
     "current_price": 0.815,
-    "volume": 1249108,
+    "volume": 1249153,
     "nexus_score": 24.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.815
@@ -364,14 +364,14 @@
   {
     "id": "KXSWIFTKELCEWEDDINGLOCATION-30",
     "question": "Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?: Where will Taylor Swift and Travis Kelce\u2019s Wedding occur?",
-    "current_price": 0.705,
-    "volume": 1140747,
+    "current_price": 0.545,
+    "volume": 1148609,
     "nexus_score": 23.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.675
@@ -380,13 +380,13 @@
         "p": 0.675
       },
       {
-        "p": 0.685
-      },
-      {
         "p": 0.69
       },
       {
-        "p": 0.705
+        "p": 0.695
+      },
+      {
+        "p": 0.545
       }
     ],
     "c1": 0.0,
@@ -407,7 +407,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.255
@@ -416,7 +416,7 @@
         "p": 0.255
       },
       {
-        "p": 0.26
+        "p": 0.265
       },
       {
         "p": 0.265
@@ -436,29 +436,29 @@
   {
     "id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?: Will any part of Venezuela be the 51st U.S. state before Jan 20, 2029?",
-    "current_price": 0.054,
-    "volume": 869328,
+    "current_price": 0.0555,
+    "volume": 869821,
     "nexus_score": 22.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
-        "p": 0.0575
+        "p": 0.0525
       },
       {
-        "p": 0.0485
+        "p": 0.0465
       },
       {
         "p": 0.0475
       },
       {
-        "p": 0.0515
+        "p": 0.0455
       },
       {
-        "p": 0.054
+        "p": 0.0555
       }
     ],
     "c1": 0.0,
@@ -481,7 +481,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.95
@@ -519,10 +519,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
-        "p": 0.48
+        "p": 0.475
       },
       {
         "p": 0.495
@@ -531,7 +531,7 @@
         "p": 0.5
       },
       {
-        "p": 0.5
+        "p": 0.505
       },
       {
         "p": 0.505
@@ -549,7 +549,7 @@
     "id": "KXNEXTUKPM-30",
     "question": "Who will be the next Prime Minister of the UK?: Will Andy Burnham be the next Prime Minister of United Kingdom?",
     "current_price": 0.34,
-    "volume": 578426,
+    "volume": 578469,
     "nexus_score": 16.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -557,13 +557,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.345
       },
       {
-        "p": 0.285
+        "p": 0.3
       },
       {
         "p": 0.32
@@ -587,7 +587,7 @@
     "id": "KXGTAPRICE",
     "question": "What will the price of GTA VI be on PS5?: What will the price of GTA VI be?",
     "current_price": 0.97,
-    "volume": 577251,
+    "volume": 577413,
     "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -595,7 +595,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.975
@@ -625,13 +625,13 @@
     "id": "KXOSCARPIC-27",
     "question": "Oscar for Best Picture?: The Odyssey::",
     "current_price": 0.225,
-    "volume": 553907,
+    "volume": 554034,
     "nexus_score": 23.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.225
@@ -667,7 +667,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.315
@@ -697,15 +697,15 @@
     "id": "KX2028DRUN-28",
     "question": "Who will run for the Democratic presidential nomination in 2028?: Who will run for the Democratic presidential nomination in 2028?",
     "current_price": 0.865,
-    "volume": 522427,
-    "nexus_score": 23.4,
+    "volume": 522932,
+    "nexus_score": 23.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.865
@@ -741,7 +741,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.615
@@ -777,7 +777,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.205
@@ -813,7 +813,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.0705
@@ -849,7 +849,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.08,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.53
@@ -887,7 +887,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.905
@@ -923,7 +923,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.355
@@ -953,13 +953,13 @@
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
     "current_price": 0.635,
-    "volume": 325606,
-    "nexus_score": 21.9,
+    "volume": 325684,
+    "nexus_score": 22.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.635
@@ -980,7 +980,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 6.3,
+    "c4": 6.7,
     "slug": "KXIMPEACH-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -997,7 +997,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.15
@@ -1027,7 +1027,7 @@
     "id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.495,
-    "volume": 293704,
+    "volume": 293767,
     "nexus_score": 23.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -1035,7 +1035,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.495
@@ -1073,7 +1073,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.55
@@ -1111,7 +1111,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.795
@@ -1147,7 +1147,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.07
@@ -1177,13 +1177,13 @@
     "id": "KXTRILLIONAIRE-30",
     "question": "Who will be the world's first trillionaire?: Will Elon Musk be the world's first trillionaire?",
     "current_price": 0.905,
-    "volume": 259151,
+    "volume": 259201,
     "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.905
@@ -1219,7 +1219,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.745
@@ -1249,13 +1249,13 @@
     "id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?: Volodymyr Zelenskyy and Vladimir Putin meet before Jan 20, 2029?",
     "current_price": 0.475,
-    "volume": 229495,
+    "volume": 229496,
     "nexus_score": 21.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.465
@@ -1285,13 +1285,13 @@
     "id": "POWER-28",
     "question": "2028: Who will win the Presidency, House, and Senate?: :: D-House, D-Senate, D-President",
     "current_price": 0.425,
-    "volume": 225142,
+    "volume": 225513,
     "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.415
@@ -1327,7 +1327,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.095
@@ -1363,7 +1363,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.185
@@ -1399,10 +1399,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
-        "p": 0.455
+        "p": 0.445
       },
       {
         "p": 0.435
@@ -1435,7 +1435,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.33
@@ -1471,7 +1471,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.4
@@ -1501,13 +1501,13 @@
     "id": "KXGDPUSMAX-28",
     "question": "Will there be a Trump economic boom?: Will quarterly GDP be above 5% in any quarter in Q1 2025 to Q4 2028?",
     "current_price": 0.525,
-    "volume": 158015,
-    "nexus_score": 57.6,
+    "volume": 158016,
+    "nexus_score": 58.8,
     "market_state": "Active",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.528
@@ -1526,7 +1526,7 @@
       }
     ],
     "c1": 57.7,
-    "c2": 17.7,
+    "c2": 18.9,
     "c3": 100.0,
     "c4": 8.3,
     "slug": "KXGDPUSMAX-28",
@@ -1538,12 +1538,12 @@
     "question": "2026: Trump's bad year?: Will the bear case for Trump occur in 2026?",
     "current_price": 0.175,
     "volume": 150750,
-    "nexus_score": 47.5,
+    "nexus_score": 47.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.155
@@ -1555,7 +1555,7 @@
         "p": 0.18
       },
       {
-        "p": 0.175
+        "p": 0.17
       },
       {
         "p": 0.175
@@ -1579,7 +1579,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.215
@@ -1609,15 +1609,15 @@
     "id": "KXAVGMEASLESDJT-29",
     "question": "What will the average number of measles cases be during Trump's term?: What will the average number of measles cases be during the Trump Administration?",
     "current_price": 0.995,
-    "volume": 143160,
-    "nexus_score": 47.0,
+    "volume": 143667,
+    "nexus_score": 47.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.995
@@ -1648,14 +1648,14 @@
     "question": "Will a cabinet member be impeached?: Will any member of the Cabinet (defined as: the Vice President, Secretary of State, Secretary of the Treasury, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Labor, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Transportation, Secretary of Energy, Secretary of Education, Secretary of Veterans Affairs, Secretary of Homeland Security, Administrator of the Environmental Protection Agency, Director of the Office of Management and Budget, Director of National Intelligence, Trade Representative, Administrator of the Small Business Administration, White House Chief of Staff) be impeached before Jan 20, 2029?",
     "current_price": 0.65,
     "volume": 138521,
-    "nexus_score": 47.1,
+    "nexus_score": 47.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.655
@@ -1674,9 +1674,9 @@
       }
     ],
     "c1": 57.0,
-    "c2": 8.8,
+    "c2": 8.7,
     "c3": 100.0,
-    "c4": 3.7,
+    "c4": 4.0,
     "slug": "KXIMPEACHCABINET",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1691,7 +1691,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.155
@@ -1727,7 +1727,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.24
@@ -1763,7 +1763,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.06,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.525
@@ -1794,12 +1794,12 @@
     "question": "Will the US take control of any part of Canada?: Will the United States acquire any part of Canada before 2029?",
     "current_price": 0.145,
     "volume": 123036,
-    "nexus_score": 53.5,
+    "nexus_score": 53.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-05-12T05:31:37Z",
+    "last_updated": "2026-05-12T06:01:47Z",
     "sparkline": [
       {
         "p": 0.125
