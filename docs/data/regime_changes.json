@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-14T17:02:17.012626Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 24.1
+    }
+  },
+  {
     "timestamp": "2026-05-14T14:02:10.564732Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.7
-    }
-  },
-  {
-    "timestamp": "2026-04-28T13:01:19.837220Z",
-    "market_id": "KXDOED-29",
-    "question": "Will Trump abolish the Department of Education?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 48.3
     }
   }
 ]
