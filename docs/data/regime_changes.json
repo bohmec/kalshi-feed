@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-14T02:31:47.188212Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 17.1
+    }
+  },
+  {
     "timestamp": "2026-05-13T23:01:51.645746Z",
     "market_id": "KXAMEND25-29",
     "question": "Will the 25th Amendment be used during Trump's Presidency?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 40.1
-    }
-  },
-  {
-    "timestamp": "2026-04-27T03:01:51.115891Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.3
     }
   }
 ]
