@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-14T12:31:54.411135Z",
+    "market_id": "KXAMEND25-29",
+    "question": "Will the 25th Amendment be used during Trump's Presidency?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 52.6
+    }
+  },
+  {
     "timestamp": "2026-05-14T02:31:47.188212Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.6
-    }
-  },
-  {
-    "timestamp": "2026-04-27T17:31:22.196959Z",
-    "market_id": "KXDOED-29",
-    "question": "Will Trump abolish the Department of Education?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 40.1
     }
   }
 ]
