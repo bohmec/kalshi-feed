@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-15T01:01:57.342558Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 17.1
+    }
+  },
+  {
     "timestamp": "2026-05-14T17:02:17.012626Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.8
-    }
-  },
-  {
-    "timestamp": "2026-04-29T22:01:49.194650Z",
-    "market_id": "KXPRESPERSON-28",
-    "question": "2028 U.S. Presidential Election winner?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.7
     }
   }
 ]
