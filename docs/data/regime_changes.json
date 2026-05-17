@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-17T02:01:46.468772Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.0
+    }
+  },
+  {
     "timestamp": "2026-05-15T13:32:07.812515Z",
     "market_id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 50.0
-    }
-  },
-  {
-    "timestamp": "2026-04-30T13:31:34.761141Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.9
     }
   }
 ]
