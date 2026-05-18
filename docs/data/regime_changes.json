@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-18T16:32:17.166998Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.9
+    }
+  },
+  {
     "timestamp": "2026-05-18T15:31:57.215120Z",
     "market_id": "KXSPACEXBANKPUBLIC-28JAN01",
     "question": "Which bank will take SpaceX public?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.3
-    }
-  },
-  {
-    "timestamp": "2026-05-03T15:01:44.395305Z",
-    "market_id": "KXIMPEACH-29",
-    "question": "Will President Trump be impeached during his term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.3
     }
   }
 ]
