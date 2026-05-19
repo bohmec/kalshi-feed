@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-19T15:01:25.026954Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.8
+    }
+  },
+  {
     "timestamp": "2026-05-19T13:31:12.387453Z",
     "market_id": "KXSPACEXBANKPUBLIC-28JAN01",
     "question": "Which bank will take SpaceX public?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 20.9
-    }
-  },
-  {
-    "timestamp": "2026-05-04T14:02:12.317687Z",
-    "market_id": "KXTRUMPRESIGN",
-    "question": "Will Trump resign during his term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 8.0
     }
   }
 ]
