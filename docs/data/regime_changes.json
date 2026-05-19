@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-19T03:31:05.804232Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.2
+    }
+  },
+  {
     "timestamp": "2026-05-18T16:32:17.166998Z",
     "market_id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 62.3
-    }
-  },
-  {
-    "timestamp": "2026-05-03T15:01:44.395305Z",
-    "market_id": "KXTRUMPRESIGN",
-    "question": "Will Trump resign during his term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.3
     }
   }
 ]
