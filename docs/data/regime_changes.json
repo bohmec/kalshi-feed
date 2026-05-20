@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-20T16:31:54.429466Z",
+    "market_id": "KX2028DRUN-28",
+    "question": "Who will run for the Democratic presidential nomination in 2028?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.3
+    }
+  },
+  {
     "timestamp": "2026-05-20T15:31:13.415923Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.1
-    }
-  },
-  {
-    "timestamp": "2026-05-05T14:02:04.306825Z",
-    "market_id": "KXOSCARPIC-27",
-    "question": "Oscar for Best Picture?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 9.1
     }
   }
 ]
