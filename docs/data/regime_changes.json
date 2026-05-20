@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-05-20T15:31:13.415923Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
+    "timestamp": "2026-05-20T15:31:13.415923Z",
+    "market_id": "KXGREENLANDPRICE-29JAN21",
+    "question": "How much will the US acquire Greenland for?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.1
+    }
+  },
+  {
     "timestamp": "2026-05-19T17:31:12.238493Z",
     "market_id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 9.1
-    }
-  },
-  {
-    "timestamp": "2026-05-05T14:02:04.306825Z",
-    "market_id": "KXGREENLANDPRICE-29JAN21",
-    "question": "How much will the US acquire Greenland for?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.6
-    }
-  },
-  {
-    "timestamp": "2026-05-05T13:02:09.804413Z",
-    "market_id": "KXTRUMPRESIGN",
-    "question": "Will Trump resign during his term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.0
     }
   }
 ]
