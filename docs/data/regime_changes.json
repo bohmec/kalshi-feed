@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-23T22:31:33.113041Z",
+    "market_id": "KXPRIMEENGCONSUMPTION-30",
+    "question": "What will be the largest source of global primary energy consumption in 2030?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 43.9
+    }
+  },
+  {
     "timestamp": "2026-05-23T19:01:31.972630Z",
     "market_id": "KXAMEND25-29",
     "question": "Will the 25th Amendment be used during Trump's Presidency?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.3
-    }
-  },
-  {
-    "timestamp": "2026-05-09T13:01:18.510859Z",
-    "market_id": "KXUKPARTY-29",
-    "question": "Which party will win the next UK general election?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.4
     }
   }
 ]
