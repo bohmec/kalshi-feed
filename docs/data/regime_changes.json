@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-26T02:01:46.361915Z",
+    "market_id": "KXCANAL-29",
+    "question": "Will Trump take back the Panama Canal?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.3
+    }
+  },
+  {
     "timestamp": "2026-05-25T13:31:34.619709Z",
     "market_id": "KXGDPUSMAX-28",
     "question": "Will there be a Trump economic boom?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.7
-    }
-  },
-  {
-    "timestamp": "2026-05-12T19:02:01.186092Z",
-    "market_id": "KXNEXTUKPM-30",
-    "question": "Who will be the next Prime Minister of the UK?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.7
     }
   }
 ]
