@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-27T01:31:44.957037Z",
+    "market_id": "KXNEXTAG-29",
+    "question": "Who will be Trump's next Attorney General?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
     "timestamp": "2026-05-27T00:01:55.932719Z",
     "market_id": "KXINSURRECTION-29",
     "question": "Will Trump invoke the Insurrection Act?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.8
-    }
-  },
-  {
-    "timestamp": "2026-05-15T01:01:57.342558Z",
-    "market_id": "KXVPRESNOMD-28",
-    "question": "2028 Democratic VP nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 17.1
     }
   }
 ]
