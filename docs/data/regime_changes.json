@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-05-27T18:01:58.249580Z",
+    "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
+    "question": "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 37.5
+    }
+  },
+  {
+    "timestamp": "2026-05-27T18:01:58.249580Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 30.1
+    }
+  },
+  {
+    "timestamp": "2026-05-27T18:01:58.249580Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.3
+    }
+  },
+  {
     "timestamp": "2026-05-27T14:31:43.296225Z",
     "market_id": "KXVPRESNOMR-28",
     "question": "2028 Republican VP nominee",
@@ -467,36 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 44.2
-    }
-  },
-  {
-    "timestamp": "2026-05-17T02:31:48.263968Z",
-    "market_id": "KXPRESMATCHUP-28NOV07",
-    "question": "2028 Presidential matchup",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 47.1
-    }
-  },
-  {
-    "timestamp": "2026-05-17T02:31:48.263968Z",
-    "market_id": "KXCANTERRITORY-29",
-    "question": "Will the US take control of any part of Canada?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 46.0
-    }
-  },
-  {
-    "timestamp": "2026-05-17T02:31:48.263968Z",
-    "market_id": "KXVPRESNOMR-28",
-    "question": "2028 Republican VP nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.9
     }
   }
 ]
