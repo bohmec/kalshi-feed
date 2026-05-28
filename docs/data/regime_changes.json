@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-28T14:31:21.640103Z",
+    "market_id": "KXLAMAYORADVANCE-26JUN02",
+    "question": "Who will advance in the Los Angeles mayoral election?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 11.6
+    }
+  },
+  {
     "timestamp": "2026-05-27T23:01:43.955348Z",
     "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
     "question": "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 54.6
-    }
-  },
-  {
-    "timestamp": "2026-05-17T18:01:46.667400Z",
-    "market_id": "KXCANTERRITORY-29",
-    "question": "Will the US take control of any part of Canada?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 58.0
     }
   }
 ]
