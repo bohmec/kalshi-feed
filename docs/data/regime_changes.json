@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-29T14:31:20.712463Z",
+    "market_id": "KXLAMAYORADVANCE-26JUN02",
+    "question": "Who will advance in the Los Angeles mayoral election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.1
+    }
+  },
+  {
     "timestamp": "2026-05-29T14:01:18.437669Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.8
-    }
-  },
-  {
-    "timestamp": "2026-05-19T03:31:05.804232Z",
-    "market_id": "KXVPRESNOMD-28",
-    "question": "2028 Democratic VP nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.2
     }
   }
 ]
