@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-30T12:01:43.209436Z",
+    "market_id": "KXNEXTODNI-29",
+    "question": "Who will be Trump's next Director of National Intelligence?",
+    "from_regime": "Active",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.8
+    }
+  },
+  {
     "timestamp": "2026-05-30T05:01:39.213583Z",
     "market_id": "KXMAKERFIELDBY-27JAN01",
     "question": "Makerfield by-election winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.3
-    }
-  },
-  {
-    "timestamp": "2026-05-20T15:31:13.415923Z",
-    "market_id": "KXPRESNOMR-28",
-    "question": "2028 Republican presidential nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.6
     }
   }
 ]
