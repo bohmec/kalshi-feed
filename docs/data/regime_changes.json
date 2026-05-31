@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-31T07:01:43.407807Z",
+    "market_id": "KXLAMAYORADVANCE-26JUN02",
+    "question": "Who will advance in the Los Angeles mayoral election?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 12.1
+    }
+  },
+  {
     "timestamp": "2026-05-30T21:31:42.628301Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.5
-    }
-  },
-  {
-    "timestamp": "2026-05-21T16:31:55.613458Z",
-    "market_id": "KX2028DRUN-28",
-    "question": "Who will run for the Democratic presidential nomination in 2028?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.7
     }
   }
 ]
