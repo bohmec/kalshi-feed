@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-31T17:01:48.747148Z",
+    "market_id": "KXGREENLANDPRICE-29JAN21",
+    "question": "How much will the US acquire Greenland for?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.3
+    }
+  },
+  {
     "timestamp": "2026-05-31T15:31:47.691324Z",
     "market_id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 50.4
-    }
-  },
-  {
-    "timestamp": "2026-05-23T22:31:33.113041Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 43.9
     }
   }
 ]
