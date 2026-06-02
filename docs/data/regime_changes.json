@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-02T17:31:37.302586Z",
+    "market_id": "KX2028DRUN-28",
+    "question": "Who will run for the Democratic presidential nomination in 2028?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-06-02T13:31:40.303170Z",
     "market_id": "KXUSAEXPANDTERRITORY",
     "question": "Will the US acquire any new territory?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 13.1
-    }
-  },
-  {
-    "timestamp": "2026-05-26T19:31:46.237763Z",
-    "market_id": "KXVPRESNOMR-28",
-    "question": "2028 Republican VP nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.5
     }
   }
 ]
