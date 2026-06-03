@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-03T06:01:35.619997Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.3
+    }
+  },
+  {
     "timestamp": "2026-06-03T05:31:38.660447Z",
     "market_id": "KXTRUMPPARDONS-29JAN21",
     "question": "Who will Trump pardon?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 34.0
-    }
-  },
-  {
-    "timestamp": "2026-05-27T01:31:44.957037Z",
-    "market_id": "KXNEXTAG-29",
-    "question": "Who will be Trump's next Attorney General?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.6
     }
   }
 ]
