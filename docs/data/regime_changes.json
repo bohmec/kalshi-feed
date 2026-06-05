@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-05T11:31:08.976231Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 17.1
+    }
+  },
+  {
     "timestamp": "2026-06-04T19:01:17.871810Z",
     "market_id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 30.1
-    }
-  },
-  {
-    "timestamp": "2026-05-27T18:01:58.249580Z",
-    "market_id": "KXVPRESNOMR-28",
-    "question": "2028 Republican VP nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.3
     }
   }
 ]
