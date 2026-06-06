@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-06T19:31:04.025360Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 36.1
+    }
+  },
+  {
     "timestamp": "2026-06-05T17:31:10.627980Z",
     "market_id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.6
-    }
-  },
-  {
-    "timestamp": "2026-05-27T18:01:58.249580Z",
-    "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
-    "question": "Who will be a Bridesmaid for the wedding of Travis Kelce and Taylor Swift?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 37.5
     }
   }
 ]
