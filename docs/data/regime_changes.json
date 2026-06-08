@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-08T20:01:20.555530Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 12.4
+    }
+  },
+  {
     "timestamp": "2026-06-08T19:31:09.334613Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 52.1
-    }
-  },
-  {
-    "timestamp": "2026-05-30T14:01:46.816942Z",
-    "market_id": "KXTRUMPBEARCASECOMBO-27DEC",
-    "question": "2026: Trump's bad year?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 55.8
     }
   }
 ]
