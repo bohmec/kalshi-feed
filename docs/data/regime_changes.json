@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-11T04:01:25.838878Z",
+    "market_id": "KXGREENLAND-29",
+    "question": "Will Trump buy at least part of Greenland?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.0
+    }
+  },
+  {
     "timestamp": "2026-06-11T01:31:11.033449Z",
     "market_id": "POWER-28",
     "question": "2028: Who will win the Presidency, House, and Senate?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 50.9
-    }
-  },
-  {
-    "timestamp": "2026-06-02T02:01:51.444877Z",
-    "market_id": "KXTXSENOUTCOME-27JAN",
-    "question": "Texas Senate: Exact outcome",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 46.6
     }
   }
 ]
