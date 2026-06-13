@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-06-13T06:01:26.203620Z",
+    "market_id": "KXCANTERRITORY-29",
+    "question": "Will the US take control of any part of Canada?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 38.0
+    }
+  },
+  {
+    "timestamp": "2026-06-13T06:01:26.203620Z",
+    "market_id": "KXNEXTODNI-29",
+    "question": "Who will be Trump's next Director of National Intelligence?",
+    "from_regime": "Volatile",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.9
+    }
+  },
+  {
     "timestamp": "2026-06-13T00:31:29.563733Z",
     "market_id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.3
-    }
-  },
-  {
-    "timestamp": "2026-06-03T05:31:38.660447Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.7
-    }
-  },
-  {
-    "timestamp": "2026-06-02T22:31:46.059140Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.3
     }
   }
 ]
