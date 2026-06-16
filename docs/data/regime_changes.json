@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-06-16T13:02:03.666474Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.9
+    }
+  },
+  {
+    "timestamp": "2026-06-16T13:02:03.666474Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.1
+    }
+  },
+  {
+    "timestamp": "2026-06-16T13:02:03.666474Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 11.0
+    }
+  },
+  {
     "timestamp": "2026-06-15T20:32:27.554719Z",
     "market_id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?",
@@ -467,36 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.3
-    }
-  },
-  {
-    "timestamp": "2026-06-07T19:01:06.089425Z",
-    "market_id": "KXLAMAYORADVANCE-26JUN02",
-    "question": "Who will advance in the Los Angeles mayoral election?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 7.9
-    }
-  },
-  {
-    "timestamp": "2026-06-07T18:31:11.643637Z",
-    "market_id": "KXIMPEACH-29",
-    "question": "Will President Trump be impeached during his term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.5
-    }
-  },
-  {
-    "timestamp": "2026-06-07T18:01:14.549440Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.3
     }
   }
 ]
