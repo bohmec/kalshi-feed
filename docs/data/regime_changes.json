@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-18T17:32:03.418376Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.9
+    }
+  },
+  {
     "timestamp": "2026-06-18T14:02:05.433572Z",
     "market_id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 47.5
-    }
-  },
-  {
-    "timestamp": "2026-06-09T21:01:29.803593Z",
-    "market_id": "KXIMPEACHCABINET",
-    "question": "Will a cabinet member be impeached?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 39.5
     }
   }
 ]
