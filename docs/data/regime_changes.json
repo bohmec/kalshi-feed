@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-18T01:01:58.547086Z",
+    "market_id": "KXNEXTODNI-29",
+    "question": "Who will be Trump's next Director of National Intelligence?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.7
+    }
+  },
+  {
     "timestamp": "2026-06-17T22:32:18.981871Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 42.3
-    }
-  },
-  {
-    "timestamp": "2026-06-09T13:31:10.222374Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.5
     }
   }
 ]
