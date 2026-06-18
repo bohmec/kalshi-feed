@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-18T09:32:02.146544Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.0
+    }
+  },
+  {
     "timestamp": "2026-06-18T01:31:54.713184Z",
     "market_id": "KXNEXTODNI-29",
     "question": "Who will be Trump's next Director of National Intelligence?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.3
-    }
-  },
-  {
-    "timestamp": "2026-06-09T17:01:35.452713Z",
-    "market_id": "KXNEXTODNI-29",
-    "question": "Who will be Trump's next Director of National Intelligence?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.9
     }
   }
 ]
