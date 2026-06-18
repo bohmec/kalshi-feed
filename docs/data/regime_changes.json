@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-18T18:01:57.793185Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.8
+    }
+  },
+  {
     "timestamp": "2026-06-18T17:32:03.418376Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.6
-    }
-  },
-  {
-    "timestamp": "2026-06-09T21:31:19.171746Z",
-    "market_id": "KXIMPEACHCABINET",
-    "question": "Will a cabinet member be impeached?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 47.5
     }
   }
 ]
