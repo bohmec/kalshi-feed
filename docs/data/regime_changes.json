@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-18T18:31:54.480533Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 24.0
+    }
+  },
+  {
     "timestamp": "2026-06-18T18:01:57.793185Z",
     "market_id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.5
-    }
-  },
-  {
-    "timestamp": "2026-06-09T22:31:26.434220Z",
-    "market_id": "KXGDPUSMAX-28",
-    "question": "Will there be a Trump economic boom?",
-    "from_regime": "Active",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.6
     }
   }
 ]
