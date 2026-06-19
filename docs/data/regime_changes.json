@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-19T21:01:54.134885Z",
+    "market_id": "POWER-28",
+    "question": "2028: Who will win the Presidency, House, and Senate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.8
+    }
+  },
+  {
     "timestamp": "2026-06-19T17:31:54.090912Z",
     "market_id": "KXNEXTODNI-29",
     "question": "Who will be Trump's next Director of National Intelligence?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.6
-    }
-  },
-  {
-    "timestamp": "2026-06-11T18:01:34.141145Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.5
     }
   }
 ]
