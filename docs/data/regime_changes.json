@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-06-20T15:31:53.321937Z",
+    "market_id": "KXFEDEND-29",
+    "question": "Will Trump end the Federal Reserve?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 40.6
+    }
+  },
+  {
+    "timestamp": "2026-06-20T15:31:53.321937Z",
+    "market_id": "KXTAYLORSWIFTWEDDINGATTEND-28DEC31",
+    "question": "Taylor Swift and Travis Kelce: Wedding attendees",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 43.6
+    }
+  },
+  {
+    "timestamp": "2026-06-20T15:31:53.321937Z",
+    "market_id": "KXAMEND25-29",
+    "question": "Will the 25th Amendment be used during Trump's Presidency?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 44.7
+    }
+  },
+  {
+    "timestamp": "2026-06-20T15:31:53.321937Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 43.4
+    }
+  },
+  {
     "timestamp": "2026-06-20T15:02:02.583975Z",
     "market_id": "POWER-28",
     "question": "2028: Who will win the Presidency, House, and Senate?",
@@ -457,46 +497,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 16.9
-    }
-  },
-  {
-    "timestamp": "2026-06-12T17:01:34.279605Z",
-    "market_id": "KXAMEND25-29",
-    "question": "Will the 25th Amendment be used during Trump's Presidency?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 55.6
-    }
-  },
-  {
-    "timestamp": "2026-06-11T22:01:29.921133Z",
-    "market_id": "KXGREENLANDPRICE-29JAN21",
-    "question": "How much will the US acquire Greenland for?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.7
-    }
-  },
-  {
-    "timestamp": "2026-06-11T19:31:30.228781Z",
-    "market_id": "KXTAYLORSWIFTWEDDINGATTEND-28DEC31",
-    "question": "Who will attend Taylor Swift and Travis Kelce's Wedding?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 53.2
-    }
-  },
-  {
-    "timestamp": "2026-06-11T18:31:37.348197Z",
-    "market_id": "KXAMEND25-29",
-    "question": "Will the 25th Amendment be used during Trump's Presidency?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 41.0
     }
   }
 ]
