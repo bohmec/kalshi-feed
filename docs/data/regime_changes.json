@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-23T03:01:05.531251Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.7
+    }
+  },
+  {
     "timestamp": "2026-06-22T22:01:05.228705Z",
     "market_id": "KXNEXTODNI-29",
     "question": "Who will be Trump's next Director of National Intelligence?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.0
-    }
-  },
-  {
-    "timestamp": "2026-06-15T04:31:55.474827Z",
-    "market_id": "KXUSAEXPANDTERRITORY",
-    "question": "Will the US acquire any new territory?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.7
     }
   }
 ]
