@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-06-24T11:00:59.789694Z",
+    "market_id": "KXTAIWANLVL4",
+    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 16.1
+    }
+  },
+  {
+    "timestamp": "2026-06-24T11:00:59.789694Z",
+    "market_id": "KXGTAPRICE",
+    "question": "Grand Theft Auto VI: PS5 price",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 21.3
+    }
+  },
+  {
+    "timestamp": "2026-06-24T11:00:59.789694Z",
+    "market_id": "KXNEXTUKPM-30",
+    "question": "Who will be the next Prime Minister of the UK?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.3
+    }
+  },
+  {
     "timestamp": "2026-06-24T10:31:03.958613Z",
     "market_id": "KXNEXTUKPM-30",
     "question": "Who will be the next Prime Minister of the UK?",
@@ -467,36 +497,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 16.1
-    }
-  },
-  {
-    "timestamp": "2026-06-16T13:02:03.666474Z",
-    "market_id": "KXPRESNOMR-28",
-    "question": "2028 Republican presidential nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.9
-    }
-  },
-  {
-    "timestamp": "2026-06-16T13:02:03.666474Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.1
-    }
-  },
-  {
-    "timestamp": "2026-06-16T13:02:03.666474Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 11.0
     }
   }
 ]
