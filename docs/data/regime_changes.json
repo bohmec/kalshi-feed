@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-27T18:30:56.516879Z",
+    "market_id": "KXNEXTUKPM-30",
+    "question": "Who will be the next Prime Minister of the UK?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.0
+    }
+  },
+  {
     "timestamp": "2026-06-27T15:31:07.207320Z",
     "market_id": "KXH1B-29",
     "question": "Will Trump expand the H1-B program?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 17.0
-    }
-  },
-  {
-    "timestamp": "2026-06-18T01:01:58.547086Z",
-    "market_id": "KXNEXTODNI-29",
-    "question": "Who will be Trump's next Director of National Intelligence?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.7
     }
   }
 ]
