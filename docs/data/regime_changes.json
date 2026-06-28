@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-06-28T20:30:59.186464Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.1
+    }
+  },
+  {
+    "timestamp": "2026-06-28T20:30:59.186464Z",
+    "market_id": "POWER-28",
+    "question": "2028: Who will win the Presidency, House, and Senate?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.7
+    }
+  },
+  {
+    "timestamp": "2026-06-28T20:30:59.186464Z",
+    "market_id": "KXNEXTUKPM-30",
+    "question": "Who will be the next Prime Minister of the UK?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.6
+    }
+  },
+  {
     "timestamp": "2026-06-28T19:01:01.952932Z",
     "market_id": "POWER-28",
     "question": "2028: Who will win the Presidency, House, and Senate?",
@@ -467,36 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.4
-    }
-  },
-  {
-    "timestamp": "2026-06-18T18:31:54.480533Z",
-    "market_id": "KXPRESPERSON-28",
-    "question": "2028 U.S. Presidential Election winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 24.0
-    }
-  },
-  {
-    "timestamp": "2026-06-18T18:01:57.793185Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.8
-    }
-  },
-  {
-    "timestamp": "2026-06-18T17:32:03.418376Z",
-    "market_id": "KXPRESNOMR-28",
-    "question": "2028 Republican presidential nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.9
     }
   }
 ]
