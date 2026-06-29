@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-29T17:01:02.729029Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.4
+    }
+  },
+  {
     "timestamp": "2026-06-29T13:31:01.650084Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 12.1
-    }
-  },
-  {
-    "timestamp": "2026-06-19T07:01:53.735750Z",
-    "market_id": "KXNEXTODNI-29",
-    "question": "Who will be Trump's next Director of National Intelligence?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 15.8
     }
   }
 ]
