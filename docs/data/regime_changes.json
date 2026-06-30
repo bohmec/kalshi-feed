@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-06-30T19:01:01.056282Z",
+    "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
+    "question": "Taylor Swift and Travis Kelce: Wedding bridesmaids ",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 16.4
+    }
+  },
+  {
+    "timestamp": "2026-06-30T19:01:01.056282Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.8
+    }
+  },
+  {
     "timestamp": "2026-06-30T13:01:07.180593Z",
     "market_id": "KXVPRESNOMR-28",
     "question": "2028 Republican VP nominee",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 43.4
-    }
-  },
-  {
-    "timestamp": "2026-06-20T15:02:02.583975Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.7
-    }
-  },
-  {
-    "timestamp": "2026-06-19T21:01:54.134885Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.8
     }
   }
 ]
