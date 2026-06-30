@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-30T07:00:59.350469Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 17.1
+    }
+  },
+  {
     "timestamp": "2026-06-29T17:32:29.002393Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 12.2
-    }
-  },
-  {
-    "timestamp": "2026-06-19T16:02:02.234469Z",
-    "market_id": "KXNEXTODNI-29",
-    "question": "Who will be Trump's next Director of National Intelligence?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 17.0
     }
   }
 ]
