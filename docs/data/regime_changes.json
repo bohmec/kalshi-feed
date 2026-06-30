@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-06-30T13:01:07.180593Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.6
+    }
+  },
+  {
+    "timestamp": "2026-06-30T13:01:07.180593Z",
+    "market_id": "KXSTATE51-29",
+    "question": "What will be the 51st state in Trump's term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.2
+    }
+  },
+  {
     "timestamp": "2026-06-30T07:00:59.350469Z",
     "market_id": "KXVPRESNOMR-28",
     "question": "2028 Republican VP nominee",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.8
-    }
-  },
-  {
-    "timestamp": "2026-06-19T17:31:54.090912Z",
-    "market_id": "KXNEXTODNI-29",
-    "question": "Who will be Trump's next Director of National Intelligence?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 17.0
-    }
-  },
-  {
-    "timestamp": "2026-06-19T16:31:54.382846Z",
-    "market_id": "KXNEXTODNI-29",
-    "question": "Who will be Trump's next Director of National Intelligence?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 12.2
     }
   }
 ]
