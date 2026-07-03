@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-03T13:01:13.526729Z",
+    "market_id": "KXCANTERRITORY-29",
+    "question": "Will the US take control of any part of Canada?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 54.9
+    }
+  },
+  {
     "timestamp": "2026-07-03T12:31:19.758452Z",
     "market_id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.1
-    }
-  },
-  {
-    "timestamp": "2026-06-24T13:01:01.881835Z",
-    "market_id": "KXGTAPRICE",
-    "question": "Grand Theft Auto VI: PS5 price",
-    "from_regime": "Volatile",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.3
     }
   }
 ]
