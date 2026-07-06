@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-06T15:31:32.279593Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.5
+    }
+  },
+  {
     "timestamp": "2026-07-06T14:01:32.818744Z",
     "market_id": "KXTRUMPRUN",
     "question": "Will Trump run for a third term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.1
-    }
-  },
-  {
-    "timestamp": "2026-06-28T20:30:59.186464Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.7
     }
   }
 ]
