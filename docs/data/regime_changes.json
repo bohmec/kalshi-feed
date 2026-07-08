@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-08T01:31:42.126419Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 54.2
+    }
+  },
+  {
     "timestamp": "2026-07-07T22:01:52.979414Z",
     "market_id": "KXDOED-29",
     "question": "Will Trump abolish the Department of Education?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.2
-    }
-  },
-  {
-    "timestamp": "2026-06-30T07:00:59.350469Z",
-    "market_id": "KXVPRESNOMR-28",
-    "question": "2028 Republican VP nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 17.1
     }
   }
 ]
