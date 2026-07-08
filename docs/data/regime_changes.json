@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-07-08T13:31:39.045722Z",
+    "market_id": "KXFEDEND-29",
+    "question": "Will Trump end the Federal Reserve?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 60.1
+    }
+  },
+  {
+    "timestamp": "2026-07-08T13:31:39.045722Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 11.0
+    }
+  },
+  {
     "timestamp": "2026-07-08T13:01:44.199826Z",
     "market_id": "KXAGENCYELIM-29",
     "question": "Which agencies will Trump eliminate?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.4
-    }
-  },
-  {
-    "timestamp": "2026-06-30T19:01:01.056282Z",
-    "market_id": "KXTAYLORSWIFTWEDDING-30JAN01",
-    "question": "Taylor Swift and Travis Kelce: Wedding bridesmaids ",
-    "from_regime": "Low Confidence",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 16.4
-    }
-  },
-  {
-    "timestamp": "2026-06-30T19:01:01.056282Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.8
     }
   }
 ]
