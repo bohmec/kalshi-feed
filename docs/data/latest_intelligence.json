@@ -3,13 +3,13 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Gavin Newsom be the Democratic Presidential nominee in 2028?",
     "current_price": 0.205,
-    "volume": 145727214,
+    "volume": 145775019,
     "nexus_score": 24.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.205
@@ -39,13 +39,13 @@
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
     "current_price": 0.415,
-    "volume": 50781280,
+    "volume": 50781506,
     "nexus_score": 24.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.415
@@ -75,13 +75,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.175,
-    "volume": 49955694,
-    "nexus_score": 23.4,
+    "volume": 49959149,
+    "nexus_score": 23.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.175
@@ -117,7 +117,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.235
@@ -153,10 +153,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.785
+        "p": 0.775
       },
       {
         "p": 0.775
@@ -182,14 +182,16 @@
   {
     "id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?: :: During Trump's term",
-    "current_price": 0.185,
-    "volume": 4816435,
-    "nexus_score": 16.0,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.1,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "current_price": 0.195,
+    "volume": 4816487,
+    "nexus_score": 15.2,
+    "market_state": "Macro-Driven",
+    "display_state": "Calibrating",
+    "flags": [
+      "Correlated"
+    ],
+    "macro_sensitivity": 0.15,
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.2
@@ -204,13 +206,13 @@
         "p": 0.185
       },
       {
-        "p": 0.185
+        "p": 0.195
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 90.0,
-    "c4": 8.3,
+    "c3": 84.7,
+    "c4": 8.0,
     "slug": "KXGREENLAND-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -219,13 +221,13 @@
     "id": "KXGREENTERRITORY-29",
     "question": "Will the US take control of any part of Greenland?: Will the United States acquire any part of Greenland before 2029?",
     "current_price": 0.225,
-    "volume": 3244539,
+    "volume": 3244544,
     "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.225
@@ -261,7 +263,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.097
@@ -273,7 +275,7 @@
         "p": 0.0965
       },
       {
-        "p": 0.0965
+        "p": 0.096
       },
       {
         "p": 0.096
@@ -296,8 +298,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.045
@@ -317,7 +319,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 99.3,
+    "c3": 100.0,
     "c4": 11.3,
     "slug": "KXSTATE51-29",
     "platform": "kalshi",
@@ -333,10 +335,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.825
+        "p": 0.815
       },
       {
         "p": 0.815
@@ -369,7 +371,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.985
@@ -381,7 +383,7 @@
         "p": 0.985
       },
       {
-        "p": 0.985
+        "p": 0.9835
       },
       {
         "p": 0.9835
@@ -405,7 +407,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.88
@@ -417,7 +419,7 @@
         "p": 0.9055
       },
       {
-        "p": 0.9055
+        "p": 0.905
       },
       {
         "p": 0.905
@@ -435,13 +437,13 @@
     "id": "KXVPRESNOMR-28",
     "question": "2028 Republican VP nominee: Will Marco Rubio be the nominee for the Vice Presidency for the Republican party?",
     "current_price": 0.29,
-    "volume": 1200554,
+    "volume": 1200630,
     "nexus_score": 24.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.29
@@ -471,7 +473,7 @@
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
     "current_price": 0.355,
-    "volume": 1195673,
+    "volume": 1195741,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -479,10 +481,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.37
+        "p": 0.36
       },
       {
         "p": 0.35
@@ -515,10 +517,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.555
+        "p": 0.55
       },
       {
         "p": 0.565
@@ -551,10 +553,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.185
+        "p": 0.19
       },
       {
         "p": 0.185
@@ -581,13 +583,13 @@
     "id": "KXCANAL-29",
     "question": "Will Trump take back the Panama Canal?: Will Trump take back the Panama Canal?",
     "current_price": 0.305,
-    "volume": 548991,
+    "volume": 549001,
     "nexus_score": 22.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.305
@@ -623,7 +625,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.585
@@ -659,7 +661,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.175
@@ -671,7 +673,7 @@
         "p": 0.18
       },
       {
-        "p": 0.185
+        "p": 0.175
       },
       {
         "p": 0.175
@@ -695,7 +697,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.055
@@ -731,7 +733,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.45
@@ -767,7 +769,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.615
@@ -779,7 +781,7 @@
         "p": 0.62
       },
       {
-        "p": 0.62
+        "p": 0.625
       },
       {
         "p": 0.62
@@ -805,7 +807,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.57
@@ -835,13 +837,13 @@
     "id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.815,
-    "volume": 303756,
-    "nexus_score": 22.5,
+    "volume": 303761,
+    "nexus_score": 22.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.82
@@ -861,7 +863,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
+    "c3": 98.7,
     "c4": 8.3,
     "slug": "KXOAIANTH-40",
     "platform": "kalshi",
@@ -877,7 +879,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.315
@@ -913,7 +915,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.475
@@ -943,19 +945,19 @@
     "id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?: Will President Trump resign before his term is up?",
     "current_price": 0.23,
-    "volume": 271036,
+    "volume": 271137,
     "nexus_score": 21.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.205
       },
       {
-        "p": 0.205
+        "p": 0.245
       },
       {
         "p": 0.235
@@ -987,7 +989,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.475
@@ -1023,10 +1025,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.0855
+        "p": 0.0865
       },
       {
         "p": 0.0865
@@ -1059,7 +1061,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.36
@@ -1095,7 +1097,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1131,7 +1133,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.45
@@ -1166,8 +1168,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.62
@@ -1205,7 +1207,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.15,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.315
@@ -1241,7 +1243,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.5055
@@ -1277,7 +1279,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.08,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.51
@@ -1313,7 +1315,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.18
@@ -1349,13 +1351,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.265
       },
       {
-        "p": 0.275
+        "p": 0.28
       },
       {
         "p": 0.28
@@ -1379,25 +1381,25 @@
     "id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
     "current_price": 0.606,
-    "volume": 145450,
+    "volume": 145497,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.6005
       },
       {
-        "p": 0.6
+        "p": 0.6005
       },
       {
         "p": 0.6005
       },
       {
-        "p": 0.606
+        "p": 0.6055
       },
       {
         "p": 0.606
@@ -1421,7 +1423,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.0465
@@ -1457,7 +1459,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1493,10 +1495,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
-        "p": 0.54
+        "p": 0.545
       },
       {
         "p": 0.55
@@ -1529,7 +1531,7 @@
     "display_state": "Calibrating",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.0595
@@ -1565,7 +1567,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.195
@@ -1585,7 +1587,7 @@
     ],
     "c1": 56.3,
     "c2": 4.6,
-    "c3": 99.3,
+    "c3": 100.0,
     "c4": 8.7,
     "slug": "KXH1B-29",
     "platform": "kalshi",
@@ -1595,13 +1597,13 @@
     "id": "KXELONMARS-99",
     "question": "Will Elon Musk visit Mars in his lifetime?: Will Elon Musk visit Mars before Aug 1, 2099?",
     "current_price": 0.125,
-    "volume": 111997,
+    "volume": 111999,
     "nexus_score": 57.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1637,7 +1639,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.555
@@ -1673,7 +1675,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.495
@@ -1709,7 +1711,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.9695
@@ -1745,7 +1747,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.225
@@ -1781,7 +1783,7 @@
     "display_state": "Calibrating",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-09T01:31:14Z",
+    "last_updated": "2026-07-09T02:01:14Z",
     "sparkline": [
       {
         "p": 0.0665
