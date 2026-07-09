@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-09T14:01:26.906431Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.5
+    }
+  },
+  {
     "timestamp": "2026-07-09T02:01:14.019797Z",
     "market_id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.6
-    }
-  },
-  {
-    "timestamp": "2026-07-01T13:00:58.593784Z",
-    "market_id": "KXSTATE51-29",
-    "question": "What will be the 51st state in Trump's term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.9
     }
   }
 ]
