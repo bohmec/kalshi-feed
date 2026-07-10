@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-07-10T17:31:52.991672Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 41.3
+    }
+  },
+  {
+    "timestamp": "2026-07-10T17:31:52.991672Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.9
+    }
+  },
+  {
     "timestamp": "2026-07-10T17:01:51.882551Z",
     "market_id": "KXNEXTODNI-29",
     "question": "Who will be Trump's next Director of National Intelligence?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.5
-    }
-  },
-  {
-    "timestamp": "2026-07-03T05:01:16.582573Z",
-    "market_id": "KXTAIWANLVL4",
-    "question": "Will the US issue a Level 4 travel advisory for Taiwan?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.4
-    }
-  },
-  {
-    "timestamp": "2026-07-03T03:31:14.280747Z",
-    "market_id": "KXCANTERRITORY-29",
-    "question": "Will the US take control of any part of Canada?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 46.6
     }
   }
 ]
