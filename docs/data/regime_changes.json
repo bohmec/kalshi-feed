@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-10T16:31:55.798552Z",
+    "market_id": "KXVPRESNOMR-28",
+    "question": "2028 Republican VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.6
+    }
+  },
+  {
     "timestamp": "2026-07-10T15:31:56.604699Z",
     "market_id": "KXNEXTODNI-29",
     "question": "Who will be Trump's next Director of National Intelligence?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.9
-    }
-  },
-  {
-    "timestamp": "2026-07-02T14:01:10.851038Z",
-    "market_id": "KXTXSENOUTCOME-27JAN",
-    "question": "Texas Senate: Exact outcome",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.3
     }
   }
 ]
