@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-12T22:01:39.143331Z",
+    "market_id": "POWER-28",
+    "question": "2028: Who will win the Presidency, House, and Senate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.4
+    }
+  },
+  {
     "timestamp": "2026-07-12T15:01:52.488617Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.2
-    }
-  },
-  {
-    "timestamp": "2026-07-03T14:01:10.766133Z",
-    "market_id": "KXSENATEDEMLEAD-28JAN01",
-    "question": "Who will win the next Senate Democratic Leader election?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 43.7
     }
   }
 ]
