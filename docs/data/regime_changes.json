@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-14T21:31:05.658681Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 40.9
+    }
+  },
+  {
     "timestamp": "2026-07-14T20:31:10.174139Z",
     "market_id": "KXCITRINI-28JUL01",
     "question": "Will the Citrini scenario happen?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 43.4
-    }
-  },
-  {
-    "timestamp": "2026-07-04T13:01:10.316244Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 51.5
     }
   }
 ]
