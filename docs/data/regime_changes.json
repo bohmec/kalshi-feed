@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-15T07:01:06.839478Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 36.8
+    }
+  },
+  {
     "timestamp": "2026-07-15T06:01:08.662388Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 35.0
-    }
-  },
-  {
-    "timestamp": "2026-07-06T13:31:35.523167Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 2.4
     }
   }
 ]
