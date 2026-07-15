@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-15T14:31:14.111519Z",
+    "market_id": "KXGREENLAND-29",
+    "question": "Will Trump buy at least part of Greenland?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.0
+    }
+  },
+  {
     "timestamp": "2026-07-15T13:01:13.324457Z",
     "market_id": "KXCITRINI-28JUL01",
     "question": "Will the Citrini scenario happen?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.5
-    }
-  },
-  {
-    "timestamp": "2026-07-06T14:01:32.818744Z",
-    "market_id": "KXTRUMPRUN",
-    "question": "Will Trump run for a third term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 42.6
     }
   }
 ]
