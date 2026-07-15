@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-15T02:01:13.922574Z",
+    "market_id": "KXG7LEADEROUT-45JAN01",
+    "question": "Which G7 leader will leave next?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 40.8
+    }
+  },
+  {
     "timestamp": "2026-07-15T01:31:04.518959Z",
     "market_id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.5
-    }
-  },
-  {
-    "timestamp": "2026-07-04T15:01:20.367544Z",
-    "market_id": "KXSENATEDEMLEAD-28JAN01",
-    "question": "Who will win the next Senate Democratic Leader election?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 50.0
     }
   }
 ]
