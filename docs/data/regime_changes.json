@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-17T19:01:27.654078Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.9
+    }
+  },
+  {
     "timestamp": "2026-07-17T01:01:32.077396Z",
     "market_id": "KXFEDEND-29",
     "question": "Will Trump end the Federal Reserve?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 11.0
-    }
-  },
-  {
-    "timestamp": "2026-07-08T13:01:44.199826Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.9
     }
   }
 ]
