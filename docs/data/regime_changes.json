@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-18T14:31:15.929189Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 43.3
+    }
+  },
+  {
     "timestamp": "2026-07-18T14:01:15.710373Z",
     "market_id": "KXFEDEND-29",
     "question": "Will Trump end the Federal Reserve?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.5
-    }
-  },
-  {
-    "timestamp": "2026-07-09T02:01:14.019797Z",
-    "market_id": "KXGREENLAND-29",
-    "question": "Will Trump buy at least part of Greenland?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.2
     }
   }
 ]
