@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-18T15:01:18.402081Z",
+    "market_id": "KXOBERGEFELL-29",
+    "question": "Will the Supreme Court overturn gay marriage?",
+    "from_regime": "Active",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 45.6
+    }
+  },
+  {
     "timestamp": "2026-07-18T14:31:15.929189Z",
     "market_id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.4
-    }
-  },
-  {
-    "timestamp": "2026-07-09T14:01:26.906431Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.5
     }
   }
 ]
