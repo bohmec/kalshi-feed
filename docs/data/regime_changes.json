@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-18T21:31:45.900675Z",
+    "market_id": "KXIMPEACH-29",
+    "question": "Will President Trump be impeached during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.1
+    }
+  },
+  {
     "timestamp": "2026-07-18T20:31:16.301701Z",
     "market_id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 11.0
-    }
-  },
-  {
-    "timestamp": "2026-07-10T15:01:50.949579Z",
-    "market_id": "KXGREENLAND-29",
-    "question": "Will Trump buy at least part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.6
     }
   }
 ]
