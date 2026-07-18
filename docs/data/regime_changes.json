@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-07-18T14:01:15.710373Z",
+    "market_id": "KXFEDEND-29",
+    "question": "Will Trump end the Federal Reserve?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 59.1
+    }
+  },
+  {
+    "timestamp": "2026-07-18T14:01:15.710373Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.1
+    }
+  },
+  {
+    "timestamp": "2026-07-18T14:01:15.710373Z",
+    "market_id": "KXINSURRECTION-29",
+    "question": "Will Trump invoke the Insurrection Act?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.1
+    }
+  },
+  {
     "timestamp": "2026-07-17T19:01:27.654078Z",
     "market_id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee",
@@ -467,36 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.2
-    }
-  },
-  {
-    "timestamp": "2026-07-09T01:31:14.106161Z",
-    "market_id": "KXOBERGEFELL-29",
-    "question": "Will the Supreme Court overturn gay marriage?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 60.8
-    }
-  },
-  {
-    "timestamp": "2026-07-08T13:31:39.045722Z",
-    "market_id": "KXFEDEND-29",
-    "question": "Will Trump end the Federal Reserve?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Active",
-    "metrics_snapshot": {
-      "nexus_score": 60.1
-    }
-  },
-  {
-    "timestamp": "2026-07-08T13:31:39.045722Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 11.0
     }
   }
 ]
