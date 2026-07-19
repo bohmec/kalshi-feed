@@ -3,13 +3,13 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Gavin Newsom be the Democratic Presidential nominee in 2028?",
     "current_price": 0.195,
-    "volume": 154489333,
+    "volume": 154502561,
     "nexus_score": 23.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.195
@@ -18,7 +18,7 @@
         "p": 0.195
       },
       {
-        "p": 0.195
+        "p": 0.2
       },
       {
         "p": 0.195
@@ -38,14 +38,14 @@
   {
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
-    "current_price": 0.395,
-    "volume": 52385635,
+    "current_price": 0.405,
+    "volume": 52387604,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.395
@@ -60,7 +60,7 @@
         "p": 0.395
       },
       {
-        "p": 0.395
+        "p": 0.405
       }
     ],
     "c1": 0.0,
@@ -75,19 +75,19 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.165,
-    "volume": 52364100,
+    "volume": 52365220,
     "nexus_score": 22.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.165
       },
       {
-        "p": 0.165
+        "p": 0.17
       },
       {
         "p": 0.175
@@ -117,7 +117,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.205
@@ -147,13 +147,13 @@
     "id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?: Who will be Trump's next Attorney General?",
     "current_price": 0.815,
-    "volume": 9833147,
-    "nexus_score": 23.1,
+    "volume": 9833160,
+    "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.05,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "macro_sensitivity": 0.08,
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.815
@@ -173,8 +173,8 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 94.7,
-    "c4": 13.0,
+    "c3": 92.0,
+    "c4": 13.3,
     "slug": "KXNEXTAG-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -183,13 +183,13 @@
     "id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?: :: During Trump's term",
     "current_price": 0.19,
-    "volume": 4847332,
+    "volume": 4847377,
     "nexus_score": 22.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.18
@@ -225,13 +225,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.23
       },
       {
-        "p": 0.23
+        "p": 0.235
       },
       {
         "p": 0.235
@@ -255,15 +255,15 @@
     "id": "KXVPRESNOMD-28",
     "question": "2028 Democratic VP nominee: Will Gretchen Whitmer be the nominee for the Vice Presidency for the Democratic party?",
     "current_price": 0.0975,
-    "volume": 2230608,
-    "nexus_score": 13.5,
+    "volume": 2230901,
+    "nexus_score": 22.4,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.36,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "macro_sensitivity": 0.1,
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.0975
@@ -283,8 +283,8 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 63.3,
-    "c4": 13.3,
+    "c3": 90.0,
+    "c4": 13.0,
     "slug": "KXVPRESNOMD-28",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -299,13 +299,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.035
       },
       {
-        "p": 0.035
+        "p": 0.045
       },
       {
         "p": 0.045
@@ -335,7 +335,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.82
@@ -371,7 +371,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.9995
@@ -407,7 +407,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.955
@@ -437,7 +437,7 @@
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
     "current_price": 0.365,
-    "volume": 1334235,
+    "volume": 1334238,
     "nexus_score": 23.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -445,7 +445,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.375
@@ -481,7 +481,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.27
@@ -517,7 +517,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.535
@@ -547,13 +547,13 @@
     "id": "KXSCOURT-29",
     "question": "Who will be the next Supreme Court justice?: Will Andrew Oldham become the next Justice on the Supreme Court?",
     "current_price": 0.18,
-    "volume": 648951,
+    "volume": 649951,
     "nexus_score": 17.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.11,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.165
@@ -589,7 +589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.315
@@ -625,19 +625,19 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.175
       },
       {
-        "p": 0.175
-      },
-      {
-        "p": 0.175
-      },
-      {
         "p": 0.18
+      },
+      {
+        "p": 0.175
+      },
+      {
+        "p": 0.175
       },
       {
         "p": 0.175
@@ -661,7 +661,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.585
@@ -699,7 +699,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.51,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.48
@@ -735,7 +735,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.61
@@ -773,7 +773,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.58
@@ -803,7 +803,7 @@
     "id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.84,
-    "volume": 312546,
+    "volume": 312560,
     "nexus_score": 7.2,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
@@ -811,7 +811,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.68,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.84
@@ -847,7 +847,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.225
@@ -883,13 +883,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.485
       },
       {
-        "p": 0.485
+        "p": 0.49
       },
       {
         "p": 0.49
@@ -919,7 +919,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.2
@@ -957,7 +957,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.12,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.46
@@ -988,12 +988,12 @@
     "question": "Will Trump be allowed to run for a 3rd term?: Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029",
     "current_price": 0.0755,
     "volume": 251318,
-    "nexus_score": 22.5,
+    "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.075
@@ -1014,7 +1014,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 8.3,
+    "c4": 9.0,
     "slug": "KXAMEND22-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1029,7 +1029,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.36
@@ -1059,13 +1059,13 @@
     "id": "KXPRESMATCHUP-28NOV07",
     "question": "2028 Presidential matchup: Will Gavin Newsom and JD Vance be the 2028 Democratic and Republican presidential nominees?",
     "current_price": 0.135,
-    "volume": 208461,
+    "volume": 209562,
     "nexus_score": 23.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1103,7 +1103,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.455
@@ -1139,7 +1139,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.605
@@ -1170,12 +1170,12 @@
     "question": "Will Zelenskyy and Putin speak?: Volodymyr Zelenskyy and Vladimir Putin meet before Jan 20, 2029?",
     "current_price": 0.365,
     "volume": 184253,
-    "nexus_score": 21.6,
+    "nexus_score": 21.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.365
@@ -1195,7 +1195,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 98.0,
+    "c3": 97.3,
     "c4": 6.3,
     "slug": "KXZELENSKYPUTIN-29",
     "platform": "kalshi",
@@ -1213,7 +1213,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.73,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.325
@@ -1249,7 +1249,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.505
@@ -1285,10 +1285,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
-        "p": 0.135
+        "p": 0.14
       },
       {
         "p": 0.14
@@ -1321,7 +1321,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.265
@@ -1357,7 +1357,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.5415
@@ -1393,7 +1393,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.0465
@@ -1429,7 +1429,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1465,10 +1465,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
-        "p": 0.55
+        "p": 0.555
       },
       {
         "p": 0.555
@@ -1501,7 +1501,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.0545
@@ -1537,7 +1537,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.18,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1573,10 +1573,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
-        "p": 0.195
+        "p": 0.19
       },
       {
         "p": 0.18
@@ -1609,7 +1609,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1638,14 +1638,14 @@
   {
     "id": "KXG7LEADEROUT-45JAN01",
     "question": "Which G7 leader will leave next?: :: Prime Minister of the United Kingdom",
-    "current_price": 0.987,
-    "volume": 110550,
-    "nexus_score": 51.6,
+    "current_price": 0.9875,
+    "volume": 110565,
+    "nexus_score": 52.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.9825
@@ -1660,11 +1660,11 @@
         "p": 0.9845
       },
       {
-        "p": 0.987
+        "p": 0.9875
       }
     ],
     "c1": 56.0,
-    "c2": 11.5,
+    "c2": 11.8,
     "c3": 100.0,
     "c4": 11.0,
     "slug": "KXG7LEADEROUT-45JAN01",
@@ -1674,14 +1674,14 @@
   {
     "id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will succeed Netanyahu as Prime Minister of Israel?: ::",
-    "current_price": 0.575,
+    "current_price": 0.58,
     "volume": 108780,
-    "nexus_score": 48.2,
+    "nexus_score": 48.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.56
@@ -1690,17 +1690,17 @@
         "p": 0.56
       },
       {
-        "p": 0.56
+        "p": 0.585
       },
       {
         "p": 0.58
       },
       {
-        "p": 0.575
+        "p": 0.58
       }
     ],
     "c1": 56.0,
-    "c2": 8.7,
+    "c2": 9.0,
     "c3": 96.7,
     "c4": 10.7,
     "slug": "KXNEXTISRAELPM-45JAN01",
@@ -1717,7 +1717,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.08
@@ -1746,16 +1746,16 @@
   {
     "id": "KXSCOTUSRESIGN-29",
     "question": "Which Supreme Court justices will resign during Trump's term?: Will Samuel Alito resign during Trump's term?",
-    "current_price": 0.66,
+    "current_price": 0.665,
     "volume": 93980,
-    "nexus_score": 47.3,
+    "nexus_score": 47.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
         "p": 0.67
@@ -1764,19 +1764,19 @@
         "p": 0.67
       },
       {
-        "p": 0.67
+        "p": 0.665
       },
       {
         "p": 0.66
       },
       {
-        "p": 0.66
+        "p": 0.665
       }
     ],
     "c1": 55.3,
-    "c2": 6.9,
+    "c2": 6.6,
     "c3": 100.0,
-    "c4": 13.0,
+    "c4": 12.7,
     "slug": "KXSCOTUSRESIGN-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1784,17 +1784,17 @@
   {
     "id": "KXBLUESPACEX-30",
     "question": "Will Blue Origin land on the moon before SpaceX?: Will Blue Origin land an uncrewed Blue Moon MK1 lander on the moon before SpaceX lands an uncrewed Starship?",
-    "current_price": 0.62,
+    "current_price": 0.625,
     "volume": 88746,
-    "nexus_score": 49.8,
+    "nexus_score": 54.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-19T04:01:49Z",
+    "last_updated": "2026-07-19T04:31:52Z",
     "sparkline": [
       {
-        "p": 0.6
+        "p": 0.595
       },
       {
         "p": 0.62
@@ -1806,11 +1806,11 @@
         "p": 0.62
       },
       {
-        "p": 0.62
+        "p": 0.625
       }
     ],
     "c1": 55.0,
-    "c2": 11.1,
+    "c2": 15.5,
     "c3": 100.0,
     "c4": 7.3,
     "slug": "KXBLUESPACEX-30",
