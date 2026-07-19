@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-19T15:31:45.818622Z",
+    "market_id": "KXBOND-30",
+    "question": "Next James Bond film: Actor cast as James Bond",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.1
+    }
+  },
+  {
     "timestamp": "2026-07-19T14:31:45.446747Z",
     "market_id": "KXSCOURT-29",
     "question": "Who will be the next Supreme Court justice?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.4
-    }
-  },
-  {
-    "timestamp": "2026-07-12T15:01:52.488617Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.1
     }
   }
 ]
