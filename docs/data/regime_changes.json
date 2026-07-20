@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-20T13:31:51.962247Z",
+    "market_id": "KXPRESNOMD-28",
+    "question": "2028 Democratic presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.7
+    }
+  },
+  {
     "timestamp": "2026-07-19T17:31:48.360243Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.3
-    }
-  },
-  {
-    "timestamp": "2026-07-14T16:31:09.285333Z",
-    "market_id": "KXGREENLAND-29",
-    "question": "Will Trump buy at least part of Greenland?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.7
     }
   }
 ]
