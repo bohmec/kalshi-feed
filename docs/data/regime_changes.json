@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-23T14:01:59.729850Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.5
+    }
+  },
+  {
     "timestamp": "2026-07-23T13:31:57.908477Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 37.1
-    }
-  },
-  {
-    "timestamp": "2026-07-15T02:01:13.922574Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 40.8
     }
   }
 ]
