@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-25T00:01:50.656468Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.8
+    }
+  },
+  {
     "timestamp": "2026-07-24T20:02:03.284598Z",
     "market_id": "KXH1B-29",
     "question": "Will Trump expand the H1-B program?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.0
-    }
-  },
-  {
-    "timestamp": "2026-07-15T13:01:13.324457Z",
-    "market_id": "KXCITRINI-28JUL01",
-    "question": "Will the Citrini scenario happen?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.2
     }
   }
 ]
