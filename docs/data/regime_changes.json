@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-25T06:31:56.670365Z",
+    "market_id": "KXGREENTERRITORY-29",
+    "question": "Will the US take control of any part of Greenland?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.8
+    }
+  },
+  {
     "timestamp": "2026-07-25T00:01:50.656468Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 39.9
-    }
-  },
-  {
-    "timestamp": "2026-07-15T14:31:14.111519Z",
-    "market_id": "KXGREENLAND-29",
-    "question": "Will Trump buy at least part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.0
     }
   }
 ]
