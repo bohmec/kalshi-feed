@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-26T15:01:26.107272Z",
+    "market_id": "KXNEXTAG-29",
+    "question": "Who will be Trump's next Attorney General?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-07-25T17:01:34.250426Z",
     "market_id": "KXPRESMATCHUP-28NOV07",
     "question": "2028 Presidential matchup",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 47.0
-    }
-  },
-  {
-    "timestamp": "2026-07-16T11:01:32.215592Z",
-    "market_id": "KXG7LEADEROUT-45JAN01",
-    "question": "Which G7 leader will leave next?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 39.0
     }
   }
 ]
