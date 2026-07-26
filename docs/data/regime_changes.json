@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-26T15:31:22.601192Z",
+    "market_id": "KXCABOUT-26MAY22",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 41.5
+    }
+  },
+  {
     "timestamp": "2026-07-26T15:01:26.107272Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 42.6
-    }
-  },
-  {
-    "timestamp": "2026-07-16T12:31:30.883871Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 47.0
     }
   }
 ]
