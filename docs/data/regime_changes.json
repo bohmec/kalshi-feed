@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-27T13:31:33.173308Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.3
+    }
+  },
+  {
     "timestamp": "2026-07-26T19:01:24.245878Z",
     "market_id": "KXCABOUT-26MAY22",
     "question": "Who will leave Trump's Cabinet next?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.1
-    }
-  },
-  {
-    "timestamp": "2026-07-18T14:01:15.710373Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.1
     }
   }
 ]
