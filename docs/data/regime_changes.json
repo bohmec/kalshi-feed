@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-29T14:02:00.418095Z",
+    "market_id": "KXCITRINI-28JUL01",
+    "question": "Will the Citrini scenario happen?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.9
+    }
+  },
+  {
     "timestamp": "2026-07-29T13:31:59.011593Z",
     "market_id": "KXAMEND25-29",
     "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 48.2
-    }
-  },
-  {
-    "timestamp": "2026-07-18T21:31:45.900675Z",
-    "market_id": "KXIMPEACH-29",
-    "question": "Will President Trump be impeached during his term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.1
     }
   }
 ]
