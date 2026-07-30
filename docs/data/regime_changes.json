@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-30T16:01:59.901538Z",
+    "market_id": "KXNEXTAG-29",
+    "question": "Who will be Trump's next Attorney General?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 8.2
+    }
+  },
+  {
     "timestamp": "2026-07-30T13:31:50.460140Z",
     "market_id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 24.0
-    }
-  },
-  {
-    "timestamp": "2026-07-19T14:31:45.446747Z",
-    "market_id": "KXBOND-30",
-    "question": "Next James Bond film: Actor cast as James Bond",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 12.4
     }
   }
 ]
