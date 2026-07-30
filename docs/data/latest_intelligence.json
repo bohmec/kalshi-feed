@@ -3,7 +3,7 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Gavin Newsom be the Democratic Presidential nominee in 2028?",
     "current_price": 0.165,
-    "volume": 164590332,
+    "volume": 164590484,
     "nexus_score": 16.8,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
@@ -11,10 +11,10 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.1,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
-        "p": 0.165
+        "p": 0.155
       },
       {
         "p": 0.165
@@ -41,13 +41,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.175,
-    "volume": 55292595,
+    "volume": 55297351,
     "nexus_score": 24.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.175
@@ -77,13 +77,13 @@
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
     "current_price": 0.405,
-    "volume": 54499574,
+    "volume": 54499603,
     "nexus_score": 23.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.405
@@ -121,7 +121,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.11,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.155
@@ -141,7 +141,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 88.7,
+    "c3": 89.3,
     "c4": 7.7,
     "slug": "KXCITRINI-28JUL01",
     "platform": "kalshi",
@@ -151,25 +151,25 @@
     "id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?: Who will be Trump's next Attorney General?",
     "current_price": 0.755,
-    "volume": 10314402,
+    "volume": 10314589,
     "nexus_score": 16.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
-        "p": 0.745
+        "p": 0.725
       },
       {
         "p": 0.755
       },
       {
-        "p": 0.715
+        "p": 0.705
       },
       {
-        "p": 0.75
+        "p": 0.755
       },
       {
         "p": 0.755
@@ -193,7 +193,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.16
@@ -229,7 +229,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.245
@@ -265,7 +265,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.096
@@ -301,7 +301,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.045
@@ -330,14 +330,14 @@
   {
     "id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?: Will there be no U.S. acquisition of Greenland during Trump's term?",
-    "current_price": 0.82,
-    "volume": 1553229,
-    "nexus_score": 17.6,
+    "current_price": 0.815,
+    "volume": 1553705,
+    "nexus_score": 23.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.1,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "macro_sensitivity": 0.05,
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.82
@@ -352,12 +352,12 @@
         "p": 0.82
       },
       {
-        "p": 0.82
+        "p": 0.815
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 89.3,
+    "c3": 95.3,
     "c4": 14.0,
     "slug": "KXGREENLANDPRICE-29JAN21",
     "platform": "kalshi",
@@ -375,7 +375,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.415
@@ -384,7 +384,7 @@
         "p": 0.415
       },
       {
-        "p": 0.42
+        "p": 0.41
       },
       {
         "p": 0.41
@@ -411,7 +411,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.275
@@ -447,7 +447,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.595
@@ -456,7 +456,7 @@
         "p": 0.595
       },
       {
-        "p": 0.595
+        "p": 0.59
       },
       {
         "p": 0.59
@@ -485,7 +485,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.18
@@ -521,10 +521,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
-        "p": 0.215
+        "p": 0.225
       },
       {
         "p": 0.225
@@ -557,7 +557,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.175
@@ -593,7 +593,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.575
@@ -623,13 +623,13 @@
     "id": "KXWC-30",
     "question": "2030 FIFA World Cup Champion: Will Spain win the 2030 FIFA Men's World Cup?",
     "current_price": 0.167,
-    "volume": 506979,
+    "volume": 507336,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.1655
@@ -658,14 +658,14 @@
   {
     "id": "KXINSURRECTION-29",
     "question": "Will Trump invoke the Insurrection Act?: Will Trump invoke the Insurrection Act during his Presidency?",
-    "current_price": 0.43,
+    "current_price": 0.435,
     "volume": 475177,
     "nexus_score": 21.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.43
@@ -680,7 +680,7 @@
         "p": 0.43
       },
       {
-        "p": 0.43
+        "p": 0.435
       }
     ],
     "c1": 0.0,
@@ -694,14 +694,14 @@
   {
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
-    "current_price": 0.615,
-    "volume": 472710,
-    "nexus_score": 22.3,
+    "current_price": 0.62,
+    "volume": 472787,
+    "nexus_score": 22.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.625
@@ -716,7 +716,7 @@
         "p": 0.615
       },
       {
-        "p": 0.615
+        "p": 0.62
       }
     ],
     "c1": 0.0,
@@ -739,7 +739,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.575
@@ -775,7 +775,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.495
@@ -805,13 +805,13 @@
     "id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.82,
-    "volume": 319336,
+    "volume": 319342,
     "nexus_score": 22.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.815
@@ -842,12 +842,12 @@
     "question": "Will the US acquire any new territory?: Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?",
     "current_price": 0.215,
     "volume": 314575,
-    "nexus_score": 22.0,
+    "nexus_score": 21.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.05,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "macro_sensitivity": 0.06,
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.215
@@ -867,7 +867,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 94.7,
+    "c3": 94.0,
     "c4": 9.3,
     "slug": "KXUSAEXPANDTERRITORY",
     "platform": "kalshi",
@@ -883,7 +883,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.19
@@ -919,7 +919,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.425
@@ -955,7 +955,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.0715
@@ -991,7 +991,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.36
@@ -1027,7 +1027,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1063,7 +1063,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.445
@@ -1075,7 +1075,7 @@
         "p": 0.445
       },
       {
-        "p": 0.455
+        "p": 0.45
       },
       {
         "p": 0.45
@@ -1094,12 +1094,12 @@
     "question": "Will Zelenskyy and Putin speak?: Volodymyr Zelenskyy and Vladimir Putin meet before Jan 20, 2029?",
     "current_price": 0.34,
     "volume": 191111,
-    "nexus_score": 21.5,
+    "nexus_score": 21.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.05,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "macro_sensitivity": 0.04,
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.34
@@ -1119,7 +1119,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 95.3,
+    "c3": 96.0,
     "c4": 7.3,
     "slug": "KXZELENSKYPUTIN-29",
     "platform": "kalshi",
@@ -1135,7 +1135,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.31
@@ -1171,7 +1171,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.268
@@ -1207,7 +1207,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.31
@@ -1243,7 +1243,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1263,7 +1263,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 96.7,
+    "c3": 96.0,
     "c4": 9.3,
     "slug": "KXDOED-29",
     "platform": "kalshi",
@@ -1272,14 +1272,14 @@
   {
     "id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.5525,
-    "volume": 147729,
+    "current_price": 0.5535,
+    "volume": 147730,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.556
@@ -1294,7 +1294,7 @@
         "p": 0.5535
       },
       {
-        "p": 0.5525
+        "p": 0.5535
       }
     ],
     "c1": 0.0,
@@ -1315,7 +1315,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.0465
@@ -1351,7 +1351,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.115
@@ -1387,7 +1387,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.58
@@ -1423,7 +1423,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.0595
@@ -1461,10 +1461,10 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.33,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
-        "p": 0.165
+        "p": 0.195
       },
       {
         "p": 0.195
@@ -1497,10 +1497,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
-        "p": 0.225
+        "p": 0.23
       },
       {
         "p": 0.225
@@ -1533,7 +1533,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1569,19 +1569,19 @@
     "display_state": "Initializing",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
-        "p": 0.175
+        "p": 0.115
       },
       {
-        "p": 0.135
+        "p": 0.115
       },
       {
-        "p": 0.11
+        "p": 0.115
       },
       {
-        "p": 0.11
+        "p": 0.115
       },
       {
         "p": 0.115
@@ -1605,7 +1605,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.51
@@ -1634,16 +1634,16 @@
   {
     "id": "KXCABOUT-26MAY22",
     "question": "Who will leave Trump's Cabinet next?: Will Robert F. Kennedy Jr. be the next person to leave the Trump Cabinet?",
-    "current_price": 0.255,
+    "current_price": 0.245,
     "volume": 106084,
-    "nexus_score": 48.1,
+    "nexus_score": 47.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.04,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.285
@@ -1658,13 +1658,13 @@
         "p": 0.255
       },
       {
-        "p": 0.255
+        "p": 0.245
       }
     ],
     "c1": 56.0,
-    "c2": 8.4,
-    "c3": 96.0,
-    "c4": 12.0,
+    "c2": 7.1,
+    "c3": 99.3,
+    "c4": 11.3,
     "slug": "KXCABOUT-26MAY22",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1679,7 +1679,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.073
@@ -1710,14 +1710,14 @@
     "question": "Which Supreme Court justices will resign during Trump's term?: Will Samuel Alito resign during Trump's term?",
     "current_price": 0.675,
     "volume": 95119,
-    "nexus_score": 46.4,
+    "nexus_score": 45.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.675
@@ -1736,7 +1736,7 @@
       }
     ],
     "c1": 55.3,
-    "c2": 6.1,
+    "c2": 4.9,
     "c3": 100.0,
     "c4": 12.7,
     "slug": "KXSCOTUSRESIGN-29",
@@ -1746,14 +1746,14 @@
   {
     "id": "KXGDPYEAR-36",
     "question": "US real GDP growth in 2036?: GDP growth in 2036?",
-    "current_price": 0.155,
+    "current_price": 0.165,
     "volume": 91760,
     "nexus_score": null,
     "market_state": "Initializing",
     "display_state": "Initializing",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.095
@@ -1765,7 +1765,10 @@
         "p": 0.155
       },
       {
-        "p": 0.155
+        "p": 0.165
+      },
+      {
+        "p": 0.165
       }
     ],
     "c1": null,
@@ -1786,7 +1789,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-07-30T06:31:54Z",
+    "last_updated": "2026-07-30T07:01:48Z",
     "sparkline": [
       {
         "p": 0.64
