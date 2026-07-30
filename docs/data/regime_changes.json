@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-30T22:31:57.592387Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.1
+    }
+  },
+  {
     "timestamp": "2026-07-30T18:31:46.923493Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.7
-    }
-  },
-  {
-    "timestamp": "2026-07-19T17:31:48.360243Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.8
     }
   }
 ]
