@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-31T17:31:46.169046Z",
+    "market_id": "KXPRESNOMD-28",
+    "question": "2028 Democratic presidential nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.2
+    }
+  },
+  {
     "timestamp": "2026-07-31T16:01:54.963954Z",
     "market_id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.7
-    }
-  },
-  {
-    "timestamp": "2026-07-21T13:31:58.743239Z",
-    "market_id": "KXUKPARTY-29",
-    "question": "Which party will win the next UK general election?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.8
     }
   }
 ]
