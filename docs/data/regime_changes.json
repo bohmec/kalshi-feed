@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-31T19:01:55.300463Z",
+    "market_id": "KXCANAL-29",
+    "question": "Will Trump take back the Panama Canal?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.5
+    }
+  },
+  {
     "timestamp": "2026-07-31T17:31:46.169046Z",
     "market_id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 34.4
-    }
-  },
-  {
-    "timestamp": "2026-07-22T15:02:00.081885Z",
-    "market_id": "KXPRESPARTY-2028",
-    "question": "2028 Presidential Election winner? (Party)",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.7
     }
   }
 ]
