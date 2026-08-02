@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-02T15:02:00.298611Z",
+    "market_id": "KXNEXTAG-29",
+    "question": "Who will be Trump's next Attorney General?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.7
+    }
+  },
+  {
     "timestamp": "2026-08-02T13:01:53.052536Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 41.3
-    }
-  },
-  {
-    "timestamp": "2026-07-24T18:31:54.082362Z",
-    "market_id": "KXPRESNOMR-28",
-    "question": "2028 Republican presidential nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.4
     }
   }
 ]
