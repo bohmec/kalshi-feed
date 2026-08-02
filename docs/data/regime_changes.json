@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-02T23:31:05.658872Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.8
+    }
+  },
+  {
     "timestamp": "2026-08-02T15:31:53.123638Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.7
-    }
-  },
-  {
-    "timestamp": "2026-07-25T06:31:56.670365Z",
-    "market_id": "KXGREENTERRITORY-29",
-    "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.8
     }
   }
 ]
