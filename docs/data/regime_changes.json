@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-03T04:01:04.541692Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.8
+    }
+  },
+  {
     "timestamp": "2026-08-02T23:31:05.658872Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 24.2
-    }
-  },
-  {
-    "timestamp": "2026-07-25T13:31:46.149120Z",
-    "market_id": "KXPRESMATCHUP-28NOV07",
-    "question": "2028 Presidential matchup",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.7
     }
   }
 ]
