@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-08-05T14:31:04.912747Z",
+    "market_id": "KXPRESNOMD-28",
+    "question": "2028 Democratic presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.8
+    }
+  },
+  {
+    "timestamp": "2026-08-05T14:31:04.912747Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.4
+    }
+  },
+  {
     "timestamp": "2026-08-05T02:01:07.745760Z",
     "market_id": "KXDOED-29",
     "question": "Will Trump abolish the Department of Education?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 49.5
-    }
-  },
-  {
-    "timestamp": "2026-07-26T19:01:24.245878Z",
-    "market_id": "KXUSAEXPANDTERRITORY",
-    "question": "Will the US acquire any new territory?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.8
-    }
-  },
-  {
-    "timestamp": "2026-07-26T16:01:33.225743Z",
-    "market_id": "KXUSAEXPANDTERRITORY",
-    "question": "Will the US acquire any new territory?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.3
     }
   }
 ]
