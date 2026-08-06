@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-06T14:01:24.239032Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.2
+    }
+  },
+  {
     "timestamp": "2026-08-06T13:31:28.113151Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 37.2
-    }
-  },
-  {
-    "timestamp": "2026-07-28T13:01:38.449293Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 14.6
     }
   }
 ]
