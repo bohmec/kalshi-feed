@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-06T13:31:28.113151Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.3
+    }
+  },
+  {
     "timestamp": "2026-08-06T13:01:20.554739Z",
     "market_id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 14.6
-    }
-  },
-  {
-    "timestamp": "2026-07-28T03:31:26.136254Z",
-    "market_id": "KXAMEND25-29",
-    "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.2
     }
   }
 ]
