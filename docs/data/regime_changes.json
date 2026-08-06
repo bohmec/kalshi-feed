@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-06T15:01:31.635174Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.1
+    }
+  },
+  {
     "timestamp": "2026-08-06T14:01:24.239032Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 44.4
-    }
-  },
-  {
-    "timestamp": "2026-07-28T14:31:32.399963Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 37.2
     }
   }
 ]
