@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-07T17:01:31.691415Z",
+    "market_id": "KXNEXTAG-29",
+    "question": "Who will be Trump's next Attorney General?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.4
+    }
+  },
+  {
     "timestamp": "2026-08-07T16:01:28.378497Z",
     "market_id": "KXNEXTAG-29",
     "question": "Who will be Trump's next Attorney General?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.4
-    }
-  },
-  {
-    "timestamp": "2026-07-29T16:01:57.485331Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 44.8
     }
   }
 ]
