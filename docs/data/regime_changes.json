@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-08-07T13:01:21.617544Z",
+    "market_id": "KXSCOTUSRESIGN-29",
+    "question": "Which Supreme Court justices will resign during Trump's term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 37.5
+    }
+  },
+  {
+    "timestamp": "2026-08-07T13:01:21.617544Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.5
+    }
+  },
+  {
+    "timestamp": "2026-08-07T13:01:21.617544Z",
+    "market_id": "KXSTATE51-29",
+    "question": "What will be the 51st state in Trump's term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.8
+    }
+  },
+  {
     "timestamp": "2026-08-06T15:01:31.635174Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -467,36 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.0
-    }
-  },
-  {
-    "timestamp": "2026-07-29T13:31:59.011593Z",
-    "market_id": "KXCITRINI-28JUL01",
-    "question": "Will the Citrini scenario happen?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.9
-    }
-  },
-  {
-    "timestamp": "2026-07-29T13:31:59.011593Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.1
-    }
-  },
-  {
-    "timestamp": "2026-07-28T22:31:34.997659Z",
-    "market_id": "KXFEDEND-29",
-    "question": "Will Trump end the Federal Reserve?",
-    "from_regime": "Active",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 44.4
     }
   }
 ]
