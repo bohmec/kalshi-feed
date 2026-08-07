@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-07T13:31:25.188516Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.5
+    }
+  },
+  {
     "timestamp": "2026-08-07T13:01:21.617544Z",
     "market_id": "KXSCOTUSRESIGN-29",
     "question": "Which Supreme Court justices will resign during Trump's term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.9
-    }
-  },
-  {
-    "timestamp": "2026-07-29T13:31:59.011593Z",
-    "market_id": "KXAMEND25-29",
-    "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.0
     }
   }
 ]
