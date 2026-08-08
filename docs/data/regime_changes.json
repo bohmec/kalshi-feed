@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-08T11:31:55.889811Z",
+    "market_id": "KXPRIMEENGCONSUMPTION-30",
+    "question": "What will be the largest source of global primary energy consumption in 2030?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.3
+    }
+  },
+  {
     "timestamp": "2026-08-08T03:31:56.541276Z",
     "market_id": "KXCANAL-29",
     "question": "Will Trump take back the Panama Canal?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.4
-    }
-  },
-  {
-    "timestamp": "2026-07-30T13:01:55.855950Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 30.6
     }
   }
 ]
