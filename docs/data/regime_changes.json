@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-08-08T21:31:58.138030Z",
+    "market_id": "CHINAUSGDP",
+    "question": "China overtakes USA\u2019s economy by 2030?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 51.2
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:31:58.138030Z",
+    "market_id": "KXH1B-29",
+    "question": "Will Trump expand the H-1B program?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 40.9
+    }
+  },
+  {
+    "timestamp": "2026-08-08T21:31:58.138030Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.5
+    }
+  },
+  {
     "timestamp": "2026-08-08T21:01:50.196180Z",
     "market_id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee",
@@ -467,36 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.1
-    }
-  },
-  {
-    "timestamp": "2026-07-31T04:31:44.115252Z",
-    "market_id": "KXCANAL-29",
-    "question": "Will Trump take back the Panama Canal?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.2
-    }
-  },
-  {
-    "timestamp": "2026-07-30T22:31:57.592387Z",
-    "market_id": "KXVPRESNOMD-28",
-    "question": "2028 Democratic VP nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.1
-    }
-  },
-  {
-    "timestamp": "2026-07-30T18:31:46.923493Z",
-    "market_id": "KXNEXTAG-29",
-    "question": "Who will be Trump's next Attorney General?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 15.8
     }
   }
 ]
