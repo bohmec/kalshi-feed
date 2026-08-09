@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-08-09T15:31:50.955627Z",
+    "market_id": "KXSCOTUSRESIGN-29",
+    "question": "Which Supreme Court justices will resign during Trump's term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 43.4
+    }
+  },
+  {
+    "timestamp": "2026-08-09T15:31:50.955627Z",
+    "market_id": "KXH1B-29",
+    "question": "Will Trump expand the H-1B program?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 47.7
+    }
+  },
+  {
     "timestamp": "2026-08-09T14:31:47.133900Z",
     "market_id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 43.6
-    }
-  },
-  {
-    "timestamp": "2026-08-02T09:01:58.830183Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 37.1
-    }
-  },
-  {
-    "timestamp": "2026-08-01T13:01:59.638277Z",
-    "market_id": "KXCANTERRITORY-29",
-    "question": "Will the US take control of any part of Canada?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.7
     }
   }
 ]
