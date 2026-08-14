@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-14T23:01:41.658048Z",
+    "market_id": "KXGDPYEAR-35",
+    "question": "US real GDP growth in 2035?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 16.5
+    }
+  },
+  {
     "timestamp": "2026-08-14T22:01:36.261532Z",
     "market_id": "KXNEXTPRESSEC-29JAN21",
     "question": "Who will be Trump's next Press Secretary?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.3
-    }
-  },
-  {
-    "timestamp": "2026-08-06T13:01:20.554739Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.1
     }
   }
 ]
