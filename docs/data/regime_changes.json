@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-15T10:01:35.956889Z",
+    "market_id": "KXGDPYEAR-33",
+    "question": "US real GDP growth in 2033?",
+    "from_regime": "Volatile",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 15.7
+    }
+  },
+  {
     "timestamp": "2026-08-15T09:31:33.549407Z",
     "market_id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.2
-    }
-  },
-  {
-    "timestamp": "2026-08-06T13:31:28.113151Z",
-    "market_id": "KXPRESNOMR-28",
-    "question": "2028 Republican presidential nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.3
     }
   }
 ]
