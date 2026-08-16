@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-16T20:01:50.649480Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.1
+    }
+  },
+  {
     "timestamp": "2026-08-16T18:32:00.377737Z",
     "market_id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 39.2
-    }
-  },
-  {
-    "timestamp": "2026-08-07T19:31:23.021934Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.9
     }
   }
 ]
