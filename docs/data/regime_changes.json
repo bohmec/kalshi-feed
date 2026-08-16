@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-08-16T14:31:53.845277Z",
+    "market_id": "KXGDPYEAR-33",
+    "question": "US real GDP growth in 2033?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.3
+    }
+  },
+  {
+    "timestamp": "2026-08-16T14:31:53.845277Z",
+    "market_id": "KXVPRESNOMD-28",
+    "question": "2028 Democratic VP nominee",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-08-16T13:32:03.002526Z",
     "market_id": "KXGDPYEAR-33",
     "question": "US real GDP growth in 2033?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.4
-    }
-  },
-  {
-    "timestamp": "2026-08-07T16:01:28.378497Z",
-    "market_id": "KXNEXTAG-29",
-    "question": "Who will be Trump's next Attorney General?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 20.8
-    }
-  },
-  {
-    "timestamp": "2026-08-07T13:31:25.188516Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.5
     }
   }
 ]
