@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-16T18:32:00.377737Z",
+    "market_id": "KXSTATE51-29",
+    "question": "What will be the 51st state in Trump's term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.9
+    }
+  },
+  {
     "timestamp": "2026-08-16T14:31:53.845277Z",
     "market_id": "KXGDPYEAR-33",
     "question": "US real GDP growth in 2033?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.9
-    }
-  },
-  {
-    "timestamp": "2026-08-07T17:01:31.691415Z",
-    "market_id": "KXNEXTAG-29",
-    "question": "Who will be Trump's next Attorney General?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.4
     }
   }
 ]
