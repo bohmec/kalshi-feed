@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-17T16:02:12.680269Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.8
+    }
+  },
+  {
     "timestamp": "2026-08-16T20:01:50.649480Z",
     "market_id": "KXDOED-29",
     "question": "Will Trump abolish the Department of Education?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 48.1
-    }
-  },
-  {
-    "timestamp": "2026-08-07T19:31:23.021934Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 39.2
     }
   }
 ]
