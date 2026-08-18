@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-18T00:02:03.797023Z",
+    "market_id": "KXCABOUT-26MAY22",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.6
+    }
+  },
+  {
     "timestamp": "2026-08-17T16:02:12.680269Z",
     "market_id": "KXDOED-29",
     "question": "Will Trump abolish the Department of Education?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 55.5
-    }
-  },
-  {
-    "timestamp": "2026-08-08T01:01:47.789930Z",
-    "market_id": "KXOBERGEFELL-29",
-    "question": "Will the Supreme Court overturn gay marriage?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 48.1
     }
   }
 ]
