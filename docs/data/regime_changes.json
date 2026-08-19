@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-19T01:01:12.864258Z",
+    "market_id": "KXGDPYEAR-33",
+    "question": "US real GDP growth in 2033?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 16.5
+    }
+  },
+  {
     "timestamp": "2026-08-18T16:01:21.420174Z",
     "market_id": "KXOBERGEFELL-29",
     "question": "Will the Supreme Court overturn gay marriage?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 13.3
-    }
-  },
-  {
-    "timestamp": "2026-08-08T03:31:56.541276Z",
-    "market_id": "KXCANAL-29",
-    "question": "Will Trump take back the Panama Canal?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.0
     }
   }
 ]
