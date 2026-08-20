@@ -3,13 +3,13 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Alexandria Ocasio-Cortez be the Democratic Presidential nominee in 2028?",
     "current_price": 0.175,
-    "volume": 186218201,
+    "volume": 186240472,
     "nexus_score": 23.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.175
@@ -39,13 +39,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.185,
-    "volume": 60609917,
+    "volume": 60609940,
     "nexus_score": 22.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.185
@@ -75,13 +75,13 @@
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
     "current_price": 0.435,
-    "volume": 58260975,
+    "volume": 58262383,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.435
@@ -117,7 +117,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.19
@@ -153,7 +153,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.11,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.265
@@ -184,12 +184,12 @@
     "question": "2028 Democratic VP nominee: Will Gretchen Whitmer be the nominee for the Vice Presidency for the Democratic party?",
     "current_price": 0.096,
     "volume": 2722348,
-    "nexus_score": 22.6,
+    "nexus_score": 22.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.096
@@ -210,7 +210,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 93.3,
-    "c4": 12.0,
+    "c4": 11.7,
     "slug": "KXVPRESNOMD-28",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -219,13 +219,13 @@
     "id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?: Will any part of Cuba be the 51st U.S. state before Jan 20, 2029?",
     "current_price": 0.035,
-    "volume": 1702236,
+    "volume": 1702285,
     "nexus_score": 23.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.035
@@ -263,7 +263,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.36
@@ -299,7 +299,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.85
@@ -335,7 +335,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.285
@@ -364,37 +364,36 @@
   {
     "id": "KXNEXTPRESSEC-29JAN21",
     "question": "Who will be Trump's next Press Secretary?: ::",
-    "current_price": 0.365,
-    "volume": 1050592,
+    "current_price": 0.36,
+    "volume": 1055605,
     "nexus_score": 13.2,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
-      "Contested",
       "Correlated"
     ],
     "macro_sensitivity": 0.24,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
-        "p": 0.23
+        "p": 0.245
       },
       {
-        "p": 0.23
+        "p": 0.25
       },
       {
         "p": 0.285
       },
       {
-        "p": 0.33
+        "p": 0.34
       },
       {
-        "p": 0.365
+        "p": 0.36
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 75.3,
+    "c3": 76.0,
     "c4": 6.3,
     "slug": "KXNEXTPRESSEC-29JAN21",
     "platform": "kalshi",
@@ -410,7 +409,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.45
@@ -446,7 +445,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.145
@@ -475,14 +474,14 @@
   {
     "id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?: Will Trump be impeached and removed from office?",
-    "current_price": 0.135,
-    "volume": 637631,
-    "nexus_score": 22.3,
+    "current_price": 0.145,
+    "volume": 639767,
+    "nexus_score": 22.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.135
@@ -497,13 +496,13 @@
         "p": 0.135
       },
       {
-        "p": 0.135
+        "p": 0.145
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 7.7,
+    "c4": 7.3,
     "slug": "KXTRUMPREMOVE",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -518,7 +517,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.128
@@ -554,7 +553,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.215
@@ -590,7 +589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.425
@@ -620,13 +619,13 @@
     "id": "KXPRESPARTY-2028",
     "question": "2028 Presidential Election winner? (Party): Will Democratic win the Presidency in 2028?",
     "current_price": 0.575,
-    "volume": 535942,
+    "volume": 535952,
     "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.575
@@ -662,7 +661,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.625
@@ -700,7 +699,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.585
@@ -720,7 +719,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 96.0,
+    "c3": 96.7,
     "c4": 10.3,
     "slug": "KXTRUMPPARDONS-29JAN21",
     "platform": "kalshi",
@@ -736,7 +735,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.555
@@ -772,7 +771,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.915
@@ -808,7 +807,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.185
@@ -846,7 +845,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.16,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.19
@@ -882,7 +881,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.0675
@@ -918,7 +917,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.41
@@ -954,7 +953,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.115
@@ -990,7 +989,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.06,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.37
@@ -1026,7 +1025,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.42
@@ -1062,7 +1061,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.34
@@ -1093,12 +1092,12 @@
     "question": "Which agencies will Trump eliminate?: USAID:: United States Agency for International Development",
     "current_price": 0.3,
     "volume": 180466,
-    "nexus_score": 23.6,
+    "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.3
@@ -1134,7 +1133,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.2135
@@ -1170,7 +1169,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.295
@@ -1206,7 +1205,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1244,7 +1243,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.105
@@ -1280,7 +1279,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1316,7 +1315,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.09,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.576
@@ -1352,7 +1351,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.24
@@ -1388,11 +1387,8 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
-      {
-        "p": 0.09
-      },
       {
         "p": 0.09
       },
@@ -1400,7 +1396,10 @@
         "p": 0.085
       },
       {
-        "p": 0.09
+        "p": 0.085
+      },
+      {
+        "p": 0.075
       },
       {
         "p": 0.075
@@ -1424,7 +1423,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.185
@@ -1460,7 +1459,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.67
@@ -1496,7 +1495,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.0475
@@ -1532,7 +1531,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.0665
@@ -1541,10 +1540,10 @@
         "p": 0.0665
       },
       {
-        "p": 0.076
+        "p": 0.0675
       },
       {
-        "p": 0.0705
+        "p": 0.0715
       },
       {
         "p": 0.0665
@@ -1562,7 +1561,7 @@
     "id": "KXAKSENADVANCE-26AUG18",
     "question": "Alaska Senate: who will advance?: Will Dan J. Sullivan qualify for the runoff in the 2026 Alaska Senate race?",
     "current_price": 0.995,
-    "volume": 129447,
+    "volume": 129574,
     "nexus_score": 34.8,
     "market_state": "Volatile",
     "display_state": "Fragile",
@@ -1570,7 +1569,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.995
@@ -1606,7 +1605,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.195
@@ -1642,7 +1641,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.235
@@ -1678,7 +1677,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.115
@@ -1714,7 +1713,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.645
@@ -1750,7 +1749,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.075
@@ -1788,7 +1787,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.11,
-    "last_updated": "2026-08-20T04:31:24Z",
+    "last_updated": "2026-08-20T05:01:23Z",
     "sparkline": [
       {
         "p": 0.575
