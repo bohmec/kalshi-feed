@@ -3,13 +3,13 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Alexandria Ocasio-Cortez be the Democratic Presidential nominee in 2028?",
     "current_price": 0.175,
-    "volume": 186672930,
+    "volume": 186679999,
     "nexus_score": 23.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.175
@@ -39,13 +39,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.185,
-    "volume": 60781387,
+    "volume": 60783794,
     "nexus_score": 22.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.185
@@ -65,8 +65,8 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 99.3,
-    "c4": 10.0,
+    "c3": 100.0,
+    "c4": 9.7,
     "slug": "KXPRESPERSON-28",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -75,13 +75,13 @@
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
     "current_price": 0.435,
-    "volume": 58341558,
+    "volume": 58345486,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.435
@@ -110,19 +110,19 @@
   {
     "id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?: :: During Trump's term",
-    "current_price": 0.2,
+    "current_price": 0.195,
     "volume": 4952972,
-    "nexus_score": 15.8,
+    "nexus_score": 15.3,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.12,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "macro_sensitivity": 0.15,
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
-        "p": 0.2
+        "p": 0.195
       },
       {
         "p": 0.195
@@ -131,15 +131,15 @@
         "p": 0.2
       },
       {
-        "p": 0.19
+        "p": 0.195
       },
       {
-        "p": 0.2
+        "p": 0.195
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 87.3,
+    "c3": 84.7,
     "c4": 8.7,
     "slug": "KXGREENLAND-29",
     "platform": "kalshi",
@@ -157,7 +157,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.18,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.26
@@ -193,7 +193,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.0955
@@ -220,54 +220,16 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXBOND-30",
-    "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
-    "current_price": 0.315,
-    "volume": 1703638,
-    "nexus_score": 22.8,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [
-      "Contested"
-    ],
-    "macro_sensitivity": 0.06,
-    "last_updated": "2026-08-21T00:01:09Z",
-    "sparkline": [
-      {
-        "p": 0.315
-      },
-      {
-        "p": 0.315
-      },
-      {
-        "p": 0.315
-      },
-      {
-        "p": 0.315
-      },
-      {
-        "p": 0.315
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 94.0,
-    "c4": 12.3,
-    "slug": "KXBOND-30",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?: Will any part of Cuba be the 51st U.S. state before Jan 20, 2029?",
     "current_price": 0.035,
-    "volume": 1703137,
+    "volume": 1704646,
     "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.035
@@ -294,6 +256,44 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXBOND-30",
+    "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
+    "current_price": 0.315,
+    "volume": 1703671,
+    "nexus_score": 22.9,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [
+      "Contested"
+    ],
+    "macro_sensitivity": 0.05,
+    "last_updated": "2026-08-21T00:31:05Z",
+    "sparkline": [
+      {
+        "p": 0.315
+      },
+      {
+        "p": 0.315
+      },
+      {
+        "p": 0.315
+      },
+      {
+        "p": 0.315
+      },
+      {
+        "p": 0.315
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 94.7,
+    "c4": 12.3,
+    "slug": "KXBOND-30",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?: Will there be no U.S. acquisition of Greenland during Trump's term?",
     "current_price": 0.845,
@@ -303,11 +303,8 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
-      {
-        "p": 0.845
-      },
       {
         "p": 0.845
       },
@@ -315,7 +312,10 @@
         "p": 0.84
       },
       {
-        "p": 0.85
+        "p": 0.84
+      },
+      {
+        "p": 0.845
       },
       {
         "p": 0.845
@@ -330,6 +330,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXNEXTPRESSEC-29JAN21",
+    "question": "Who will be Trump's next Press Secretary?: ::",
+    "current_price": 0.43,
+    "volume": 1323057,
+    "nexus_score": 16.5,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.03,
+    "last_updated": "2026-08-21T00:31:05Z",
+    "sparkline": [
+      {
+        "p": 0.395
+      },
+      {
+        "p": 0.385
+      },
+      {
+        "p": 0.355
+      },
+      {
+        "p": 0.325
+      },
+      {
+        "p": 0.43
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 96.7,
+    "c4": 6.3,
+    "slug": "KXNEXTPRESSEC-29JAN21",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXVPRESNOMR-28",
     "question": "2028 Republican VP nominee: Will Marco Rubio be the nominee for the Vice Presidency for the Republican party?",
     "current_price": 0.285,
@@ -339,7 +375,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.285
@@ -366,42 +402,6 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXNEXTPRESSEC-29JAN21",
-    "question": "Who will be Trump's next Press Secretary?: ::",
-    "current_price": 0.445,
-    "volume": 1305483,
-    "nexus_score": 16.3,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.04,
-    "last_updated": "2026-08-21T00:01:09Z",
-    "sparkline": [
-      {
-        "p": 0.405
-      },
-      {
-        "p": 0.425
-      },
-      {
-        "p": 0.365
-      },
-      {
-        "p": 0.375
-      },
-      {
-        "p": 0.445
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 96.0,
-    "c4": 6.3,
-    "slug": "KXNEXTPRESSEC-29JAN21",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXRELOCATIONCHI-28",
     "question": "Chicago Pro Football Team: Relocation: Will the Chicago Pro Football Team relocate to Indiana by the first game of the 2028 Pro Football regular season?",
     "current_price": 0.475,
@@ -411,7 +411,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.485
@@ -447,7 +447,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.145
@@ -483,7 +483,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.145
@@ -519,7 +519,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.1275
@@ -555,7 +555,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.21
@@ -585,16 +585,16 @@
     "id": "KXINSURRECTION-29",
     "question": "Will Trump invoke the Insurrection Act?: Will Trump invoke the Insurrection Act during his Presidency?",
     "current_price": 0.465,
-    "volume": 541866,
+    "volume": 541870,
     "nexus_score": 22.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
-        "p": 0.48
+        "p": 0.47
       },
       {
         "p": 0.45
@@ -627,7 +627,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.575
@@ -657,22 +657,22 @@
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
     "current_price": 0.62,
-    "volume": 507636,
+    "volume": 507648,
     "nexus_score": 21.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
-        "p": 0.625
-      },
-      {
-        "p": 0.605
+        "p": 0.61
       },
       {
         "p": 0.61
+      },
+      {
+        "p": 0.615
       },
       {
         "p": 0.625
@@ -701,7 +701,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.585
@@ -737,7 +737,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.555
@@ -767,13 +767,13 @@
     "id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.925,
-    "volume": 342497,
+    "volume": 342507,
     "nexus_score": 21.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.9
@@ -809,7 +809,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.195
@@ -846,8 +846,8 @@
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.1,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "macro_sensitivity": 0.09,
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.215
@@ -883,7 +883,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.07
@@ -914,12 +914,12 @@
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.405,
     "volume": 275525,
-    "nexus_score": 22.0,
+    "nexus_score": 22.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.405
@@ -940,7 +940,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 6.7,
+    "c4": 7.0,
     "slug": "KXTAIWANLVL4",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -955,7 +955,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.115
@@ -991,7 +991,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.37
@@ -1027,13 +1027,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
-        "p": 0.41
+        "p": 0.415
       },
       {
-        "p": 0.41
+        "p": 0.405
       },
       {
         "p": 0.405
@@ -1057,13 +1057,13 @@
     "id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?: Volodymyr Zelenskyy and Vladimir Putin meet before Jan 20, 2029?",
     "current_price": 0.34,
-    "volume": 197766,
+    "volume": 197915,
     "nexus_score": 20.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.34
@@ -1094,12 +1094,12 @@
     "question": "Which agencies will Trump eliminate?: USAID:: United States Agency for International Development",
     "current_price": 0.295,
     "volume": 180661,
-    "nexus_score": 23.8,
+    "nexus_score": 23.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.3
@@ -1135,7 +1135,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.1945
@@ -1166,12 +1166,12 @@
     "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?: Before 2029",
     "current_price": 0.29,
     "volume": 171499,
-    "nexus_score": 22.1,
+    "nexus_score": 22.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.295
@@ -1192,7 +1192,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 7.0,
+    "c4": 7.7,
     "slug": "KXAMEND25-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1207,7 +1207,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1245,7 +1245,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.095
@@ -1283,7 +1283,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.145
@@ -1321,7 +1321,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.37,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.576
@@ -1352,12 +1352,12 @@
     "question": "US real GDP growth in 2036?: GDP growth in 2036?",
     "current_price": 0.23,
     "volume": 149891,
-    "nexus_score": 15.6,
+    "nexus_score": 15.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.05,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.23
@@ -1377,7 +1377,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 94.7,
+    "c3": 95.3,
     "c4": 4.7,
     "slug": "KXGDPYEAR-36",
     "platform": "kalshi",
@@ -1387,13 +1387,13 @@
     "id": "KXCABOUT-26MAY22",
     "question": "Who will leave Trump's Cabinet next?: Will Robert F. Kennedy Jr. be the next person to leave the Trump Cabinet?",
     "current_price": 0.175,
-    "volume": 141447,
+    "volume": 143790,
     "nexus_score": 23.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.175
@@ -1402,7 +1402,7 @@
         "p": 0.17
       },
       {
-        "p": 0.17
+        "p": 0.165
       },
       {
         "p": 0.17
@@ -1429,7 +1429,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.085
@@ -1456,18 +1456,56 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXAKSENADVANCE-26AUG18",
+    "question": "Alaska Senate: who will advance?: Will Dan J. Sullivan qualify for the runoff in the 2026 Alaska Senate race?",
+    "current_price": 0.995,
+    "volume": 138180,
+    "nexus_score": 35.0,
+    "market_state": "Volatile",
+    "display_state": "Fragile",
+    "flags": [
+      "Contested"
+    ],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-08-21T00:31:05Z",
+    "sparkline": [
+      {
+        "p": 0.995
+      },
+      {
+        "p": 0.995
+      },
+      {
+        "p": 0.995
+      },
+      {
+        "p": 0.995
+      },
+      {
+        "p": 0.995
+      }
+    ],
+    "c1": 57.0,
+    "c2": 0.8,
+    "c3": 100.0,
+    "c4": 6.7,
+    "slug": "KXAKSENADVANCE-26AUG18",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?: What will be the largest source of global primary energy consumption in 2030?",
     "current_price": 0.67,
     "volume": 137947,
-    "nexus_score": 44.4,
+    "nexus_score": 44.5,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
     "macro_sensitivity": 0.3,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.67
@@ -1494,44 +1532,6 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXAKSENADVANCE-26AUG18",
-    "question": "Alaska Senate: who will advance?: Will Dan J. Sullivan qualify for the runoff in the 2026 Alaska Senate race?",
-    "current_price": 0.995,
-    "volume": 137648,
-    "nexus_score": 34.9,
-    "market_state": "Volatile",
-    "display_state": "Fragile",
-    "flags": [
-      "Contested"
-    ],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
-    "sparkline": [
-      {
-        "p": 0.995
-      },
-      {
-        "p": 0.995
-      },
-      {
-        "p": 0.995
-      },
-      {
-        "p": 0.995
-      },
-      {
-        "p": 0.995
-      }
-    ],
-    "c1": 57.0,
-    "c2": 0.9,
-    "c3": 100.0,
-    "c4": 6.7,
-    "slug": "KXAKSENADVANCE-26AUG18",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXNEWPOPE-70",
     "question": "Who will the next Pope be?: Who will the next Pope be?",
     "current_price": 0.0475,
@@ -1541,7 +1541,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.0475
@@ -1572,15 +1572,15 @@
     "question": "Will Trump end the Federal Reserve?: Will Trump end the Federal Reserve before Jan 20, 2029?",
     "current_price": 0.066,
     "volume": 131265,
-    "nexus_score": 43.4,
+    "nexus_score": 43.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
-        "p": 0.065
+        "p": 0.066
       },
       {
         "p": 0.067
@@ -1596,7 +1596,7 @@
       }
     ],
     "c1": 57.0,
-    "c2": 4.2,
+    "c2": 4.0,
     "c3": 100.0,
     "c4": 7.0,
     "slug": "KXFEDEND-29",
@@ -1613,7 +1613,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.195
@@ -1644,12 +1644,12 @@
     "question": "Will Trump expand the H-1B program?: Will Trump expand high-skill immigration?",
     "current_price": 0.235,
     "volume": 122351,
-    "nexus_score": 41.5,
+    "nexus_score": 41.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.235
@@ -1668,9 +1668,9 @@
       }
     ],
     "c1": 56.7,
-    "c2": 3.5,
+    "c2": 3.6,
     "c3": 100.0,
-    "c4": 3.7,
+    "c4": 4.0,
     "slug": "KXH1B-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1684,8 +1684,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.02,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.115
@@ -1721,13 +1721,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.645
       },
       {
-        "p": 0.645
+        "p": 0.65
       },
       {
         "p": 0.65
@@ -1752,12 +1752,12 @@
     "question": "2028 Presidential race: exact outcome: Will Marco Rubio defeat Gavin Newsom in the 2028 presidential election, with Gavin Newsom as the Democratic nominee and Marco Rubio as the Republican nominee?",
     "current_price": 0.075,
     "volume": 105508,
-    "nexus_score": 53.8,
+    "nexus_score": 53.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.075
@@ -1776,7 +1776,7 @@
       }
     ],
     "c1": 55.7,
-    "c2": 13.0,
+    "c2": 12.7,
     "c3": 100.0,
     "c4": 13.3,
     "slug": "KXPRESOUTCOME-28NOV07",
@@ -1795,7 +1795,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.08,
-    "last_updated": "2026-08-21T00:01:09Z",
+    "last_updated": "2026-08-21T00:31:05Z",
     "sparkline": [
       {
         "p": 0.575
