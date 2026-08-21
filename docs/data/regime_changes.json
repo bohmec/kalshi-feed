@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-21T05:01:15.513293Z",
+    "market_id": "KXGDPYEAR-33",
+    "question": "US real GDP growth in 2033?",
+    "from_regime": "Volatile",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.4
+    }
+  },
+  {
     "timestamp": "2026-08-21T03:01:13.461452Z",
     "market_id": "KXAKSENADVANCE-26AUG18",
     "question": "Alaska Senate: who will advance?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 43.4
-    }
-  },
-  {
-    "timestamp": "2026-08-09T15:31:50.955627Z",
-    "market_id": "KXH1B-29",
-    "question": "Will Trump expand the H-1B program?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 47.7
     }
   }
 ]
