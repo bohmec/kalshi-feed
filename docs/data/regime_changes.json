@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-22T13:01:02.368089Z",
+    "market_id": "KXFEDEND-29",
+    "question": "Will Trump end the Federal Reserve?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 45.5
+    }
+  },
+  {
     "timestamp": "2026-08-22T11:00:56.150248Z",
     "market_id": "KXFEDEND-29",
     "question": "Will Trump end the Federal Reserve?",
@@ -487,16 +497,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 16.5
-    }
-  },
-  {
-    "timestamp": "2026-08-13T01:01:31.732170Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.2
     }
   }
 ]
