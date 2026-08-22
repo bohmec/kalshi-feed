@@ -3,13 +3,13 @@
     "id": "KXPRESNOMD-28",
     "question": "2028 Democratic presidential nominee: Will Alexandria Ocasio-Cortez be the Democratic Presidential nominee in 2028?",
     "current_price": 0.175,
-    "volume": 187820124,
+    "volume": 187822951,
     "nexus_score": 22.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.175
@@ -39,13 +39,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.185,
-    "volume": 61064995,
+    "volume": 61065953,
     "nexus_score": 23.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.185
@@ -75,7 +75,7 @@
     "id": "KXPRESNOMR-28",
     "question": "2028 Republican presidential nominee: Will J.D. Vance be the nominee for the Presidency for the Republican party?",
     "current_price": 0.435,
-    "volume": 58752464,
+    "volume": 58754460,
     "nexus_score": 14.6,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
@@ -83,7 +83,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.23,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.435
@@ -119,10 +119,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
-        "p": 0.21
+        "p": 0.205
       },
       {
         "p": 0.19
@@ -155,7 +155,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.245
@@ -191,7 +191,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.0955
@@ -229,7 +229,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.315
@@ -259,13 +259,13 @@
     "id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?: Will any part of Cuba be the 51st U.S. state before Jan 20, 2029?",
     "current_price": 0.035,
-    "volume": 1708006,
+    "volume": 1708007,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.035
@@ -292,6 +292,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXNEXTPRESSEC-29JAN21",
+    "question": "Who will be Trump's next Press Secretary?: ::",
+    "current_price": 0.45,
+    "volume": 1658208,
+    "nexus_score": 17.0,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-08-22T03:30:58Z",
+    "sparkline": [
+      {
+        "p": 0.475
+      },
+      {
+        "p": 0.465
+      },
+      {
+        "p": 0.415
+      },
+      {
+        "p": 0.43
+      },
+      {
+        "p": 0.45
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 6.7,
+    "slug": "KXNEXTPRESSEC-29JAN21",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?: Will there be no U.S. acquisition of Greenland during Trump's term?",
     "current_price": 0.85,
@@ -301,7 +337,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.845
@@ -328,42 +364,6 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXNEXTPRESSEC-29JAN21",
-    "question": "Who will be Trump's next Press Secretary?: ::",
-    "current_price": 0.435,
-    "volume": 1646693,
-    "nexus_score": 17.0,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
-    "sparkline": [
-      {
-        "p": 0.415
-      },
-      {
-        "p": 0.465
-      },
-      {
-        "p": 0.405
-      },
-      {
-        "p": 0.42
-      },
-      {
-        "p": 0.435
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 6.7,
-    "slug": "KXNEXTPRESSEC-29JAN21",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXVPRESNOMR-28",
     "question": "2028 Republican VP nominee: Will Marco Rubio be the nominee for the Vice Presidency for the Republican party?",
     "current_price": 0.275,
@@ -373,7 +373,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.285
@@ -402,20 +402,20 @@
   {
     "id": "KXRELOCATIONCHI-28",
     "question": "Chicago Pro Football Team: Relocation: Will the Chicago Pro Football Team relocate to a new location in Illinois by the first game of the 2028 Pro Football regular season?",
-    "current_price": 0.485,
+    "current_price": 0.475,
     "volume": 850644,
-    "nexus_score": 23.3,
+    "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
-        "p": 0.51
+        "p": 0.505
       },
       {
-        "p": 0.505
+        "p": 0.51
       },
       {
         "p": 0.465
@@ -424,13 +424,13 @@
         "p": 0.485
       },
       {
-        "p": 0.485
+        "p": 0.475
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 11.0,
+    "c4": 11.3,
     "slug": "KXRELOCATIONCHI-28",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -445,7 +445,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.145
@@ -481,7 +481,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.145
@@ -517,7 +517,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.127
@@ -547,13 +547,13 @@
     "id": "KXCANAL-29",
     "question": "Will Trump take back the Panama Canal?: Will Trump take back the Panama Canal?",
     "current_price": 0.215,
-    "volume": 575029,
+    "volume": 575030,
     "nexus_score": 22.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.21
@@ -583,7 +583,7 @@
     "id": "KXINSURRECTION-29",
     "question": "Will Trump invoke the Insurrection Act?: Will Trump invoke the Insurrection Act during his Presidency?",
     "current_price": 0.445,
-    "volume": 543739,
+    "volume": 543744,
     "nexus_score": 20.8,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
@@ -591,10 +591,10 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.1,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
-        "p": 0.43
+        "p": 0.46
       },
       {
         "p": 0.455
@@ -627,7 +627,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.575
@@ -657,25 +657,25 @@
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
     "current_price": 0.62,
-    "volume": 508616,
+    "volume": 508679,
     "nexus_score": 21.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.62
       },
       {
-        "p": 0.625
+        "p": 0.62
       },
       {
         "p": 0.635
       },
       {
-        "p": 0.625
+        "p": 0.62
       },
       {
         "p": 0.62
@@ -693,7 +693,7 @@
     "id": "KXTRUMPPARDONS-29JAN21",
     "question": "Who will Trump pardon?: Will Donald Trump Jr. receive a presidential pardon before Jan 21, 2029?",
     "current_price": 0.59,
-    "volume": 398979,
+    "volume": 398980,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -701,7 +701,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.59
@@ -737,7 +737,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.555
@@ -773,7 +773,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.925
@@ -809,7 +809,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.195
@@ -839,13 +839,13 @@
     "id": "KXUSAEXPANDTERRITORY",
     "question": "Will the US acquire any new territory?: Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?",
     "current_price": 0.195,
-    "volume": 332136,
+    "volume": 332137,
     "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.195
@@ -881,7 +881,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.0715
@@ -917,7 +917,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.405
@@ -948,12 +948,12 @@
     "question": "2028 Presidential matchup: Will Alexandria Ocasio-Cortez and JD Vance be the 2028 Democratic and Republican presidential nominees?",
     "current_price": 0.1065,
     "volume": 254287,
-    "nexus_score": 21.9,
+    "nexus_score": 21.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.1015
@@ -974,7 +974,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 6.3,
+    "c4": 6.0,
     "slug": "KXPRESMATCHUP-28NOV07",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -989,7 +989,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.37
@@ -1025,7 +1025,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.395
@@ -1061,7 +1061,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.34
@@ -1097,7 +1097,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.295
@@ -1133,13 +1133,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.206
       },
       {
-        "p": 0.207
+        "p": 0.205
       },
       {
         "p": 0.2085
@@ -1169,7 +1169,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.285
@@ -1205,7 +1205,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1241,7 +1241,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.105
@@ -1279,7 +1279,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.145
@@ -1315,7 +1315,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.576
@@ -1351,7 +1351,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.235
@@ -1387,7 +1387,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.175
@@ -1425,7 +1425,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.995
@@ -1454,35 +1454,35 @@
   {
     "id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?: Will the United States acquire any part of Canada before 2029?",
-    "current_price": 0.0855,
+    "current_price": 0.095,
     "volume": 141102,
-    "nexus_score": 47.0,
+    "nexus_score": 46.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.09
       },
       {
-        "p": 0.095
-      },
-      {
-        "p": 0.0855
+        "p": 0.09
       },
       {
         "p": 0.09
       },
       {
-        "p": 0.0855
+        "p": 0.09
+      },
+      {
+        "p": 0.095
       }
     ],
     "c1": 57.3,
-    "c2": 7.7,
+    "c2": 7.3,
     "c3": 100.0,
-    "c4": 7.0,
+    "c4": 6.7,
     "slug": "KXCANTERRITORY-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1497,10 +1497,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.08,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
-        "p": 0.67
+        "p": 0.65
       },
       {
         "p": 0.65
@@ -1517,7 +1517,7 @@
     ],
     "c1": 57.3,
     "c2": 11.7,
-    "c3": 92.0,
+    "c3": 92.7,
     "c4": 13.3,
     "slug": "KXPRIMEENGCONSUMPTION-30",
     "platform": "kalshi",
@@ -1533,7 +1533,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.0475
@@ -1568,8 +1568,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "macro_sensitivity": 0.02,
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.066
@@ -1588,9 +1588,9 @@
       }
     ],
     "c1": 57.0,
-    "c2": 4.7,
-    "c3": 100.0,
-    "c4": 9.3,
+    "c2": 4.8,
+    "c3": 97.3,
+    "c4": 10.0,
     "slug": "KXFEDEND-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1605,7 +1605,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.195
@@ -1641,10 +1641,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
-        "p": 0.23
+        "p": 0.235
       },
       {
         "p": 0.23
@@ -1677,7 +1677,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.11
@@ -1713,7 +1713,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.625
@@ -1749,7 +1749,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.07
@@ -1787,7 +1787,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-08-22T03:00:58Z",
+    "last_updated": "2026-08-22T03:30:58Z",
     "sparkline": [
       {
         "p": 0.57
