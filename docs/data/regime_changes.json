@@ -1,5 +1,55 @@
 [
   {
+    "timestamp": "2026-08-23T14:30:48.793327Z",
+    "market_id": "KXPRESOUTCOME-28NOV07",
+    "question": "2028 Presidential race: exact outcome",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.1
+    }
+  },
+  {
+    "timestamp": "2026-08-23T14:30:48.793327Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 44.7
+    }
+  },
+  {
+    "timestamp": "2026-08-23T14:30:48.793327Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.7
+    }
+  },
+  {
+    "timestamp": "2026-08-23T14:30:48.793327Z",
+    "market_id": "KXUSAEXPANDTERRITORY",
+    "question": "Will the US acquire any new territory?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.9
+    }
+  },
+  {
+    "timestamp": "2026-08-23T14:30:48.793327Z",
+    "market_id": "KXGREENTERRITORY-29",
+    "question": "Will the US take control of any part of Greenland?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.5
+    }
+  },
+  {
     "timestamp": "2026-08-23T13:31:01.548163Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -447,56 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.9
-    }
-  },
-  {
-    "timestamp": "2026-08-16T14:31:53.845277Z",
-    "market_id": "KXGDPYEAR-33",
-    "question": "US real GDP growth in 2033?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.3
-    }
-  },
-  {
-    "timestamp": "2026-08-16T14:31:53.845277Z",
-    "market_id": "KXVPRESNOMD-28",
-    "question": "2028 Democratic VP nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.0
-    }
-  },
-  {
-    "timestamp": "2026-08-16T13:32:03.002526Z",
-    "market_id": "KXGDPYEAR-33",
-    "question": "US real GDP growth in 2033?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 10.6
-    }
-  },
-  {
-    "timestamp": "2026-08-16T13:32:03.002526Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 42.7
-    }
-  },
-  {
-    "timestamp": "2026-08-16T12:02:02.425972Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 35.6
     }
   }
 ]
