@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-24T20:00:57.902674Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.4
+    }
+  },
+  {
     "timestamp": "2026-08-24T17:30:59.841730Z",
     "market_id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 60.5
-    }
-  },
-  {
-    "timestamp": "2026-08-18T13:01:21.526080Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 12.3
     }
   }
 ]
