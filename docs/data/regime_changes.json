@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-25T14:31:00.993798Z",
+    "market_id": "KXDOED-29",
+    "question": "Will Trump abolish the Department of Education?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.3
+    }
+  },
+  {
     "timestamp": "2026-08-25T08:00:56.050340Z",
     "market_id": "KXGDPUSMAX-28",
     "question": "Will there be a Trump economic boom?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.2
-    }
-  },
-  {
-    "timestamp": "2026-08-19T01:01:12.864258Z",
-    "market_id": "KXGDPYEAR-33",
-    "question": "US real GDP growth in 2033?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 16.5
     }
   }
 ]
