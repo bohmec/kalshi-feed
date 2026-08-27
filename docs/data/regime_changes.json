@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-27T13:31:05.059158Z",
+    "market_id": "KXGREENLANDPRICE-29JAN21",
+    "question": "How much will the US acquire Greenland for?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.7
+    }
+  },
+  {
     "timestamp": "2026-08-27T12:30:55.247997Z",
     "market_id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 11.0
-    }
-  },
-  {
-    "timestamp": "2026-08-19T13:31:16.069525Z",
-    "market_id": "KXUSAEXPANDTERRITORY",
-    "question": "Will the US acquire any new territory?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.7
     }
   }
 ]
