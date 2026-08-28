@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-28T04:30:55.589702Z",
+    "market_id": "KXNEWPOPE-70",
+    "question": "Who will the next Pope be?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 61.2
+    }
+  },
+  {
     "timestamp": "2026-08-28T01:00:53.822560Z",
     "market_id": "KXAGENCYELIM-29",
     "question": "Which agencies will Trump eliminate?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.2
-    }
-  },
-  {
-    "timestamp": "2026-08-20T09:01:32.110332Z",
-    "market_id": "KXNEXTPRESSEC-29JAN21",
-    "question": "Who will be Trump's next Press Secretary?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 16.9
     }
   }
 ]
