@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-29T09:30:53.560052Z",
+    "market_id": "KXPRESNOMR-28",
+    "question": "2028 Republican presidential nominee",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 17.0
+    }
+  },
+  {
     "timestamp": "2026-08-29T08:31:01.064062Z",
     "market_id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.8
-    }
-  },
-  {
-    "timestamp": "2026-08-21T07:31:08.912342Z",
-    "market_id": "KXGREENLAND-29",
-    "question": "Will Trump buy at least part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.6
     }
   }
 ]
