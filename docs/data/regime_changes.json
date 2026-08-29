@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-29T08:31:01.064062Z",
+    "market_id": "KXGDPYEAR-35",
+    "question": "US real GDP growth in 2035?",
+    "from_regime": "Volatile",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.4
+    }
+  },
+  {
     "timestamp": "2026-08-28T15:31:01.707732Z",
     "market_id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.6
-    }
-  },
-  {
-    "timestamp": "2026-08-21T05:01:15.513293Z",
-    "market_id": "KXGDPYEAR-33",
-    "question": "US real GDP growth in 2033?",
-    "from_regime": "Volatile",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 16.4
     }
   }
 ]
