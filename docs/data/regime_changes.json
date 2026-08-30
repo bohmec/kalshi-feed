@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-08-30T00:30:55.307891Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 10.1
+    }
+  },
+  {
     "timestamp": "2026-08-29T19:31:02.168405Z",
     "market_id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 37.5
-    }
-  },
-  {
-    "timestamp": "2026-08-21T14:01:18.891187Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.8
     }
   }
 ]
