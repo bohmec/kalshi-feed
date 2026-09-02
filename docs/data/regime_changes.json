@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-02T17:31:26.234868Z",
+    "market_id": "KXNEWSCOTUSCONF-29JAN20",
+    "question": "How many Supreme Court justices will the President confirm?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.8
+    }
+  },
+  {
     "timestamp": "2026-09-02T13:31:59.737794Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 39.6
-    }
-  },
-  {
-    "timestamp": "2026-08-23T14:30:48.793327Z",
-    "market_id": "KXPRESOUTCOME-28NOV07",
-    "question": "2028 Presidential race: exact outcome",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 48.1
     }
   }
 ]
