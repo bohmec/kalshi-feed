@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-03T01:01:23.253990Z",
+    "market_id": "KXNEWPOPE-70",
+    "question": "Who will the next Pope be?",
+    "from_regime": "Active",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.4
+    }
+  },
+  {
     "timestamp": "2026-09-02T18:31:33.869775Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 48.6
-    }
-  },
-  {
-    "timestamp": "2026-08-23T21:01:01.354612Z",
-    "market_id": "KXPRESNOMD-28",
-    "question": "2028 Democratic presidential nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 24.0
     }
   }
 ]
