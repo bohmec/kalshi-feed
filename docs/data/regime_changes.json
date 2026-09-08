@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-08T14:01:25.908469Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.8
+    }
+  },
+  {
     "timestamp": "2026-09-06T16:01:14.492610Z",
     "market_id": "KXOBERGEFELL-29",
     "question": "Will the Supreme Court overturn gay marriage?",
@@ -487,16 +497,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 16.5
-    }
-  },
-  {
-    "timestamp": "2026-08-26T23:00:59.728537Z",
-    "market_id": "KXELONMARS-99",
-    "question": "Will Elon Musk visit Mars in his lifetime?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 47.1
     }
   }
 ]
