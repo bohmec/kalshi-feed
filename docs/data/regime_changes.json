@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-09T06:01:12.401497Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 13.8
+    }
+  },
+  {
     "timestamp": "2026-09-09T05:01:18.930184Z",
     "market_id": "KXINSURRECTION-29",
     "question": "Will Trump invoke the Insurrection Act?",
@@ -487,16 +497,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 61.2
-    }
-  },
-  {
-    "timestamp": "2026-08-28T01:00:53.822560Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.6
     }
   }
 ]
