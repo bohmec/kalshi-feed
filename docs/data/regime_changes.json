@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-10T05:31:33.930993Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.3
+    }
+  },
+  {
     "timestamp": "2026-09-09T21:31:19.582729Z",
     "market_id": "KXZELENSKYPUTIN-29",
     "question": "Will Zelenskyy and Putin speak?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 10.1
-    }
-  },
-  {
-    "timestamp": "2026-08-28T15:31:01.707732Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.7
     }
   }
 ]
