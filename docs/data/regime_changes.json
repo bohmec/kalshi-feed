@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-13T15:02:12.683368Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.6
+    }
+  },
+  {
     "timestamp": "2026-09-13T05:01:51.846028Z",
     "market_id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 34.7
-    }
-  },
-  {
-    "timestamp": "2026-08-30T01:01:02.682093Z",
-    "market_id": "KXPRESNOMR-28",
-    "question": "2028 Republican presidential nominee",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 24.2
     }
   }
 ]
