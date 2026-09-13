@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-13T05:01:51.846028Z",
+    "market_id": "KXCANTERRITORY-29",
+    "question": "Will the US take control of any part of Canada?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.8
+    }
+  },
+  {
     "timestamp": "2026-09-13T00:01:58.800285Z",
     "market_id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 24.2
-    }
-  },
-  {
-    "timestamp": "2026-08-30T01:01:02.682093Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.1
     }
   }
 ]
