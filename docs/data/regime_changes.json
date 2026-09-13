@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-13T00:01:58.800285Z",
+    "market_id": "KXCANTERRITORY-29",
+    "question": "Will the US take control of any part of Canada?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.5
+    }
+  },
+  {
     "timestamp": "2026-09-12T17:32:00.660169Z",
     "market_id": "KXOBERGEFELL-29",
     "question": "Will the Supreme Court overturn gay marriage?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.1
-    }
-  },
-  {
-    "timestamp": "2026-08-30T00:30:55.307891Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 10.1
     }
   }
 ]
