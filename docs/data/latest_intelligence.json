@@ -3,13 +3,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.225,
-    "volume": 65882277,
+    "volume": 65882349,
     "nexus_score": 24.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.215
@@ -45,7 +45,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.175
@@ -75,13 +75,13 @@
     "id": "KXNEXTPRESSEC-29JAN21",
     "question": "Who will be Trump's next Press Secretary?: ::",
     "current_price": 0.195,
-    "volume": 4783027,
+    "volume": 4785058,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.195
@@ -117,7 +117,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.23
@@ -147,7 +147,7 @@
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Jack Lowden be the next James Bond?",
     "current_price": 0.52,
-    "volume": 2221648,
+    "volume": 2221846,
     "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -155,7 +155,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.52
@@ -191,7 +191,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.025
@@ -227,7 +227,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.85
@@ -263,7 +263,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.215
@@ -290,6 +290,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXWC-30",
+    "question": "2030 FIFA World Cup Champion: Will France win the 2030 FIFA Men's World Cup?",
+    "current_price": 0.1155,
+    "volume": 683818,
+    "nexus_score": 24.2,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-09-13T12:01:58Z",
+    "sparkline": [
+      {
+        "p": 0.1155
+      },
+      {
+        "p": 0.1155
+      },
+      {
+        "p": 0.1155
+      },
+      {
+        "p": 0.1155
+      },
+      {
+        "p": 0.1155
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 14.0,
+    "slug": "KXWC-30",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?: Will Trump be impeached and removed from office?",
     "current_price": 0.165,
@@ -299,7 +335,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.165
@@ -326,42 +362,6 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXWC-30",
-    "question": "2030 FIFA World Cup Champion: Will France win the 2030 FIFA Men's World Cup?",
-    "current_price": 0.1155,
-    "volume": 671371,
-    "nexus_score": 24.3,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
-    "sparkline": [
-      {
-        "p": 0.1155
-      },
-      {
-        "p": 0.1155
-      },
-      {
-        "p": 0.1155
-      },
-      {
-        "p": 0.1155
-      },
-      {
-        "p": 0.1155
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 14.3,
-    "slug": "KXWC-30",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXCANAL-29",
     "question": "Will Trump take back the Panama Canal?: Will Trump take back the Panama Canal?",
     "current_price": 0.185,
@@ -371,7 +371,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.185
@@ -398,6 +398,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXINSURRECTION-29",
+    "question": "Will Trump invoke the Insurrection Act?: Will Trump invoke the Insurrection Act during his Presidency?",
+    "current_price": 0.44,
+    "volume": 560441,
+    "nexus_score": 22.4,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-09-13T12:01:58Z",
+    "sparkline": [
+      {
+        "p": 0.425
+      },
+      {
+        "p": 0.42
+      },
+      {
+        "p": 0.44
+      },
+      {
+        "p": 0.44
+      },
+      {
+        "p": 0.44
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 8.0,
+    "slug": "KXINSURRECTION-29",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXPRESPARTY-2028",
     "question": "2028 Presidential Election winner? (Party): Will Democratic win the Presidency in 2028?",
     "current_price": 0.575,
@@ -407,7 +443,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.575
@@ -434,55 +470,19 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?: Will Trump invoke the Insurrection Act during his Presidency?",
-    "current_price": 0.44,
-    "volume": 557941,
-    "nexus_score": 22.4,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
-    "sparkline": [
-      {
-        "p": 0.425
-      },
-      {
-        "p": 0.43
-      },
-      {
-        "p": 0.44
-      },
-      {
-        "p": 0.435
-      },
-      {
-        "p": 0.44
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 8.0,
-    "slug": "KXINSURRECTION-29",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
-    "current_price": 0.655,
-    "volume": 557772,
+    "current_price": 0.66,
+    "volume": 557774,
     "nexus_score": 21.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
-        "p": 0.665
+        "p": 0.66
       },
       {
         "p": 0.655
@@ -494,13 +494,13 @@
         "p": 0.655
       },
       {
-        "p": 0.655
+        "p": 0.66
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 98.7,
-    "c4": 5.7,
+    "c4": 6.0,
     "slug": "KXIMPEACH-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -517,7 +517,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.635
@@ -553,13 +553,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.235
       },
       {
-        "p": 0.235
+        "p": 0.225
       },
       {
         "p": 0.225
@@ -589,7 +589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.505
@@ -625,7 +625,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.975
@@ -661,7 +661,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.215
@@ -699,7 +699,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.22,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.0725
@@ -708,7 +708,7 @@
         "p": 0.073
       },
       {
-        "p": 0.073
+        "p": 0.0735
       },
       {
         "p": 0.0695
@@ -735,7 +735,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.385
@@ -771,7 +771,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.41
@@ -807,7 +807,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.335
@@ -843,7 +843,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.385
@@ -879,7 +879,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.24
@@ -917,10 +917,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
-        "p": 0.245
+        "p": 0.235
       },
       {
         "p": 0.24
@@ -953,7 +953,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.26
@@ -989,7 +989,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.246
@@ -1025,7 +1025,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.175
@@ -1054,15 +1054,18 @@
   {
     "id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.5465,
+    "current_price": 0.552,
     "volume": 158867,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
+      {
+        "p": 0.547
+      },
       {
         "p": 0.5465
       },
@@ -1070,13 +1073,10 @@
         "p": 0.5615
       },
       {
-        "p": 0.5565
+        "p": 0.557
       },
       {
         "p": 0.552
-      },
-      {
-        "p": 0.5465
       }
     ],
     "c1": 0.0,
@@ -1097,7 +1097,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1109,7 +1109,7 @@
         "p": 0.135
       },
       {
-        "p": 0.135
+        "p": 0.13
       },
       {
         "p": 0.13
@@ -1133,7 +1133,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1145,7 +1145,7 @@
         "p": 0.14
       },
       {
-        "p": 0.125
+        "p": 0.14
       },
       {
         "p": 0.14
@@ -1169,13 +1169,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.225
       },
       {
-        "p": 0.225
+        "p": 0.23
       },
       {
         "p": 0.225
@@ -1198,14 +1198,14 @@
   {
     "id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?: Will the United States acquire any part of Canada before 2029?",
-    "current_price": 0.135,
+    "current_price": 0.13,
     "volume": 144559,
     "nexus_score": 21.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.105
@@ -1220,7 +1220,7 @@
         "p": 0.135
       },
       {
-        "p": 0.135
+        "p": 0.13
       }
     ],
     "c1": 0.0,
@@ -1241,7 +1241,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.61
@@ -1277,7 +1277,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.0505
@@ -1315,7 +1315,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.89
@@ -1336,7 +1336,7 @@
     "c1": 0.0,
     "c2": 0.1,
     "c3": 100.0,
-    "c4": 7.3,
+    "c4": 7.7,
     "slug": "KXAGICO-COMP",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1351,7 +1351,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.0505
@@ -1387,7 +1387,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.155
@@ -1423,7 +1423,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.26
@@ -1459,7 +1459,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.615
@@ -1495,7 +1495,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.105
@@ -1533,7 +1533,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.9975
@@ -1571,10 +1571,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
-        "p": 0.605
+        "p": 0.61
       },
       {
         "p": 0.61
@@ -1607,13 +1607,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.0735
       },
       {
-        "p": 0.0715
+        "p": 0.071
       },
       {
         "p": 0.071
@@ -1643,7 +1643,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1681,7 +1681,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.75
@@ -1717,7 +1717,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.59
@@ -1755,7 +1755,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1764,7 +1764,7 @@
         "p": 0.205
       },
       {
-        "p": 0.205
+        "p": 0.21
       },
       {
         "p": 0.21
@@ -1791,7 +1791,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-13T11:31:46Z",
+    "last_updated": "2026-09-13T12:01:58Z",
     "sparkline": [
       {
         "p": 0.2
