@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-16T06:31:50.564850Z",
+    "market_id": "KXUSAEXPANDTERRITORY",
+    "question": "Will the US acquire any new territory?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
     "timestamp": "2026-09-15T01:32:00.861900Z",
     "market_id": "KXFEDEND-29",
     "question": "Will Trump end the Federal Reserve?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.9
-    }
-  },
-  {
-    "timestamp": "2026-08-30T15:00:54.893724Z",
-    "market_id": "KXAGENCYELIM-29",
-    "question": "Which agencies will Trump eliminate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.8
     }
   }
 ]
