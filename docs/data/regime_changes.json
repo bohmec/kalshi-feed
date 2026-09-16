@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-16T13:02:16.694891Z",
+    "market_id": "KXCABOUT-26MAY22",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.2
+    }
+  },
+  {
     "timestamp": "2026-09-16T06:31:50.564850Z",
     "market_id": "KXUSAEXPANDTERRITORY",
     "question": "Will the US acquire any new territory?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 24.0
-    }
-  },
-  {
-    "timestamp": "2026-08-30T15:00:54.893724Z",
-    "market_id": "KXVPRESNOMD-28",
-    "question": "2028 Democratic VP nominee",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.9
     }
   }
 ]
