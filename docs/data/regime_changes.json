@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-18T14:31:42.196987Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.9
+    }
+  },
+  {
     "timestamp": "2026-09-18T00:01:46.375882Z",
     "market_id": "KXGREENTERRITORY-29",
     "question": "Will the US take control of any part of Greenland?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.3
-    }
-  },
-  {
-    "timestamp": "2026-08-31T23:01:14.394698Z",
-    "market_id": "KXCANTERRITORY-29",
-    "question": "Will the US take control of any part of Canada?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.2
     }
   }
 ]
