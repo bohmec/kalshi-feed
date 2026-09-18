@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-18T19:31:44.145507Z",
+    "market_id": "KXGREENTERRITORY-29",
+    "question": "Will the US take control of any part of Greenland?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.8
+    }
+  },
+  {
     "timestamp": "2026-09-18T14:31:42.196987Z",
     "market_id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.8
-    }
-  },
-  {
-    "timestamp": "2026-09-02T05:01:51.601394Z",
-    "market_id": "KXNEWSCOTUSCONF-29JAN20",
-    "question": "How many Supreme Court justices will the President confirm?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.3
     }
   }
 ]
