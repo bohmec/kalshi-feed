@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-19T13:01:06.022360Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.9
+    }
+  },
+  {
     "timestamp": "2026-09-18T23:01:43.734853Z",
     "market_id": "KXNEWPOPE-70",
     "question": "Who will the next Pope be?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.8
-    }
-  },
-  {
-    "timestamp": "2026-09-02T17:31:26.234868Z",
-    "market_id": "KXNEWSCOTUSCONF-29JAN20",
-    "question": "How many Supreme Court justices will the President confirm?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.8
     }
   }
 ]
