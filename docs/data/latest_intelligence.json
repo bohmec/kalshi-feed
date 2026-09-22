@@ -3,13 +3,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.215,
-    "volume": 68093634,
+    "volume": 68095231,
     "nexus_score": 23.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.215
@@ -39,22 +39,22 @@
     "id": "KXNEXTPRESSEC-29JAN21",
     "question": "Who will be Trump's next Press Secretary?: ::",
     "current_price": 0.165,
-    "volume": 5900767,
+    "volume": 5901230,
     "nexus_score": 16.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.165
+        "p": 0.17
       },
       {
         "p": 0.17
       },
       {
-        "p": 0.165
+        "p": 0.16
       },
       {
         "p": 0.165
@@ -75,13 +75,13 @@
     "id": "KXGREENLAND-29",
     "question": "Will Trump buy at least part of Greenland?: :: During Trump's term",
     "current_price": 0.125,
-    "volume": 5088192,
+    "volume": 5088211,
     "nexus_score": 15.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.14
@@ -111,13 +111,13 @@
     "id": "KXGREENTERRITORY-29",
     "question": "Will the US take control of any part of Greenland?: Will the United States acquire any part of Greenland before 2029?",
     "current_price": 0.17,
-    "volume": 3433934,
+    "volume": 3433947,
     "nexus_score": 21.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.18
@@ -146,37 +146,37 @@
   {
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
-    "current_price": 0.46,
+    "current_price": 0.455,
     "volume": 2330326,
-    "nexus_score": 18.0,
+    "nexus_score": 22.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "macro_sensitivity": 0.02,
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.56
+        "p": 0.505
       },
       {
         "p": 0.49
       },
       {
-        "p": 0.485
+        "p": 0.49
       },
       {
-        "p": 0.485
+        "p": 0.44
       },
       {
-        "p": 0.46
+        "p": 0.455
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
-    "c4": 10.0,
+    "c3": 98.0,
+    "c4": 10.3,
     "slug": "KXBOND-30",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -185,13 +185,13 @@
     "id": "KXSTATE51-29",
     "question": "What will be the 51st state in Trump's term?: Will any part of Cuba be the 51st U.S. state before Jan 20, 2029?",
     "current_price": 0.035,
-    "volume": 1819904,
+    "volume": 1819924,
     "nexus_score": 23.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.02,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.035
@@ -211,7 +211,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 98.0,
+    "c3": 98.7,
     "c4": 11.0,
     "slug": "KXSTATE51-29",
     "platform": "kalshi",
@@ -220,14 +220,14 @@
   {
     "id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?: Will there be no U.S. acquisition of Greenland during Trump's term?",
-    "current_price": 0.895,
-    "volume": 1728102,
+    "current_price": 0.9,
+    "volume": 1728114,
     "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.902
@@ -239,10 +239,10 @@
         "p": 0.885
       },
       {
-        "p": 0.885
+        "p": 0.9
       },
       {
-        "p": 0.895
+        "p": 0.9
       }
     ],
     "c1": 0.0,
@@ -263,7 +263,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.215
@@ -299,7 +299,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.116
@@ -311,7 +311,7 @@
         "p": 0.1165
       },
       {
-        "p": 0.1165
+        "p": 0.117
       },
       {
         "p": 0.1175
@@ -329,16 +329,16 @@
     "id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?: Will Trump be impeached and removed from office?",
     "current_price": 0.17,
-    "volume": 687438,
+    "volume": 687440,
     "nexus_score": 21.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.17
+        "p": 0.175
       },
       {
         "p": 0.17
@@ -365,16 +365,16 @@
     "id": "KXCANAL-29",
     "question": "Will Trump take back the Panama Canal?: Will Trump take back the Panama Canal?",
     "current_price": 0.19,
-    "volume": 603025,
+    "volume": 603026,
     "nexus_score": 21.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.2
+        "p": 0.195
       },
       {
         "p": 0.195
@@ -407,7 +407,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.445
@@ -436,19 +436,16 @@
   {
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
-    "current_price": 0.655,
+    "current_price": 0.65,
     "volume": 574251,
-    "nexus_score": 21.7,
+    "nexus_score": 21.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.655
-      },
-      {
         "p": 0.65
       },
       {
@@ -458,12 +455,15 @@
         "p": 0.65
       },
       {
-        "p": 0.655
+        "p": 0.65
+      },
+      {
+        "p": 0.65
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 99.3,
+    "c3": 98.7,
     "c4": 6.0,
     "slug": "KXIMPEACH-29",
     "platform": "kalshi",
@@ -479,7 +479,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.585
@@ -508,17 +508,17 @@
   {
     "id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?: Will President Trump resign before his term is up?",
-    "current_price": 0.235,
+    "current_price": 0.23,
     "volume": 433522,
     "nexus_score": 21.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.235
+        "p": 0.23
       },
       {
         "p": 0.235
@@ -527,10 +527,10 @@
         "p": 0.235
       },
       {
-        "p": 0.235
+        "p": 0.23
       },
       {
-        "p": 0.235
+        "p": 0.23
       }
     ],
     "c1": 0.0,
@@ -544,16 +544,16 @@
   {
     "id": "KXTRUMPPARDONS-29JAN21",
     "question": "Who will Trump pardon?: Will Eric Adams receive a presidential pardon before Jan 21, 2029?",
-    "current_price": 0.64,
+    "current_price": 0.635,
     "volume": 417063,
-    "nexus_score": 22.3,
+    "nexus_score": 22.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.645
@@ -562,19 +562,19 @@
         "p": 0.64
       },
       {
-        "p": 0.63
+        "p": 0.645
       },
       {
-        "p": 0.64
+        "p": 0.645
       },
       {
-        "p": 0.64
+        "p": 0.635
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 7.7,
+    "c4": 8.0,
     "slug": "KXTRUMPPARDONS-29JAN21",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -589,7 +589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.515
@@ -625,10 +625,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
-        "p": 0.915
+        "p": 0.905
       },
       {
         "p": 0.91
@@ -656,12 +656,12 @@
     "question": "Will the US acquire any new territory?: Will the United States acquire any territory not under its sovereignty (as of Issuance) before Jan 21, 2029?",
     "current_price": 0.205,
     "volume": 342443,
-    "nexus_score": 22.6,
+    "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.205
@@ -682,7 +682,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 8.7,
+    "c4": 9.0,
     "slug": "KXUSAEXPANDTERRITORY",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -697,7 +697,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.0655
@@ -733,7 +733,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.365
@@ -769,7 +769,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.37
@@ -805,7 +805,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.325
@@ -841,7 +841,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.43
@@ -877,7 +877,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.2
@@ -913,7 +913,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.21
@@ -949,7 +949,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.16
@@ -985,7 +985,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.355
@@ -1021,7 +1021,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.155
@@ -1057,7 +1057,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.524
@@ -1086,7 +1086,7 @@
   {
     "id": "KXGDPYEAR-33",
     "question": "US real GDP growth in 2033?: GDP growth in 2033?",
-    "current_price": 0.545,
+    "current_price": 0.55,
     "volume": 156627,
     "nexus_score": 8.9,
     "market_state": "Macro-Driven",
@@ -1096,22 +1096,22 @@
       "Contested"
     ],
     "macro_sensitivity": 0.59,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.44
       },
       {
-        "p": 0.535
-      },
-      {
-        "p": 0.535
-      },
-      {
-        "p": 0.515
-      },
-      {
         "p": 0.545
+      },
+      {
+        "p": 0.535
+      },
+      {
+        "p": 0.51
+      },
+      {
+        "p": 0.55
       }
     ],
     "c1": 0.0,
@@ -1127,14 +1127,14 @@
     "question": "US real GDP growth in 2035?: GDP growth in 2035?",
     "current_price": 0.14,
     "volume": 154859,
-    "nexus_score": 16.7,
+    "nexus_score": 16.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.11,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "macro_sensitivity": 0.1,
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1170,7 +1170,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.23
@@ -1208,7 +1208,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.8
@@ -1244,7 +1244,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.1
@@ -1280,7 +1280,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.665
@@ -1316,7 +1316,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.0515
@@ -1352,7 +1352,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1388,7 +1388,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.155
@@ -1397,7 +1397,7 @@
         "p": 0.155
       },
       {
-        "p": 0.155
+        "p": 0.16
       },
       {
         "p": 0.16
@@ -1424,7 +1424,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.235
@@ -1460,7 +1460,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.605
@@ -1491,12 +1491,12 @@
     "question": "Will Elon Musk visit Mars in his lifetime?: Will Elon Musk visit Mars before Aug 1, 2099?",
     "current_price": 0.105,
     "volume": 119143,
-    "nexus_score": 48.8,
+    "nexus_score": 49.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.105
@@ -1515,9 +1515,9 @@
       }
     ],
     "c1": 56.3,
-    "c2": 8.8,
+    "c2": 9.2,
     "c3": 100.0,
-    "c4": 10.0,
+    "c4": 10.3,
     "slug": "KXELONMARS-99",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1534,7 +1534,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.9975
@@ -1572,7 +1572,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.6
@@ -1603,15 +1603,15 @@
     "question": "2028 popular vote margin of victory?: Will Democratic win the 2028 popular vote by 9.0% to 100.0%?",
     "current_price": 0.21,
     "volume": 103724,
-    "nexus_score": 42.5,
+    "nexus_score": 42.9,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Contested",
       "Correlated"
     ],
-    "macro_sensitivity": 0.14,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "macro_sensitivity": 0.12,
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.21
@@ -1631,7 +1631,7 @@
     ],
     "c1": 55.7,
     "c2": 11.5,
-    "c3": 85.3,
+    "c3": 88.0,
     "c4": 5.0,
     "slug": "POPVOTEMOV-28NOV07",
     "platform": "kalshi",
@@ -1647,7 +1647,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.0775
@@ -1678,12 +1678,12 @@
     "question": "Will Alberta vote to secede from Canada?: Will Alberta vote to secede from Canada before the next general election?",
     "current_price": 0.14,
     "volume": 100799,
-    "nexus_score": 49.1,
+    "nexus_score": 50.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1702,9 +1702,9 @@
       }
     ],
     "c1": 55.7,
-    "c2": 10.6,
+    "c2": 11.3,
     "c3": 100.0,
-    "c4": 6.0,
+    "c4": 7.3,
     "slug": "KXALBERTAREFYES-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1721,7 +1721,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.785
@@ -1757,7 +1757,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.63
@@ -1788,12 +1788,12 @@
     "question": "Will Israel and Saudi Arabia normalize relations during Trump's term?: Will Israel and Saudi Arabia normalize relations before Jan 20, 2029?",
     "current_price": 0.35,
     "volume": 90862,
-    "nexus_score": 49.0,
+    "nexus_score": 49.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-09-22T14:31:19Z",
+    "last_updated": "2026-09-22T15:01:31Z",
     "sparkline": [
       {
         "p": 0.365
