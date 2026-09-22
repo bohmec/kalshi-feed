@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-22T18:31:08.332464Z",
+    "market_id": "POPVOTEMOV-28NOV07",
+    "question": "2028 popular vote margin of victory?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.7
+    }
+  },
+  {
     "timestamp": "2026-09-22T14:01:07.022803Z",
     "market_id": "POPVOTEMOV-28NOV07",
     "question": "2028 popular vote margin of victory?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.9
-    }
-  },
-  {
-    "timestamp": "2026-09-06T14:02:26.650900Z",
-    "market_id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 15.7
     }
   }
 ]
