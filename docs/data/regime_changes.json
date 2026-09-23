@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-23T13:01:22.068554Z",
+    "market_id": "KXGDPYEAR-33",
+    "question": "US real GDP growth in 2033?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-09-22T18:31:08.332464Z",
     "market_id": "POPVOTEMOV-28NOV07",
     "question": "2028 popular vote margin of victory?",
@@ -487,16 +497,6 @@
     "to_regime": "Active",
     "metrics_snapshot": {
       "nexus_score": 61.6
-    }
-  },
-  {
-    "timestamp": "2026-09-06T16:01:14.492610Z",
-    "market_id": "KXGREENTERRITORY-29",
-    "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.9
     }
   }
 ]
