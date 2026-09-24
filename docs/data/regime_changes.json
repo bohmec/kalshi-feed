@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-24T17:31:13.765272Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 40.7
+    }
+  },
+  {
     "timestamp": "2026-09-24T16:31:09.497152Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 12.4
-    }
-  },
-  {
-    "timestamp": "2026-09-09T14:01:24.772296Z",
-    "market_id": "KXGREENTERRITORY-29",
-    "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.8
     }
   }
 ]
