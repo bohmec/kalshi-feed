@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-24T16:01:13.321577Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 32.0
+    }
+  },
+  {
     "timestamp": "2026-09-24T13:31:16.531578Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 13.8
-    }
-  },
-  {
-    "timestamp": "2026-09-09T05:01:18.930184Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.8
     }
   }
 ]
