@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-24T02:01:11.824652Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.6
+    }
+  },
+  {
     "timestamp": "2026-09-23T14:01:43.985288Z",
     "market_id": "POPVOTEMOV-28NOV07",
     "question": "2028 popular vote margin of victory?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.7
-    }
-  },
-  {
-    "timestamp": "2026-09-08T14:01:25.908469Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.8
     }
   }
 ]
