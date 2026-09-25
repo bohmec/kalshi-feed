@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-25T16:01:19.079811Z",
+    "market_id": "GOVPARTYNH-28",
+    "question": "New Hampshire Governor winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.1
+    }
+  },
+  {
     "timestamp": "2026-09-25T14:31:11.550793Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.0
-    }
-  },
-  {
-    "timestamp": "2026-09-10T13:31:32.828495Z",
-    "market_id": "KXPRESPERSON-28",
-    "question": "2028 U.S. Presidential Election winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 24.0
     }
   }
 ]
