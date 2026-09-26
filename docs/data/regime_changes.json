@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-26T05:01:57.573167Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.6
+    }
+  },
+  {
     "timestamp": "2026-09-25T16:01:19.079811Z",
     "market_id": "GOVPARTYNH-28",
     "question": "New Hampshire Governor winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.1
-    }
-  },
-  {
-    "timestamp": "2026-09-11T05:01:08.867385Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.0
     }
   }
 ]
