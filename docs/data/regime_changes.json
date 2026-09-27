@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-27T14:32:02.495062Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.7
+    }
+  },
+  {
     "timestamp": "2026-09-27T14:02:23.406621Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.7
-    }
-  },
-  {
-    "timestamp": "2026-09-14T16:01:59.041428Z",
-    "market_id": "KXUSAEXPANDTERRITORY",
-    "question": "Will the US acquire any new territory?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 9.3
     }
   }
 ]
