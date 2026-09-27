@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-27T15:32:05.152324Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.8
+    }
+  },
+  {
     "timestamp": "2026-09-27T14:32:02.495062Z",
     "market_id": "KXUKPARTY-29",
     "question": "Which party will win the next UK general election?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.6
-    }
-  },
-  {
-    "timestamp": "2026-09-15T01:32:00.861900Z",
-    "market_id": "KXFEDEND-29",
-    "question": "Will Trump end the Federal Reserve?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.7
     }
   }
 ]
