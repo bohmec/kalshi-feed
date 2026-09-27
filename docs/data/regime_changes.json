@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-27T02:02:12.318362Z",
+    "market_id": "KXAGENCYELIM-29",
+    "question": "Which agencies will Trump eliminate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.0
+    }
+  },
+  {
     "timestamp": "2026-09-26T21:32:07.743846Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 46.1
-    }
-  },
-  {
-    "timestamp": "2026-09-12T10:32:00.248954Z",
-    "market_id": "KXOBERGEFELL-29",
-    "question": "Will the Supreme Court overturn gay marriage?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 43.4
     }
   }
 ]
