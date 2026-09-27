@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-09-27T14:02:23.406621Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 43.8
+    }
+  },
+  {
+    "timestamp": "2026-09-27T14:02:23.406621Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.1
+    }
+  },
+  {
+    "timestamp": "2026-09-27T14:02:23.406621Z",
+    "market_id": "KXSTATE51-29",
+    "question": "What will be the 51st state in Trump's term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.0
+    }
+  },
+  {
     "timestamp": "2026-09-27T13:32:14.542745Z",
     "market_id": "KXAGENCYELIM-29",
     "question": "Which agencies will Trump eliminate?",
@@ -467,36 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 9.3
-    }
-  },
-  {
-    "timestamp": "2026-09-14T15:32:12.408963Z",
-    "market_id": "KXCABOUT-26MAY22",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.4
-    }
-  },
-  {
-    "timestamp": "2026-09-14T15:32:12.408963Z",
-    "market_id": "KXFEDEND-29",
-    "question": "Will Trump end the Federal Reserve?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.6
-    }
-  },
-  {
-    "timestamp": "2026-09-13T15:02:12.683368Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.6
     }
   }
 ]
