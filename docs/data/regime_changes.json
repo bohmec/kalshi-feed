@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-29T21:02:21.463765Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.3
+    }
+  },
+  {
     "timestamp": "2026-09-28T14:01:59.202974Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 13.4
-    }
-  },
-  {
-    "timestamp": "2026-09-16T19:02:20.100946Z",
-    "market_id": "KXGDPUSMAX-28",
-    "question": "Will there be a Trump economic boom?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 10.2
     }
   }
 ]
