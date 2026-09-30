@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-09-30T18:32:13.393579Z",
+    "market_id": "GOVPARTYNH-28",
+    "question": "New Hampshire Governor winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 13.7
+    }
+  },
+  {
+    "timestamp": "2026-09-30T18:32:13.393579Z",
+    "market_id": "KXCABOUT-26MAY22",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 15.5
+    }
+  },
+  {
     "timestamp": "2026-09-30T17:02:41.518985Z",
     "market_id": "KXALBERTAREFYES-29",
     "question": "Will Alberta vote to secede from Canada?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.8
-    }
-  },
-  {
-    "timestamp": "2026-09-18T14:31:42.196987Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.9
-    }
-  },
-  {
-    "timestamp": "2026-09-18T00:01:46.375882Z",
-    "market_id": "KXGREENTERRITORY-29",
-    "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.5
     }
   }
 ]
