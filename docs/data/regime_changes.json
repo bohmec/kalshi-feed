@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-30T13:32:09.738841Z",
+    "market_id": "KXTRUMPPARDONS-29JAN21",
+    "question": "Who will Trump pardon?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.9
+    }
+  },
+  {
     "timestamp": "2026-09-30T13:02:31.328010Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.6
-    }
-  },
-  {
-    "timestamp": "2026-09-17T13:01:39.894509Z",
-    "market_id": "KXDOED-29",
-    "question": "Will Trump abolish the Department of Education?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.6
     }
   }
 ]
