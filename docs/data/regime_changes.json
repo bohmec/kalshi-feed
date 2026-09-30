@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-30T13:02:31.328010Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 43.6
+    }
+  },
+  {
     "timestamp": "2026-09-29T21:02:21.463765Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.6
-    }
-  },
-  {
-    "timestamp": "2026-09-16T19:31:48.295696Z",
-    "market_id": "KXDOED-29",
-    "question": "Will Trump abolish the Department of Education?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.4
     }
   }
 ]
