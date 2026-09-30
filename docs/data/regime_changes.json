@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-30T20:02:25.704646Z",
+    "market_id": "GOVPARTYNH-28",
+    "question": "New Hampshire Governor winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 20.1
+    }
+  },
+  {
     "timestamp": "2026-09-30T18:32:13.393579Z",
     "market_id": "GOVPARTYNH-28",
     "question": "New Hampshire Governor winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.4
-    }
-  },
-  {
-    "timestamp": "2026-09-18T19:31:44.145507Z",
-    "market_id": "KXGREENTERRITORY-29",
-    "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.8
     }
   }
 ]
