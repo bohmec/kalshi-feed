@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-10-01T13:32:07.316434Z",
+    "market_id": "KXNEXTPRESSEC-29JAN21",
+    "question": "Who will be Trump's next Press Secretary?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.9
+    }
+  },
+  {
+    "timestamp": "2026-10-01T13:32:07.316434Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.4
+    }
+  },
+  {
     "timestamp": "2026-09-30T22:02:11.873569Z",
     "market_id": "KXTRUMPPARDONS-29JAN21",
     "question": "Who will Trump pardon?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 43.3
-    }
-  },
-  {
-    "timestamp": "2026-09-19T14:31:12.379393Z",
-    "market_id": "KXNEWPOPE-70",
-    "question": "Who will the next Pope be?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.4
-    }
-  },
-  {
-    "timestamp": "2026-09-19T13:01:06.022360Z",
-    "market_id": "KXTRUMPRESIGN",
-    "question": "Will Trump resign during his term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.9
     }
   }
 ]
