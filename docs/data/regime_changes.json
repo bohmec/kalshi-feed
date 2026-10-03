@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-03T13:01:22.078571Z",
+    "market_id": "KXCABOUT-26MAY22",
+    "question": "Who will leave Trump's Cabinet next?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.7
+    }
+  },
+  {
     "timestamp": "2026-10-01T16:01:29.974105Z",
     "market_id": "KXNEXTPRESSEC-29JAN21",
     "question": "Who will be Trump's next Press Secretary?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.2
-    }
-  },
-  {
-    "timestamp": "2026-09-19T17:01:19.094608Z",
-    "market_id": "KXH1B-29",
-    "question": "Will Trump expand the H-1B program?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.9
     }
   }
 ]
