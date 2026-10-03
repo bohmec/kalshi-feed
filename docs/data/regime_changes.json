@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-03T14:31:04.386558Z",
+    "market_id": "POWER-28",
+    "question": "2028: Who will win the Presidency, House, and Senate?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.5
+    }
+  },
+  {
     "timestamp": "2026-10-03T13:30:57.085814Z",
     "market_id": "KXGREENTERRITORY-29",
     "question": "Will the US take control of any part of Greenland?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 10.7
-    }
-  },
-  {
-    "timestamp": "2026-09-19T17:31:20.599238Z",
-    "market_id": "KXOBERGEFELL-29",
-    "question": "Will the Supreme Court overturn gay marriage?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 50.3
     }
   }
 ]
