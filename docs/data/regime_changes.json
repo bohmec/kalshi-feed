@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-03T13:30:57.085814Z",
+    "market_id": "KXGREENTERRITORY-29",
+    "question": "Will the US take control of any part of Greenland?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.4
+    }
+  },
+  {
     "timestamp": "2026-10-03T13:01:22.078571Z",
     "market_id": "KXCABOUT-26MAY22",
     "question": "Who will leave Trump's Cabinet next?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 50.3
-    }
-  },
-  {
-    "timestamp": "2026-09-19T17:31:20.599238Z",
-    "market_id": "KXH1B-29",
-    "question": "Will Trump expand the H-1B program?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.2
     }
   }
 ]
