@@ -3,13 +3,13 @@
     "id": "KXPRESPERSON-28",
     "question": "2028 U.S. Presidential Election winner?: :: Republican",
     "current_price": 0.195,
-    "volume": 71245167,
-    "nexus_score": 22.8,
+    "volume": 71245403,
+    "nexus_score": 22.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.195
@@ -29,7 +29,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
+    "c3": 99.3,
     "c4": 9.3,
     "slug": "KXPRESPERSON-28",
     "platform": "kalshi",
@@ -39,13 +39,15 @@
     "id": "KXNEXTPRESSEC-29JAN21",
     "question": "Who will be Trump's next Press Secretary?: Will Anna Kelly be the next White House Press Secretary of United States?",
     "current_price": 0.215,
-    "volume": 6473769,
+    "volume": 6478466,
     "nexus_score": 22.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
-    "flags": [],
+    "flags": [
+      "Contested"
+    ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.215
@@ -81,7 +83,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.12
@@ -117,10 +119,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
-        "p": 0.175
+        "p": 0.17
       },
       {
         "p": 0.185
@@ -155,13 +157,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
-        "p": 0.405
+        "p": 0.445
       },
       {
-        "p": 0.455
+        "p": 0.445
       },
       {
         "p": 0.45
@@ -191,7 +193,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.045
@@ -229,7 +231,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.22,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.895
@@ -260,12 +262,12 @@
     "question": "2030 FIFA World Cup Champion: Will Spain win the 2030 FIFA Men's World Cup?",
     "current_price": 0.1395,
     "volume": 765080,
-    "nexus_score": 13.9,
+    "nexus_score": 14.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.34,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "macro_sensitivity": 0.31,
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.1365
@@ -277,7 +279,7 @@
         "p": 0.141
       },
       {
-        "p": 0.141
+        "p": 0.1435
       },
       {
         "p": 0.1395
@@ -285,7 +287,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 66.0,
+    "c3": 69.3,
     "c4": 13.7,
     "slug": "KXWC-30",
     "platform": "kalshi",
@@ -301,7 +303,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.205
@@ -330,14 +332,14 @@
   {
     "id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?: Will Trump be impeached and removed from office?",
-    "current_price": 0.175,
+    "current_price": 0.17,
     "volume": 728007,
-    "nexus_score": 21.6,
+    "nexus_score": 21.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.18
@@ -352,12 +354,12 @@
         "p": 0.17
       },
       {
-        "p": 0.175
+        "p": 0.17
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
+    "c3": 99.3,
     "c4": 5.3,
     "slug": "KXTRUMPREMOVE",
     "platform": "kalshi",
@@ -367,16 +369,16 @@
     "id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?: Will the President be impeached before Jan 20, 2029?",
     "current_price": 0.685,
-    "volume": 637158,
+    "volume": 637181,
     "nexus_score": 20.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.08,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
-        "p": 0.645
+        "p": 0.635
       },
       {
         "p": 0.625
@@ -404,12 +406,12 @@
     "question": "Will Trump take back the Panama Canal?: Will Trump take back the Panama Canal?",
     "current_price": 0.195,
     "volume": 607646,
-    "nexus_score": 22.5,
+    "nexus_score": 22.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.195
@@ -430,7 +432,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 8.3,
+    "c4": 9.3,
     "slug": "KXCANAL-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -445,7 +447,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.585
@@ -475,13 +477,13 @@
     "id": "KXINSURRECTION-29",
     "question": "Will Trump invoke the Insurrection Act?: Will Trump invoke the Insurrection Act during his Presidency?",
     "current_price": 0.435,
-    "volume": 588853,
+    "volume": 588886,
     "nexus_score": 21.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.43
@@ -512,12 +514,12 @@
     "question": "Will Trump resign during his term?: Will President Trump resign before his term is up?",
     "current_price": 0.185,
     "volume": 465983,
-    "nexus_score": 21.1,
+    "nexus_score": 21.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.05,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.195
@@ -529,7 +531,7 @@
         "p": 0.195
       },
       {
-        "p": 0.195
+        "p": 0.2
       },
       {
         "p": 0.185
@@ -555,7 +557,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.7
@@ -591,7 +593,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.485
@@ -627,7 +629,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.94
@@ -663,7 +665,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.21
@@ -694,14 +696,14 @@
     "question": "Will Trump be allowed to run for a 3rd term?: Will the 22nd Amendment be repealed or reinterpreted to let Presidents run for a third term before Jan 1, 2029",
     "current_price": 0.075,
     "volume": 322283,
-    "nexus_score": 15.7,
+    "nexus_score": 20.9,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.1,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "macro_sensitivity": 0.09,
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.0835
@@ -721,7 +723,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 90.0,
+    "c3": 90.7,
     "c4": 7.3,
     "slug": "KXAMEND22-29",
     "platform": "kalshi",
@@ -732,12 +734,12 @@
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.405,
     "volume": 293670,
-    "nexus_score": 21.3,
+    "nexus_score": 21.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.405
@@ -758,7 +760,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 4.3,
+    "c4": 5.7,
     "slug": "KXTAIWANLVL4",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -773,7 +775,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.35
@@ -809,7 +811,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.415
@@ -838,20 +840,20 @@
   {
     "id": "KXCABOUT-26MAY22",
     "question": "Who will leave Trump's Cabinet next?: Will Pete Hegseth be the next person to leave the Trump Cabinet?",
-    "current_price": 0.225,
+    "current_price": 0.23,
     "volume": 224555,
-    "nexus_score": 21.9,
+    "nexus_score": 21.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.24
       },
       {
-        "p": 0.25
+        "p": 0.255
       },
       {
         "p": 0.25
@@ -860,12 +862,12 @@
         "p": 0.25
       },
       {
-        "p": 0.225
+        "p": 0.23
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
+    "c3": 99.3,
     "c4": 6.3,
     "slug": "KXCABOUT-26MAY22",
     "platform": "kalshi",
@@ -881,7 +883,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.365
@@ -917,10 +919,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
-        "p": 0.93
+        "p": 0.9305
       },
       {
         "p": 0.9325
@@ -953,7 +955,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.205
@@ -965,7 +967,7 @@
         "p": 0.195
       },
       {
-        "p": 0.185
+        "p": 0.19
       },
       {
         "p": 0.19
@@ -989,7 +991,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.225
@@ -1025,7 +1027,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.35
@@ -1061,13 +1063,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.553
       },
       {
-        "p": 0.552
+        "p": 0.553
       },
       {
         "p": 0.553
@@ -1092,12 +1094,12 @@
     "question": "Will Trump abolish the Department of Education?: Will the Department of Education be eliminated before Jan 20, 2029?",
     "current_price": 0.185,
     "volume": 164418,
-    "nexus_score": 22.3,
+    "nexus_score": 22.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.165
@@ -1118,7 +1120,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 7.7,
+    "c4": 8.0,
     "slug": "KXDOED-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1133,7 +1135,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1169,7 +1171,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.12
@@ -1205,7 +1207,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.225
@@ -1243,7 +1245,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.825
@@ -1273,13 +1275,13 @@
     "id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?: Will the United States acquire any part of Canada before 2029?",
     "current_price": 0.1,
-    "volume": 146157,
+    "volume": 146158,
     "nexus_score": 21.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.1205
@@ -1314,8 +1316,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.64
@@ -1351,7 +1353,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.0615
@@ -1387,7 +1389,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.05
@@ -1423,7 +1425,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1459,10 +1461,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
-        "p": 0.22
+        "p": 0.215
       },
       {
         "p": 0.215
@@ -1494,8 +1496,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.505
@@ -1515,7 +1517,7 @@
     ],
     "c1": 56.7,
     "c2": 6.0,
-    "c3": 99.3,
+    "c3": 100.0,
     "c4": 10.0,
     "slug": "KXNEXTISRAELPM-45JAN01",
     "platform": "kalshi",
@@ -1526,12 +1528,12 @@
     "question": "Will Elon Musk visit Mars in his lifetime?: Will Elon Musk visit Mars before Aug 1, 2099?",
     "current_price": 0.1,
     "volume": 119771,
-    "nexus_score": 52.0,
+    "nexus_score": 52.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.105
@@ -1550,7 +1552,7 @@
       }
     ],
     "c1": 56.3,
-    "c2": 12.1,
+    "c2": 12.3,
     "c3": 100.0,
     "c4": 10.0,
     "slug": "KXELONMARS-99",
@@ -1569,7 +1571,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.9975
@@ -1600,14 +1602,14 @@
     "question": "Which Supreme Court justices will resign during Trump's term?: Will Samuel Alito resign during Trump's term?",
     "current_price": 0.715,
     "volume": 107391,
-    "nexus_score": 43.9,
+    "nexus_score": 44.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.08,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "macro_sensitivity": 0.07,
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.715
@@ -1627,7 +1629,7 @@
     ],
     "c1": 56.0,
     "c2": 4.9,
-    "c3": 92.0,
+    "c3": 93.3,
     "c4": 11.7,
     "slug": "KXSCOTUSRESIGN-29",
     "platform": "kalshi",
@@ -1645,7 +1647,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.215
@@ -1683,7 +1685,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.655
@@ -1713,16 +1715,16 @@
     "id": "KXALBERTAREFYES-29",
     "question": "Will Alberta vote to secede from Canada?: Will Alberta vote to secede from Canada before the next general election?",
     "current_price": 0.155,
-    "volume": 102507,
+    "volume": 102517,
     "nexus_score": 43.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
-        "p": 0.145
+        "p": 0.15
       },
       {
         "p": 0.155
@@ -1755,7 +1757,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.595
@@ -1791,7 +1793,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-10-06T14:31:19Z",
+    "last_updated": "2026-10-06T15:01:17Z",
     "sparkline": [
       {
         "p": 0.245
@@ -1803,7 +1805,7 @@
         "p": 0.245
       },
       {
-        "p": 0.235
+        "p": 0.23
       },
       {
         "p": 0.23
