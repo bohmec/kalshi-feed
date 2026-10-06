@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-06T22:01:14.201985Z",
+    "market_id": "KXGREENLANDPRICE-29JAN21",
+    "question": "How much will the US acquire Greenland for?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.7
+    }
+  },
+  {
     "timestamp": "2026-10-06T13:31:34.345084Z",
     "market_id": "KXAMEND25-29",
     "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 47.8
-    }
-  },
-  {
-    "timestamp": "2026-09-24T17:31:13.765272Z",
-    "market_id": "KXIMPEACHCABINET",
-    "question": "Will a cabinet member be impeached?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 40.7
     }
   }
 ]
