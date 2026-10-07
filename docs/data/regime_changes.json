@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-07T16:01:14.744588Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.7
+    }
+  },
+  {
     "timestamp": "2026-10-06T22:01:14.201985Z",
     "market_id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 40.5
-    }
-  },
-  {
-    "timestamp": "2026-09-25T13:31:19.094810Z",
-    "market_id": "POPVOTEMOV-28NOV07",
-    "question": "2028 popular vote margin of victory?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 47.8
     }
   }
 ]
