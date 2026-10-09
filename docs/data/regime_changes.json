@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-09T14:31:25.307194Z",
+    "market_id": "KXIMPEACH-29",
+    "question": "Will President Trump be impeached during his term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.3
+    }
+  },
+  {
     "timestamp": "2026-10-07T16:01:14.744588Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.7
-    }
-  },
-  {
-    "timestamp": "2026-09-25T14:01:09.407934Z",
-    "market_id": "GOVPARTYNH-28",
-    "question": "New Hampshire Governor winner?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 40.5
     }
   }
 ]
