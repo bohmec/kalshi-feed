@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-10T12:30:59.179209Z",
+    "market_id": "KXALBERTAREFYES-29",
+    "question": "Will Alberta vote to secede from Canada?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 34.0
+    }
+  },
+  {
     "timestamp": "2026-10-09T14:31:25.307194Z",
     "market_id": "KXIMPEACH-29",
     "question": "Will President Trump be impeached during his term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.1
-    }
-  },
-  {
-    "timestamp": "2026-09-25T14:31:11.550793Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.7
     }
   }
 ]
