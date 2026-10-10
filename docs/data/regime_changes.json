@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-10T13:31:16.198619Z",
+    "market_id": "KXSTATE51-29",
+    "question": "What will be the 51st state in Trump's term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.8
+    }
+  },
+  {
     "timestamp": "2026-10-10T13:01:02.971956Z",
     "market_id": "GOVPARTYNH-28",
     "question": "New Hampshire Governor winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 24.0
-    }
-  },
-  {
-    "timestamp": "2026-09-26T05:01:57.573167Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.6
     }
   }
 ]
