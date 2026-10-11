@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-10-11T15:01:23.340619Z",
+    "market_id": "KXPRIMEENGCONSUMPTION-30",
+    "question": "What will be the largest source of global primary energy consumption in 2030?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 24.0
+    }
+  },
+  {
+    "timestamp": "2026-10-11T15:01:23.340619Z",
+    "market_id": "KXUKPARTY-29",
+    "question": "Which party will win the next UK general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.3
+    }
+  },
+  {
     "timestamp": "2026-10-11T14:31:10.526281Z",
     "market_id": "POPVOTEMOV-28NOV07",
     "question": "2028 popular vote margin of victory?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 43.8
-    }
-  },
-  {
-    "timestamp": "2026-09-27T14:02:23.406621Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.1
-    }
-  },
-  {
-    "timestamp": "2026-09-27T14:02:23.406621Z",
-    "market_id": "KXSTATE51-29",
-    "question": "What will be the 51st state in Trump's term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.0
     }
   }
 ]
