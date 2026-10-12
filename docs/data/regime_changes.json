@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-12T05:31:12.599200Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.4
+    }
+  },
+  {
     "timestamp": "2026-10-11T15:01:23.340619Z",
     "market_id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.7
-    }
-  },
-  {
-    "timestamp": "2026-09-27T14:02:23.406621Z",
-    "market_id": "KXIMPEACHCABINET",
-    "question": "Will a cabinet member be impeached?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 43.8
     }
   }
 ]
