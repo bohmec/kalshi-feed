@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-10-14T13:31:23.260134Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.1
+    }
+  },
+  {
+    "timestamp": "2026-10-14T13:31:23.260134Z",
+    "market_id": "KXFEDEND-29",
+    "question": "Will Trump end the Federal Reserve?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.2
+    }
+  },
+  {
+    "timestamp": "2026-10-14T13:31:23.260134Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 12.1
+    }
+  },
+  {
     "timestamp": "2026-10-13T16:32:32.070715Z",
     "market_id": "KXFEDEND-29",
     "question": "Will Trump end the Federal Reserve?",
@@ -467,36 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.9
-    }
-  },
-  {
-    "timestamp": "2026-09-30T13:02:31.328010Z",
-    "market_id": "KXIMPEACHCABINET",
-    "question": "Will a cabinet member be impeached?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 43.6
-    }
-  },
-  {
-    "timestamp": "2026-09-29T21:02:21.463765Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.3
-    }
-  },
-  {
-    "timestamp": "2026-09-28T14:01:59.202974Z",
-    "market_id": "KXIMPEACHCABINET",
-    "question": "Will a cabinet member be impeached?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 24.2
     }
   }
 ]
