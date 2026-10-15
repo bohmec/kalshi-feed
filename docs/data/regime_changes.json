@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-15T16:31:24.226425Z",
+    "market_id": "GOVPARTYNH-28",
+    "question": "New Hampshire Governor winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.9
+    }
+  },
+  {
     "timestamp": "2026-10-15T15:31:31.733145Z",
     "market_id": "GOVPARTYNH-28",
     "question": "New Hampshire Governor winner?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 15.5
-    }
-  },
-  {
-    "timestamp": "2026-09-30T17:02:41.518985Z",
-    "market_id": "KXALBERTAREFYES-29",
-    "question": "Will Alberta vote to secede from Canada?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 46.7
     }
   }
 ]
