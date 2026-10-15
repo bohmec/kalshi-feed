@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-15T15:31:31.733145Z",
+    "market_id": "GOVPARTYNH-28",
+    "question": "New Hampshire Governor winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.1
+    }
+  },
+  {
     "timestamp": "2026-10-15T13:31:21.261387Z",
     "market_id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 46.7
-    }
-  },
-  {
-    "timestamp": "2026-09-30T16:32:37.715728Z",
-    "market_id": "KXALBERTAREFYES-29",
-    "question": "Will Alberta vote to secede from Canada?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 40.4
     }
   }
 ]
