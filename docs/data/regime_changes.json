@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-17T17:01:57.148050Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.6
+    }
+  },
+  {
     "timestamp": "2026-10-17T12:31:56.102148Z",
     "market_id": "KXIMPEACHCABINET",
     "question": "Will a cabinet member be impeached?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.7
-    }
-  },
-  {
-    "timestamp": "2026-10-01T13:32:07.316434Z",
-    "market_id": "KXNEXTPRESSEC-29JAN21",
-    "question": "Who will be Trump's next Press Secretary?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.9
     }
   }
 ]
