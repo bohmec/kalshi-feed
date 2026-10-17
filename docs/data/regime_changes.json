@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-10-17T12:31:56.102148Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 36.6
+    }
+  },
+  {
+    "timestamp": "2026-10-17T12:31:56.102148Z",
+    "market_id": "KXSCOTUSRESIGN-29",
+    "question": "Which Supreme Court justices will resign during Trump's term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 46.0
+    }
+  },
+  {
+    "timestamp": "2026-10-17T12:31:56.102148Z",
+    "market_id": "KXCANAL-29",
+    "question": "Will Trump take back the Panama Canal?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 12.8
+    }
+  },
+  {
     "timestamp": "2026-10-17T11:31:53.946435Z",
     "market_id": "KXNEXTPRESSECPERM-29JAN20",
     "question": "Who will be Trump's next Press Secretary?",
@@ -467,36 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.9
-    }
-  },
-  {
-    "timestamp": "2026-10-01T13:32:07.316434Z",
-    "market_id": "KXAMEND22-29",
-    "question": "Will Trump be allowed to run for a 3rd term?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.4
-    }
-  },
-  {
-    "timestamp": "2026-09-30T22:02:11.873569Z",
-    "market_id": "KXTRUMPPARDONS-29JAN21",
-    "question": "Who will Trump pardon?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.6
-    }
-  },
-  {
-    "timestamp": "2026-09-30T20:02:25.704646Z",
-    "market_id": "GOVPARTYNH-28",
-    "question": "New Hampshire Governor winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.1
     }
   }
 ]
