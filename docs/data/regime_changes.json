@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-10-18T06:31:23.423134Z",
+    "market_id": "KXIMPEACHCABINET",
+    "question": "Will a cabinet member be impeached?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 48.7
+    }
+  },
+  {
+    "timestamp": "2026-10-18T06:31:23.423134Z",
+    "market_id": "KXCANAL-29",
+    "question": "Will Trump take back the Panama Canal?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.2
+    }
+  },
+  {
     "timestamp": "2026-10-18T06:01:18.352822Z",
     "market_id": "KXTRUMPRESIGN",
     "question": "Will Trump resign during his term?",
@@ -473,26 +493,6 @@
     "timestamp": "2026-10-03T22:01:08.746727Z",
     "market_id": "KXGREENTERRITORY-29",
     "question": "Will the US take control of any part of Greenland?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.1
-    }
-  },
-  {
-    "timestamp": "2026-10-03T17:31:12.267605Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.4
-    }
-  },
-  {
-    "timestamp": "2026-10-03T15:31:27.731291Z",
-    "market_id": "KXCABOUT-26MAY22",
-    "question": "Who will leave Trump's Cabinet next?",
     "from_regime": "Macro-Driven",
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
