@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-18T06:01:18.352822Z",
+    "market_id": "KXTRUMPRESIGN",
+    "question": "Will Trump resign during his term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.6
+    }
+  },
+  {
     "timestamp": "2026-10-18T04:31:25.662263Z",
     "market_id": "KXCANTERRITORY-29",
     "question": "Will the US take control of any part of Canada?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.1
-    }
-  },
-  {
-    "timestamp": "2026-10-03T14:31:04.386558Z",
-    "market_id": "POWER-28",
-    "question": "2028: Who will win the Presidency, House, and Senate?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.5
     }
   }
 ]
