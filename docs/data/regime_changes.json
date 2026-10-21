@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-21T19:31:24.319031Z",
+    "market_id": "KXTRUMPREMOVE",
+    "question": "Will Trump be impeached and removed from office?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 14.2
+    }
+  },
+  {
     "timestamp": "2026-10-21T19:01:32.272641Z",
     "market_id": "KXCABOUT-26MAY22",
     "question": "Who will leave Trump's Cabinet next?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 34.0
-    }
-  },
-  {
-    "timestamp": "2026-10-09T14:31:25.307194Z",
-    "market_id": "KXIMPEACH-29",
-    "question": "Will President Trump be impeached during his term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.3
     }
   }
 ]
