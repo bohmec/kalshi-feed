@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-22T13:01:26.317695Z",
+    "market_id": "KXBOND-30",
+    "question": "Next James Bond film: Actor cast as James Bond",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 11.6
+    }
+  },
+  {
     "timestamp": "2026-10-21T19:31:24.319031Z",
     "market_id": "KXTRUMPREMOVE",
     "question": "Will Trump be impeached and removed from office?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.6
-    }
-  },
-  {
-    "timestamp": "2026-10-10T12:30:59.179209Z",
-    "market_id": "KXALBERTAREFYES-29",
-    "question": "Will Alberta vote to secede from Canada?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 34.0
     }
   }
 ]
