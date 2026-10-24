@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-10-24T16:31:17.330004Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 46.5
+    }
+  },
+  {
+    "timestamp": "2026-10-24T16:31:17.330004Z",
+    "market_id": "KXNEWSCOTUSCONF-29JAN20",
+    "question": "How many Supreme Court justices will the President confirm?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.3
+    }
+  },
+  {
     "timestamp": "2026-10-24T14:01:16.086479Z",
     "market_id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.3
-    }
-  },
-  {
-    "timestamp": "2026-10-11T14:31:10.526281Z",
-    "market_id": "POPVOTEMOV-28NOV07",
-    "question": "2028 popular vote margin of victory?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 53.9
-    }
-  },
-  {
-    "timestamp": "2026-10-11T13:01:13.196714Z",
-    "market_id": "GOVPARTYNH-28",
-    "question": "New Hampshire Governor winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.2
     }
   }
 ]
