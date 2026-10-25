@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-25T12:31:20.050207Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-10-25T12:01:19.850637Z",
     "market_id": "KXAMEND22-29",
     "question": "Will Trump be allowed to run for a 3rd term?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.2
-    }
-  },
-  {
-    "timestamp": "2026-10-14T13:31:23.260134Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 12.1
     }
   }
 ]
