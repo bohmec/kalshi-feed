@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-10-25T13:31:22.049738Z",
+    "market_id": "KXNEXTPRESSECPERM-29JAN20",
+    "question": "Who will be Trump's next Press Secretary?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.2
+    }
+  },
+  {
+    "timestamp": "2026-10-25T13:31:22.049738Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 40.2
+    }
+  },
+  {
+    "timestamp": "2026-10-25T13:31:22.049738Z",
+    "market_id": "KXCANTERRITORY-29",
+    "question": "Will the US take control of any part of Canada?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.1
+    }
+  },
+  {
     "timestamp": "2026-10-25T13:01:18.993520Z",
     "market_id": "KXALBERTAREFYES-29",
     "question": "Will Alberta vote to secede from Canada?",
@@ -467,36 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.9
-    }
-  },
-  {
-    "timestamp": "2026-10-15T15:31:31.733145Z",
-    "market_id": "GOVPARTYNH-28",
-    "question": "New Hampshire Governor winner?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.1
-    }
-  },
-  {
-    "timestamp": "2026-10-15T13:31:21.261387Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.8
-    }
-  },
-  {
-    "timestamp": "2026-10-15T13:01:17.342666Z",
-    "market_id": "KXSCOTUSRESIGN-29",
-    "question": "Which Supreme Court justices will resign during Trump's term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 35.7
     }
   }
 ]
