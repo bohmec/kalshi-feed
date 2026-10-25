@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-25T12:01:19.850637Z",
+    "market_id": "KXAMEND22-29",
+    "question": "Will Trump be allowed to run for a 3rd term?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.0
+    }
+  },
+  {
     "timestamp": "2026-10-25T06:31:26.096223Z",
     "market_id": "KXALBERTAREFYES-29",
     "question": "Will Alberta vote to secede from Canada?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 12.1
-    }
-  },
-  {
-    "timestamp": "2026-10-13T16:32:32.070715Z",
-    "market_id": "KXFEDEND-29",
-    "question": "Will Trump end the Federal Reserve?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.9
     }
   }
 ]
