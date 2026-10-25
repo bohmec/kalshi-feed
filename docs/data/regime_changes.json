@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-25T03:31:18.896282Z",
+    "market_id": "KXNEXTPRESSECPERM-29JAN20",
+    "question": "Who will be Trump's next Press Secretary?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 21.3
+    }
+  },
+  {
     "timestamp": "2026-10-25T02:31:29.749460Z",
     "market_id": "KXGREENLANDPRICE-29JAN21",
     "question": "How much will the US acquire Greenland for?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 20.9
-    }
-  },
-  {
-    "timestamp": "2026-10-12T05:31:12.599200Z",
-    "market_id": "KXTRUMPRESIGN",
-    "question": "Will Trump resign during his term?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.4
     }
   }
 ]
