@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-27T00:01:25.972140Z",
+    "market_id": "KXGDPYEAR-35",
+    "question": "US real GDP growth in 2035?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 11.8
+    }
+  },
+  {
     "timestamp": "2026-10-26T23:31:25.283633Z",
     "market_id": "KXNEXTPRESSECPERM-29JAN20",
     "question": "Who will be Trump's next Press Secretary?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 21.7
-    }
-  },
-  {
-    "timestamp": "2026-10-20T20:31:27.984587Z",
-    "market_id": "KXCABOUT-26MAY22",
-    "question": "Who will leave Trump's Cabinet next?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.1
     }
   }
 ]
