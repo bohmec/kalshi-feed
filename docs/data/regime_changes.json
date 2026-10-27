@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-27T14:31:24.073269Z",
+    "market_id": "KXZELENSKYPUTIN-29",
+    "question": "Will Zelenskyy and Putin speak?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 14.7
+    }
+  },
+  {
     "timestamp": "2026-10-27T13:01:30.855638Z",
     "market_id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 11.6
-    }
-  },
-  {
-    "timestamp": "2026-10-21T19:31:24.319031Z",
-    "market_id": "KXTRUMPREMOVE",
-    "question": "Will Trump be impeached and removed from office?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.2
     }
   }
 ]
