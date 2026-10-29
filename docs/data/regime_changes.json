@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-29T15:32:12.382749Z",
+    "market_id": "KXPRESPERSON-28",
+    "question": "2028 U.S. Presidential Election winner?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 16.1
+    }
+  },
+  {
     "timestamp": "2026-10-29T13:01:56.233329Z",
     "market_id": "KXDSENATESEATS-29",
     "question": "Democratic Senate Seat Count (2028)",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.9
-    }
-  },
-  {
-    "timestamp": "2026-10-25T03:31:18.896282Z",
-    "market_id": "KXNEXTPRESSECPERM-29JAN20",
-    "question": "Who will be Trump's next Press Secretary?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.3
     }
   }
 ]
