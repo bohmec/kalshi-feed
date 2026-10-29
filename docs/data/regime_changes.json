@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-29T09:32:02.049722Z",
+    "market_id": "KXNEWSCOTUSCONF-29JAN20",
+    "question": "How many Supreme Court justices will the President confirm?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.9
+    }
+  },
+  {
     "timestamp": "2026-10-29T04:32:08.569849Z",
     "market_id": "KXDSENATESEATS-29",
     "question": "Democratic Senate Seat Count (2028)",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.5
-    }
-  },
-  {
-    "timestamp": "2026-10-25T02:01:20.139858Z",
-    "market_id": "KXNEXTPRESSECPERM-29JAN20",
-    "question": "Who will be Trump's next Press Secretary?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.8
     }
   }
 ]
