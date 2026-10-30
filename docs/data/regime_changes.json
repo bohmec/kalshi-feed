@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-30T18:02:11.087549Z",
+    "market_id": "KXALBERTAREFYES-29",
+    "question": "Will Alberta vote to secede from Canada?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Active",
+    "metrics_snapshot": {
+      "nexus_score": 61.6
+    }
+  },
+  {
     "timestamp": "2026-10-30T13:02:00.198073Z",
     "market_id": "KXDSENATESEATS-29",
     "question": "Democratic Senate Seat Count (2028)",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 44.4
-    }
-  },
-  {
-    "timestamp": "2026-10-25T13:01:18.993520Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 13.5
     }
   }
 ]
