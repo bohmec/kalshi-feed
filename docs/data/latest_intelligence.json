@@ -2,8 +2,8 @@
   {
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
-    "current_price": 0.67,
-    "volume": 2993783,
+    "current_price": 0.64,
+    "volume": 3005386,
     "nexus_score": 17.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -11,10 +11,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
-        "p": 0.68
+        "p": 0.67
       },
       {
         "p": 0.695
@@ -26,7 +26,7 @@
         "p": 0.705
       },
       {
-        "p": 0.67
+        "p": 0.64
       }
     ],
     "c1": 0.0,
@@ -41,14 +41,17 @@
     "id": "KXWC-30",
     "question": "2030 FIFA World Cup Champion: Will Spain win the 2030 FIFA Men's World Cup?",
     "current_price": 0.1585,
-    "volume": 852632,
+    "volume": 852680,
     "nexus_score": 24.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
+      {
+        "p": 0.1585
+      },
       {
         "p": 0.1585
       },
@@ -56,10 +59,7 @@
         "p": 0.159
       },
       {
-        "p": 0.159
-      },
-      {
-        "p": 0.159
+        "p": 0.1585
       },
       {
         "p": 0.1585
@@ -78,12 +78,12 @@
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.965,
     "volume": 438033,
-    "nexus_score": 15.9,
+    "nexus_score": 16.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.96
@@ -92,7 +92,7 @@
         "p": 0.96
       },
       {
-        "p": 0.96
+        "p": 0.965
       },
       {
         "p": 0.965
@@ -103,7 +103,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 96.7,
+    "c3": 97.3,
     "c4": 4.7,
     "slug": "KXOAIANTH-40",
     "platform": "kalshi",
@@ -119,7 +119,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.345
@@ -155,16 +155,16 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.385
       },
       {
-        "p": 0.385
+        "p": 0.38
       },
       {
-        "p": 0.385
+        "p": 0.39
       },
       {
         "p": 0.39
@@ -193,7 +193,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.81
@@ -220,52 +220,16 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.5805,
-    "volume": 190506,
-    "nexus_score": 17.0,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.12,
-    "last_updated": "2026-11-03T15:31:50Z",
-    "sparkline": [
-      {
-        "p": 0.578
-      },
-      {
-        "p": 0.5785
-      },
-      {
-        "p": 0.579
-      },
-      {
-        "p": 0.579
-      },
-      {
-        "p": 0.5805
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 88.0,
-    "c4": 12.7,
-    "slug": "KXMOONMAN-31",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXONIONACT-30JAN01",
     "question": "Will the Onion Futures Act be repealed?: Will the Onion Futures Act be repealed before Jan 1, 2030?",
     "current_price": 0.295,
-    "volume": 188067,
-    "nexus_score": 23.4,
+    "volume": 194844,
+    "nexus_score": 23.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.295
@@ -292,6 +256,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
+    "current_price": 0.5805,
+    "volume": 190506,
+    "nexus_score": 22.5,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.09,
+    "last_updated": "2026-11-03T16:01:55Z",
+    "sparkline": [
+      {
+        "p": 0.579
+      },
+      {
+        "p": 0.579
+      },
+      {
+        "p": 0.579
+      },
+      {
+        "p": 0.5795
+      },
+      {
+        "p": 0.5805
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 91.3,
+    "c4": 12.7,
+    "slug": "KXMOONMAN-31",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXGDPYEAR-36",
     "question": "US real GDP growth in 2036?: GDP growth in 2036?",
     "current_price": 0.435,
@@ -301,7 +301,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.435
@@ -339,7 +339,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.08
@@ -377,10 +377,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
-        "p": 0.37
+        "p": 0.335
       },
       {
         "p": 0.335
@@ -413,7 +413,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.615
@@ -449,7 +449,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.1055
@@ -485,10 +485,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
-        "p": 0.395
+        "p": 0.385
       },
       {
         "p": 0.385
@@ -515,13 +515,13 @@
     "id": "CHINAUSGDP",
     "question": "China overtakes USA\u2019s economy by 2030?: By 2030",
     "current_price": 0.19,
-    "volume": 133641,
+    "volume": 133643,
     "nexus_score": 22.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.19
@@ -541,7 +541,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 97.3,
+    "c3": 96.7,
     "c4": 8.0,
     "slug": "CHINAUSGDP",
     "platform": "kalshi",
@@ -557,7 +557,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.09
@@ -593,7 +593,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.1075
@@ -602,7 +602,7 @@
         "p": 0.1075
       },
       {
-        "p": 0.1075
+        "p": 0.107
       },
       {
         "p": 0.107
@@ -629,7 +629,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.165
@@ -665,13 +665,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.71
       },
       {
-        "p": 0.71
+        "p": 0.715
       },
       {
         "p": 0.715
@@ -695,7 +695,7 @@
     "id": "KXGTA6SONGS-30",
     "question": "Grand Theft Auto VI: Songs on radio at launch: :: Farruko",
     "current_price": 0.72,
-    "volume": 90728,
+    "volume": 90815,
     "nexus_score": 23.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -703,7 +703,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.72
@@ -739,7 +739,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.555
@@ -768,7 +768,7 @@
   {
     "id": "KXGDPYEAR-32",
     "question": "US real GDP growth in 2032?: GDP growth in 2032?",
-    "current_price": 0.48,
+    "current_price": 0.475,
     "volume": 79121,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
@@ -777,7 +777,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.485
@@ -792,7 +792,7 @@
         "p": 0.475
       },
       {
-        "p": 0.48
+        "p": 0.475
       }
     ],
     "c1": 0.0,
@@ -813,7 +813,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.445
@@ -849,7 +849,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.795
@@ -887,7 +887,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.895
@@ -923,7 +923,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.1785
@@ -952,8 +952,8 @@
   {
     "id": "KXTIMEDECADE20S-30",
     "question": "Time's Person of the Decade: Volodymyr Zelenskyy",
-    "current_price": 0.405,
-    "volume": 61803,
+    "current_price": 0.4,
+    "volume": 61805,
     "nexus_score": 23.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -961,22 +961,22 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.405
       },
       {
-        "p": 0.405
+        "p": 0.415
       },
       {
         "p": 0.405
       },
       {
-        "p": 0.395
+        "p": 0.4
       },
       {
-        "p": 0.405
+        "p": 0.4
       }
     ],
     "c1": 0.0,
@@ -997,7 +997,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.245
@@ -1033,7 +1033,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.195
@@ -1069,7 +1069,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.5075
@@ -1105,7 +1105,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.12
@@ -1143,7 +1143,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.515
@@ -1179,19 +1179,19 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.9025
       },
       {
-        "p": 0.9025
+        "p": 0.902
       },
       {
         "p": 0.9025
       },
       {
-        "p": 0.9025
+        "p": 0.902
       },
       {
         "p": 0.9025
@@ -1215,7 +1215,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.34
@@ -1251,7 +1251,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1287,7 +1287,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.21
@@ -1307,7 +1307,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 97.3,
+    "c3": 98.0,
     "c4": 10.3,
     "slug": "KXNEXTTRILLIONAIRE-33",
     "platform": "kalshi",
@@ -1323,7 +1323,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1361,7 +1361,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.495
@@ -1381,7 +1381,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 97.3,
+    "c3": 98.0,
     "c4": 7.3,
     "slug": "KXPERFORMBONDSONG-35",
     "platform": "kalshi",
@@ -1397,7 +1397,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.225
@@ -1435,7 +1435,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.855
@@ -1444,7 +1444,7 @@
         "p": 0.855
       },
       {
-        "p": 0.855
+        "p": 0.845
       },
       {
         "p": 0.845
@@ -1471,7 +1471,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.15
@@ -1507,7 +1507,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.31
@@ -1545,7 +1545,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.83
@@ -1581,19 +1581,19 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
-        "p": 0.1105
-      },
-      {
-        "p": 0.1105
-      },
-      {
-        "p": 0.1105
-      },
-      {
         "p": 0.1055
+      },
+      {
+        "p": 0.1105
+      },
+      {
+        "p": 0.1105
+      },
+      {
+        "p": 0.1105
       },
       {
         "p": 0.1055
@@ -1617,7 +1617,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.39
@@ -1652,8 +1652,8 @@
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.07,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "macro_sensitivity": 0.06,
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.44
@@ -1673,7 +1673,7 @@
     ],
     "c1": 50.0,
     "c2": 5.8,
-    "c3": 93.3,
+    "c3": 94.0,
     "c4": 6.3,
     "slug": "AMAZONFTC-29DEC31",
     "platform": "kalshi",
@@ -1689,7 +1689,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.71
@@ -1725,7 +1725,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.05,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.07
@@ -1745,7 +1745,7 @@
     ],
     "c1": 49.7,
     "c2": 1.7,
-    "c3": 94.7,
+    "c3": 95.3,
     "c4": 5.0,
     "slug": "KXGDPYEAR-34",
     "platform": "kalshi",
@@ -1761,7 +1761,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.265
@@ -1797,7 +1797,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-03T15:31:50Z",
+    "last_updated": "2026-11-03T16:01:55Z",
     "sparkline": [
       {
         "p": 0.266
