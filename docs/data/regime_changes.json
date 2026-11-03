@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-03T22:01:57.788016Z",
+    "market_id": "AMAZONFTC-29DEC31",
+    "question": "Courts consider Amazon a monopoly?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 32.6
+    }
+  },
+  {
     "timestamp": "2026-11-02T16:01:58.651186Z",
     "market_id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 48.7
-    }
-  },
-  {
-    "timestamp": "2026-10-25T14:31:21.972239Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.5
     }
   }
 ]
