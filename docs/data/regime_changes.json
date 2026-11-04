@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-04T09:31:36.723934Z",
+    "market_id": "KXINDIANPM-29APR30",
+    "question": "Who will become Prime Minister of India after next general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 39.2
+    }
+  },
+  {
     "timestamp": "2026-11-04T05:31:43.919165Z",
     "market_id": "KXINDIANPM-29APR30",
     "question": "Who will become Prime Minister of India after next general election?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.4
-    }
-  },
-  {
-    "timestamp": "2026-10-26T12:31:22.348718Z",
-    "market_id": "KXNEXTPRESSECPERM-29JAN20",
-    "question": "Who will be Trump's next Press Secretary?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Volatile",
-    "metrics_snapshot": {
-      "nexus_score": 16.9
     }
   }
 ]
