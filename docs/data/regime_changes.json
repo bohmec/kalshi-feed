@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-04T14:31:44.968357Z",
+    "market_id": "AMAZONFTC-29DEC31",
+    "question": "Courts consider Amazon a monopoly?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 40.2
+    }
+  },
+  {
+    "timestamp": "2026-11-04T14:31:44.968357Z",
+    "market_id": "KXOAIANTH-40",
+    "question": "Will OpenAI or Anthropic IPO first?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 10.4
+    }
+  },
+  {
     "timestamp": "2026-11-04T09:31:36.723934Z",
     "market_id": "KXINDIANPM-29APR30",
     "question": "Who will become Prime Minister of India after next general election?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.4
-    }
-  },
-  {
-    "timestamp": "2026-10-26T14:31:27.959966Z",
-    "market_id": "KXGDPYEAR-36",
-    "question": "US real GDP growth in 2036?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 10.5
-    }
-  },
-  {
-    "timestamp": "2026-10-26T14:31:27.959966Z",
-    "market_id": "KXAMEND25-29",
-    "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.4
     }
   }
 ]
