@@ -3,7 +3,7 @@
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
     "current_price": 0.475,
-    "volume": 3447965,
+    "volume": 3448008,
     "nexus_score": 17.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -11,13 +11,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
-        "p": 0.555
+        "p": 0.515
       },
       {
-        "p": 0.48
+        "p": 0.465
       },
       {
         "p": 0.495
@@ -47,13 +47,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.1575
       },
       {
-        "p": 0.1635
+        "p": 0.1645
       },
       {
         "p": 0.1645
@@ -85,7 +85,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.46,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.945
@@ -114,14 +114,14 @@
   {
     "id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
-    "current_price": 0.315,
+    "current_price": 0.31,
     "volume": 308534,
     "nexus_score": 20.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.05,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.31
@@ -136,7 +136,7 @@
         "p": 0.31
       },
       {
-        "p": 0.315
+        "p": 0.31
       }
     ],
     "c1": 0.0,
@@ -157,7 +157,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.405
@@ -184,10 +184,48 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next new Speaker of the House?: Will Hakeem Jeffries be the next Speaker of the House?",
+    "current_price": 0.9495,
+    "volume": 225192,
+    "nexus_score": 17.7,
+    "market_state": "Macro-Driven",
+    "display_state": "Calibrating",
+    "flags": [
+      "Correlated"
+    ],
+    "macro_sensitivity": 0.13,
+    "last_updated": "2026-11-06T11:31:44Z",
+    "sparkline": [
+      {
+        "p": 0.9565
+      },
+      {
+        "p": 0.9425
+      },
+      {
+        "p": 0.9555
+      },
+      {
+        "p": 0.9515
+      },
+      {
+        "p": 0.9495
+      }
+    ],
+    "c1": 4.3,
+    "c2": 1.1,
+    "c3": 87.3,
+    "c4": 7.3,
+    "slug": "KXNEXTSPEAKER-31",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXAGICO-COMP",
     "question": "When will any company achieve AGI?: Will any company announce that it has achieved Artificial General Intelligence (AGI) before Jan 1, 2030?",
     "current_price": 0.795,
-    "volume": 225125,
+    "volume": 225140,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -195,7 +233,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.795
@@ -222,44 +260,6 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXNEXTSPEAKER-31",
-    "question": "Who will be the next new Speaker of the House?: Will Hakeem Jeffries be the next Speaker of the House?",
-    "current_price": 0.9485,
-    "volume": 223231,
-    "nexus_score": 17.0,
-    "market_state": "Macro-Driven",
-    "display_state": "Calibrating",
-    "flags": [
-      "Correlated"
-    ],
-    "macro_sensitivity": 0.13,
-    "last_updated": "2026-11-06T11:01:39Z",
-    "sparkline": [
-      {
-        "p": 0.9565
-      },
-      {
-        "p": 0.9375
-      },
-      {
-        "p": 0.957
-      },
-      {
-        "p": 0.954
-      },
-      {
-        "p": 0.9485
-      }
-    ],
-    "c1": 1.7,
-    "c2": 1.1,
-    "c3": 87.3,
-    "c4": 7.3,
-    "slug": "KXNEXTSPEAKER-31",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXONIONACT-30JAN01",
     "question": "Will the Onion Futures Act be repealed?: Will the Onion Futures Act be repealed before Jan 1, 2030?",
     "current_price": 0.295,
@@ -269,7 +269,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.295
@@ -298,14 +298,14 @@
   {
     "id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.5965,
+    "current_price": 0.596,
     "volume": 196478,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.596
@@ -317,10 +317,10 @@
         "p": 0.596
       },
       {
-        "p": 0.597
+        "p": 0.5965
       },
       {
-        "p": 0.5965
+        "p": 0.596
       }
     ],
     "c1": 0.0,
@@ -343,7 +343,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.415
@@ -372,31 +372,31 @@
   {
     "id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?: GDP growth in 2035?",
-    "current_price": 0.48,
+    "current_price": 0.44,
     "volume": 157307,
-    "nexus_score": 13.8,
+    "nexus_score": 13.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.17,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
+      {
+        "p": 0.405
+      },
       {
         "p": 0.445
       },
       {
-        "p": 0.435
+        "p": 0.465
       },
       {
         "p": 0.425
       },
       {
-        "p": 0.4
-      },
-      {
-        "p": 0.48
+        "p": 0.44
       }
     ],
     "c1": 0.0,
@@ -419,19 +419,19 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.375
       },
       {
-        "p": 0.415
+        "p": 0.44
       },
       {
-        "p": 0.375
+        "p": 0.465
       },
       {
-        "p": 0.415
+        "p": 0.37
       },
       {
         "p": 0.37
@@ -455,7 +455,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.62
@@ -491,7 +491,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.1055
@@ -527,7 +527,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.68
@@ -536,7 +536,7 @@
         "p": 0.705
       },
       {
-        "p": 0.725
+        "p": 0.705
       },
       {
         "p": 0.705
@@ -563,7 +563,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.195
@@ -599,10 +599,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
-        "p": 0.105
+        "p": 0.1045
       },
       {
         "p": 0.12
@@ -635,7 +635,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.095
@@ -671,7 +671,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.165
@@ -707,7 +707,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.71
@@ -745,7 +745,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.11,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.71
@@ -781,7 +781,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.555
@@ -819,13 +819,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.48
       },
       {
-        "p": 0.48
+        "p": 0.485
       },
       {
         "p": 0.485
@@ -855,7 +855,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.445
@@ -891,7 +891,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.715
@@ -929,13 +929,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.82
       },
       {
-        "p": 0.82
+        "p": 0.815
       },
       {
         "p": 0.825
@@ -959,13 +959,13 @@
     "id": "USCLIMATE",
     "question": "US meets its climate goals?: By 2030",
     "current_price": 0.1785,
-    "volume": 64151,
+    "volume": 64161,
     "nexus_score": 15.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.1785
@@ -1003,16 +1003,16 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
-        "p": 0.365
+        "p": 0.35
       },
       {
         "p": 0.36
       },
       {
-        "p": 0.36
+        "p": 0.37
       },
       {
         "p": 0.36
@@ -1039,7 +1039,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.23
@@ -1075,7 +1075,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1111,7 +1111,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.5075
@@ -1147,7 +1147,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.12
@@ -1185,7 +1185,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.515
@@ -1223,7 +1223,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.3,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.33
@@ -1259,7 +1259,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1295,7 +1295,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1331,7 +1331,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1369,13 +1369,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.325
       },
       {
-        "p": 0.325
+        "p": 0.33
       },
       {
         "p": 0.33
@@ -1405,7 +1405,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.215
@@ -1443,7 +1443,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.855
@@ -1474,12 +1474,12 @@
     "question": "US real GDP growth in 2030?: 2.6 to 3.0",
     "current_price": 0.18,
     "volume": 37398,
-    "nexus_score": 41.1,
+    "nexus_score": 41.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.185
@@ -1515,7 +1515,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.31
@@ -1553,7 +1553,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.83
@@ -1589,7 +1589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.335
@@ -1625,7 +1625,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.091
@@ -1654,14 +1654,14 @@
   {
     "id": "AMAZONFTC-29DEC31",
     "question": "Courts consider Amazon a monopoly?: Will a court find that Amazon has illegally maintained a monopoly?",
-    "current_price": 0.455,
-    "volume": 32311,
-    "nexus_score": 45.5,
+    "current_price": 0.435,
+    "volume": 32378,
+    "nexus_score": 39.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.45
@@ -1676,13 +1676,13 @@
         "p": 0.455
       },
       {
-        "p": 0.455
+        "p": 0.435
       }
     ],
     "c1": 50.0,
-    "c2": 8.3,
+    "c2": 2.1,
     "c3": 100.0,
-    "c4": 7.0,
+    "c4": 6.7,
     "slug": "AMAZONFTC-29DEC31",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1697,7 +1697,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.185
@@ -1709,7 +1709,7 @@
         "p": 0.19
       },
       {
-        "p": 0.185
+        "p": 0.19
       },
       {
         "p": 0.195
@@ -1733,7 +1733,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.73
@@ -1764,14 +1764,14 @@
     "question": "US real GDP growth in 2034?: GDP growth in 2034?",
     "current_price": 0.16,
     "volume": 30515,
-    "nexus_score": 31.1,
+    "nexus_score": 31.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.09,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1807,7 +1807,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T11:01:39Z",
+    "last_updated": "2026-11-06T11:31:44Z",
     "sparkline": [
       {
         "p": 0.266
