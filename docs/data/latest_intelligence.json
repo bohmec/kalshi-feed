@@ -2,8 +2,8 @@
   {
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
-    "current_price": 0.48,
-    "volume": 3371706,
+    "current_price": 0.475,
+    "volume": 3372396,
     "nexus_score": 17.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -11,7 +11,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.625
@@ -20,13 +20,13 @@
         "p": 0.575
       },
       {
-        "p": 0.59
+        "p": 0.615
       },
       {
-        "p": 0.565
+        "p": 0.555
       },
       {
-        "p": 0.48
+        "p": 0.475
       }
     ],
     "c1": 0.0,
@@ -47,19 +47,19 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.158
-      },
-      {
         "p": 0.1575
       },
       {
         "p": 0.1575
       },
       {
-        "p": 0.158
+        "p": 0.1575
+      },
+      {
+        "p": 0.1575
       },
       {
         "p": 0.164
@@ -77,7 +77,7 @@
     "id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.93,
-    "volume": 441814,
+    "volume": 441925,
     "nexus_score": 10.4,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
@@ -85,7 +85,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.38,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.975
@@ -121,7 +121,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.34
@@ -157,7 +157,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.405
@@ -195,7 +195,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.795
@@ -213,7 +213,7 @@
         "p": 0.795
       }
     ],
-    "c1": 0.3,
+    "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
     "c4": 11.3,
@@ -224,33 +224,33 @@
   {
     "id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next new Speaker of the House?: Will Hakeem Jeffries be the next Speaker of the House?",
-    "current_price": 0.9565,
-    "volume": 195964,
-    "nexus_score": 18.8,
+    "current_price": 0.9525,
+    "volume": 200118,
+    "nexus_score": 19.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.805
+        "p": 0.8
       },
       {
-        "p": 0.9465
+        "p": 0.9365
       },
       {
-        "p": 0.9335
-      },
-      {
-        "p": 0.958
+        "p": 0.9155
       },
       {
         "p": 0.9565
+      },
+      {
+        "p": 0.9525
       }
     ],
-    "c1": 0.7,
-    "c2": 1.4,
+    "c1": 1.7,
+    "c2": 1.3,
     "c3": 100.0,
     "c4": 7.3,
     "slug": "KXNEXTSPEAKER-31",
@@ -258,52 +258,16 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXMOONMAN-31",
-    "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.596,
-    "volume": 195803,
-    "nexus_score": 23.6,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
-    "sparkline": [
-      {
-        "p": 0.5895
-      },
-      {
-        "p": 0.5925
-      },
-      {
-        "p": 0.593
-      },
-      {
-        "p": 0.5955
-      },
-      {
-        "p": 0.596
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 12.0,
-    "slug": "KXMOONMAN-31",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXONIONACT-30JAN01",
     "question": "Will the Onion Futures Act be repealed?: Will the Onion Futures Act be repealed before Jan 1, 2030?",
     "current_price": 0.295,
-    "volume": 195470,
+    "volume": 198470,
     "nexus_score": 23.3,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.295
@@ -330,6 +294,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXMOONMAN-31",
+    "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
+    "current_price": 0.596,
+    "volume": 195875,
+    "nexus_score": 23.6,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-11-06T02:01:53Z",
+    "sparkline": [
+      {
+        "p": 0.5925
+      },
+      {
+        "p": 0.5925
+      },
+      {
+        "p": 0.593
+      },
+      {
+        "p": 0.596
+      },
+      {
+        "p": 0.596
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 12.0,
+    "slug": "KXMOONMAN-31",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXGDPYEAR-36",
     "question": "US real GDP growth in 2036?: GDP growth in 2036?",
     "current_price": 0.415,
@@ -341,10 +341,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.42
+        "p": 0.425
       },
       {
         "p": 0.415
@@ -379,13 +379,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.41
+        "p": 0.415
       },
       {
-        "p": 0.41
+        "p": 0.45
       },
       {
         "p": 0.43
@@ -408,7 +408,7 @@
   {
     "id": "KXGDPYEAR-33",
     "question": "US real GDP growth in 2033?: GDP growth in 2033?",
-    "current_price": 0.41,
+    "current_price": 0.375,
     "volume": 156963,
     "nexus_score": 16.2,
     "market_state": "Low Confidence",
@@ -417,22 +417,22 @@
       "Contested"
     ],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.4
+        "p": 0.47
       },
       {
-        "p": 0.32
+        "p": 0.415
       },
       {
-        "p": 0.38
+        "p": 0.505
       },
       {
-        "p": 0.325
+        "p": 0.375
       },
       {
-        "p": 0.41
+        "p": 0.375
       }
     ],
     "c1": 0.0,
@@ -453,7 +453,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.62
@@ -489,7 +489,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.1055
@@ -525,19 +525,19 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.58
+        "p": 0.47
       },
       {
-        "p": 0.435
-      },
-      {
-        "p": 0.58
+        "p": 0.455
       },
       {
         "p": 0.585
+      },
+      {
+        "p": 0.68
       },
       {
         "p": 0.7
@@ -561,7 +561,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.19
@@ -597,10 +597,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.1095
+        "p": 0.12
       },
       {
         "p": 0.12
@@ -609,7 +609,7 @@
         "p": 0.125
       },
       {
-        "p": 0.1045
+        "p": 0.105
       },
       {
         "p": 0.105
@@ -633,7 +633,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.095
@@ -669,7 +669,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.165
@@ -698,14 +698,14 @@
   {
     "id": "KXBLUESPACEX-30",
     "question": "Will Blue Origin land on the moon before SpaceX?: Will Blue Origin land an uncrewed Blue Moon MK1 lander on the moon before SpaceX lands an uncrewed Starship?",
-    "current_price": 0.71,
+    "current_price": 0.7,
     "volume": 98568,
     "nexus_score": 22.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.71
@@ -720,7 +720,7 @@
         "p": 0.71
       },
       {
-        "p": 0.71
+        "p": 0.7
       }
     ],
     "c1": 0.0,
@@ -742,8 +742,8 @@
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.08,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "macro_sensitivity": 0.09,
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.71
@@ -763,7 +763,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 91.3,
+    "c3": 90.7,
     "c4": 10.0,
     "slug": "KXGTA6SONGS-30",
     "platform": "kalshi",
@@ -779,7 +779,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.555
@@ -817,10 +817,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.505
+        "p": 0.5
       },
       {
         "p": 0.48
@@ -829,7 +829,7 @@
         "p": 0.495
       },
       {
-        "p": 0.5
+        "p": 0.48
       },
       {
         "p": 0.48
@@ -853,7 +853,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.445
@@ -889,7 +889,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.72
@@ -901,7 +901,7 @@
         "p": 0.72
       },
       {
-        "p": 0.72
+        "p": 0.715
       },
       {
         "p": 0.715
@@ -928,10 +928,10 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.1,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.81
+        "p": 0.805
       },
       {
         "p": 0.815
@@ -964,7 +964,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.1785
@@ -993,8 +993,8 @@
   {
     "id": "KXTIMEDECADE20S-30",
     "question": "Time's Person of the Decade: Volodymyr Zelenskyy",
-    "current_price": 0.35,
-    "volume": 63626,
+    "current_price": 0.36,
+    "volume": 63631,
     "nexus_score": 23.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -1002,7 +1002,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.335
@@ -1014,10 +1014,10 @@
         "p": 0.345
       },
       {
-        "p": 0.34
+        "p": 0.365
       },
       {
-        "p": 0.35
+        "p": 0.36
       }
     ],
     "c1": 0.0,
@@ -1038,10 +1038,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.225
+        "p": 0.23
       },
       {
         "p": 0.23
@@ -1074,7 +1074,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.195
@@ -1110,10 +1110,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.511
+        "p": 0.5065
       },
       {
         "p": 0.5075
@@ -1146,7 +1146,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.115
@@ -1184,7 +1184,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.515
@@ -1220,7 +1220,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.33
@@ -1256,7 +1256,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1292,7 +1292,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1301,7 +1301,7 @@
         "p": 0.205
       },
       {
-        "p": 0.205
+        "p": 0.21
       },
       {
         "p": 0.205
@@ -1328,7 +1328,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1366,7 +1366,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.395
@@ -1402,13 +1402,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.225
+        "p": 0.22
       },
       {
-        "p": 0.22
+        "p": 0.215
       },
       {
         "p": 0.215
@@ -1440,7 +1440,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.85
@@ -1469,14 +1469,14 @@
   {
     "id": "KXGDPYEAR-30",
     "question": "US real GDP growth in 2030?: 2.6 to 3.0",
-    "current_price": 0.185,
+    "current_price": 0.175,
     "volume": 37398,
-    "nexus_score": 40.8,
+    "nexus_score": 40.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.175
@@ -1491,13 +1491,13 @@
         "p": 0.185
       },
       {
-        "p": 0.185
+        "p": 0.175
       }
     ],
     "c1": 50.7,
-    "c2": 3.1,
-    "c3": 95.3,
-    "c4": 10.3,
+    "c2": 2.6,
+    "c3": 96.0,
+    "c4": 10.0,
     "slug": "KXGDPYEAR-30",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1512,7 +1512,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.31
@@ -1543,14 +1543,14 @@
     "question": "The Last of Us S3: Release date: When will \"The Last of Us\" Season 3 be released?",
     "current_price": 0.83,
     "volume": 35126,
-    "nexus_score": 36.0,
+    "nexus_score": 35.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.82
@@ -1569,7 +1569,7 @@
       }
     ],
     "c1": 50.7,
-    "c2": 4.7,
+    "c2": 4.3,
     "c3": 100.0,
     "c4": 3.7,
     "slug": "KXTVSEASONRELEASETHELASTOFUS",
@@ -1586,7 +1586,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.355
@@ -1622,7 +1622,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.091
@@ -1658,10 +1658,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
-        "p": 0.455
+        "p": 0.45
       },
       {
         "p": 0.45
@@ -1679,7 +1679,7 @@
     "c1": 50.0,
     "c2": 8.3,
     "c3": 100.0,
-    "c4": 6.7,
+    "c4": 7.0,
     "slug": "AMAZONFTC-29DEC31",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1687,14 +1687,14 @@
   {
     "id": "KXEARTHQUAKECALIFORNIA-35",
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?: Will there be an at least 8.0 magnitude earthquake in California before 2035?",
-    "current_price": 0.185,
+    "current_price": 0.19,
     "volume": 31924,
-    "nexus_score": 37.7,
+    "nexus_score": 36.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.185
@@ -1709,11 +1709,11 @@
         "p": 0.185
       },
       {
-        "p": 0.185
+        "p": 0.19
       }
     ],
     "c1": 50.0,
-    "c2": 6.0,
+    "c2": 4.3,
     "c3": 100.0,
     "c4": 5.3,
     "slug": "KXEARTHQUAKECALIFORNIA-35",
@@ -1723,15 +1723,18 @@
   {
     "id": "KXG7LEADEROUT-26JUL20",
     "question": "Which G7 leader will leave office next?: :: President of France",
-    "current_price": 0.73,
-    "volume": 31179,
-    "nexus_score": 34.6,
+    "current_price": 0.685,
+    "volume": 31565,
+    "nexus_score": 33.8,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
+      {
+        "p": 0.73
+      },
       {
         "p": 0.735
       },
@@ -1742,16 +1745,13 @@
         "p": 0.73
       },
       {
-        "p": 0.73
-      },
-      {
-        "p": 0.73
+        "p": 0.685
       }
     ],
     "c1": 50.0,
-    "c2": 3.1,
+    "c2": 2.4,
     "c3": 100.0,
-    "c4": 5.0,
+    "c4": 4.7,
     "slug": "KXG7LEADEROUT-26JUL20",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1768,7 +1768,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1797,14 +1797,14 @@
   {
     "id": "KXCOLONIZEMARS-50",
     "question": "Will humans colonize Mars before 2050?: Will humans colonize Mars before 2050?",
-    "current_price": 0.266,
+    "current_price": 0.268,
     "volume": 28883,
-    "nexus_score": 47.2,
+    "nexus_score": 45.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T01:31:35Z",
+    "last_updated": "2026-11-06T02:01:53Z",
     "sparkline": [
       {
         "p": 0.2655
@@ -1819,11 +1819,11 @@
         "p": 0.266
       },
       {
-        "p": 0.266
+        "p": 0.268
       }
     ],
     "c1": 49.7,
-    "c2": 9.7,
+    "c2": 8.5,
     "c3": 100.0,
     "c4": 8.7,
     "slug": "KXCOLONIZEMARS-50",
