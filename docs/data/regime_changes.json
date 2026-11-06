@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-06T10:01:38.647751Z",
+    "market_id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next new Speaker of the House?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 17.9
+    }
+  },
+  {
     "timestamp": "2026-11-06T07:01:42.002428Z",
     "market_id": "KXEARTHQUAKEJAPAN-30",
     "question": "8.0 magnitude earthquake in Japan before 2030?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.8
-    }
-  },
-  {
-    "timestamp": "2026-10-26T21:01:25.342140Z",
-    "market_id": "KXGDPYEAR-35",
-    "question": "US real GDP growth in 2035?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 11.8
     }
   }
 ]
