@@ -3,7 +3,7 @@
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Callum Turner be the next James Bond?",
     "current_price": 0.475,
-    "volume": 3453848,
+    "volume": 3457654,
     "nexus_score": 17.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -11,16 +11,16 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
-        "p": 0.455
+        "p": 0.465
       },
       {
-        "p": 0.495
+        "p": 0.465
       },
       {
-        "p": 0.475
+        "p": 0.465
       },
       {
         "p": 0.465
@@ -47,7 +47,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.1645
@@ -78,14 +78,14 @@
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.93,
     "volume": 441925,
-    "nexus_score": 12.9,
+    "nexus_score": 13.0,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.24,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "macro_sensitivity": 0.22,
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.93
@@ -105,7 +105,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 76.7,
+    "c3": 77.3,
     "c4": 4.7,
     "slug": "KXOAIANTH-40",
     "platform": "kalshi",
@@ -116,12 +116,12 @@
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.31,
     "volume": 308534,
-    "nexus_score": 20.3,
+    "nexus_score": 20.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.08,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "macro_sensitivity": 0.07,
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.31
@@ -141,7 +141,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 92.0,
+    "c3": 92.7,
     "c4": 5.0,
     "slug": "KXTAIWANLVL4",
     "platform": "kalshi",
@@ -157,7 +157,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.405
@@ -186,36 +186,36 @@
   {
     "id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next new Speaker of the House?: Will Hakeem Jeffries be the next Speaker of the House?",
-    "current_price": 0.9135,
-    "volume": 239769,
-    "nexus_score": 15.8,
+    "current_price": 0.966,
+    "volume": 247609,
+    "nexus_score": 18.1,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.14,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "macro_sensitivity": 0.09,
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
-        "p": 0.9405
+        "p": 0.94
       },
       {
-        "p": 0.9555
+        "p": 0.956
       },
       {
-        "p": 0.9495
+        "p": 0.949
       },
       {
         "p": 0.946
       },
       {
-        "p": 0.9135
+        "p": 0.966
       }
     ],
-    "c1": 1.0,
-    "c2": 0.2,
-    "c3": 86.7,
+    "c1": 0.3,
+    "c2": 2.1,
+    "c3": 91.3,
     "c4": 7.3,
     "slug": "KXNEXTSPEAKER-31",
     "platform": "kalshi",
@@ -225,15 +225,15 @@
     "id": "KXAGICO-COMP",
     "question": "When will any company achieve AGI?: Will any company announce that it has achieved Artificial General Intelligence (AGI) before Jan 1, 2030?",
     "current_price": 0.795,
-    "volume": 225145,
-    "nexus_score": 23.6,
+    "volume": 225817,
+    "nexus_score": 22.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.795
@@ -251,10 +251,10 @@
         "p": 0.795
       }
     ],
-    "c1": 0.3,
+    "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
-    "c4": 11.7,
+    "c3": 99.3,
+    "c4": 8.7,
     "slug": "KXAGICO-COMP",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -269,7 +269,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.295
@@ -298,20 +298,20 @@
   {
     "id": "KXMOONMAN-31",
     "question": "Which country will be the next to send humans to the Moon?: Which country will be the next to send humans to the Moon?",
-    "current_price": 0.596,
+    "current_price": 0.5955,
     "volume": 196478,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.596
       },
       {
-        "p": 0.596
+        "p": 0.5965
       },
       {
         "p": 0.5965
@@ -320,7 +320,7 @@
         "p": 0.596
       },
       {
-        "p": 0.596
+        "p": 0.5955
       }
     ],
     "c1": 0.0,
@@ -343,7 +343,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.415
@@ -372,36 +372,36 @@
   {
     "id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?: GDP growth in 2035?",
-    "current_price": 0.445,
+    "current_price": 0.435,
     "volume": 157307,
-    "nexus_score": 15.7,
+    "nexus_score": 13.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.05,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "macro_sensitivity": 0.22,
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.475
       },
       {
-        "p": 0.435
+        "p": 0.475
       },
       {
         "p": 0.455
       },
       {
-        "p": 0.41
+        "p": 0.415
       },
       {
-        "p": 0.445
+        "p": 0.435
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 95.3,
+    "c3": 78.7,
     "c4": 4.7,
     "slug": "KXGDPYEAR-35",
     "platform": "kalshi",
@@ -419,13 +419,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
-        "p": 0.42
+        "p": 0.44
       },
       {
-        "p": 0.395
+        "p": 0.435
       },
       {
         "p": 0.37
@@ -455,7 +455,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.62
@@ -491,7 +491,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.1055
@@ -527,10 +527,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
-        "p": 0.705
+        "p": 0.685
       },
       {
         "p": 0.705
@@ -563,7 +563,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.195
@@ -594,12 +594,12 @@
     "question": "Will Alberta vote to secede from Canada?: Will Alberta vote to secede from Canada before the next general election?",
     "current_price": 0.135,
     "volume": 125531,
-    "nexus_score": 20.8,
+    "nexus_score": 20.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.12
@@ -620,7 +620,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 2.7,
+    "c4": 3.0,
     "slug": "KXALBERTAREFYES-29",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -635,7 +635,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.095
@@ -671,7 +671,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.165
@@ -707,7 +707,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.7
@@ -738,14 +738,14 @@
     "question": "Grand Theft Auto VI: Songs on radio at launch: :: Farruko",
     "current_price": 0.71,
     "volume": 94056,
-    "nexus_score": 15.9,
+    "nexus_score": 16.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.14,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.71
@@ -781,7 +781,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.555
@@ -812,20 +812,20 @@
     "question": "US real GDP growth in 2032?: GDP growth in 2032?",
     "current_price": 0.475,
     "volume": 79121,
-    "nexus_score": 15.6,
+    "nexus_score": 15.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.06,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.485
       },
       {
-        "p": 0.485
+        "p": 0.48
       },
       {
         "p": 0.475
@@ -855,7 +855,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.445
@@ -891,7 +891,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.685
@@ -929,7 +929,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.82
@@ -941,7 +941,7 @@
         "p": 0.82
       },
       {
-        "p": 0.82
+        "p": 0.81
       },
       {
         "p": 0.815
@@ -965,7 +965,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.1785
@@ -1003,7 +1003,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.36
@@ -1039,7 +1039,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.23
@@ -1070,12 +1070,12 @@
     "question": "Will Nick Fuentes become President of the United States before 2045?: Will Nick Fuentes become President of the United States before 2045?",
     "current_price": 0.205,
     "volume": 58549,
-    "nexus_score": 21.9,
+    "nexus_score": 22.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1095,7 +1095,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 96.0,
+    "c3": 96.7,
     "c4": 8.3,
     "slug": "KXPERSONPRESFUENTES-45",
     "platform": "kalshi",
@@ -1111,13 +1111,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.5075
       },
       {
-        "p": 0.5075
+        "p": 0.5085
       },
       {
         "p": 0.5085
@@ -1147,13 +1147,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.12
       },
       {
-        "p": 0.12
+        "p": 0.115
       },
       {
         "p": 0.115
@@ -1185,7 +1185,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.515
@@ -1221,7 +1221,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.33
@@ -1257,7 +1257,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1293,7 +1293,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1329,7 +1329,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1367,7 +1367,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.33
@@ -1403,7 +1403,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.215
@@ -1432,7 +1432,7 @@
   {
     "id": "EVSHARE-30JAN",
     "question": "EV market share in 2030?: Above 10%",
-    "current_price": 0.85,
+    "current_price": 0.855,
     "volume": 38664,
     "nexus_score": 23.1,
     "market_state": "Low Confidence",
@@ -1441,7 +1441,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.855
@@ -1456,7 +1456,7 @@
         "p": 0.855
       },
       {
-        "p": 0.85
+        "p": 0.855
       }
     ],
     "c1": 0.0,
@@ -1477,13 +1477,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.175
       },
       {
-        "p": 0.175
+        "p": 0.18
       },
       {
         "p": 0.18
@@ -1513,7 +1513,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.31
@@ -1551,7 +1551,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.83
@@ -1587,7 +1587,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.335
@@ -1623,7 +1623,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.091
@@ -1659,7 +1659,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.455
@@ -1695,7 +1695,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.19
@@ -1704,7 +1704,7 @@
         "p": 0.19
       },
       {
-        "p": 0.19
+        "p": 0.195
       },
       {
         "p": 0.195
@@ -1731,7 +1731,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.68
@@ -1743,7 +1743,7 @@
         "p": 0.675
       },
       {
-        "p": 0.675
+        "p": 0.68
       },
       {
         "p": 0.68
@@ -1762,14 +1762,14 @@
     "question": "US real GDP growth in 2034?: GDP growth in 2034?",
     "current_price": 0.16,
     "volume": 30515,
-    "nexus_score": 30.5,
+    "nexus_score": 30.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.13,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1788,8 +1788,8 @@
       }
     ],
     "c1": 49.7,
-    "c2": 1.0,
-    "c3": 86.7,
+    "c2": 1.1,
+    "c3": 87.3,
     "c4": 5.0,
     "slug": "KXGDPYEAR-34",
     "platform": "kalshi",
@@ -1805,7 +1805,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-06T15:01:45Z",
+    "last_updated": "2026-11-06T15:31:50Z",
     "sparkline": [
       {
         "p": 0.266
