@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-07T16:01:46.386824Z",
+    "market_id": "KXPERSONPRESMAM-45",
+    "question": "Will Zohran Mamdani become President of the United States before Jan 22, 2045?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.5
+    }
+  },
+  {
     "timestamp": "2026-11-06T18:31:46.470640Z",
     "market_id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next new Speaker of the House?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 11.8
-    }
-  },
-  {
-    "timestamp": "2026-10-26T23:31:25.283633Z",
-    "market_id": "KXNEXTPRESSECPERM-29JAN20",
-    "question": "Who will be Trump's next Press Secretary?",
-    "from_regime": "Volatile",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 16.5
     }
   }
 ]
