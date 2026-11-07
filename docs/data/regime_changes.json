@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-07T17:31:39.274618Z",
+    "market_id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next Speaker of the House?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.4
+    }
+  },
+  {
     "timestamp": "2026-11-07T16:31:33.113070Z",
     "market_id": "KXPERSONPRESMAM-45",
     "question": "Will Zohran Mamdani become President of the United States before Jan 22, 2045?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.3
-    }
-  },
-  {
-    "timestamp": "2026-10-27T08:31:25.129150Z",
-    "market_id": "KXPRIMEENGCONSUMPTION-30",
-    "question": "What will be the largest source of global primary energy consumption in 2030?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.0
     }
   }
 ]
