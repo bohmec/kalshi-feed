@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-08T17:31:52.079099Z",
+    "market_id": "EUEXIT",
+    "question": "EU loses a member before 2030?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 43.5
+    }
+  },
+  {
+    "timestamp": "2026-11-08T17:31:52.079099Z",
+    "market_id": "KXPERSONPRESFUENTES-45",
+    "question": "Will Nick Fuentes become President of the United States before 2045?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
+    "timestamp": "2026-11-08T17:31:52.079099Z",
+    "market_id": "KXNEWPOPE-70",
+    "question": "Who will the next Pope be?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.1
+    }
+  },
+  {
     "timestamp": "2026-11-08T16:31:45.840805Z",
     "market_id": "EUEXIT",
     "question": "EU loses a member before 2030?",
@@ -467,36 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 50.8
-    }
-  },
-  {
-    "timestamp": "2026-10-28T23:01:49.213673Z",
-    "market_id": "KXDSENATESEATS-29",
-    "question": "Democratic Senate Seat Count (2028)",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 43.3
-    }
-  },
-  {
-    "timestamp": "2026-10-28T23:01:49.213673Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.7
-    }
-  },
-  {
-    "timestamp": "2026-10-28T18:32:05.330742Z",
-    "market_id": "KXDSENATESEATS-29",
-    "question": "Democratic Senate Seat Count (2028)",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 48.2
     }
   }
 ]
