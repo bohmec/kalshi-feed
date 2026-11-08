@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-08T16:31:45.840805Z",
+    "market_id": "EUEXIT",
+    "question": "EU loses a member before 2030?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 33.7
+    }
+  },
+  {
     "timestamp": "2026-11-08T16:01:33.979344Z",
     "market_id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next Speaker of the House?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 48.2
-    }
-  },
-  {
-    "timestamp": "2026-10-28T18:32:05.330742Z",
-    "market_id": "KXINSURRECTION-29",
-    "question": "Will Trump invoke the Insurrection Act?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.8
     }
   }
 ]
