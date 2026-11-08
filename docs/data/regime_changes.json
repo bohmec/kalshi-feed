@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-08T05:31:35.845173Z",
+    "market_id": "KXINDIANPM-29APR30",
+    "question": "Who will become Prime Minister of India after next general election?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 43.3
+    }
+  },
+  {
     "timestamp": "2026-11-08T05:01:35.616975Z",
     "market_id": "KXGDPYEAR-32",
     "question": "US real GDP growth in 2032?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 12.3
-    }
-  },
-  {
-    "timestamp": "2026-10-27T17:01:22.233333Z",
-    "market_id": "KXGDPYEAR-36",
-    "question": "US real GDP growth in 2036?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 13.7
     }
   }
 ]
