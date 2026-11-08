@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-08T18:31:41.577766Z",
+    "market_id": "KXNEWPOPE-70",
+    "question": "Who will the next Pope be?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.4
+    }
+  },
+  {
+    "timestamp": "2026-11-08T18:31:41.577766Z",
+    "market_id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next Speaker of the House?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 17.2
+    }
+  },
+  {
     "timestamp": "2026-11-08T17:31:52.079099Z",
     "market_id": "EUEXIT",
     "question": "EU loses a member before 2030?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 42.8
-    }
-  },
-  {
-    "timestamp": "2026-10-29T09:32:02.049722Z",
-    "market_id": "KXNEWSCOTUSCONF-29JAN20",
-    "question": "How many Supreme Court justices will the President confirm?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.9
-    }
-  },
-  {
-    "timestamp": "2026-10-29T04:32:08.569849Z",
-    "market_id": "KXDSENATESEATS-29",
-    "question": "Democratic Senate Seat Count (2028)",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 50.8
     }
   }
 ]
