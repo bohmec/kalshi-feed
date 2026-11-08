@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-08T13:31:40.971172Z",
+    "market_id": "KXGDPYEAR-32",
+    "question": "US real GDP growth in 2032?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.4
+    }
+  },
+  {
     "timestamp": "2026-11-08T13:01:51.144364Z",
     "market_id": "KXGDPYEAR-32",
     "question": "US real GDP growth in 2032?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 23.3
-    }
-  },
-  {
-    "timestamp": "2026-10-28T18:01:59.770853Z",
-    "market_id": "KXZELENSKYPUTIN-29",
-    "question": "Will Zelenskyy and Putin speak?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 20.6
     }
   }
 ]
