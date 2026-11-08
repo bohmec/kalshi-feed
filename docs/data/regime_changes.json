@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-08T16:01:33.979344Z",
+    "market_id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next Speaker of the House?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 15.1
+    }
+  },
+  {
     "timestamp": "2026-11-08T13:31:40.971172Z",
     "market_id": "KXGDPYEAR-32",
     "question": "US real GDP growth in 2032?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 14.8
-    }
-  },
-  {
-    "timestamp": "2026-10-28T18:01:59.770853Z",
-    "market_id": "KXAMEND25-29",
-    "question": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.3
     }
   }
 ]
