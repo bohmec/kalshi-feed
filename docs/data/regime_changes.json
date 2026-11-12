@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-12T14:31:22.137096Z",
+    "market_id": "EVSHARE-30JAN",
+    "question": "EV market share in 2030?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 34.9
+    }
+  },
+  {
     "timestamp": "2026-11-12T05:31:15.731072Z",
     "market_id": "KXCEONVDA-01JAN33",
     "question": "When will Jensen Huang leave as Nvidia CEO?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 35.9
-    }
-  },
-  {
-    "timestamp": "2026-10-29T16:32:17.767304Z",
-    "market_id": "KXPRESPERSON-28",
-    "question": "2028 U.S. Presidential Election winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 21.9
     }
   }
 ]
