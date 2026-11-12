@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-12T03:01:10.467953Z",
+    "market_id": "KXCEONVDA-01JAN33",
+    "question": "When will Jensen Huang leave as Nvidia CEO?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 18.8
+    }
+  },
+  {
     "timestamp": "2026-11-08T18:31:41.577766Z",
     "market_id": "KXNEWPOPE-70",
     "question": "Who will the next Pope be?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 16.1
-    }
-  },
-  {
-    "timestamp": "2026-10-29T13:01:56.233329Z",
-    "market_id": "KXDSENATESEATS-29",
-    "question": "Democratic Senate Seat Count (2028)",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 42.8
     }
   }
 ]
