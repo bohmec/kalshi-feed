@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-15T15:31:49.765410Z",
+    "market_id": "KXXISUCCESSOR-45JAN01",
+    "question": "Who will be named as Xi Jinping's successor?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.2
+    }
+  },
+  {
     "timestamp": "2026-11-15T15:01:45.181641Z",
     "market_id": "EUEXIT",
     "question": "EU loses a member before 2030?",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 22.5
-    }
-  },
-  {
-    "timestamp": "2026-11-04T14:31:44.968357Z",
-    "market_id": "AMAZONFTC-29DEC31",
-    "question": "Courts consider Amazon a monopoly?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 40.2
     }
   }
 ]
