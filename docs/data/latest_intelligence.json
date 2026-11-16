@@ -2,17 +2,19 @@
   {
     "id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next Speaker of the House?: Will Hakeem Jeffries be the next Speaker of the House?",
-    "current_price": 0.96,
-    "volume": 1397536,
-    "nexus_score": 16.2,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.06,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "current_price": 0.961,
+    "volume": 1397684,
+    "nexus_score": 15.4,
+    "market_state": "Macro-Driven",
+    "display_state": "Calibrating",
+    "flags": [
+      "Correlated"
+    ],
+    "macro_sensitivity": 0.12,
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
-        "p": 0.955
+        "p": 0.9545
       },
       {
         "p": 0.959
@@ -21,15 +23,15 @@
         "p": 0.959
       },
       {
-        "p": 0.9575
+        "p": 0.9635
       },
       {
-        "p": 0.96
+        "p": 0.961
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 94.0,
+    "c3": 88.0,
     "c4": 7.3,
     "slug": "KXNEXTSPEAKER-31",
     "platform": "kalshi",
@@ -38,14 +40,14 @@
   {
     "id": "KXWC-30",
     "question": "2030 FIFA World Cup Champion: Will Spain win the 2030 FIFA Men's World Cup?",
-    "current_price": 0.1615,
-    "volume": 1047800,
+    "current_price": 0.161,
+    "volume": 1047828,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.162
@@ -60,7 +62,7 @@
         "p": 0.162
       },
       {
-        "p": 0.1615
+        "p": 0.161
       }
     ],
     "c1": 0.0,
@@ -75,13 +77,13 @@
     "id": "KXOAIANTH-40",
     "question": "Will OpenAI or Anthropic IPO first?: Will Open AI or Anthropic IPO first?",
     "current_price": 0.99,
-    "volume": 464031,
+    "volume": 464152,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.99
@@ -112,12 +114,12 @@
     "question": "Will the Onion Futures Act be repealed?: Will the Onion Futures Act be repealed before Jan 1, 2030?",
     "current_price": 0.295,
     "volume": 367443,
-    "nexus_score": 23.5,
+    "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.295
@@ -148,12 +150,12 @@
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.345,
     "volume": 315617,
-    "nexus_score": 22.6,
+    "nexus_score": 22.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.36
@@ -165,7 +167,7 @@
         "p": 0.36
       },
       {
-        "p": 0.36
+        "p": 0.345
       },
       {
         "p": 0.345
@@ -173,7 +175,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 99.3,
+    "c3": 100.0,
     "c4": 9.0,
     "slug": "KXTAIWANLVL4",
     "platform": "kalshi",
@@ -183,7 +185,7 @@
     "id": "KXAGICO-COMP",
     "question": "When will any company achieve AGI?: Will any company announce that it has achieved Artificial General Intelligence (AGI) before Jan 1, 2031?",
     "current_price": 0.76,
-    "volume": 292646,
+    "volume": 292725,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -191,7 +193,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.76
@@ -227,7 +229,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.37
@@ -263,10 +265,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
-        "p": 0.5725
+        "p": 0.5745
       },
       {
         "p": 0.5625
@@ -294,12 +296,12 @@
     "question": "US real GDP growth in 2036?: GDP growth in 2036?",
     "current_price": 0.19,
     "volume": 162061,
-    "nexus_score": 15.3,
+    "nexus_score": 15.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.07,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.185
@@ -319,7 +321,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 92.7,
+    "c3": 93.3,
     "c4": 4.7,
     "slug": "KXGDPYEAR-36",
     "platform": "kalshi",
@@ -335,7 +337,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.135
@@ -371,7 +373,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.665
@@ -407,7 +409,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.155
@@ -443,7 +445,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.0645
@@ -474,12 +476,12 @@
     "question": "Who will succeed Netanyahu as Prime Minister of Israel?: ::",
     "current_price": 0.68,
     "volume": 148000,
-    "nexus_score": 22.7,
+    "nexus_score": 22.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.665
@@ -515,7 +517,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.195
@@ -551,7 +553,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.115
@@ -587,7 +589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.0725
@@ -625,16 +627,16 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.78
       },
       {
-        "p": 0.825
+        "p": 0.82
       },
       {
-        "p": 0.83
+        "p": 0.835
       },
       {
         "p": 0.825
@@ -661,7 +663,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.205
@@ -697,7 +699,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.695
@@ -733,7 +735,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.555
@@ -769,7 +771,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.445
@@ -807,7 +809,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.41
@@ -845,7 +847,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.685
@@ -881,7 +883,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.69
@@ -912,17 +914,17 @@
     "question": "Time's Person of the Decade: Who will Time name as Person of the Decade?",
     "current_price": 0.355,
     "volume": 65988,
-    "nexus_score": 22.4,
+    "nexus_score": 22.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.07,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "macro_sensitivity": 0.06,
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
-        "p": 0.345
+        "p": 0.355
       },
       {
         "p": 0.355
@@ -939,7 +941,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 92.7,
+    "c3": 94.0,
     "c4": 11.3,
     "slug": "KXTIMEDECADE20S-30",
     "platform": "kalshi",
@@ -955,10 +957,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
-        "p": 0.1735
+        "p": 0.1755
       },
       {
         "p": 0.1755
@@ -991,10 +993,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
-        "p": 0.22
+        "p": 0.23
       },
       {
         "p": 0.23
@@ -1027,7 +1029,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.2
@@ -1065,7 +1067,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.05,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.74
@@ -1085,7 +1087,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 95.3,
+    "c3": 94.7,
     "c4": 7.7,
     "slug": "KXFUSION",
     "platform": "kalshi",
@@ -1101,7 +1103,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.507
@@ -1137,10 +1139,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
-        "p": 0.13
+        "p": 0.135
       },
       {
         "p": 0.135
@@ -1173,7 +1175,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.32
@@ -1209,7 +1211,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1245,7 +1247,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1281,7 +1283,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1317,7 +1319,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.0595
@@ -1347,16 +1349,16 @@
     "id": "KXPERFORMBONDSONG-35",
     "question": "Next James Bond film: Artist performing the James Bond Theme: Who will perform the next James Bond Song?",
     "current_price": 0.28,
-    "volume": 42823,
-    "nexus_score": 6.6,
+    "volume": 42844,
+    "nexus_score": 8.0,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated",
       "Contested"
     ],
-    "macro_sensitivity": 0.68,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "macro_sensitivity": 0.58,
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.28
@@ -1376,7 +1378,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 32.0,
+    "c3": 42.0,
     "c4": 5.7,
     "slug": "KXPERFORMBONDSONG-35",
     "platform": "kalshi",
@@ -1392,7 +1394,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1422,7 +1424,7 @@
     "id": "EVSHARE-30JAN",
     "question": "EV market share in 2030?: Above 10%",
     "current_price": 0.855,
-    "volume": 38993,
+    "volume": 38994,
     "nexus_score": 23.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -1430,7 +1432,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.855
@@ -1466,7 +1468,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.0865
@@ -1502,7 +1504,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.335
@@ -1538,7 +1540,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.885
@@ -1574,7 +1576,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.3055
@@ -1610,7 +1612,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.445
@@ -1641,14 +1643,14 @@
     "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?: Will there be an at least 8.0 magnitude earthquake in California before 2035?",
     "current_price": 0.185,
     "volume": 32040,
-    "nexus_score": 27.4,
+    "nexus_score": 28.9,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.67,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "macro_sensitivity": 0.56,
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.18
@@ -1668,7 +1670,7 @@
     ],
     "c1": 50.0,
     "c2": 4.6,
-    "c3": 33.3,
+    "c3": 43.3,
     "c4": 9.0,
     "slug": "KXEARTHQUAKECALIFORNIA-35",
     "platform": "kalshi",
@@ -1684,7 +1686,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.695
@@ -1720,7 +1722,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1756,7 +1758,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
       {
         "p": 0.295
@@ -1792,8 +1794,11 @@
     "display_state": "Initializing",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T16:31:56Z",
+    "last_updated": "2026-11-16T17:01:54Z",
     "sparkline": [
+      {
+        "p": 0.1845
+      },
       {
         "p": 0.1845
       },
