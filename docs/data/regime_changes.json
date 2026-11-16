@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-16T15:32:03.635258Z",
+    "market_id": "KXPERFORMBONDSONG-35",
+    "question": "Next James Bond film: Artist performing the James Bond Theme",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 3.8
+    }
+  },
+  {
+    "timestamp": "2026-11-16T15:32:03.635258Z",
+    "market_id": "KXEARTHQUAKECALIFORNIA-35",
+    "question": "Will there be an at least 8.0 magnitude earthquake in California before 2035?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 22.5
+    }
+  },
+  {
     "timestamp": "2026-11-15T17:01:48.674803Z",
     "market_id": "EUEXIT",
     "question": "EU loses a member before 2030?",
@@ -477,26 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.8
-    }
-  },
-  {
-    "timestamp": "2026-11-05T18:01:49.599134Z",
-    "market_id": "KXNEXTISRAELPM-45JAN01",
-    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.2
-    }
-  },
-  {
-    "timestamp": "2026-11-05T14:31:50.954372Z",
-    "market_id": "KXNEXTATLFED-30JAN01",
-    "question": "Who will be the next President of the Federal Reserve Bank of Atlanta?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 15.3
     }
   }
 ]
