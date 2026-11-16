@@ -3,7 +3,7 @@
     "id": "KXBOND-30",
     "question": "Next James Bond film: Actor cast as James Bond: Will Robert Pattinson be the next James Bond?",
     "current_price": 0.665,
-    "volume": 4958848,
+    "volume": 4959440,
     "nexus_score": 17.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -11,16 +11,16 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
-      {
-        "p": 0.665
-      },
       {
         "p": 0.68
       },
       {
-        "p": 0.655
+        "p": 0.7
+      },
+      {
+        "p": 0.665
       },
       {
         "p": 0.665
@@ -47,13 +47,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
-        "p": 0.96
+        "p": 0.958
       },
       {
-        "p": 0.9545
+        "p": 0.9575
       },
       {
         "p": 0.966
@@ -83,7 +83,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.162
@@ -119,7 +119,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.99
@@ -155,7 +155,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.295
@@ -186,12 +186,12 @@
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.36,
     "volume": 315584,
-    "nexus_score": 22.5,
+    "nexus_score": 22.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.36
@@ -212,7 +212,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 8.3,
+    "c4": 9.7,
     "slug": "KXTAIWANLVL4",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -229,7 +229,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.76
@@ -265,7 +265,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.37
@@ -301,19 +301,19 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.5705
       },
       {
-        "p": 0.5705
+        "p": 0.5725
       },
       {
         "p": 0.5745
       },
       {
-        "p": 0.5745
+        "p": 0.5735
       },
       {
         "p": 0.5735
@@ -330,35 +330,35 @@
   {
     "id": "KXGDPYEAR-36",
     "question": "US real GDP growth in 2036?: GDP growth in 2036?",
-    "current_price": 0.42,
-    "volume": 158559,
-    "nexus_score": 23.9,
+    "current_price": 0.32,
+    "volume": 162059,
+    "nexus_score": 21.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
-        "p": 0.385
+        "p": 0.185
       },
       {
-        "p": 0.39
+        "p": 0.185
       },
       {
-        "p": 0.325
+        "p": 0.185
       },
       {
-        "p": 0.38
+        "p": 0.185
       },
       {
-        "p": 0.42
+        "p": 0.32
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 13.0,
+    "c4": 5.0,
     "slug": "KXGDPYEAR-36",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -366,31 +366,29 @@
   {
     "id": "KXGDPYEAR-35",
     "question": "US real GDP growth in 2035?: GDP growth in 2035?",
-    "current_price": 0.255,
+    "current_price": 0.135,
     "volume": 157309,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
-    "flags": [
-      "Contested"
-    ],
+    "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
-        "p": 0.25
+        "p": 0.135
       },
       {
-        "p": 0.25
+        "p": 0.135
       },
       {
-        "p": 0.255
+        "p": 0.135
       },
       {
-        "p": 0.255
+        "p": 0.135
       },
       {
-        "p": 0.255
+        "p": 0.135
       }
     ],
     "c1": 0.0,
@@ -411,7 +409,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.665
@@ -447,7 +445,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.155
@@ -483,7 +481,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.0645
@@ -519,13 +517,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.66
       },
       {
-        "p": 0.66
+        "p": 0.665
       },
       {
         "p": 0.665
@@ -555,7 +553,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.195
@@ -591,7 +589,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.115
@@ -627,7 +625,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.0725
@@ -656,8 +654,8 @@
   {
     "id": "KXGTA6SONGS-30",
     "question": "Grand Theft Auto VI: Songs on radio at launch: :: Farruko",
-    "current_price": 0.835,
-    "volume": 113493,
+    "current_price": 0.83,
+    "volume": 114413,
     "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -665,7 +663,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.785
@@ -674,13 +672,13 @@
         "p": 0.78
       },
       {
-        "p": 0.835
+        "p": 0.825
       },
       {
-        "p": 0.82
+        "p": 0.815
       },
       {
-        "p": 0.835
+        "p": 0.83
       }
     ],
     "c1": 0.0,
@@ -701,7 +699,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.205
@@ -737,7 +735,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.69
@@ -773,7 +771,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.555
@@ -809,7 +807,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.445
@@ -838,37 +836,35 @@
   {
     "id": "KXGDPYEAR-32",
     "question": "US real GDP growth in 2032?: GDP growth in 2032?",
-    "current_price": 0.45,
+    "current_price": 0.145,
     "volume": 79121,
-    "nexus_score": 23.2,
+    "nexus_score": 16.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
-    "flags": [
-      "Contested"
-    ],
+    "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
-        "p": 0.45
+        "p": 0.41
       },
       {
-        "p": 0.45
+        "p": 0.41
       },
       {
-        "p": 0.45
+        "p": 0.41
       },
       {
-        "p": 0.45
+        "p": 0.41
       },
       {
-        "p": 0.45
+        "p": 0.145
       }
     ],
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 10.7,
+    "c4": 4.7,
     "slug": "KXGDPYEAR-32",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -885,7 +881,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.685
@@ -921,7 +917,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.69
@@ -959,7 +955,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.345
@@ -995,7 +991,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.1755
@@ -1004,10 +1000,10 @@
         "p": 0.1755
       },
       {
-        "p": 0.1755
+        "p": 0.173
       },
       {
-        "p": 0.1735
+        "p": 0.176
       },
       {
         "p": 0.1755
@@ -1031,7 +1027,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.23
@@ -1067,7 +1063,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.2
@@ -1104,8 +1100,8 @@
     "flags": [
       "Contested"
     ],
-    "macro_sensitivity": 0.05,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "macro_sensitivity": 0.04,
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.76
@@ -1114,7 +1110,7 @@
         "p": 0.76
       },
       {
-        "p": 0.745
+        "p": 0.7405
       },
       {
         "p": 0.7405
@@ -1125,7 +1121,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 95.3,
+    "c3": 96.0,
     "c4": 7.7,
     "slug": "KXFUSION",
     "platform": "kalshi",
@@ -1141,7 +1137,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.507
@@ -1177,7 +1173,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1213,7 +1209,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.32
@@ -1249,7 +1245,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1285,16 +1281,16 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
-        "p": 0.14
+        "p": 0.135
       },
       {
         "p": 0.13
       },
       {
-        "p": 0.125
+        "p": 0.13
       },
       {
         "p": 0.13
@@ -1321,7 +1317,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1357,7 +1353,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.0595
@@ -1395,7 +1391,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.35
@@ -1431,7 +1427,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1469,7 +1465,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.855
@@ -1505,7 +1501,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.0865
@@ -1541,7 +1537,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.335
@@ -1572,12 +1568,12 @@
     "question": "The Last of Us S3: Release date: When will \"The Last of Us\" Season 3 be released?",
     "current_price": 0.885,
     "volume": 35454,
-    "nexus_score": 47.0,
+    "nexus_score": 47.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.885
@@ -1613,7 +1609,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.3055
@@ -1649,7 +1645,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.46
@@ -1685,7 +1681,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.18
@@ -1721,10 +1717,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
-        "p": 0.69
+        "p": 0.695
       },
       {
         "p": 0.695
@@ -1757,7 +1753,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.14
@@ -1793,7 +1789,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-16T11:31:49Z",
+    "last_updated": "2026-11-16T12:01:57Z",
     "sparkline": [
       {
         "p": 0.295
