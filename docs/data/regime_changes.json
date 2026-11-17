@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-17T01:31:49.553490Z",
+    "market_id": "EUEXIT",
+    "question": "EU loses a member before 2030?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 41.9
+    }
+  },
+  {
     "timestamp": "2026-11-16T19:02:01.470477Z",
     "market_id": "EUEXIT",
     "question": "EU loses a member before 2030?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 17.9
-    }
-  },
-  {
-    "timestamp": "2026-11-06T07:01:42.002428Z",
-    "market_id": "KXEARTHQUAKEJAPAN-30",
-    "question": "8.0 magnitude earthquake in Japan before 2030?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 14.5
     }
   }
 ]
