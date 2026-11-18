@@ -2,29 +2,29 @@
   {
     "id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next Speaker of the House?: Will Hakeem Jeffries be the next Speaker of the House?",
-    "current_price": 0.987,
-    "volume": 1573389,
+    "current_price": 0.9865,
+    "volume": 1573779,
     "nexus_score": 17.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
-        "p": 0.985
+        "p": 0.9845
       },
       {
-        "p": 0.986
-      },
-      {
-        "p": 0.9855
+        "p": 0.9845
       },
       {
         "p": 0.9865
       },
       {
-        "p": 0.987
+        "p": 0.9865
+      },
+      {
+        "p": 0.9865
       }
     ],
     "c1": 0.0,
@@ -45,7 +45,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.1705
@@ -54,7 +54,7 @@
         "p": 0.1695
       },
       {
-        "p": 0.1695
+        "p": 0.1685
       },
       {
         "p": 0.1685
@@ -81,7 +81,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.995
@@ -111,13 +111,13 @@
     "id": "KXONIONACT-30JAN01",
     "question": "Will the Onion Futures Act be repealed?: Will the Onion Futures Act be repealed before Jan 1, 2030?",
     "current_price": 0.295,
-    "volume": 373452,
-    "nexus_score": 23.5,
+    "volume": 373959,
+    "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.295
@@ -135,7 +135,7 @@
         "p": 0.295
       }
     ],
-    "c1": 0.3,
+    "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
     "c4": 11.0,
@@ -153,7 +153,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.35
@@ -191,7 +191,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.755
@@ -227,7 +227,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.365
@@ -236,7 +236,7 @@
         "p": 0.365
       },
       {
-        "p": 0.365
+        "p": 0.375
       },
       {
         "p": 0.37
@@ -263,7 +263,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.5685
@@ -299,7 +299,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.19
@@ -326,52 +326,16 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXGDPYEAR-35",
-    "question": "US real GDP growth in 2035?: GDP growth in 2035?",
-    "current_price": 0.135,
-    "volume": 157313,
-    "nexus_score": 23.4,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
-    "sparkline": [
-      {
-        "p": 0.14
-      },
-      {
-        "p": 0.14
-      },
-      {
-        "p": 0.14
-      },
-      {
-        "p": 0.135
-      },
-      {
-        "p": 0.135
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 11.3,
-    "slug": "KXGDPYEAR-35",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXPRIMEENGCONSUMPTION-30",
     "question": "What will be the largest source of global primary energy consumption in 2030?: What will be the largest source of global primary energy consumption in 2030?",
     "current_price": 0.655,
-    "volume": 157272,
+    "volume": 157335,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.655
@@ -398,6 +362,42 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXGDPYEAR-35",
+    "question": "US real GDP growth in 2035?: GDP growth in 2035?",
+    "current_price": 0.135,
+    "volume": 157313,
+    "nexus_score": 23.4,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-11-18T11:01:39Z",
+    "sparkline": [
+      {
+        "p": 0.14
+      },
+      {
+        "p": 0.14
+      },
+      {
+        "p": 0.135
+      },
+      {
+        "p": 0.135
+      },
+      {
+        "p": 0.135
+      }
+    ],
+    "c1": 0.0,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 11.3,
+    "slug": "KXGDPYEAR-35",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXGDPYEAR-33",
     "question": "US real GDP growth in 2033?: GDP growth in 2033?",
     "current_price": 0.165,
@@ -407,7 +407,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.155
@@ -416,7 +416,7 @@
         "p": 0.155
       },
       {
-        "p": 0.155
+        "p": 0.16
       },
       {
         "p": 0.16
@@ -443,7 +443,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.0645
@@ -479,7 +479,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.68
@@ -515,7 +515,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.195
@@ -551,7 +551,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.11
@@ -587,7 +587,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.0725
@@ -616,8 +616,8 @@
   {
     "id": "KXGTA6SONGS-30",
     "question": "Grand Theft Auto VI: Songs on radio at launch: :: Farruko",
-    "current_price": 0.795,
-    "volume": 121940,
+    "current_price": 0.77,
+    "volume": 122591,
     "nexus_score": 23.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -625,22 +625,22 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
-        "p": 0.79
+        "p": 0.795
       },
       {
-        "p": 0.765
-      },
-      {
-        "p": 0.78
+        "p": 0.77
       },
       {
         "p": 0.78
       },
       {
         "p": 0.795
+      },
+      {
+        "p": 0.77
       }
     ],
     "c1": 0.0,
@@ -661,7 +661,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.195
@@ -697,10 +697,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.1,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
-        "p": 0.675
+        "p": 0.68
       },
       {
         "p": 0.68
@@ -733,7 +733,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.555
@@ -769,7 +769,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.445
@@ -807,7 +807,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.125
@@ -816,7 +816,7 @@
         "p": 0.125
       },
       {
-        "p": 0.12
+        "p": 0.13
       },
       {
         "p": 0.13
@@ -845,7 +845,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.53
@@ -881,7 +881,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.695
@@ -890,7 +890,7 @@
         "p": 0.69
       },
       {
-        "p": 0.69
+        "p": 0.685
       },
       {
         "p": 0.685
@@ -919,7 +919,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.345
@@ -955,7 +955,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.1755
@@ -991,7 +991,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.235
@@ -1029,7 +1029,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.745
@@ -1065,7 +1065,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1101,7 +1101,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.5135
@@ -1137,7 +1137,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1173,7 +1173,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.21
@@ -1209,7 +1209,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.315
@@ -1245,7 +1245,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1283,13 +1283,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
-        "p": 0.485
+        "p": 0.44
       },
       {
-        "p": 0.4
+        "p": 0.415
       },
       {
         "p": 0.405
@@ -1322,7 +1322,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.22,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.41
@@ -1358,7 +1358,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1394,7 +1394,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.0595
@@ -1430,7 +1430,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1439,7 +1439,7 @@
         "p": 0.16
       },
       {
-        "p": 0.16
+        "p": 0.165
       },
       {
         "p": 0.165
@@ -1468,7 +1468,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.855
@@ -1504,7 +1504,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.81
@@ -1540,7 +1540,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.32
@@ -1576,7 +1576,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.0915
@@ -1612,7 +1612,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.3
@@ -1648,7 +1648,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.405
@@ -1686,7 +1686,7 @@
       "Correlated"
     ],
     "macro_sensitivity": 0.26,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.185
@@ -1722,7 +1722,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.695
@@ -1731,7 +1731,7 @@
         "p": 0.695
       },
       {
-        "p": 0.71
+        "p": 0.715
       },
       {
         "p": 0.715
@@ -1758,7 +1758,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1794,7 +1794,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-18T10:31:35Z",
+    "last_updated": "2026-11-18T11:01:39Z",
     "sparkline": [
       {
         "p": 0.295
