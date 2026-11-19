@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-19T10:31:21.563575Z",
+    "market_id": "KXGTA6SONGS-30",
+    "question": "Grand Theft Auto VI: Songs on radio at launch",
+    "from_regime": "Low Confidence",
+    "to_regime": "Volatile",
+    "metrics_snapshot": {
+      "nexus_score": 21.2
+    }
+  },
+  {
     "timestamp": "2026-11-19T02:01:33.513382Z",
     "market_id": "KXNEXTSPEAKER-31",
     "question": "Who will be the next Speaker of the House?",
@@ -487,16 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 18.7
-    }
-  },
-  {
-    "timestamp": "2026-11-06T18:01:46.192932Z",
-    "market_id": "KXOAIANTH-40",
-    "question": "Will OpenAI or Anthropic IPO first?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 13.3
     }
   }
 ]
