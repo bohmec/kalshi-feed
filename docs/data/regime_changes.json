@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-19T02:01:33.513382Z",
+    "market_id": "KXNEXTSPEAKER-31",
+    "question": "Who will be the next Speaker of the House?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 36.7
+    }
+  },
+  {
     "timestamp": "2026-11-18T15:01:24.406971Z",
     "market_id": "KXPERFORMBONDSONG-35",
     "question": "Next James Bond film: Artist performing the James Bond Theme",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 13.3
-    }
-  },
-  {
-    "timestamp": "2026-11-06T17:01:47.682953Z",
-    "market_id": "KXNEXTSPEAKER-31",
-    "question": "Who will be the next new Speaker of the House?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 18.4
     }
   }
 ]
