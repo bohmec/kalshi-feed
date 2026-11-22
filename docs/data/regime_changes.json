@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-22T20:31:56.095274Z",
+    "market_id": "KXPERSONPRESFUENTES-45",
+    "question": "Will Nick Fuentes become President of the United States before 2045?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 22.6
+    }
+  },
+  {
+    "timestamp": "2026-11-22T20:31:56.095274Z",
+    "market_id": "KXGERELECTION-29MAR25",
+    "question": "Next German federal election winner?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.9
+    }
+  },
+  {
     "timestamp": "2026-11-22T20:01:51.559766Z",
     "market_id": "KXINDIANPM-29APR30",
     "question": "Who will become Prime Minister of India after next general election?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 15.5
-    }
-  },
-  {
-    "timestamp": "2026-11-12T14:31:22.137096Z",
-    "market_id": "EVSHARE-30JAN",
-    "question": "EV market share in 2030?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 34.9
-    }
-  },
-  {
-    "timestamp": "2026-11-12T05:31:15.731072Z",
-    "market_id": "KXCEONVDA-01JAN33",
-    "question": "When will Jensen Huang leave as Nvidia CEO?",
-    "from_regime": "Volatile",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 19.0
     }
   }
 ]
