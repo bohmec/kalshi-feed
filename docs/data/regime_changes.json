@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-22T19:31:48.258431Z",
+    "market_id": "KXGDPYEAR-35",
+    "question": "US real GDP growth in 2035?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.4
+    }
+  },
+  {
     "timestamp": "2026-11-22T19:01:50.658599Z",
     "market_id": "KXINXPARTYCOMBO-30JAN",
     "question": "2029 S&P 500 change \u00d7 2028 winner",
@@ -487,16 +497,6 @@
     "to_regime": "Volatile",
     "metrics_snapshot": {
       "nexus_score": 18.8
-    }
-  },
-  {
-    "timestamp": "2026-11-08T18:31:41.577766Z",
-    "market_id": "KXNEWPOPE-70",
-    "question": "Who will the next Pope be?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.4
     }
   }
 ]
