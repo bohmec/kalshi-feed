@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-22T03:32:04.312254Z",
+    "market_id": "KXPNP-32",
+    "question": "When will P vs NP be resolved?",
+    "from_regime": "Volatile",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 16.2
+    }
+  },
+  {
     "timestamp": "2026-11-22T00:01:51.240250Z",
     "market_id": "KXGTA6SONGS-30",
     "question": "Grand Theft Auto VI: Songs on radio at launch",
@@ -487,16 +497,6 @@
     "to_regime": "Low Confidence",
     "metrics_snapshot": {
       "nexus_score": 16.4
-    }
-  },
-  {
-    "timestamp": "2026-11-08T04:31:48.290422Z",
-    "market_id": "KXGDPYEAR-32",
-    "question": "US real GDP growth in 2032?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 7.6
     }
   }
 ]
