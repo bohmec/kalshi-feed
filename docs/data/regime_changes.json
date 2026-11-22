@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-22T14:32:04.312872Z",
+    "market_id": "KXINDIANPM-29APR30",
+    "question": "Who will become Prime Minister of India after next general election?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 37.1
+    }
+  },
+  {
+    "timestamp": "2026-11-22T14:32:04.312872Z",
+    "market_id": "KXELONMARS-99",
+    "question": "Will Elon Musk visit Mars in his lifetime?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-11-22T14:02:00.279219Z",
     "market_id": "KXGDPYEAR-33",
     "question": "US real GDP growth in 2033?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 7.3
-    }
-  },
-  {
-    "timestamp": "2026-11-08T07:01:38.512563Z",
-    "market_id": "KXINDIANPM-29APR30",
-    "question": "Who will become Prime Minister of India after next general election?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 43.3
-    }
-  },
-  {
-    "timestamp": "2026-11-08T06:01:44.398355Z",
-    "market_id": "KXINDIANPM-29APR30",
-    "question": "Who will become Prime Minister of India after next general election?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 35.3
     }
   }
 ]
