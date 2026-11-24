@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-24T14:01:40.821979Z",
+    "market_id": "EUEXIT",
+    "question": "EU loses a member before 2030?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 34.2
+    }
+  },
+  {
+    "timestamp": "2026-11-24T14:01:40.821979Z",
+    "market_id": "KXNEXTTRILLIONAIRE-33",
+    "question": "Who will be the world's second trillionaire?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 11.1
+    }
+  },
+  {
+    "timestamp": "2026-11-24T14:01:40.821979Z",
+    "market_id": "KXGDPYEAR-36",
+    "question": "US real GDP growth in 2036?",
+    "from_regime": "Low Confidence",
+    "to_regime": "Macro-Driven",
+    "metrics_snapshot": {
+      "nexus_score": 10.3
+    }
+  },
+  {
     "timestamp": "2026-11-24T12:01:41.201029Z",
     "market_id": "KXPERFORMROLE007",
     "question": "Next James Bond film: Actress cast as a Bond girl",
@@ -467,36 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 31.9
-    }
-  },
-  {
-    "timestamp": "2026-11-14T13:01:56.952749Z",
-    "market_id": "KXGERELECTION-29MAR25",
-    "question": "Next German federal election winner?",
-    "from_regime": "Low Confidence",
-    "to_regime": "Macro-Driven",
-    "metrics_snapshot": {
-      "nexus_score": 16.8
-    }
-  },
-  {
-    "timestamp": "2026-11-14T11:31:02.655744Z",
-    "market_id": "AMAZONFTC-29DEC31",
-    "question": "Courts consider Amazon a monopoly?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 38.9
-    }
-  },
-  {
-    "timestamp": "2026-11-14T11:31:02.655744Z",
-    "market_id": "KXGERELECTION-29MAR25",
-    "question": "Next German federal election winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 23.6
     }
   }
 ]
