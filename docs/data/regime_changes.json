@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-25T03:01:48.410823Z",
+    "market_id": "KXNEXTISRAELPM-45JAN01",
+    "question": "Who will succeed Netanyahu as Prime Minister of Israel?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 24.0
+    }
+  },
+  {
+    "timestamp": "2026-11-25T03:01:48.410823Z",
+    "market_id": "KXPERSONPRESMAM-45",
+    "question": "Will Zohran Mamdani become President of the United States before Jan 22, 2045?",
+    "from_regime": "Macro-Driven",
+    "to_regime": "Low Confidence",
+    "metrics_snapshot": {
+      "nexus_score": 23.0
+    }
+  },
+  {
     "timestamp": "2026-11-25T01:32:14.409777Z",
     "market_id": "KXPERSONPRESMAM-45",
     "question": "Will Zohran Mamdani become President of the United States before Jan 22, 2045?",
@@ -477,26 +497,6 @@
     "to_regime": "Macro-Driven",
     "metrics_snapshot": {
       "nexus_score": 34.4
-    }
-  },
-  {
-    "timestamp": "2026-11-15T05:31:53.763210Z",
-    "market_id": "AMAZONFTC-29DEC31",
-    "question": "Courts consider Amazon a monopoly?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 40.1
-    }
-  },
-  {
-    "timestamp": "2026-11-14T18:02:02.294033Z",
-    "market_id": "KXGERELECTION-29MAR25",
-    "question": "Next German federal election winner?",
-    "from_regime": "Macro-Driven",
-    "to_regime": "Low Confidence",
-    "metrics_snapshot": {
-      "nexus_score": 22.5
     }
   }
 ]
