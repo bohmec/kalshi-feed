@@ -9,7 +9,7 @@
     "display_state": "Calibrating",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.9935
@@ -18,7 +18,7 @@
         "p": 0.9935
       },
       {
-        "p": 0.9935
+        "p": 0.9945
       },
       {
         "p": 0.993
@@ -40,15 +40,15 @@
     "question": "2030 FIFA World Cup Champion: Will Spain win the 2030 FIFA Men's World Cup?",
     "current_price": 0.1565,
     "volume": 1098454,
-    "nexus_score": 24.1,
+    "nexus_score": 24.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "macro_sensitivity": 0.01,
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.1555
+        "p": 0.155
       },
       {
         "p": 0.156
@@ -65,7 +65,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 100.0,
+    "c3": 99.3,
     "c4": 13.7,
     "slug": "KXWC-30",
     "platform": "kalshi",
@@ -81,7 +81,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.295
@@ -108,6 +108,44 @@
     "algorithm_version": "v6"
   },
   {
+    "id": "KXPNP-32",
+    "question": "When will P vs NP be resolved?: Will P vs NP be resolved before 2040?",
+    "current_price": 0.81,
+    "volume": 339660,
+    "nexus_score": 16.2,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [
+      "Contested"
+    ],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-11-26T20:31:52Z",
+    "sparkline": [
+      {
+        "p": 0.83
+      },
+      {
+        "p": 0.825
+      },
+      {
+        "p": 0.825
+      },
+      {
+        "p": 0.82
+      },
+      {
+        "p": 0.81
+      }
+    ],
+    "c1": 0.3,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 4.0,
+    "slug": "KXPNP-32",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
     "id": "KXAGICO-COMP",
     "question": "When will any company achieve AGI?: Will any company announce that it has achieved Artificial General Intelligence (AGI) before Jan 1, 2031?",
     "current_price": 0.755,
@@ -119,7 +157,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.755
@@ -146,54 +184,16 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXPNP-32",
-    "question": "When will P vs NP be resolved?: Will P vs NP be resolved before 2040?",
-    "current_price": 0.81,
-    "volume": 334096,
-    "nexus_score": 16.3,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [
-      "Contested"
-    ],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
-    "sparkline": [
-      {
-        "p": 0.835
-      },
-      {
-        "p": 0.825
-      },
-      {
-        "p": 0.825
-      },
-      {
-        "p": 0.81
-      },
-      {
-        "p": 0.81
-      }
-    ],
-    "c1": 0.3,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 4.0,
-    "slug": "KXPNP-32",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXTAIWANLVL4",
     "question": "Will the US issue a Level 4 travel advisory for Taiwan?: Will the U.S. State Department issue a Level 4 warning for Taiwan before Jan 1, 2030?",
     "current_price": 0.365,
     "volume": 323585,
-    "nexus_score": 22.0,
+    "nexus_score": 22.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.365
@@ -214,7 +214,7 @@
     "c1": 0.0,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 6.7,
+    "c4": 7.3,
     "slug": "KXTAIWANLVL4",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -229,10 +229,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.405
+        "p": 0.43
       },
       {
         "p": 0.405
@@ -265,7 +265,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.5515
@@ -301,7 +301,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.275
@@ -337,7 +337,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.68
@@ -375,7 +375,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.145
@@ -413,10 +413,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.15
+        "p": 0.11
       },
       {
         "p": 0.15
@@ -449,7 +449,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.0645
@@ -479,16 +479,16 @@
     "id": "KXNEXTISRAELPM-45JAN01",
     "question": "Who will succeed Netanyahu as Prime Minister of Israel?: ::",
     "current_price": 0.835,
-    "volume": 151750,
+    "volume": 151756,
     "nexus_score": 23.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.7
+        "p": 0.695
       },
       {
         "p": 0.705
@@ -523,7 +523,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.315
@@ -559,10 +559,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.125
+        "p": 0.165
       },
       {
         "p": 0.125
@@ -595,7 +595,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.115
@@ -631,7 +631,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.073
@@ -667,7 +667,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.26
@@ -703,7 +703,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.68
@@ -739,7 +739,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.555
@@ -775,7 +775,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.445
@@ -813,10 +813,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.145
+        "p": 0.115
       },
       {
         "p": 0.135
@@ -849,7 +849,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.355
@@ -885,10 +885,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.04,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.545
+        "p": 0.46
       },
       {
         "p": 0.545
@@ -921,7 +921,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.685
@@ -957,7 +957,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.1815
@@ -966,10 +966,10 @@
         "p": 0.21
       },
       {
-        "p": 0.2075
+        "p": 0.2005
       },
       {
-        "p": 0.1865
+        "p": 0.2
       },
       {
         "p": 0.1955
@@ -995,7 +995,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.795
@@ -1031,10 +1031,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.275
+        "p": 0.44
       },
       {
         "p": 0.275
@@ -1067,7 +1067,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1103,7 +1103,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.5115
@@ -1139,7 +1139,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1175,10 +1175,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.16
+        "p": 0.5
       },
       {
         "p": 0.16
@@ -1213,7 +1213,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.03,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1249,13 +1249,13 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.205
       },
       {
-        "p": 0.175
+        "p": 0.18
       },
       {
         "p": 0.18
@@ -1285,7 +1285,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.33
@@ -1321,7 +1321,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1341,7 +1341,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 98.7,
+    "c3": 98.0,
     "c4": 9.0,
     "slug": "KXPERSONPRESMAM-45",
     "platform": "kalshi",
@@ -1357,10 +1357,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.135
+        "p": 0.104
       },
       {
         "p": 0.135
@@ -1393,7 +1393,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1431,7 +1431,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1469,10 +1469,10 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.855
+        "p": 0.86
       },
       {
         "p": 0.86
@@ -1505,7 +1505,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.29
@@ -1541,7 +1541,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.815
@@ -1572,15 +1572,15 @@
     "question": "EU loses a member before 2030?: By 2030",
     "current_price": 0.088,
     "volume": 35506,
-    "nexus_score": 43.2,
+    "nexus_score": 43.1,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.088
+        "p": 0.093
       },
       {
         "p": 0.088
@@ -1613,10 +1613,10 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
-        "p": 0.305
+        "p": 0.3
       },
       {
         "p": 0.305
@@ -1651,13 +1651,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.02,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.56
       },
       {
-        "p": 0.56
+        "p": 0.565
       },
       {
         "p": 0.565
@@ -1671,7 +1671,7 @@
     ],
     "c1": 50.3,
     "c2": 0.0,
-    "c3": 98.7,
+    "c3": 98.0,
     "c4": 9.7,
     "slug": "KXNCAAFCOACHLEAVE-26BBEL",
     "platform": "kalshi",
@@ -1687,7 +1687,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.41
@@ -1723,7 +1723,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.215
@@ -1759,7 +1759,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.72
@@ -1790,14 +1790,14 @@
     "question": "Will humans colonize Mars before 2050?: Will humans colonize Mars before 2050?",
     "current_price": 0.275,
     "volume": 30767,
-    "nexus_score": 36.7,
+    "nexus_score": 36.6,
     "market_state": "Macro-Driven",
     "display_state": "Calibrating",
     "flags": [
       "Correlated"
     ],
-    "macro_sensitivity": 0.31,
-    "last_updated": "2026-11-26T20:01:49Z",
+    "macro_sensitivity": 0.32,
+    "last_updated": "2026-11-26T20:31:52Z",
     "sparkline": [
       {
         "p": 0.275
@@ -1817,7 +1817,7 @@
     ],
     "c1": 50.0,
     "c2": 9.0,
-    "c3": 69.3,
+    "c3": 68.0,
     "c4": 8.0,
     "slug": "KXCOLONIZEMARS-50",
     "platform": "kalshi",
