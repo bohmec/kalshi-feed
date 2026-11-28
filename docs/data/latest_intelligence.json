@@ -9,7 +9,7 @@
     "display_state": "Calibrating",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.993
@@ -38,14 +38,14 @@
   {
     "id": "KXWC-30",
     "question": "2030 FIFA World Cup Champion: Will Spain win the 2030 FIFA Men's World Cup?",
-    "current_price": 0.1565,
+    "current_price": 0.1555,
     "volume": 1098902,
     "nexus_score": 24.2,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.1565
@@ -60,7 +60,7 @@
         "p": 0.1565
       },
       {
-        "p": 0.1565
+        "p": 0.1555
       }
     ],
     "c1": 0.0,
@@ -68,6 +68,44 @@
     "c3": 100.0,
     "c4": 14.0,
     "slug": "KXWC-30",
+    "platform": "kalshi",
+    "algorithm_version": "v6"
+  },
+  {
+    "id": "KXPNP-32",
+    "question": "When will P vs NP be resolved?: Will P vs NP be resolved before 2040?",
+    "current_price": 0.85,
+    "volume": 389258,
+    "nexus_score": 22.4,
+    "market_state": "Low Confidence",
+    "display_state": "Fragile",
+    "flags": [
+      "Contested"
+    ],
+    "macro_sensitivity": 0.0,
+    "last_updated": "2026-11-28T15:32:01Z",
+    "sparkline": [
+      {
+        "p": 0.85
+      },
+      {
+        "p": 0.855
+      },
+      {
+        "p": 0.85
+      },
+      {
+        "p": 0.855
+      },
+      {
+        "p": 0.85
+      }
+    ],
+    "c1": 0.3,
+    "c2": 0.0,
+    "c3": 100.0,
+    "c4": 8.0,
+    "slug": "KXPNP-32",
     "platform": "kalshi",
     "algorithm_version": "v6"
   },
@@ -81,7 +119,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.295
@@ -108,44 +146,6 @@
     "algorithm_version": "v6"
   },
   {
-    "id": "KXPNP-32",
-    "question": "When will P vs NP be resolved?: Will P vs NP be resolved before 2040?",
-    "current_price": 0.855,
-    "volume": 373831,
-    "nexus_score": 22.5,
-    "market_state": "Low Confidence",
-    "display_state": "Fragile",
-    "flags": [
-      "Contested"
-    ],
-    "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
-    "sparkline": [
-      {
-        "p": 0.85
-      },
-      {
-        "p": 0.85
-      },
-      {
-        "p": 0.855
-      },
-      {
-        "p": 0.855
-      },
-      {
-        "p": 0.855
-      }
-    ],
-    "c1": 0.0,
-    "c2": 0.0,
-    "c3": 100.0,
-    "c4": 8.0,
-    "slug": "KXPNP-32",
-    "platform": "kalshi",
-    "algorithm_version": "v6"
-  },
-  {
     "id": "KXAGICO-COMP",
     "question": "When will any company achieve AGI?: Will any company announce that it has achieved Artificial General Intelligence (AGI) before Jan 1, 2031?",
     "current_price": 0.755,
@@ -157,7 +157,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.755
@@ -193,7 +193,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.365
@@ -229,7 +229,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.405
@@ -265,7 +265,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.5515
@@ -303,7 +303,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.315
@@ -339,7 +339,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.195
@@ -348,7 +348,7 @@
         "p": 0.185
       },
       {
-        "p": 0.19
+        "p": 0.195
       },
       {
         "p": 0.19
@@ -375,7 +375,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.68
@@ -413,7 +413,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.15
@@ -451,7 +451,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.14
@@ -460,7 +460,7 @@
         "p": 0.13
       },
       {
-        "p": 0.175
+        "p": 0.15
       },
       {
         "p": 0.15
@@ -487,7 +487,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.815
@@ -523,7 +523,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.065
@@ -559,7 +559,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.125
@@ -595,7 +595,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.11
@@ -631,7 +631,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.0725
@@ -667,7 +667,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.27
@@ -703,7 +703,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.675
@@ -739,7 +739,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.555
@@ -775,7 +775,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.445
@@ -804,7 +804,7 @@
   {
     "id": "KXGDPYEAR-32",
     "question": "US real GDP growth in 2032?: GDP growth in 2032?",
-    "current_price": 0.135,
+    "current_price": 0.155,
     "volume": 79473,
     "nexus_score": 23.6,
     "market_state": "Low Confidence",
@@ -813,12 +813,9 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
-        "p": 0.13
-      },
-      {
         "p": 0.135
       },
       {
@@ -829,6 +826,9 @@
       },
       {
         "p": 0.135
+      },
+      {
+        "p": 0.155
       }
     ],
     "c1": 0.0,
@@ -843,7 +843,7 @@
     "id": "KXTIMEDECADE20S-30",
     "question": "Time's Person of the Decade: Who will Time name as Person of the Decade?",
     "current_price": 0.35,
-    "volume": 69328,
+    "volume": 69341,
     "nexus_score": 23.7,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -851,7 +851,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.35
@@ -887,7 +887,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.55
@@ -923,7 +923,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.685
@@ -959,7 +959,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.211
@@ -989,7 +989,7 @@
     "id": "KXFUSION",
     "question": "When will nuclear fusion be achieved?: When will nuclear fusion be achieved?",
     "current_price": 0.641,
-    "volume": 62832,
+    "volume": 62834,
     "nexus_score": 22.5,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
@@ -997,13 +997,13 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
-        "p": 0.634
+        "p": 0.6405
       },
       {
-        "p": 0.636
+        "p": 0.639
       },
       {
         "p": 0.641
@@ -1033,7 +1033,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.27
@@ -1042,7 +1042,7 @@
         "p": 0.27
       },
       {
-        "p": 0.255
+        "p": 0.265
       },
       {
         "p": 0.27
@@ -1069,7 +1069,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.205
@@ -1107,7 +1107,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.835
@@ -1143,7 +1143,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.519
@@ -1179,7 +1179,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.125
@@ -1215,7 +1215,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.16
@@ -1253,7 +1253,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.22
@@ -1284,12 +1284,12 @@
     "question": "Who will be the world's second trillionaire?: Will Jeff Bezos be the world's second trillionaire?",
     "current_price": 0.2,
     "volume": 47615,
-    "nexus_score": 23.5,
+    "nexus_score": 23.4,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
-    "macro_sensitivity": 0.01,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "macro_sensitivity": 0.02,
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.2
@@ -1309,7 +1309,7 @@
     ],
     "c1": 0.0,
     "c2": 0.0,
-    "c3": 99.3,
+    "c3": 98.0,
     "c4": 12.0,
     "slug": "KXNEXTTRILLIONAIRE-33",
     "platform": "kalshi",
@@ -1325,7 +1325,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.325
@@ -1334,7 +1334,7 @@
         "p": 0.325
       },
       {
-        "p": 0.33
+        "p": 0.325
       },
       {
         "p": 0.325
@@ -1361,7 +1361,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.13
@@ -1397,7 +1397,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.135
@@ -1433,7 +1433,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.0605
@@ -1464,12 +1464,12 @@
     "question": "US real GDP growth in 2030?: 2.6 to 3.0",
     "current_price": 0.15,
     "volume": 40163,
-    "nexus_score": 44.1,
+    "nexus_score": 44.0,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.15
@@ -1507,7 +1507,7 @@
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.85
@@ -1543,7 +1543,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.29
@@ -1579,7 +1579,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.82
@@ -1615,7 +1615,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.305
@@ -1651,7 +1651,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.082
@@ -1679,38 +1679,38 @@
   },
   {
     "id": "KXNCAAFCOACHLEAVE-26BBEL",
-    "question": "When will Bill Belichick leave North Carolina?: Bill Belichick out before Jan 1, 2028",
-    "current_price": 0.565,
-    "volume": 33336,
-    "nexus_score": 38.1,
+    "question": "When will Bill Belichick leave North Carolina?: Bill Belichick out before Feb 1, 2027",
+    "current_price": 0.58,
+    "volume": 33351,
+    "nexus_score": 37.9,
     "market_state": "Low Confidence",
     "display_state": "Fragile",
     "flags": [
       "Contested"
     ],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
-        "p": 0.57
+        "p": 0.56
       },
       {
         "p": 0.57
       },
       {
-        "p": 0.575
+        "p": 0.545
       },
       {
-        "p": 0.575
+        "p": 0.58
       },
       {
-        "p": 0.565
+        "p": 0.58
       }
     ],
     "c1": 50.3,
     "c2": 0.0,
     "c3": 100.0,
-    "c4": 10.0,
+    "c4": 9.7,
     "slug": "KXNCAAFCOACHLEAVE-26BBEL",
     "platform": "kalshi",
     "algorithm_version": "v6"
@@ -1725,7 +1725,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.41
@@ -1761,7 +1761,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.21
@@ -1797,7 +1797,7 @@
     "display_state": "Fragile",
     "flags": [],
     "macro_sensitivity": 0.0,
-    "last_updated": "2026-11-28T15:01:58Z",
+    "last_updated": "2026-11-28T15:32:01Z",
     "sparkline": [
       {
         "p": 0.73
@@ -1806,7 +1806,7 @@
         "p": 0.73
       },
       {
-        "p": 0.73
+        "p": 0.735
       },
       {
         "p": 0.735
